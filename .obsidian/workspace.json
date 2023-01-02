@@ -11,8 +11,13 @@
             "id": "4b2a49477cec6aac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "毎のノート/2023-01-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "毎のノート/2023-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "毎のノート/2023-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "毎のノート/2023-01-02.md"
+              }
             }
           },
           {
@@ -136,9 +145,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "d9f155e24ccc6cb3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -160,9 +177,9 @@
   },
   "active": "4b2a49477cec6aac",
   "lastOpenFiles": [
+    "数学のノート/代数２/多項式/二次数式.md",
     "Excalidraw/Drawing 2023-01-02 23.36.31.excalidraw.md",
     "毎のノート/2023-01-02.md",
-    "数学のノート/代数２/多項式/二次数式.md",
     "Excalidraw/Drawing 2023-01-02 23.37.23.excalidraw.md",
     "Excalidraw/Drawing 2023-01-02 23.37.24.excalidraw.md",
     "Recording 20230102015338.webm",
