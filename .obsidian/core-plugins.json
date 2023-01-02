@@ -21,7 +21,5 @@
   "word-count",
   "slides",
   "audio-recorder",
-  "file-recovery",
-  "publish",
-  "sync"
+  "file-recovery"
 ]

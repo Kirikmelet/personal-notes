@@ -1,6 +1,8 @@
 [
-  "obsidian-git",
   "calendar",
+  "obsidian-enhancing-export",
+  "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-enhancing-export"
+  "obsidian-dictionary-plugin",
+  "obsidian-excalidraw-plugin"
 ]

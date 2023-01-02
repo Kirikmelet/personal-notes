@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "theme": "system",
-  "textFontFamily": "UD Digi Kyokasho N-R,Yu Mincho",
+  "textFontFamily": "UD Digi Kyokasho NP-R",
+  "interfaceFontFamily": "UD Digi Kyokasho NK-R",
+  "baseFontSizeAction": true,
   "monospaceFontFamily": "BlexMono NFM"
 }
