@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1535b22137b74739",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毎のノート/2023-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毎のノート/2023-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "毎のノート/2023-01-02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,15 +180,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4b2a49477cec6aac",
+  "active": "1535b22137b74739",
   "lastOpenFiles": [
-    "数学のノート/代数２/多項式/二次数式.md",
-    "Drawing 2023-01-02 23.36.31.excalidraw.md",
+    "202301032155.md",
+    "毎のノート/2023-01-03.md",
+    "202301032100.md",
     "毎のノート/2023-01-02.md",
+    "数学のノート/代数２/多項式/二次数式.md",
+    "テンプレート/毎日日記のテンプレート.md",
+    "Drawing 2023-01-02 23.36.31.excalidraw.md",
     "Excalidraw/Drawing 2023-01-02 23.36.31.excalidraw.md",
     "Excalidraw/Drawing 2023-01-02 23.37.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-02 23.37.24.excalidraw.md",
-    "Recording 20230102015338.webm",
-    "Untitled.canvas"
+    "Excalidraw/Drawing 2023-01-02 23.37.24.excalidraw.md"
   ]
 }

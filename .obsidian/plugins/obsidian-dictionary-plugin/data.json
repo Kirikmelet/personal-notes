@@ -3,7 +3,7 @@
   "defaultLanguage": "ja",
   "normalLang": "ja",
   "shouldShowSynonymPopover": true,
-  "shouldShowCustomContextMenu": false,
+  "shouldShowCustomContextMenu": true,
   "apiSettings": {
     "en_US": {
       "definitionApiName": "Free Dictionary API",
