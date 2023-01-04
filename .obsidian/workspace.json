@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b2a49477cec6aac",
+            "id": "1535b22137b74739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毎のノート/2023-01-02.md",
+                "file": "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,15 +21,32 @@
             }
           },
           {
-            "id": "1535b22137b74739",
+            "id": "5efc2cb81ff36c75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日本語勉強と言葉/言葉/突破.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e07e9d98f22445c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md"
+              }
             }
           },
           {
@@ -182,15 +203,15 @@
   },
   "active": "1535b22137b74739",
   "lastOpenFiles": [
-    "202301032155.md",
-    "毎のノート/2023-01-03.md",
-    "202301032100.md",
-    "毎のノート/2023-01-02.md",
+    "毎のノート/2023-01-04.md",
+    "Untitled.md",
+    "日本語勉強と言葉/言葉/突破.md",
+    "日本語勉強と言葉/言葉/敵.md",
+    "数学のノート/代数２/多項式/複素数.md",
     "数学のノート/代数２/多項式/二次数式.md",
-    "テンプレート/毎日日記のテンプレート.md",
-    "Drawing 2023-01-02 23.36.31.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-02 23.36.31.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-02 23.37.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-02 23.37.24.excalidraw.md"
+    "毎のノート/2023-01-03.md",
+    "毎のノート/2023-01-02.md",
+    "Drawing 2023-01-03 22.39.31.excalidraw.png.md",
+    "Excalidraw/Drawing 2023-01-03 22.39.31.excalidraw.png"
   ]
 }

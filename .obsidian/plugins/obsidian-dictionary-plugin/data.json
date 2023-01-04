@@ -1,7 +1,7 @@
 {
-  "getLangFromFile": false,
-  "defaultLanguage": "ja",
-  "normalLang": "ja",
+  "getLangFromFile": true,
+  "defaultLanguage": "de",
+  "normalLang": "de",
   "shouldShowSynonymPopover": true,
   "shouldShowCustomContextMenu": true,
   "apiSettings": {
@@ -34,8 +34,8 @@
       "synonymApiName": null
     },
     "de": {
-      "definitionApiName": "Free Dictionary API",
-      "synonymApiName": "Open Thesaurus"
+      "definitionApiName": "Google",
+      "synonymApiName": "Google"
     },
     "it": {
       "definitionApiName": "Free Dictionary API",
