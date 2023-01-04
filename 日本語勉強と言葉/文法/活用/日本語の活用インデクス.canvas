@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9e4f447f040326dd","x":-124,"y":-541,"width":250,"height":60,"type":"text","text":"日本語の活用インデクス"},
+		{"id":"18a7edd2e01707ef","x":-496,"y":-329,"width":400,"height":400,"type":"file","file":"日本語勉強と言葉/文法/活用/「～て」活用形.md"}
+	],
+	"edges":[
+		{"id":"3a6f362e6a196218","fromNode":"9e4f447f040326dd","fromSide":"bottom","toNode":"18a7edd2e01707ef","toSide":"right"}
+	]
+}

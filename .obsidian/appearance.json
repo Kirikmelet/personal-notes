@@ -1,11 +1,11 @@
 {
   "accentColor": "#7a92f0",
-  "textFontFamily": "UD Digi Kyokasho NP-R",
-  "interfaceFontFamily": "UD Digi Kyokasho NP-R",
+  "textFontFamily": "小瀬フォントＰ ＪＰ",
+  "interfaceFontFamily": "小瀬フォントＰ ＪＰ",
   "baseFontSizeAction": true,
   "monospaceFontFamily": "BlexMono NFM",
   "cssTheme": "Prism",
-  "theme": "moonstone",
+  "theme": "system",
   "baseFontSize": 16,
   "nativeMenus": false,
   "translucency": false

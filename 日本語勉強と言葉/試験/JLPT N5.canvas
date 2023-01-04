@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a6b152299455f1a7","x":-386,"y":-398,"width":250,"height":60,"type":"text","text":"JLPTN5勉強の虎の巻"},
+		{"id":"41c110576d493245","x":-636,"y":-132,"width":250,"height":60,"color":"4","type":"text","text":"漢字と単語"},
+		{"id":"c4cbf8934bd9fcb8","x":-136,"y":-132,"width":250,"height":60,"color":"2","type":"text","text":"文法"},
+		{"id":"a9d89fc9d562c673","x":-911,"y":60,"width":400,"height":140,"type":"file","file":"日本語勉強と言葉/言葉/読(む).md"},
+		{"id":"43706b148d77f3d7","x":-261,"y":60,"width":400,"height":400,"type":"file","file":"日本語勉強と言葉/文法/活用/日本語の活用インデクス.canvas"}
+	],
+	"edges":[
+		{"id":"2ef93ece3883d175","fromNode":"41c110576d493245","fromSide":"top","toNode":"a6b152299455f1a7","toSide":"bottom"},
+		{"id":"d58cff22bceee1ad","fromNode":"c4cbf8934bd9fcb8","fromSide":"top","toNode":"a6b152299455f1a7","toSide":"bottom"},
+		{"id":"4194cf75e37f219f","fromNode":"a9d89fc9d562c673","fromSide":"right","toNode":"41c110576d493245","toSide":"bottom"},
+		{"id":"76896c05fd350642","fromNode":"43706b148d77f3d7","fromSide":"top","toNode":"c4cbf8934bd9fcb8","toSide":"bottom"}
+	]
+}
