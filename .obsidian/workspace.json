@@ -4,79 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a7bb14ffe20a947c",
+        "id": "adc161a1cfef5ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "0e07e9d98f22445c",
+            "id": "b6b251194385d30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語勉強と言葉/言葉/練習問題.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dcc9815640b9073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毎のノート/2023-01-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e64e04a630744d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "日本語勉強と言葉/試験/JLPT N5.canvas",
-                "viewState": {
-                  "x": -478,
-                  "y": -16,
-                  "zoom": 0,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "424ce6904530210f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語勉強と言葉/文法/活用/「～て」活用形.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f37bebc12f62aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語勉強と言葉/文法/活用/「～ます」活用形・丁寧語形.md",
+                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語勉強と言葉/文法/活用/「～ます」活用形・丁寧語形.md",
+                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語勉強と言葉/文法/活用/「～ます」活用形・丁寧語形.md",
+                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語勉強と言葉/文法/活用/「～ます」活用形・丁寧語形.md"
+                "file": "数学のノート/代数２/多項式/多項式の因数分解.md"
               }
             }
           },
@@ -231,17 +175,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "37f37bebc12f62aa",
+  "active": "b6b251194385d30b",
   "lastOpenFiles": [
-    "日本語勉強と言葉/文法/活用/「～て」活用形.md",
-    "日本語勉強と言葉/文法/活用/「～ます」活用形・丁寧語形.md",
-    "日本語勉強と言葉/文法/活用/日本語の活用インデクス.canvas",
-    "日本語勉強と言葉/試験/JLPT N5.canvas",
+    "毎日のノート/2023-01-12.md",
+    "毎日のノート/2023-01-08.md",
+    "日本語勉強と言葉/言葉/練習問題.md",
     "日本語勉強と言葉/日本語勉強のノートインデクス.md",
     "日本語勉強と言葉/言葉/読(む).md",
-    "日本語勉強と言葉/言葉/練習問題.md",
-    "毎のノート/2023-01-04.md",
-    "日本語勉強と言葉/試験/Untitled.md",
-    "Excalidraw/読む.excalidraw.md"
+    "日本語勉強と言葉/言葉/突破.md",
+    "日本語勉強と言葉/言葉/数学.md",
+    "日本語勉強と言葉/言葉/敵.md",
+    "毎日のノート/2023-01-07.md",
+    "テンプレート/毎日日記のテンプレート.md"
   ]
 }
