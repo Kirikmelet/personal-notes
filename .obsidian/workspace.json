@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "adc161a1cfef5ac9",
+        "id": "e5abcb7cc98ea3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b251194385d30b",
+            "id": "679960e1e5e52ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
+                "file": "数学のノート/代数２/多項式/複素数.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "69820bbac9f3bbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学のノート/代数２/多項式/二次パターン.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25ef860162bdcc64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学のノート/代数２/多項式/二次パターン.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
+                "file": "数学のノート/代数２/多項式/二次パターン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の因数分解.md",
+                "file": "数学のノート/代数２/多項式/二次パターン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の因数分解.md"
+                "file": "数学のノート/代数２/多項式/二次パターン.md"
               }
             }
           },
@@ -175,17 +202,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b6b251194385d30b",
+  "active": "25ef860162bdcc64",
   "lastOpenFiles": [
-    "毎日のノート/2023-01-12.md",
-    "毎日のノート/2023-01-08.md",
-    "日本語勉強と言葉/言葉/練習問題.md",
+    "毎日のノート/2023-01-16.md",
+    "数学のノート/代数２/多項式/二次数式.md",
+    "数学のノート/代数２/多項式/二次パターン.md",
+    "数学のノート/代数２/多項式/複素数.md",
+    "数学のノート/代数２/多項式/整式.md",
+    "数学のノート/代数２/多項式/因数分解.md",
+    "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
     "日本語勉強と言葉/日本語勉強のノートインデクス.md",
-    "日本語勉強と言葉/言葉/読(む).md",
-    "日本語勉強と言葉/言葉/突破.md",
-    "日本語勉強と言葉/言葉/数学.md",
-    "日本語勉強と言葉/言葉/敵.md",
-    "毎日のノート/2023-01-07.md",
-    "テンプレート/毎日日記のテンプレート.md"
+    "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
+    "日本語勉強と言葉/言葉/読(む).md"
   ]
 }

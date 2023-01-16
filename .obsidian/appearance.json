@@ -1,12 +1,8 @@
 {
-  "accentColor": "#7a92f0",
-  "textFontFamily": "小瀬フォントＰ ＪＰ",
-  "interfaceFontFamily": "小瀬フォントＰ ＪＰ",
-  "baseFontSizeAction": true,
-  "monospaceFontFamily": "BlexMono NFM",
-  "cssTheme": "Prism",
+  "accentColor": "",
   "theme": "system",
-  "baseFontSize": 16,
-  "nativeMenus": false,
+  "cssTheme": "Wikipedia",
+  "baseFontSize": 20,
+  "textFontFamily": "",
   "translucency": false
 }
