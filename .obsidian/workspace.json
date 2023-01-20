@@ -4,50 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "e5abcb7cc98ea3c5",
+        "id": "5d5ddf3fcb08608b",
         "type": "tabs",
         "children": [
           {
-            "id": "679960e1e5e52ea1",
+            "id": "ccde81e4a30e5e98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学のノート/代数２/多項式/複素数.md",
+                "file": "日本語勉強と言葉/言葉/防衛線.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
-          },
+            },
+            "group": "595c604961d6ade1"
+          }
+        ]
+      },
+      {
+        "id": "2f785869d29d90c1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "69820bbac9f3bbd8",
+            "id": "dc8ab205ab9623c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学のノート/代数２/多項式/二次パターン.md",
+                "file": "日本語勉強と言葉/言葉/防衛線.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
-            }
-          },
-          {
-            "id": "25ef860162bdcc64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学のノート/代数２/多項式/二次パターン.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
+            },
+            "group": "595c604961d6ade1"
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line([[)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学のノート/代数２/多項式/二次パターン.md",
+                "file": "日本語勉強と言葉/言葉/防衛線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学のノート/代数２/多項式/二次パターン.md",
+                "file": "日本語勉強と言葉/言葉/防衛線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学のノート/代数２/多項式/二次パターン.md"
+                "file": "日本語勉強と言葉/言葉/防衛線.md"
               }
             }
           },
@@ -182,11 +177,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,17 +198,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "25ef860162bdcc64",
+  "active": "d9f155e24ccc6cb3",
   "lastOpenFiles": [
-    "毎日のノート/2023-01-16.md",
-    "数学のノート/代数２/多項式/二次数式.md",
+    "日本語勉強と言葉/言葉/読(む).md",
+    "テンプレート/日本語の単語記入のテンプレート.md",
+    "日本語勉強と言葉/言葉/Untitled.md",
+    "日本語勉強と言葉/言葉/練習問題.md",
     "数学のノート/代数２/多項式/二次パターン.md",
-    "数学のノート/代数２/多項式/複素数.md",
-    "数学のノート/代数２/多項式/整式.md",
-    "数学のノート/代数２/多項式/因数分解.md",
-    "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
-    "日本語勉強と言葉/日本語勉強のノートインデクス.md",
-    "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
-    "日本語勉強と言葉/言葉/読(む).md"
+    "数学のノート/代数２/多項式/二次数式.md",
+    "数学のノート/代数２/多項式/代入によって因数分解.md",
+    "毎日のノート/2023-01-20.md",
+    "毎日のノート/2023-01-19.md",
+    "毎日のノート/2023-01-17.md"
   ]
 }

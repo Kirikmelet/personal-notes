@@ -1,8 +1,10 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Wikipedia",
+  "cssTheme": "Typewriter",
   "baseFontSize": 20,
-  "textFontFamily": "",
-  "translucency": false
+  "textFontFamily": "小賴字體 SC,Yu Mincho",
+  "translucency": false,
+  "interfaceFontFamily": "Yu Mincho",
+  "showViewHeader": true
 }
