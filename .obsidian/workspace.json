@@ -4,44 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5ddf3fcb08608b",
+        "id": "049200485f1efac5",
         "type": "tabs",
         "children": [
           {
-            "id": "ccde81e4a30e5e98",
+            "id": "aee623f61636a865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語勉強と言葉/言葉/防衛線.md",
+                "file": "数学のノート/代数２/多項式/代入によって因数分解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "595c604961d6ade1"
-          }
-        ]
-      },
-      {
-        "id": "2f785869d29d90c1",
-        "type": "tabs",
-        "children": [
+            "group": "369d49b99e816e03"
+          },
           {
-            "id": "dc8ab205ab9623c8",
+            "id": "cba1c021d7c2f004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語勉強と言葉/言葉/防衛線.md",
+                "file": "毎日のノート/2023-01-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "8eb594d8bb98fe77"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6cfd484413a2de77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2855e748ad046e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学のノート/代数２/多項式/代入によって因数分解.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             },
-            "group": "595c604961d6ade1"
+            "group": "369d49b99e816e03"
+          },
+          {
+            "id": "133e36797102b730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毎日のノート/2023-01-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "8eb594d8bb98fe77"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語勉強と言葉/言葉/防衛線.md",
+                "file": "毎日のノート/2023-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語勉強と言葉/言葉/防衛線.md",
+                "file": "毎日のノート/2023-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語勉強と言葉/言葉/防衛線.md"
+                "file": "毎日のノート/2023-01-23.md"
               }
             }
           },
@@ -198,17 +227,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d9f155e24ccc6cb3",
+  "active": "133e36797102b730",
   "lastOpenFiles": [
-    "日本語勉強と言葉/言葉/読(む).md",
-    "テンプレート/日本語の単語記入のテンプレート.md",
-    "日本語勉強と言葉/言葉/Untitled.md",
-    "日本語勉強と言葉/言葉/練習問題.md",
     "数学のノート/代数２/多項式/二次パターン.md",
-    "数学のノート/代数２/多項式/二次数式.md",
     "数学のノート/代数２/多項式/代入によって因数分解.md",
+    "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
+    "日本語勉強と言葉/言葉/Untitled.md",
     "毎日のノート/2023-01-20.md",
-    "毎日のノート/2023-01-19.md",
-    "毎日のノート/2023-01-17.md"
+    "日本語勉強と言葉/日本語勉強のノートインデクス.md",
+    "日本語勉強と言葉/言葉/数学.md",
+    "中文筆記本/中文辭書索引.md",
+    "テンプレート/日本語の単語記入のテンプレート.md",
+    "Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md"
   ]
 }
