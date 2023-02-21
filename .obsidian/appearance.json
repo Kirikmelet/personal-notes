@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Typewriter",
-  "baseFontSize": 20,
-  "textFontFamily": "",
+  "cssTheme": "Minimal",
+  "baseFontSize": 24,
+  "textFontFamily": "小賴字體 SC,小瀬フォントＰ ＪＰ",
   "translucency": false,
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "小賴字體 SC,小瀬フォントＰ ＪＰ",
   "showViewHeader": true
 }
