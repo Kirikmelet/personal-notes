@@ -3,8 +3,8 @@
   "theme": "system",
   "cssTheme": "Typewriter",
   "baseFontSize": 20,
-  "textFontFamily": "小賴字體 SC,Yu Mincho",
+  "textFontFamily": "",
   "translucency": false,
-  "interfaceFontFamily": "Yu Mincho",
+  "interfaceFontFamily": "",
   "showViewHeader": true
 }
