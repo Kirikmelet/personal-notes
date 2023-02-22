@@ -3,8 +3,9 @@
   "theme": "system",
   "cssTheme": "Minimal",
   "baseFontSize": 24,
-  "textFontFamily": "小賴字體 SC,小瀬フォントＰ ＪＰ",
+  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC",
   "translucency": false,
-  "interfaceFontFamily": "小賴字體 SC,小瀬フォントＰ ＪＰ",
-  "showViewHeader": true
+  "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC",
+  "showViewHeader": true,
+  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC"
 }

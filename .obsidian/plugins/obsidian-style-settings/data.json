@@ -12,5 +12,16 @@
   "typomagical-text@@body-weight": 400,
   "shiba-theme-settings@@shiba-colors-theme-light": "sutone-light",
   "shiba-theme-settings@@shiba-accent-style": true,
-  "shiba-theme-settings@@shiba-accent-colors": "accent-turquoise"
+  "shiba-theme-settings@@shiba-accent-colors": "accent-turquoise",
+  "typomagical-title@@font-title": "Amiri",
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@color-accent-rgb-l": "92, 153, 124",
+  "sanctum@@code-lines": true,
+  "sanctum@@code-label": true,
+  "sanctum@@code-border": true,
+  "sanctum@@syntax-highlighting": "material",
+  "sanctum@@blockquote-marker": false,
+  "sanctum@@blockquote-border": false,
+  "minimal-style@@blockquote-font-style": "normal"
 }

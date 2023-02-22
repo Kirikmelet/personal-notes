@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6cfd484413a2de77",
+        "id": "4f5b48c07b468433",
         "type": "tabs",
         "children": [
           {
-            "id": "417e8409b21907fd",
+            "id": "65283970e5bf3b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の終了動作.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "15e6ae122d6aac17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1687acaa93f80804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
-                "mode": "source",
+                "file": "数学のノート/代数２/多項式/多項式のグラフ.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の終了動作.md",
+                "file": "数学のノート/代数２/多項式/多項式のグラフ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の終了動作.md",
+                "file": "数学のノート/代数２/多項式/多項式のグラフ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学のノート/代数２/多項式/多項式の終了動作.md"
+                "file": "数学のノート/代数２/多項式/多項式のグラフ.md"
               }
             }
           },
@@ -173,12 +154,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,21 +171,20 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "417e8409b21907fd",
+  "active": "65283970e5bf3b00",
   "lastOpenFiles": [
-    "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
-    "数学のノート/代数２/多項式/多項式の終了動作.md",
-    "中文笔记本/中文辞书索引.md",
-    "数学のノート/代数２/多項式/多項式の終了動作-2.png",
-    "数学のノート/代数２/多項式/多項式の終了動作-1.png",
-    "数学のノート/代数２/多項式/多項式の恒等式.md",
-    "数学のノート/代数２/多項式/多項式のゼロ.md",
-    "数学のノート/代数２/多項式/二次パターン.md",
+    "毎日のノート/2023-02-22.md",
+    "数学のノート/代数２/多項式/多項式のグラフ.md",
+    "数学のノート/代数２/多項式/多項式の標準形.md",
     "数学のノート/代数２/多項式/因数分解.md",
-    "毎日のノート/2023-02-21.md"
+    "数学のノート/代数２/多項式/多項式の剰余定理.md",
+    "数学のノート/代数２/多項式/多項式の割り算.md",
+    "数学のノート/代数２/多項式/多項式の恒等式.md",
+    "数学のノート/代数２/多項式/多項式の終了動作.md",
+    "数学のノート/代数２/多項式/整式.md",
+    "数学のノート/代数２/多項式/多項式のゼロ.md"
   ]
 }

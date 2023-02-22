@@ -1,10 +1,8 @@
 [
   "calendar",
-  "obsidian-enhancing-export",
   "obsidian-git",
-  "obsidian-pandoc",
   "obsidian-dictionary-plugin",
-  "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
-  "obsidian-markdown-furigana"
+  "obsidian-markdown-furigana",
+  "japanese-word-splitter"
 ]
