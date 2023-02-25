@@ -1,0 +1,133 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{japanese}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={多項式のグラフ},
+  pdflang={ja},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{多項式のグラフ}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{ux591aux9805ux5f0fux306eux30b0ux30e9ux30d5}{%
+\section{多項式のグラフ}\label{ux591aux9805ux5f0fux306eux30b0ux30e9ux30d5}}
+
+英語: Polynomial Graphs
+
+\begin{quote}
+\textbf{注意！}　これらが分かるを必要がある！
+
+\begin{itemize}
+\tightlist
+\item
+  多項式の終了動作
+\item
+  多項式のゼロ
+\end{itemize}
+\end{quote}
+
+\hypertarget{ux591aux9805ux5f0fux95a2ux6570ux3092ux5206ux6790ux3059ux308b}{%
+\subsection{多項式関数を分析する}\label{ux591aux9805ux5f0fux95a2ux6570ux3092ux5206ux6790ux3059ux308b}}
+
+この例えばに、我らはこの関数を使う。 {\[f(x) = (3x - 2)(x + 2)^{2}\]}
+
+\hypertarget{yux5207ux7247ux3092ux898bux3064ux3051ux308b}{%
+\subsubsection{\texorpdfstring{{\(y\)}切片を見つける}{y切片を見つける}}\label{yux5207ux7247ux3092ux898bux3064ux3051ux308b}}
+
+{\(f\)}グラフの{\(y\)}切片を見つけるの為に我らは{\(f(0)\)}を見つける。
+
+\[f(0) = (3(0) - 2)(0 + 2)^{2}\]
+
+\[f(0) = ( - 2)(4)\]
+
+\[f(0) = - 8\]
+
+{\(y = f(x)\)}のグラフの{\(y\)}切片は{\((0, - 8)\)}
+
+\hypertarget{xux5207ux7247ux3092ux898bux3064ux3051ux308b}{%
+\subsubsection{\texorpdfstring{{\(x\)}切片を見つける}{x切片を見つける}}\label{xux5207ux7247ux3092ux898bux3064ux3051ux308b}}
+
+{\(x\)}切片を見つけるの為に、我らこの公式を解く、{\(f(x) = 0\)}
+
+\[0 = (3x - 2)(x + 2)^{2}\]
+
+今は我らが零積性質を使う。
+
+\hypertarget{ux3064}{%
+\paragraph{１つ}\label{ux3064}}
+
+{\[3x - 2 = 0\]}{\[x = \frac{2}{3}\]}
+
+\hypertarget{ux3064-1}{%
+\paragraph{２つ}\label{ux3064-1}}
+
+{\[x + 2 = 0\]}{\[x = - 2\]}{\(y = f(x)\)}のグラフの{\(x\)}軸は{\((\frac{2}{3},0)\)}と{\(( - 2,0)\)}
+我らの働くを見つけった、その{\(\frac{2}{3}\)}は１つの重根もう{\(- 2\)}は２つの重根です。
+
+又、グラフが{\(x\)}軸{\((\frac{2}{3},0)\)}と{\(( - 2,0)\)}であるを横切る。
+
+\hypertarget{ux7d42ux4e86ux52d5ux4f5cux3092ux898bux3064ux3051ux308b}{%
+\subsubsection{終了動作を見つける}\label{ux7d42ux4e86ux52d5ux4f5cux3092ux898bux3064ux3051ux308b}}
+
+終了動作を見つけるの為に、我らは関数の標準形であるのとき、主な項を解く。
+
+\end{document}

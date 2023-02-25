@@ -4,5 +4,7 @@
   "obsidian-dictionary-plugin",
   "obsidian-style-settings",
   "obsidian-markdown-furigana",
-  "japanese-word-splitter"
+  "japanese-word-splitter",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]

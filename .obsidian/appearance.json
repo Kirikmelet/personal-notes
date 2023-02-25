@@ -7,5 +7,6 @@
   "translucency": false,
   "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC",
   "showViewHeader": true,
-  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC"
+  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC",
+  "enabledCssSnippets": []
 }

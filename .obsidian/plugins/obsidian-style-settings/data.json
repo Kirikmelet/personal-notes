@@ -23,5 +23,6 @@
   "sanctum@@syntax-highlighting": "material",
   "sanctum@@blockquote-marker": false,
   "sanctum@@blockquote-border": false,
-  "minimal-style@@blockquote-font-style": "normal"
+  "minimal-style@@blockquote-font-style": "normal",
+  "minimal-advanced@@styled-scrollbars": true
 }

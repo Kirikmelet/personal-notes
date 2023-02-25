@@ -1,0 +1,116 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{japanese}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={二次数式パターン},
+  pdflang={ja},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{二次数式パターン}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\hypertarget{ux4e8cux6b21ux30d1ux30bfux30fcux30f3}{%
+\section{二次パターン}\label{ux4e8cux6b21ux30d1ux30bfux30fcux30f3}}
+
+\begin{quote}
+一部の構造による二次因数分解
+\end{quote}
+
+二次パターンとは因数分解の前に二次方程式に特定する必要がある。
+
+その方程式を特定される必要があります。また、いくつかパターンがある。そして、こちらはそのいくつか二次パターンです。
+
+\hypertarget{ux65b9ux7a0bux5f0fux4f8b}{%
+\subsection{方程式例}\label{ux65b9ux7a0bux5f0fux4f8b}}
+
+こちらは二次方程式の例です。パターンを探して特定して下さい。
+
+\begin{enumerate}
+\setcounter{enumi}{-1}
+\tightlist
+\item
+  第零歩：二次方程式を特定する。
+
+  \[(x - 1)^{2} + (x - 1) + 4\]
+\item
+  第一歩：二次方程式を解ける。
+
+  \begin{enumerate}
+  \item
+    \[x^{2} - 2x + 1 + x - 1 + 4\]
+  \item
+    \[x^{2} - 2x + x + 1 - 1 + 4\]
+  \item
+    \[x^{2} - x + 4\]
+  \end{enumerate}
+\item
+  第二歩：パターンを特定する。
+  「{\((U + V)^{2}\)}や{\((U - V)^{2}\)}か{\((U + V)(U - V)\)}」
+
+  \begin{itemize}
+  \tightlist
+  \item
+    この数式が解答がありない。
+  \end{itemize}
+\end{enumerate}
+
+\end{document}
