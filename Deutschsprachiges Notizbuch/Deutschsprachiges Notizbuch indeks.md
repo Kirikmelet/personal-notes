@@ -1,6 +1,7 @@
 ---
 title: Deutschsprachiges Notizbuch indeks
 lang: de
+tags: lang/german
 ---
 
 # Deutschsprachiges Notizbuch Indekss
