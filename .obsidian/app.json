@@ -2,7 +2,7 @@
   "vimMode": true,
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "livePreview": false,
+  "livePreview": true,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,

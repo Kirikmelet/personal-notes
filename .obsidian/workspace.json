@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5b48c07b468433",
+        "id": "ac4fb2b8eef91c86",
         "type": "tabs",
         "children": [
           {
-            "id": "14853255885a118a",
+            "id": "b86411ddf18c94b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毎日のノート/2023-02-28.md",
-                "mode": "source",
+                "file": "毎日のノート/ホームページ.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#priority",
+                "query": "性質",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毎日のノート/2023-02-28.md",
+                "file": "毎日のノート/ホームページ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毎日のノート/2023-02-28.md",
+                "file": "毎日のノート/ホームページ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,16 +115,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毎日のノート/2023-02-28.md"
+                "file": "毎日のノート/ホームページ.md"
               }
-            }
-          },
-          {
-            "id": "afeb8d96acba90ea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -180,40 +172,47 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "14853255885a118a",
+  "active": "b86411ddf18c94b6",
   "lastOpenFiles": [
     "用事.md",
-    "毎日のノート/2023-02-28.md",
-    "テンプレート/毎日日記のテンプレート.md",
-    "テンプレート/日本語の単語記入のテンプレート.md",
-    "毎日のノート/2023-02-27.md",
-    "毎日のノート/2023-01-16.md",
-    "毎日のノート/2023-01-05.md",
-    "毎日のノート/2023-01-02.md",
-    "Untitled.md",
-    "日本語勉強と言葉/単語/完全.md",
-    "日本語勉強と言葉/日本語勉強のノートインデクス.md",
-    "日本語勉強と言葉/単語/防衛線.md",
-    "日本語勉強と言葉/単語/読(む).md",
-    "日本語勉強と言葉/単語/練習問題.md",
-    "日本語勉強と言葉/単語/線形.md",
-    "日本語勉強と言葉/単語/突破.md",
-    "日本語勉強と言葉/単語/算術.md",
-    "日本語勉強と言葉/単語/敵.md",
-    "日本語勉強と言葉/単語/数学.md",
-    "毎日のノート/2023-02-21.md",
-    "毎日のノート/2023-02-20.md",
-    "毎日のノート/2023-02-16.md",
-    "毎日のノート/2023-02-15.md",
-    "毎日のノート/2023-02-03.md",
-    "毎日のノート/2023-02-01.md",
+    "毎日のノート/ホームページ.md",
+    "カレンダー/2023-04-03 Mamas Visa-Interview.md",
+    "用事と カレンダー.md",
+    "人間の言語",
+    "カレンダー",
+    "毎日のノート/2023-03-12.md",
+    "毎日のノート/2023-01-19.md",
+    "毎日のノート/2023-04-01.md",
     "毎日のノート/2023-01-31.md",
-    "数学のノート/代数２/ration",
-    "数学のノート/代数２/多項式/多項式の終了動作-2.png",
+    "毎日のノート/2023-02-21.md",
+    "毎日のノート/2023-01-02.md",
+    "毎日のノート/2023-03-25.md",
+    "毎日のノート/2023-03-21.md",
+    "人間の言語/日本語勉強と言葉/単語/Untitled.md",
+    "人間の言語/日本語勉強と言葉/単語/編む.md",
+    "数学のノート/代数２/指数/指数的モデル.md",
+    "数学のノート/代数２/指数/指数式.md",
+    "毎日のノート/2023-03-20.md",
+    "数学のノート/代数２/多項式/_多項式のインデックス.md",
+    "毎日のノート/2023-03-19.md",
+    "毎日のノート/2023-03-15.md",
+    "数学のノート/代数２/指数/指数的性質.md",
+    "数学のノート/代数２/指数/指数的モデルの作る.md",
+    "数学のノート/代数２/指数/有理指数.md",
+    "毎日のノート/2023-03-13.md",
+    "数学のノート/代数２/多項式/多項式のグラフ.md",
+    "毎日のノート/2023-03-08.md",
+    "プログラミング/定理",
     "数学のノート/代数２/多項式/多項式の終了動作-3.png",
+    "数学のノート/代数２/多項式/多項式の終了動作-2.png",
+    "数学のノート/代数２/指数",
     "数学のノート/代数２/多項式/多項式のグラフ.pdf"
   ]
 }

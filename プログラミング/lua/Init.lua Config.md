@@ -1,6 +1,6 @@
 ---
 tags:
- - programming/lua
+ - programming/lang/lua
 ---
 ```lua
 print("Hello World!")

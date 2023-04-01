@@ -1,5 +1,4 @@
 [
-  "calendar",
   "obsidian-git",
   "obsidian-dictionary-plugin",
   "obsidian-style-settings",
@@ -8,5 +7,9 @@
   "obsidian-pandoc",
   "obsidian-enhancing-export",
   "table-editor-obsidian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "homepage",
+  "obsidian-full-calendar",
+  "dataview"
 ]

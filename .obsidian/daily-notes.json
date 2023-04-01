@@ -1,5 +1,5 @@
 {
-  "autorun": true,
+  "autorun": false,
   "folder": "毎日のノート",
   "template": "テンプレート/毎日日記のテンプレート"
 }
