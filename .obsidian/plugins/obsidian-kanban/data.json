@@ -1,0 +1,10 @@
+{
+  "new-line-trigger": "enter",
+  "new-note-folder": "プロジェクト",
+  "show-checkboxes": false,
+  "hide-tags-in-title": false,
+  "hide-tags-display": false,
+  "tag-colors": [],
+  "append-archive-date": true,
+  "archive-with-date": true
+}

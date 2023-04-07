@@ -1,12 +1,9 @@
 {
-  "accentColor": "#ab47bc",
+  "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "",
-  "baseFontSize": 24,
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "translucency": false,
+  "cssTheme": "Things",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "showViewHeader": true,
+  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
   "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC",
-  "enabledCssSnippets": []
+  "baseFontSize": 20
 }

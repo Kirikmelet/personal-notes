@@ -1,15 +1,16 @@
 [
-  "obsidian-git",
-  "obsidian-dictionary-plugin",
-  "obsidian-style-settings",
-  "obsidian-markdown-furigana",
-  "japanese-word-splitter",
-  "obsidian-pandoc",
-  "obsidian-enhancing-export",
   "table-editor-obsidian",
+  "dataview",
+  "obsidian-dictionary-plugin",
+  "homepage",
+  "obsidian-kanban",
+  "obsidian-markdown-furigana",
+  "obsidian-minimal-settings",
+  "obsidian-enhancing-export",
+  "obsidian-git",
+  "obsidian-pandoc",
+  "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "homepage",
-  "obsidian-full-calendar",
-  "dataview"
+  "japanese-word-splitter"
 ]

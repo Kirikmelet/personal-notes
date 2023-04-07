@@ -1,22 +1,4 @@
 {
-  "vimMode": true,
-  "strictLineBreaks": true,
-  "showFrontmatter": true,
-  "livePreview": true,
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true,
-  "showLineNumber": false,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
   "defaultViewMode": "preview",
-  "spellcheckLanguages": [
-    "en-US",
-    "id",
-    "de-DE"
-  ]
+  "livePreview": false
 }

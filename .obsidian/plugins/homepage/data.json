@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "defaultNote": "毎日のノート/ホームページ",
+  "defaultNote": "日記/ホームページ",
   "useMoment": false,
   "momentFormat": "YYYY-MM-DD",
   "workspace": "Home",

@@ -1,6 +1,6 @@
 {
-  "globalFilter": "",
-  "removeGlobalFilter": false,
+  "globalFilter": "#task",
+  "removeGlobalFilter": true,
   "setDoneDate": true,
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
