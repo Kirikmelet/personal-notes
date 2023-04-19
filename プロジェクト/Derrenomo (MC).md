@@ -1,7 +1,9 @@
 ---
 
 kanban-plugin: basic
-
+tags: 
+ - games/minecraft
+ - kanban
 ---
 
 ## To-Do

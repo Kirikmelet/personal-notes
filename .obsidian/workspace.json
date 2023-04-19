@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3dcde7355e6283",
+        "id": "0847651c0f3501cf",
         "type": "tabs",
         "children": [
           {
-            "id": "7de71ec84c5d411d",
+            "id": "52912e7569e73cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "日記/ホームページ.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -147,15 +148,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,50 +166,49 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "7de71ec84c5d411d",
+  "active": "d9f155e24ccc6cb3",
   "lastOpenFiles": [
-    "プロジェクト/Derrenomo (MC).md",
-    "プロジェクト/Derrenomo (MC)/Structure Codes.md",
     "日記/ホームページ.md",
-    "日記/個人的用事.md",
-    "人間の言語/Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
+    "政治/政治笔记的索引.md",
+    "政治",
+    "数学のノート/初等/国際の言語の初等数学の単語.md",
+    "日記/個人的な出来事と仕事.md",
+    "プロジェクト/Derrenomo (MC).md",
+    "二次数式.md",
+    "数学のノート/代数２/指数/「指数」有理指数.md",
+    "数学のノート/代数２/指数/「指数」指数的性質.md",
+    "数学のノート/代数２/多項式/多項式.md",
+    "数学のノート/代数２/多項式/「多項式」終了動作-2.png",
+    "数学のノート/代数２/指数/指数式.md",
+    "数学のノート/代数２/指数/「指数」指数的モデルの変化の解釈.md",
+    "数学のノート/代数２/指数/「指数」指数的モデル.md",
+    "数学のノート/代数２/多項式/「多項式」グラフ.md",
+    "数学のノート/代数２/多項式/「多項式」ゼロ.md",
+    "数学のノート/代数２/多項式/「多項式」二次パターン.md",
+    "数学のノート/代数２/多項式/「多項式」割り算.md",
+    "数学のノート/代数２/多項式/「多項式」恒等式.md",
+    "数学のノート/代数２/多項式/「多項式」終了動作-1.png",
+    "数学のノート/代数２/多項式/「多項式」終了動作-3.png",
+    "数学のノート/代数２/多項式/「多項式」終了動作.md",
+    "数学のノート/代数２/多項式/「多項式」標準形.md",
+    "数学のノート/代数２/多項式/「多項式」因数分解.md",
+    "数学のノート/代数２/多項式/「多項式」剰余定理.md",
+    "テンプレート/日本語の単語記入のテンプレート.md",
+    "Programmierung/Theorien/Protokollierung.md",
     "プロジェクト/JEDICT Flutter.md",
     "プロジェクト/Vtuber Model.md",
-    "二次数式.md",
+    "プロジェクト/Derrenomo (MC)/Structure Codes.md",
     "プロジェクト/Derrenomo (MC)",
-    "Programmierung/Theorien/Dokumentobjectmodell.md",
-    "Programmierung/Theorien/Protokollierung.md",
-    "Programmierung/rust/Logging with Tracing.md",
-    "Programmierung/Programmierung.md",
-    "Programmierung/lua/Init.lua Config.md",
-    "プログラミング/Untitled.md",
     "Programmierung/rust",
-    "数学のノート/代数２/指数/指数的性質.md",
-    "数学のノート/代数２/指数/指数的モデル.md",
-    "数学のノート/代数２/指数/指数式.md",
-    "人間の言語/日本語勉強と言葉/単語/算術.md",
-    "数学のノート/初等/日本語と英語とドイツ語の初等数学の単語.md",
-    "数学のノート/代数２/代数２.md",
-    "ブレンダー/アニメキャラクターモデリング.md",
-    "数学のノート/代数２/多項式/二次数式.md",
-    "人間の言語/日本語勉強と言葉/単語/編む.md",
-    "数学のノート/代数２/複素数.md",
-    "数学のノート/代数２/等比級数.md",
-    "数学のノート/代数２/指数/有理指数.md",
-    "数学のノート/代数２/多項式/「二次数式」終了動作-2.png",
-    "数学のノート/代数２/多項式/「二次数式」終了動作-1.png",
-    "数学のノート/代数２/多項式/「二次数式」終了動作-3.png",
     "毎日のノート",
     "プロジェクト",
     "用事",
     "毎日のノート/用事",
     "人間の言語",
     "カレンダー",
-    "Programmierung/Theorien",
-    "数学のノート/代数２/指数"
+    "Programmierung/Theorien"
   ]
 }

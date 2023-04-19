@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Things",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP",
   "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC",
-  "baseFontSize": 20
+  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "baseFontSize": 22,
+  "cssTheme": "Things"
 }

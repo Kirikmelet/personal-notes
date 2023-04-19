@@ -2,8 +2,8 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-dictionary-plugin",
-  "homepage",
   "obsidian-kanban",
+  "homepage",
   "obsidian-markdown-furigana",
   "obsidian-minimal-settings",
   "obsidian-enhancing-export",
@@ -11,6 +11,6 @@
   "obsidian-pandoc",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "templater-obsidian",
-  "japanese-word-splitter"
+  "japanese-word-splitter",
+  "templater-obsidian"
 ]

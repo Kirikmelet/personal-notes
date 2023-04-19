@@ -4,16 +4,19 @@ kanban-plugin: basic
 tags:
   - project/wip
   - programming/lang/rust
+  - kanban
 
 ---
 
 ## To-Do
 
-- [ ] **Logger**, Preferably with tracing crate
+- [ ] Kanjidic Support
+- [ ] JMnedict Support
 
 
 ## Hiatus
 
+- [ ] **Logger**:<br><br>- Uses `tracing`
 
 
 ## Done
@@ -29,10 +32,14 @@ tags:
 
 ## Rejected
 
-- [ ] Full Logging system with Tracing<br><br>This is just a library anyways
 
 
+***
 
+## Archive
+
+- [ ] Full Logging system with Tracing<br><br>This is just a library anyways 2023-04-10 13:44
+- [x] `        let mut depth_refs: Vec<DictDOMRef> = Vec::new();<br>`<br><br>CAUSES STACK OVERFLOW!!!!! 2023-04-11 14:43
 
 %% kanban:settings
 ```
