@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0847651c0f3501cf",
+        "id": "ea1beb767fc4938f",
         "type": "tabs",
         "children": [
           {
-            "id": "52912e7569e73cae",
+            "id": "d2242c628bbc1f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,7 +16,7 @@
                 "file": "日記/ホームページ.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -132,18 +132,18 @@
             }
           },
           {
-            "id": "d9f155e24ccc6cb3",
+            "id": "3c436f189e671438",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "a86381c6a6a310f8",
+            "id": "05e2e5235b5071ca",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,16 +166,18 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "d9f155e24ccc6cb3",
+  "active": "d2242c628bbc1f22",
   "lastOpenFiles": [
     "日記/ホームページ.md",
-    "政治/政治笔记的索引.md",
-    "政治",
+    "日記/1681886648-XMXK.md",
     "数学のノート/初等/国際の言語の初等数学の単語.md",
+    "政治/政治笔记的索引.md",
+    "日記/1681881995-XFZD.md",
+    "2023-04-19.md",
+    "政治",
     "日記/個人的な出来事と仕事.md",
     "プロジェクト/Derrenomo (MC).md",
     "二次数式.md",
@@ -198,9 +201,6 @@
     "数学のノート/代数２/多項式/「多項式」剰余定理.md",
     "テンプレート/日本語の単語記入のテンプレート.md",
     "Programmierung/Theorien/Protokollierung.md",
-    "プロジェクト/JEDICT Flutter.md",
-    "プロジェクト/Vtuber Model.md",
-    "プロジェクト/Derrenomo (MC)/Structure Codes.md",
     "プロジェクト/Derrenomo (MC)",
     "Programmierung/rust",
     "毎日のノート",

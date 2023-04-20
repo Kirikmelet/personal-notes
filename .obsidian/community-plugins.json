@@ -12,5 +12,8 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "japanese-word-splitter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar",
+  "obsidian-outliner",
+  "obsidian-advanced-uri"
 ]
