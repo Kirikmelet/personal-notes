@@ -103,16 +103,6 @@
             }
           },
           {
-            "id": "4583f9681fb091c3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md"
-              }
-            }
-          },
-          {
             "id": "476e88336a1f4c4c",
             "type": "leaf",
             "state": {
@@ -148,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +158,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "328efc1f2ad7e1ae",
+  "active": "b2975d41fbc231d1",
   "lastOpenFiles": [
-    "ゲーミング/マインクラフト/derrenomo/Daftar Kementerian Tata Negara.md",
     "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md",
+    "ゲーミング/マインクラフト/derrenomo/Daftar Kementerian Tata Negara.md",
     "日記/ホームページ.md",
     "数学のノート/代数２/指数/「指数」指数的性質.md",
     "数学のノート/代数２/指数/「指数」指数的モデル.md",
