@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "dataview",
   "obsidian-dictionary-plugin",
   "obsidian-kanban",
@@ -8,7 +7,6 @@
   "obsidian-minimal-settings",
   "obsidian-enhancing-export",
   "obsidian-git",
-  "obsidian-pandoc",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "japanese-word-splitter",

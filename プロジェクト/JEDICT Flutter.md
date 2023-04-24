@@ -1,5 +1,4 @@
 ---
-
 kanban-plugin: basic
 tags:
   - project/wip

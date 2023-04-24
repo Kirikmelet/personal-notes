@@ -1,0 +1,11 @@
+@media print {
+  :root {
+    --body-font-family: "Noto Sans CJK JP", "Noto Sans CJK SC", sans-serif;
+  }
+  .cjk-font {
+    font-family: var(--body-font-family);
+    line-height:2;
+    font-size: 12pt;
+    text-align: justify;
+  }
+}
