@@ -6,5 +6,5 @@ tags: lang/german
 
 # Deutschsprachiges Notizbuch Indekss
 Hallo, dies ist meinen Notizbuch für Deutsch Sprachen studieren. Normalerweise ich habe Japanisch benutzen. Aber, für dieses Mappen, ich benutze Deutsch. Danke für verständnisvoll.
-> Japanisch:　僕の日本語ノートはここです: [日本語勉強のノートインデクス](日本語勉強のノートインデクス.md)
+> Japanisch:　僕の日本語ノートはここです: [日本語勉強のノート索引](日本語勉強のノート索引.md)
 

@@ -1,6 +1,6 @@
 ---
 lang: de
-tags: programming
+tags: programming/concept
 ---
 # Protokollierung
 Protokollierung ist die Tat im Programmierung, ein Protokoll zu erstellen.

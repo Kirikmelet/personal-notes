@@ -1,7 +1,7 @@
 {
   "getLangFromFile": true,
-  "defaultLanguage": "ja",
-  "normalLang": "ja",
+  "defaultLanguage": "de",
+  "normalLang": "de",
   "shouldShowSynonymPopover": true,
   "shouldShowCustomContextMenu": true,
   "apiSettings": {
@@ -35,7 +35,7 @@
     },
     "de": {
       "definitionApiName": "Google",
-      "synonymApiName": "Google"
+      "synonymApiName": "Altervista"
     },
     "it": {
       "definitionApiName": "Free Dictionary API",

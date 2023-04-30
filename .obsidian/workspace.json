@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c82be0798b770d6d",
+        "id": "8937ff58f8ff3f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2975d41fbc231d1",
+            "id": "12c91e150fcf049f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -136,9 +135,27 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f1e40a853e8c8354",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "94f2b0c8953f4e08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -158,11 +175,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b2975d41fbc231d1",
+  "active": "12c91e150fcf049f",
   "lastOpenFiles": [
-    "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md",
+    "ゲーミング/マインクラフト/derrenomo/Daftar Divisi Administrasi Negara.md",
     "ゲーミング/マインクラフト/derrenomo/Daftar Kementerian Tata Negara.md",
+    "ゲーミング/マインクラフト/derrenomo/Nota-Nota Penting Negara.md",
+    "ゲーミング/マインクラフト/derrenomo/Daftar Partai Politik.md",
     "日記/ホームページ.md",
+    "ゲーミング/マインクラフト/derrenomo/Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "Programmierung/Theorien/Farben Lehre.md",
+    "数学のノート/初等/国際の言語の初等数学の単語.md",
+    "数学のノート/代数２/指数/指数式.md",
+    "数学のノート/代数２/複素数.md",
+    "Programmierung/Theorien/Protokollierung.md",
+    "人間の言語/Deutschsprachiges Notizbuch/Grammatik/Relativsätze.md",
+    "人間の言語/Deutschsprachiges Notizbuch/Deutschsprachiges Notizbuch indeks.md",
+    "Programmierung/Theorien/Dokumentobjectmodell.md",
     "数学のノート/代数２/指数/「指数」指数的性質.md",
     "数学のノート/代数２/指数/「指数」指数的モデル.md",
     "数学のノート/代数２/指数/「指数」有理指数.md",
@@ -175,22 +203,11 @@
     "数学のノート/代数２/多項式/「多項式」割り算.md",
     "数学のノート/代数２/多項式/「多項式」因数分解.md",
     "数学のノート/代数２/多項式/「多項式」終了動作.md",
-    "二次数式.md",
     "ゲーミング/マインクラフト/derrenomo",
     "ゲーミング/マインクラフト",
     "ゲーミング",
-    "数学のノート/初等/国際の言語の初等数学の単語.md",
-    "日記/1681886648-XMXK.md",
-    "政治/政治笔记的索引.md",
-    "日記/1681881995-XFZD.md",
-    "2023-04-19.md",
     "政治",
-    "日記/個人的な出来事と仕事.md",
-    "プロジェクト/Derrenomo (MC).md",
     "数学のノート/代数２/多項式/「多項式」終了動作-2.png",
-    "数学のノート/代数２/指数/指数式.md",
-    "数学のノート/代数２/多項式/「多項式」グラフ.md",
-    "数学のノート/代数２/多項式/「多項式」恒等式.md",
     "数学のノート/代数２/多項式/「多項式」終了動作-1.png",
     "数学のノート/代数２/多項式/「多項式」終了動作-3.png",
     "プロジェクト/Derrenomo (MC)",

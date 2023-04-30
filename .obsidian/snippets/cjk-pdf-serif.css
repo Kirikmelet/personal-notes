@@ -1,6 +1,6 @@
 @media print {
   :root {
-    --body-font-family: "Noto Serif CJK JP", "Noto Serif CJK SC", serif;
+    --body-font-family: "Noto Serif CJK SC", "Noto Serif CJK JP", serif;
   }
   .cjk-font-serif {
     font-family: var(--body-font-family);

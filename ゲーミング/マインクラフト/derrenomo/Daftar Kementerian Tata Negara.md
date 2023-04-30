@@ -10,7 +10,7 @@ Daftar ini berisi semua kementerian Negara Derrenomo.
 
 このリストには、デレノモ国のすべての省が含まれています。
 
-这个列表包含了德伦诺莫国的所有部委。
+这个列表包含了德认诺莫国的所有部委。
 
  Questo elenco contiene tutti i ministeri della Nazione di Derrenomo.
 
@@ -27,12 +27,12 @@ Kementerian Perencanaan Pusat dan Pekerjaan Umum bertanggung jawab untuk mengawa
 #### 日本語
 > 日本語：中央計画公共事業省
 
-中央計画と公共事業省は、大規模な公共事業プロジェクトの計画と実行、また国全体の経済計画の監督を担当しています。彼らは、リソースが効果的かつ効率的に割り当てられ、プロジェクトが予算内で時間内に完了するように働きます。この省は、デレノモのインフラストラクチャの開発と経済成長において重要な役割を果たしています。
+中央計画公共事業省は、大規模な公共事業プロジェクトの計画と実行、また国全体の経済計画の監督を担当しています。彼らは、リソースが効果的かつ効率的に割り当てられ、プロジェクトが予算内で時間内に完了するように働きます。この省は、デレノモのインフラストラクチャの開発と経済成長において重要な役割を果たしています。
 
 #### 普通话
-> 普通话：中央计划和公共工程部
+> 普通话：中央计划和公共工程部门
 
-中央规划和公共工程部负责监督大规模公共工程项目的规划和执行，以及全国的经济规划。他们致力于确保资源的有效和高效分配，以及项目按时和按预算完成。该部门在德伦诺莫基础设施的发展和经济增长中发挥着关键作用。
+中央规划和公共工程部门负责监督大规模公共工程项目的规划和执行，以及全国的经济规划。他们致力于确保资源的有效和高效分配，以及项目按时和按预算完成。该部门在德认诺莫基础设施的发展和经济增长中发挥着关键作用。
 
 ### Italiano
 > Italiano: Ministero della Pianificazione Centrale e dei Lavori Pubblici
@@ -50,14 +50,14 @@ The Ministry Division of Economy is a specialized division within the Ministry o
 Divisi Kementerian Ekonomi adalah divisi spesialis di dalam Kementerian Perencanaan Pusat dan Pekerjaan Umum yang fokus pada kebijakan dan analisis ekonomi. Mereka bekerja untuk mengembangkan dan mengevaluasi kebijakan dan program ekonomi, serta menyediakan analisis dan perkiraan ekonomi kepada lembaga pemerintah dan pemangku kepentingan lainnya. Divisi ini memainkan peran penting dalam membentuk kebijakan ekonomi Derrenomo dan menjamin pertumbuhan dan stabilitas ekonomi jangka panjang negara.
 
 #### 日本語
-> 日本語：経済省の部門
+> 日本語：経済省局
 
-経済省の部門は、経済政策と分析に特化した中央計画と公共事業省内の専門部門です。彼らは、経済政策とプログラムを開発・評価し、政府機関や関係者に対して経済分析と予測を提供します。この部門は、デレノモの経済政策を形成し、国の長期的な経済成長と安定性を確保する上で重要な役割を果たしています。
+経済省局は、経済政策と分析に特化した中央計画公共事業省内の専門局です。彼らは、経済政策とプログラムを開発・評価し、政府機関や関係者に対して経済分析と予測を提供します。この局は、デレノモの経済政策を形成し、国の長期的な経済成長と安定性を確保する上で重要な役割を果たしています。
 
 #### 普通话
-> 普通话：经济部门
+> 普通话：经济司  
 
-经济部门是中央规划和公共工程部门内的一个专门部门，专注于经济政策和分析。他们致力于制定和评估经济政策和项目，以及向其他政府机构和利益相关者提供经济分析和预测。该部门在塑造德伦诺莫的经济政策方面发挥着至关重要的作用，确保国家的长期经济增长和稳定。
+经济司是中央规划和公共工程部门内的一个专门部门，专注于经济政策和分析。他们致力于制定和评估经济政策和项目，以及向其他政府机构和利益相关者提供经济分析和预测。该部门在塑造德认诺莫的经济政策方面发挥着至关重要的作用，确保国家的长期经济增长和稳定。
 
 #### Italiano
 > Italiano: Divisione del Ministero dell'Economia
@@ -74,14 +74,14 @@ The Ministry Division of Agriculture is a specialized division within the Minist
 Divisi Kementerian Pertanian adalah divisi spesialis di dalam Kementerian Perencanaan Pusat dan Pekerjaan Umum yang fokus pada kebijakan dan pengembangan pertanian. Mereka bekerja untuk mengembangkan dan melaksanakan kebijakan yang mendorong pertanian berkelanjutan, meningkatkan produksi pangan, dan meningkatkan keseluruhan sektor pertanian. Divisi ini juga memberikan bantuan teknis dan pelatihan kepada petani dan pekerja pertanian lainnya untuk meningkatkan keterampilan dan produktivitas mereka.
 
 #### 日本語
-> 日本語：農業省の部門
+> 日本語：農業省局
 
-農業省の部門は、農業政策と開発に特化した中央計画と公共事業省内の専門部門です。彼らは、持続可能な農業を促進し、食品生産を増やし、全体的な農業セクターを改善するための政策を開発・実施します。この部門はまた、農家や他の農業労働者の技能と生産性を向上させるための技術支援やトレーニングを提供します。
+農業省局は、農業政策と開発に特化した中央計画公共事業省内の専門局です。彼らは、持続可能な農業を促進し、食品生産を増やし、全体的な農業セクターを改善するための政策を開発・実施します。この局はまた、農家や他の農業労働者の技能と生産性を向上させるための技術支援やトレーニングを提供します。
 
 #### 普通话
-> 普通话：农业部门
+> 普通话：农业司
 
-农业部门是中央规划和公共工程部门内的一个专门部门，专注于农业政策和发展。他们致力于制定和实施促进可持续农业、增加粮食生产和改善整体农业部门的政策。该部门还向农民和其他农业工人提供技术支持和培训，以提高他们的技能和生产力。
+农业司是中央规划和公共工程部门内的一个专门部门，专注于农业政策和发展。他们致力于制定和实施促进可持续农业、增加粮食生产和改善整体农业司的政策。该部门还向农民和其他农业工人提供技术支持和培训，以提高他们的技能和生产力。
 
 #### Italiano
 > Italiano: Divisione del Ministero dell'Agricoltura
@@ -98,14 +98,14 @@ The Ministry Division of Transportation is a specialized division within the Min
 Divisi Kementerian Transportasi adalah divisi spesialis di dalam Kementerian Perencanaan Pusat dan Pekerjaan Umum yang fokus pada kebijakan dan infrastruktur transportasi. Mereka bekerja untuk mengembangkan dan melaksanakan kebijakan yang meningkatkan sistem transportasi negara, termasuk jalan raya, kereta api, dan transportasi umum. Divisi ini juga bekerja untuk menjamin keselamatan sistem transportasi dan membuatnya lebih efisien dan berkelanjutan.
 
 #### 日本語
-> 日本語：交通省の部門
+> 日本語：交通省局
 
-交通省の部門は、交通政策とインフラストラクチャに特化した中央計画と公共事業省内の専門部門です。彼らは、高速道路、鉄道、公共交通など、国の交通システムを改善するための政策を開発・実施します。この部門はまた、交通システムの安全性を確保するためにも働き、より効率的かつ持続可能にするためにも働いています。
+交通省局は、交通政策とインフラストラクチャに特化した中央計画公共事業省内の専門局です。彼らは、高速道路、鉄道、公共交通など、国の交通システムを改善するための政策を開発・実施します。この局はまた、交通システムの安全性を確保するためにも働き、より効率的かつ持続可能にするためにも働いています。
 
 #### 普通话
-> 普通话：交通部门
+> 普通话：交通司
 
-交通部门是中央规划和公共工程部门内的一个专门部门，专注于交通政策和基础设施。他们致力于制定和实施改善国家交通系统的政策，包括公路、铁路和公共交通。该部门还努力确保交通系统的安全，并使其更加高效和可持续。
+交通司是中央规划和公共工程部门内的一个专门部门，专注于交通政策和基础设施。他们致力于制定和实施改善国家交通系统的政策，包括公路、铁路和公共交通。该部门还努力确保交通系统的安全，并使其更加高效和可持续。
 
 #### Italiano
 > Italiano: Divisione del Ministero dei Trasport
@@ -123,14 +123,14 @@ Divisi Kementerian Industri adalah divisi spesialis di dalam Kementerian Perenca
 
 
 #### 日本語
-> 日本語：工業省の部門
+> 日本語：工業省局
 
-工業省の部門は、工業政策と開発に特化した中央計画と公共事業省内の専門部門です。彼らは、持続可能な工業成長とイノベーションを促進し、デレノモの産業全体の競争力を向上するための政策を開発・実施します。この部門はまた、ビジネスや起業家の技能と生産性を向上させるための技術支援やトレーニングを提供します。
+工業省局は、工業政策と開発に特化した中央計画公共事業省内の専門局です。彼らは、持続可能な工業成長とイノベーションを促進し、デレノモの産業全体の競争力を向上するための政策を開発・実施します。この局はまた、ビジネスや起業家の技能と生産性を向上させるための技術支援やトレーニングを提供します。
 
 #### 普通话
-> 普通话：工业部门
+> 普通话：工业司
 
-工业部门是中央规划和公共工程部门内的一个专门部门，专注于工业政策和发展。他们致力于制定和实施促进可持续工业增长和创新的政策，以及提高德伦诺莫产业的整体竞争力。该部门还向企业和企业家提供技术支持和培训，以提高他们的技能和生产力。
+工业司是中央规划和公共工程部门内的一个专门部门，专注于工业政策和发展。他们致力于制定和实施促进可持续工业增长和创新的政策，以及提高德认诺莫产业的整体竞争力。该部门还向企业和企业家提供技术支持和培训，以提高他们的技能和生产力。
 
 #### Italiano
 > Italiano: Divisione del Ministero dell'Industria
@@ -152,9 +152,9 @@ Kementerian Pemuda adalah kementerian pemerintah di Derrenomo yang bertanggung j
  若者省は、若者の発展と福祉を促進するための政府省庁であり、デレノモにおいて重要な役割を果たしています。この省は、教育、就業、健康、社会福祉などの分野で若者のニーズに対応するプログラムやイニシアチブを作成します。また、他の政府機関、非政府組織、若者グループと協力して、若者の声を届け、彼らのニーズに対応します。若者省はデレノモの若者に関連した政策の形成に重要な役割を果たし、若者が成長するために必要なサポートを提供します。
 
 #### 普通话
-> 普通话：青年部
+> 普通话：青年部门
 
-青年部是德伦诺莫政府的一个部门，负责促进青年的发展和福利。该部门致力于创建针对教育、就业、健康和社会福利等领域的年轻人需求的计划和措施。此外，他们与其他政府机构、非政府组织和青年团体合作，确保年轻人的声音得以被听取和他们的需求得到满足。青年部在塑造德伦诺莫关于青年的政策方面发挥着关键的作用，确保青年获得他们所需的支持以健康成长。
+青年部门是德认诺莫政府的一个部门，负责促进青年的发展和福利。该部门致力于创建针对教育、就业、健康和社会福利等领域的年轻人需求的计划和措施。此外，他们与其他政府机构、非政府组织和青年团体合作，确保年轻人的声音得以被听取和他们的需求得到满足。青年部门在塑造德认诺莫关于青年的政策方面发挥着关键的作用，确保青年获得他们所需的支持以健康成长。
 
 #### Italiano
 > Italiano: Ministero della Gioventù
@@ -178,7 +178,7 @@ Kementerian Pertahanan adalah kementerian pemerintah di Derrenomo yang bertanggu
 #### 普通话
 > 普通话：国防部门
 
-国防部门是德伦诺莫政府的一个部门，负责国家的军事力量和国防。该部门制定和实施与国家安全有关的政策，包括防御战略、军事采购和人员管理。国防部门与其他政府机构密切合作，例如外交部和内政部，以协调国家安全工作。此外，该部门还与外国和国际组织合作，促进该地区的和平与稳定。
+国防部门是德认诺莫政府的一个部门，负责国家的军事力量和国防。该部门制定和实施与国家安全有关的政策，包括防御战略、军事采购和人员管理。国防部门与其他政府机构密切合作，例如外交部和内政部，以协调国家安全工作。此外，该部门还与外国和国际组织合作，促进该地区的和平与稳定。
 
 #### Italiano
 > Italiano: Ministero della Difesa
@@ -195,14 +195,14 @@ The Ministry of Education is a government ministry in Derrenomo that is responsi
 Kementerian Pendidikan adalah kementerian pemerintah di Derrenomo yang bertanggung jawab atas sistem pendidikan negara. Kementerian ini mengembangkan dan melaksanakan kebijakan terkait pendidikan, termasuk desain kurikulum, pelatihan guru, pendanaan sekolah, dan standar penerimaan. Kementerian Pendidikan bekerja sama dengan sekolah-sekolah dan lembaga pendidikan lainnya untuk mempromosikan pendidikan berkualitas yang memenuhi kebutuhan siswa dan masyarakat. Kementerian ini juga bekerja untuk memastikan bahwa pendidikan dapat diakses oleh semua orang, tanpa memandang latar belakang atau status sosial ekonomi mereka.
 
 #### 日本語
-> 日本語：文部科学省
+> 日本語：教育省
 
-文部科学省は、国の教育システムに責任を持つデレノモの政府省庁です。この省は、カリキュラム設計、教師研修、学校資金調達、入学基準など、教育に関連する政策を策定・実施します。文部科学省は、学生と社会のニーズに応える高品質の教育を推進するために、学校や教育機関と緊密に協力しています。この省はまた、彼らの背景や社会経済的地位に関係なく、すべての人に教育が利用できるようにすることも目指しています。
+教育省は、国の教育システムに責任を持つデレノモの政府省庁です。この省は、カリキュラム設計、教師研修、学校資金調達、入学基準など、教育に関連する政策を策定・実施します。教育省は、学生と社会のニーズに応える高品質の教育を推進するために、学校や教育機関と緊密に協力しています。この省はまた、彼らの背景や社会経済的地位に関係なく、すべての人に教育が利用できるようにすることも目指しています。
 
 #### 普通话
 > 普通话：教育部门
 
-教育部门是德伦诺莫政府的一个部门，负责国家教育系统。该部门制定和实施与教育有关的政策，包括课程设计、教师培训、学校资金、入学标准等。教育部门与学校和教育机构密切合作，促进学生和社会的高质量教育。该部门还致力于确保教育对所有人都可获得，无论其背景或社会经济地位如何。
+教育部门是德认诺莫政府的一个部门，负责国家教育系统。该部门制定和实施与教育有关的政策，包括课程设计、教师培训、学校资金、入学标准等。教育部门与学校和教育机构密切合作，促进学生和社会的高质量教育。该部门还致力于确保教育对所有人都可获得，无论其背景或社会经济地位如何。
 
 #### Italiano
 > Italiano: Ministero dell'Istruzione
@@ -226,7 +226,7 @@ Kementerian Luar Negeri adalah kementerian pemerintah di Derrenomo yang bertangg
 #### 普通话
 > 普通话：外交部门
 
-外交部门是德伦诺莫政府的一个部门，负责国家的国际关系。该部门制定和实施与外交有关的政策，包括外交、对外援助和贸易。外交部门致力于维护与其他国家的良好关系，并促进德伦诺莫在海外的利益。该部门还致力于保护海外旅行或居住的德伦诺莫公民的权利和福利。外交部门在塑造德伦诺莫在全球社区中的地位方面发挥着至关重要的作用。
+外交部门是德认诺莫政府的一个部门，负责国家的国际关系。该部门制定和实施与外交有关的政策，包括外交、对外援助和贸易。外交部门致力于维护与其他国家的良好关系，并促进德认诺莫在海外的利益。该部门还致力于保护海外旅行或居住的德认诺莫公民的权利和福利。外交部门在塑造德认诺莫在全球社区中的地位方面发挥着至关重要的作用。
 
 #### Italiano
 > Italiano: Ministro degli Affari Esteri
@@ -238,7 +238,7 @@ Il Ministero degli Affari Esteri è un ministero del governo di Derrenomo che si
 The Ministry of State Secretary is a government ministry in Derrenomo that is responsible for coordinating and managing the work of state secretaries across various government agencies. State secretaries are typically high-level government officials who work closely with ministers and other senior officials to implement government policies and programs. The Ministry of State Secretary helps to ensure that these officials are working effectively and efficiently, and that they are all on the same page when it comes to implementing government policy. This ministry also provides administrative support and guidance to state secretaries, and works to ensure that they have the resources and information they need to carry out their duties effectively.
 
 #### Bahasa Indonesia
-Bahasa Indonesia: Kementerian Sekretaris Negara
+> Bahasa Indonesia: Kementerian Sekretaris Negara
 
 Kementerian Sekretaris Negara adalah kementerian pemerintah di Derrenomo yang bertanggung jawab atas koordinasi dan pengelolaan pekerjaan sekretaris negara di berbagai lembaga pemerintah. Sekretaris negara biasanya adalah pejabat pemerintah tingkat tinggi yang bekerja sama dengan menteri dan pejabat senior lainnya untuk melaksanakan kebijakan dan program pemerintah. Kementerian Sekretaris Negara membantu memastikan bahwa pejabat-pejabat ini bekerja dengan efektif dan efisien, dan bahwa semuanya sejalan dalam melaksanakan kebijakan pemerintah. Kementerian ini juga menyediakan dukungan administratif dan panduan kepada sekretaris negara, dan bekerja untuk memastikan bahwa mereka memiliki sumber daya dan informasi yang mereka butuhkan untuk menjalankan tugas mereka secara efektif.
 
@@ -248,9 +248,9 @@ Kementerian Sekretaris Negara adalah kementerian pemerintah di Derrenomo yang be
 国務省は、各政府機関の国務秘書を調整・管理するデレノモの政府省庁です。国務秘書は、通常は高位の政府官僚であり、閣僚やその他の高級官僚と緊密に協力して政府の政策やプログラムを実施します。国務省は、これらの官僚が効果的かつ効率的に働いていること、および政府政策の実施について意見が一致していることを確認するのを助けます。この省はまた、国務秘書に対して行政的支援と指導を提供し、彼らが任務を効果的に遂行するために必要なリソースと情報を提供することを目的としています。
 
 #### 普通话
-> 普通话：国务秘书处
+> 普通话：国务秘书部门
 
-国务秘书处是德伦诺莫政府的一个部门，负责协调和管理各个政府机构的国务秘书工作。国务秘书通常是高级政府官员，与部长和其他高级官员密切合作，实施政府政策和计划。国务秘书处有助于确保这些官员有效且高效地工作，并在实施政府政策时确保意见一致。该部门还为国务秘书提供行政支持和指导，并努力确保他们具备有效履行职责所需的资源和信息。
+国务秘书部门是德认诺莫政府的一个部门，负责协调和管理各个政府机构的国务秘书工作。国务秘书通常是高级政府官员，与部长和其他高级官员密切合作，实施政府政策和计划。国务秘书部门有助于确保这些官员有效且高效地工作，并在实施政府政策时确保意见一致。该部门还为国务秘书提供行政支持和指导，并努力确保他们具备有效履行职责所需的资源和信息。
 
 #### Italiano
 > Italiano: Ministero del Segretariato di Stato
@@ -268,14 +268,14 @@ The Ministry of Technology and Information is a government ministry in Derrenomo
 Kementerian Teknologi dan Informasi adalah kementerian pemerintah di Derrenomo yang bertanggung jawab atas pengembangan dan pelaksanaan kebijakan terkait teknologi informasi dan komunikasi. Kementerian ini bekerja untuk mempromosikan pengembangan dan penggunaan teknologi dalam pelayanan pemerintah, serta sektor swasta. Kementerian Teknologi dan Informasi bertanggung jawab atas pengawasan pelaksanaan infrastruktur teknologi dan memastikan bahwa infrastruktur tersebut digunakan secara efektif dan efisien di berbagai lembaga pemerintah. Selain itu, kementerian ini bertujuan untuk melindungi privasi dan keamanan data warga negara dengan menerapkan kebijakan perlindungan data yang tepat.
 
 #### 日本語
-> 日本語：情報通信省
+> 日本語：技術情報省
 
-情報通信省は、情報技術や通信に関連する政策を策定および実施するデレノモの政府省庁です。この省は、政府のサービスだけでなく、私企業においても、技術の開発と使用を促進することを目指しています。情報通信省は、技術インフラストラクチャーの実施状況を監視し、さまざまな政府機関において効果的で効率的に使用されていることを確認する責任があります。また、この省は、適切なデータ保護ポリシーを実施することにより、市民のデータのプライバシーとセキュリティを保護することを目指しています。
+技術情報省は、情報技術や通信に関連する政策を策定および実施するデレノモの政府省庁です。この省は、政府のサービスだけでなく、私企業においても、技術の開発と使用を促進することを目指しています。技術情報省は、技術インフラストラクチャーの実施状況を監視し、さまざまな政府機関において効果的で効率的に使用されていることを確認する責任があります。また、この省は、適切なデータ保護ポリシーを実施することにより、市民のデータのプライバシーとセキュリティを保護することを目指しています。
 
 #### 普通话
 > 普通话：科技与信息部门
 
-科技与信息部门是德伦诺莫政府的一个部门，负责制定和实施与信息技术和通信有关的政策。该部门旨在促进政府服务以及私营部门中的技术开发和使用。科技与信息部门负责监督技术基础设施的实施，确保其在各个政府机构中得到有效和高效的使用。此外，该部门旨在通过实施适当的数据保护政策来保护市民数据的隐私和安全。
+科技与信息部门是德认诺莫政府的一个部门，负责制定和实施与信息技术和通信有关的政策。该部门旨在促进政府服务以及私营部门中的技术开发和使用。科技与信息部门负责监督技术基础设施的实施，确保其在各个政府机构中得到有效和高效的使用。此外，该部门旨在通过实施适当的数据保护政策来保护市民数据的隐私和安全。
 
 #### Italiano
 > Italiano: Ministero della Tecnologia e delle Informazioni
@@ -299,7 +299,7 @@ Kementerian Dalam Negeri adalah kementerian pemerintah di Derrenomo yang bertang
 #### 普通话
 > 普通话：内务部门
 
-内务部门是德伦诺莫政府的一个部门，负责维护国家的法律和秩序。该部门监督警察部队和其他执法机构，并致力于制定和实施与犯罪预防、公共安全和应急管理有关的政策。内务部门还负责处理签证和护照等与公民身份和移民有关的问题，并管理边境控制。该部门在促进和维护德伦诺莫人民和边境的安全和稳定方面发挥着至关重要的作用。
+内务部门是德认诺莫政府的一个部门，负责维护国家的法律和秩序。该部门监督警察部队和其他执法机构，并致力于制定和实施与犯罪预防、公共安全和应急管理有关的政策。内务部门还负责处理签证和护照等与公民身份和移民有关的问题，并管理边境控制。该部门在促进和维护德认诺莫人民和边境的安全和稳定方面发挥着至关重要的作用。
 
 ####  Italiano
 > Italiano: Ministero degli Affari Interni
@@ -323,7 +323,7 @@ Kementerian Kehakiman adalah kementerian pemerintah di Derrenomo yang bertanggun
 #### 普通话
 > 普通话：司法部门
 
-司法部门是德伦诺莫政府的一个部门，负责监督国家的司法系统。该部门致力于制定和实施与刑法、民事法和人权有关的法律和政策。司法部门负责法庭和法律制度的行政管理，包括任命法官和其他法律官员、监管监狱系统以及执行法律和法规等。该部门在确保司法系统公正、正义并维护法治方面发挥着关键作用。
+司法部门是德认诺莫政府的一个部门，负责监督国家的司法系统。该部门致力于制定和实施与刑法、民事法和人权有关的法律和政策。司法部门负责法庭和法律制度的行政管理，包括任命法官和其他法律官员、监管监狱系统以及执行法律和法规等。该部门在确保司法系统公正、正义并维护法治方面发挥着关键作用。
 
 #### Italiano
 > Italiano: Ministero della Giustizia
@@ -340,14 +340,14 @@ The Ministry of Religious and Social Affairs is a government ministry in Derreno
 Kementerian Agama dan Sosial adalah kementerian pemerintah di Derrenomo yang bertanggung jawab atas mengembangkan dan melaksanakan kebijakan terkait agama dan kesejahteraan sosial. Kementerian ini bekerja untuk mempromosikan kebebasan beragama dan toleransi, serta memfasilitasi praktik berbagai agama di dalam negeri. Selain itu, Kementerian Agama dan Sosial bertanggung jawab atas kebijakan kesejahteraan sosial, seperti yang terkait dengan pengurangan kemiskinan, layanan sosial, dan pembangunan masyarakat. Kementerian ini memainkan peran kunci dalam mempromosikan keadilan sosial dan kesetaraan di dalam Derrenomo.
 
 #### 日本語
-> 日本語：宗教・社会
+> 日本語：宗教社会省
 
-宗教・社会局は、宗教と社会福祉に関連する政策を策定・実施するデレノモの政府省庁です。この省は宗教の自由と寛容を促進し、国内でのさまざまな宗教の実践を容易にするために働いています。また、宗教・社会局は、貧困削減、社会サービス、コミュニティ開発などの社会福祉政策にも責任を持っています。この省は、デレノモ内での社会正義と平等の促進に重要な役割を果たしています。
+宗教社会省局は、宗教と社会福祉に関連する政策を策定・実施するデレノモの政府省庁です。この省は宗教の自由と寛容を促進し、国内でのさまざまな宗教の実践を容易にするために働いています。また、宗教社会省局は、貧困削減、社会サービス、コミュニティ開発などの社会福祉政策にも責任を持っています。この省は、デレノモ内での社会正義と平等の促進に重要な役割を果たしています。
 
 #### 普通话
 > 普通话：宗教和社会事务部门
 
-宗教和社会事务部门是德伦诺莫政府的一个部门，负责制定和实施与宗教和社会福利有关的政策。该部门致力于促进宗教自由和包容性，并便利各种宗教在国内的实践。此外，宗教和社会事务部门还负责社会福利政策，如减贫、社会服务和社区发展等。该部门在促进德伦诺莫内的社会正义和平等方面发挥着关键作用。
+宗教和社会事务部门是德认诺莫政府的一个部门，负责制定和实施与宗教和社会福利有关的政策。该部门致力于促进宗教自由和包容性，并便利各种宗教在国内的实践。此外，宗教和社会事务部门还负责社会福利政策，如减贫、社会服务和社区发展等。该部门在促进德认诺莫内的社会正义和平等方面发挥着关键作用。
 
 #### Italiano
 > Italiano: Ministero degli Affari Religiosi e Sociali
@@ -371,7 +371,7 @@ Divisi Kebudayaan adalah divisi dari Kementerian Agama dan Sosial di Derrenomo y
 #### 普通话
 > 普通话：文化局
 
-文化局是德伦诺莫宗教和社会部门下属的一个部门，负责制定和实施与文化保护和促进有关的政策。该部门致力于促进和保护德伦诺莫的文化遗产和传统，并便利各种文化活动和节日的实践和庆祝活动在全国范围内举行。此外，文化局还负责支持各种艺术形式的发展，如戏剧、音乐、舞蹈和文学等。该局在维护和促进德伦诺莫的文化身份方面发挥着至关重要的作用。
+文化局是德认诺莫宗教和社会部门下属的一个部门，负责制定和实施与文化保护和促进有关的政策。该部门致力于促进和保护德认诺莫的文化遗产和传统，并便利各种文化活动和节日的实践和庆祝活动在全国范围内举行。此外，文化局还负责支持各种艺术形式的发展，如戏剧、音乐、舞蹈和文学等。该局在维护和促进德认诺莫的文化身份方面发挥着至关重要的作用。
 
 #### Italiano
 > Italiano: Divisione della Cultura
@@ -395,7 +395,7 @@ Kementerian Kesehatan adalah kementerian pemerintah di Derrenomo yang bertanggun
 #### 普通话
 > 普通话：卫生部门
 
-卫生部门是德伦诺莫政府的一个部门，负责监督国家的医疗保健系统。该部门致力于制定和实施与公共卫生、疾病预防和医疗服务有关的政策和计划。此外，卫生部门还负责监管和监督医院、诊所和其他医疗设施，以及医疗专业人员的认证。该部门在确保公民能够获得高质量医疗保健服务，促进公共卫生和福祉方面发挥着关键作用。
+卫生部门是德认诺莫政府的一个部门，负责监督国家的医疗保健系统。该部门致力于制定和实施与公共卫生、疾病预防和医疗服务有关的政策和计划。此外，卫生部门还负责监管和监督医院、诊所和其他医疗设施，以及医疗专业人员的认证。该部门在确保公民能够获得高质量医疗保健服务，促进公共卫生和福祉方面发挥着关键作用。
 
 #### Italiano
 > Italiano: Ministero della Salute
