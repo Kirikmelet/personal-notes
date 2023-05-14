@@ -32,6 +32,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+"kanban-plugin":"basic"
 ```
 %%

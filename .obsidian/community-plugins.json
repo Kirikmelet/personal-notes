@@ -1,17 +1,11 @@
 [
   "dataview",
-  "obsidian-dictionary-plugin",
   "obsidian-kanban",
   "homepage",
-  "obsidian-markdown-furigana",
   "obsidian-minimal-settings",
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "japanese-word-splitter",
-  "templater-obsidian",
-  "calendar",
   "obsidian-outliner",
-  "obsidian-advanced-uri",
-  "custom-classes"
+  "table-editor-obsidian"
 ]

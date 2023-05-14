@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
-  "monospaceFontFamily": "BlexMono NFM,Noto Sans Mono CJK JP",
+  "theme": "moonstone",
+  "monospaceFontFamily": "BlexMono Nerd Font Mono,BlexMono Nerd Font,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC",
   "textFontFamily": "Noto Serif CJK SC,Noto Serif CJK JP,Noto Sans CJK SC,Noto Sans CJK JP",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "baseFontSize": 23,
+  "baseFontSize": 25,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "cjk-pdf",
