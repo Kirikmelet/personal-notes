@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
+                "file": "Index.md"
               }
             }
           }
@@ -178,8 +176,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f1e40a853e8c8354",
+  "active": "7201301d9b6a64f4",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Index.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "i.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230515-代数２.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
@@ -190,20 +192,16 @@
     "zettelkasten/20230515-lol.md",
     "templates",
     "Untitled.md",
-    "i.md",
     "zettelkasten/20230515-「多項式」恒等式.md",
     "zettelkasten/20230515-「多項式」グラフ.md",
     "zettelkasten/20230515-「多項式」二次パターン.md",
     "zettelkasten/20230515-「多項式」標準形.md",
-    "Index.md",
     "zettelkasten/20230515-科学.md",
     "_Refile.md",
     "zettelkasten/20230515-Structure Codes.md",
     "zettelkasten/20230515-社会主义.md",
     "zettelkasten/20230515-共产主义.md",
-    "Tasks.md",
     "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Dokumentobjectmodell.md",
     "zettelkasten/20230515-Farben Lehre.md",

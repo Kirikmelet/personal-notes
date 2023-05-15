@@ -46,3 +46,4 @@ dv.list(math_notes.map(f => dv.fileLink(f.path)))
 const notes = dv.pages("#science/index").file
 dv.list(notes.link)
 ```
+
