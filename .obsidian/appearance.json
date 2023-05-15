@@ -2,12 +2,13 @@
   "accentColor": "",
   "theme": "moonstone",
   "monospaceFontFamily": "BlexMono Nerd Font Mono,BlexMono Nerd Font,Noto Sans Mono CJK JP,Noto Sans Mono CJK SC",
-  "textFontFamily": "Noto Serif CJK SC,Noto Serif CJK JP,Noto Sans CJK SC,Noto Sans CJK JP",
+  "textFontFamily": "Noto Sans CJK SC,Noto Sans CJK JP,Noto Serif CJK SC,Noto Serif CJK JP",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
   "baseFontSize": 25,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "cjk-pdf",
     "cjk-pdf-serif"
-  ]
+  ],
+  "nativeMenus": false
 }
