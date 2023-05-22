@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1611df58dfa683d",
+        "id": "3cb101db55081664",
         "type": "tabs",
         "children": [
           {
-            "id": "7201301d9b6a64f4",
+            "id": "d5b03f1328258e1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "zettelkasten/20230517-「指数」対数.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gaming/minecraft/derrenomo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230517-「指数」対数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230517-「指数」対数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +119,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "7e049adea6fe9b76",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
             }
           },
           {
@@ -150,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20230517-「指数」対数.md"
               }
             }
           }
@@ -176,49 +169,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7201301d9b6a64f4",
+  "active": "d5b03f1328258e1c",
   "lastOpenFiles": [
-    "Tasks.md",
     "Index.md",
+    "zettelkasten/20230517-「指数」対数.md",
+    "zettelkasten/20230515-指数式.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "i.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-代数２.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230515-化学.md",
-    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
-    "templates/template.md",
-    "zettelkasten/20230515-IOTE.md",
-    "zettelkasten/20230515-lol.md",
-    "templates",
+    "canvas/20230519C-Struktur Negara.canvas",
+    "zettelkasten/20230519-Struktur Negara.md",
     "Untitled.md",
-    "zettelkasten/20230515-「多項式」恒等式.md",
-    "zettelkasten/20230515-「多項式」グラフ.md",
-    "zettelkasten/20230515-「多項式」二次パターン.md",
-    "zettelkasten/20230515-「多項式」標準形.md",
-    "zettelkasten/20230515-科学.md",
-    "_Refile.md",
-    "zettelkasten/20230515-Structure Codes.md",
-    "zettelkasten/20230515-社会主义.md",
-    "zettelkasten/20230515-共产主义.md",
-    "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Dokumentobjectmodell.md",
-    "zettelkasten/20230515-Farben Lehre.md",
+    "canvas",
+    "templates/template.md",
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-「化学」モル.md",
+    "zettelkasten/20230515-化学.md",
+    "Notes/zettelkasten/20230515-複素数.md",
+    "Notes/zettelkasten/20230515-科学.md",
+    "Notes/zettelkasten/20230515-等比級数.md",
+    "Notes/zettelkasten/20230515-社会主义.md",
+    "Notes/zettelkasten/20230515-指数式.md",
+    "Notes/zettelkasten/20230515-多項式.md",
+    "Notes/zettelkasten/20230515-国際の言語の初等数学の単語.md",
+    "Notes/zettelkasten/20230515-化学.md",
+    "Notes/zettelkasten/20230515-代数２.md",
+    "Notes/zettelkasten/20230515-共产主义.md",
+    "Notes/zettelkasten/20230515-「指数」有理指数.md",
+    "Notes/zettelkasten/20230515-「指数」指数的性質.md",
+    "Notes/zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "Notes/zettelkasten/20230515-「指数」指数的モデル.md",
+    "Notes/zettelkasten/20230515-「多項式」終了動作.md",
+    "Notes/zettelkasten",
+    "Notes/templates",
+    "Notes/resources/「多項式」終了動作-3.png",
+    "Notes/resources/「多項式」終了動作-2.png",
+    "Notes/resources/「多項式」終了動作-1.png",
+    "Notes/resources/seal.svg",
+    "Notes/resources/flag.svg",
+    "Notes/resources/flag_with_seal.svg",
+    "Notes/resources",
+    "Notes/remove_ruby.ps1",
+    "Notes",
+    "templates",
     "resources/「多項式」終了動作-1.png",
     "resources/seal.svg",
     "resources/flag.svg",
     "resources",
     "政治/政治的思想",
     "remove_ruby.ps1",
-    "日本語勉強と言葉/単語",
-    "日本語勉強と言葉",
-    "科学のノット/化学",
-    "科学のノット",
-    "resources/flag_with_seal.svg",
-    "ゲーミング/マインクラフト/derrenomo",
-    "ゲーミング/マインクラフト",
-    "resources/「多項式」終了動作-2.png",
-    "resources/「多項式」終了動作-3.png"
+    "resources/flag_with_seal.svg"
   ]
 }

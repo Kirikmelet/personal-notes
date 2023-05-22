@@ -9,5 +9,10 @@
   },
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "useMarkdownLinks": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ]
 }

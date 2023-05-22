@@ -1,5 +1,5 @@
 {
   "folder": "zettelkasten",
   "format": "YYYYMMDD-",
-  "template": "zettelkasten/template"
+  "template": "templates/template"
 }

@@ -59,5 +59,6 @@
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
   "anuppuccin-theme-settings@@anp-print": true,
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "serenity-theme@@compact-settings": true
 }
