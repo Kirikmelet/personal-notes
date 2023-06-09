@@ -1,12 +1,12 @@
 [
+  "table-editor-obsidian",
   "dataview",
-  "obsidian-kanban",
   "homepage",
+  "obsidian-kanban",
   "obsidian-minimal-settings",
   "obsidian-git",
+  "obsidian-outliner",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "obsidian-outliner",
-  "table-editor-obsidian",
   "webpage-html-export"
 ]

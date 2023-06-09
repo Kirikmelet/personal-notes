@@ -1,9 +1,9 @@
 {
-  "inlineCSS": true,
-  "inlineJS": true,
-  "inlineImages": true,
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": false,
   "includePluginCSS": "obsidian-kanban\ndataview\nobsidian-git\nobsidian-tasks-plugin\nobsidian-outliner",
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
   "beautifyHTML": true,
@@ -11,9 +11,9 @@
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": false,
+  "includeGraphView": true,
   "includeVaultOutline": true,
-  "exportPreset": "documents",
+  "exportPreset": "website",
   "customLineWidth": "",
   "openAfterExport": true,
   "keepNestedFolderStructure": false,
@@ -24,5 +24,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "C:\\Users\\troyd\\Desktop\\test\\20230517-「指数」対数.html"
+  "lastExportPath": "C:\\Users\\troyd\\Desktop\\test"
 }

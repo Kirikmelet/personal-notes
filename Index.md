@@ -27,23 +27,30 @@ hide urgency
 is recurring
 ```
 # プロジェクト
+## ゲーミング  
 ```dataviewjs
-let index_kanban = dv.pages('#projects')
-if (index_kanban.length > 0) {
-	dv.list(index_kanban.file.link)
-} else {
-	dv.paragraph("プロジェクトがありない")
-}
+const data = dv.pages("#gaming/index").file
+//dv.list(data.link)
+dv.table(["リンク", "タグ"], data.map((f) => [f.link, f.etags.filter((f) => !f.includes("index"))]))
 ```
 # 学校話題
 ## 数学の副話題
 ```dataviewjs
-let math_notes = dv.pages("#math/index").file
-dv.list(math_notes.map(f => dv.fileLink(f.path)))
+const data = dv.pages("#math/index").file
+//dv.list(math_notes.map(f => dv.fileLink(f.path)))
+dv.table(["リンク", "タグ"], data.map((f) => [f.link, f.etags.filter((f) => !f.includes("index"))]))
 ```
 ## 科学の副話題
 ```dataviewjs
-const notes = dv.pages("#science/index").file
-dv.list(notes.link)
+const data = dv.pages("#science/index").file
+//dv.list(notes.link)
+dv.table(["リンク", "タグ"], data.map((f) => [f.link, f.etags.filter((f) => !f.includes("index"))]))
+```
+
+# 政治のノート
+```dataviewjs
+const data = dv.pages("#politics and -#politics/essay").file
+//dv.list(notes.link)
+dv.table(["リンク", "タグ"], data.map((f) => [f.link, f.etags.filter((f) => !f.includes("index"))]))
 ```
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb101db55081664",
+        "id": "58353ea488f4007b",
         "type": "tabs",
         "children": [
           {
-            "id": "d5b03f1328258e1c",
+            "id": "5cac02df8ad290f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230517-「指数」対数.md",
+                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230517-「指数」対数.md",
+                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230517-「指数」対数.md",
+                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230517-「指数」対数.md"
+                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,43 +163,44 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
-      "zk-prefixer:Create new unique note": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d5b03f1328258e1c",
+  "active": "5cac02df8ad290f1",
   "lastOpenFiles": [
     "Index.md",
-    "zettelkasten/20230517-「指数」対数.md",
+    "zettelkasten/20230607-「指数」基底之対数変化為之導入部.md",
+    "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "canvas/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20230519-Struktur Negara.md",
-    "Untitled.md",
-    "canvas",
-    "templates/template.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230523-「指数」対数の性質.md",
+    "zettelkasten/20230517-「指数」対数.md",
+    "zettelkasten/20230515-共产主义.md",
+    "zettelkasten/20230605-「指数」自然対数.md",
     "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20230515-化学.md",
-    "Notes/zettelkasten/20230515-複素数.md",
-    "Notes/zettelkasten/20230515-科学.md",
-    "Notes/zettelkasten/20230515-等比級数.md",
-    "Notes/zettelkasten/20230515-社会主义.md",
-    "Notes/zettelkasten/20230515-指数式.md",
-    "Notes/zettelkasten/20230515-多項式.md",
-    "Notes/zettelkasten/20230515-国際の言語の初等数学の単語.md",
-    "Notes/zettelkasten/20230515-化学.md",
-    "Notes/zettelkasten/20230515-代数２.md",
-    "Notes/zettelkasten/20230515-共产主义.md",
-    "Notes/zettelkasten/20230515-「指数」有理指数.md",
-    "Notes/zettelkasten/20230515-「指数」指数的性質.md",
-    "Notes/zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
-    "Notes/zettelkasten/20230515-「指数」指数的モデル.md",
-    "Notes/zettelkasten/20230515-「多項式」終了動作.md",
+    "zettelkasten/20230515-「指数」有理指数.md",
+    "zettelkasten/20230515-社会主义.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
+    "zettelkasten/20230524-Negara Derrenomo.md",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "canvas/20230519C-Struktur Negara.canvas",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-国際の言語の初等数学の単語.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "Tasks.md",
+    "templates/template.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Dokumentobjectmodell.md",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "canvas",
     "Notes/zettelkasten",
     "Notes/templates",
     "Notes/resources/「多項式」終了動作-3.png",
