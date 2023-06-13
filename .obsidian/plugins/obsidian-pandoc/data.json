@@ -5,11 +5,11 @@
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "text",
+  "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": "C:\\Users\\troyd\\Desktop",
-  "extraArguments": "--template obsidian_pdf --pdf-engine xelatex -s --embed-resources",
+  "extraArguments": "",
   "exportFrom": "md"
 }

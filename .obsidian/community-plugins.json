@@ -8,5 +8,6 @@
   "obsidian-outliner",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-pandoc"
 ]

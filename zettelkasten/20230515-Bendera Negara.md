@@ -1,5 +1,5 @@
-![[seal.svg]]
+![seal](seal.svg)]
 
-![[flag.svg]]
+![flag](flag.svg)
 
-![[flag_with_seal.svg]]
+![flag_with_seal](flag_with_seal.svg)

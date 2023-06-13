@@ -2,35 +2,38 @@
 cssclass: cjk-font-serif
 tags: gaming/minecraft/derrenomo
 ---
+
 > Set to the tune of [Indonesia Raya](https://www.youtube.com/watch?v=uyyLot4PLXM&pp=ygUbaW5kb25lc2lhIHJheWEgaW5zdHJ1bWVudGFs)
+
 # For Independence, Anti-Imperialism and Freedom, Anthem of Derrenomo
-Chorus: 
+
+Chorus:
 Hail Derrenomo, land of the free,
-Our spirit of independence, forever shall be. 
+Our spirit of independence, forever shall be.
 With unity and strength, we’ll stand tall,
 Our flag will wave high, let it be known to all.
 
-Verse 1: 
+Verse 1:
 Our land is filled with diversity,
-From the mountains to the sea. 
+From the mountains to the sea.
 With courage and pride, we'll uphold our right,
 To stand firm against oppression's might.
 
-Chorus: 
+Chorus:
 Hail Derrenomo, land of the free,
-Our spirit of independence, forever shall be. 
+Our spirit of independence, forever shall be.
 With unity and strength, we’ll stand tall,
 Our flag will wave high, let it be known to all.
 
 Verse 2:
 Against imperialism, we will fight,
-To uphold our sovereignty and our right. 
+To uphold our sovereignty and our right.
 Our freedom, our pride, our destiny,
 Shall see us through all adversity.
 
 Chorus:
 Hail Derrenomo, land of the free,
-Our spirit of independence, forever shall be. 
+Our spirit of independence, forever shall be.
 With unity and strength, we’ll stand tall,
 Our flag will wave high, let it be known to all.
 
@@ -47,6 +50,7 @@ With unity and strength, we’ll stand tall,
 Our flag will wave high, let it be known to all.
 
 # Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo
+
 Refrain:
 Hidup Derrenomo, tanah kebebasan,
 Semangat kebebasan selalu abadi.
@@ -54,25 +58,25 @@ Dengan persatuan dan kekuatan, kita tegak berdiri, Bendera kita berkibar tinggi,
 
 Couplet 1:
 Dari gunung hingga laut, Bumi kita penuh keanekaragaman.
-Dengan keberanian dan kebanggaan, 
+Dengan keberanian dan kebanggaan,
 kita jaga hak-hak kita,
 Teguh berdiri melawan penindasan dan kekuasaan.
 
 Refrain:
-Hidup Derrenomo, tanah kebebasan, 
+Hidup Derrenomo, tanah kebebasan,
 Semangat kebebasan selalu abadi.
-Dengan persatuan dan kekuatan, 
-kita tegak berdiri, Bendera kita berkibar tinggi, 
+Dengan persatuan dan kekuatan,
+kita tegak berdiri, Bendera kita berkibar tinggi,
 dan semua tahu itu.
 
 Couplet 2:
-Melawan penjajahan, kita perjuangkan, 
+Melawan penjajahan, kita perjuangkan,
 Untuk merdeka dan berdaulat kita berdiri tegak.
-Kebebasan, kebanggaan, dan masa depan kita, 
+Kebebasan, kebanggaan, dan masa depan kita,
 Melalui segala rintangan, kita tetap berjaya.
 
 Refrain:
-Hidup Derrenomo, tanah kebebasan, 
+Hidup Derrenomo, tanah kebebasan,
 Semangat kebebasan selalu abadi.
 Dengan persatuan dan kekuatan, kita tegak berdiri, Bendera kita berkibar tinggi, dan semua tahu itu.
 
@@ -81,10 +85,10 @@ Dengan budaya dan sejarah kita yang kaya, Kita persembahkan dan bangga akan bang
 Bersama kita ciptakan masa depan yang gemilang, Di mana kebebasan selalu menjadi cita-cita kita.
 
 Refrain:
-Hidup Derrenomo, tanah kebebasan, 
+Hidup Derrenomo, tanah kebebasan,
 Semangat kebebasan selalu abadi.
-Dengan persatuan dan kekuatan, 
-kita tegak berdiri, Bendera kita berkibar tinggi, 
+Dengan persatuan dan kekuatan,
+kita tegak berdiri, Bendera kita berkibar tinggi,
 dan semua tahu itu.
 
 # 独立と反帝国主義、自由のためのデレノモ国歌
@@ -103,11 +107,11 @@ dan semua tahu itu.
 私たちは私たちの権利を守ります。
 抑圧に対して勇敢に戦います。
 
-リフレイン： 
+リフレイン：
 生きるデレノモ、
 自由の地、 独立の精神は永遠に続きます。
 団結と力で、
-私達は強く立ち上がります。 
+私達は強く立ち上がります。
 私たちの旗が高く波打ち、
 全てに知られています。
 
@@ -125,15 +129,15 @@ dan semua tahu itu.
 私たちの旗が高く波打ち、全てに知られています。
 
 ブリッジ：
-私たちの豊かな文化と歴史によって、 
-私たちは私たちの国を誇りに思います。 
+私たちの豊かな文化と歴史によって、
+私たちは私たちの国を誇りに思います。
 一緒に美しい未来を創り上げましょう。
 自由に向かって進みましょう。
 
 リフレイン：
 生きるデレノモ、自由の地、
-独立の精神は永遠に続きます。 
-団結と力で、私達は強く立ち上がります。 
+独立の精神は永遠に続きます。
+団結と力で、私達は強く立ち上がります。
 私たちの旗が高く波打ち、全てに知られています。
 
 # 为独立、反帝国主义和自由而唱的德认诺莫国歌

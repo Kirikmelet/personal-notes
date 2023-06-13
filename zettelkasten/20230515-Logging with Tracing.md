@@ -1,11 +1,15 @@
 ---
+null
 ---
+
 # Logging with Tracing
+
 [`tracing`](https://github.com/tokio-rs/tracing) is a logging crate for [Rust](https://rust-lang.org) made by [`tokio-rs`](https://tokio.rs/). The crate supports async, multi-threading, and has a special paradigm where logs can also be grouped with what are called [spans](#What%20are%20spans?)
 
-
 ## How to use?
+
 `tracing` operates with traits that are called `Subscriber`. This trait implements the actual complete action the logging will do. This trait handles what happens when spans, or events are logged.
+
 ```rust
 pub struct CentralLogSubscriber {
     id_store: CentralIdStore,
@@ -57,4 +61,5 @@ impl Subscriber for CentralLogSubscriber {
 # Explanations
 
 ## What are spans?
+
 Spans are a type of data store that represents a period of time the logs within the span are logged.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb0f5148f6e6460",
+        "id": "52be0616e0377210",
         "type": "tabs",
         "children": [
           {
-            "id": "bb35c91732db4068",
+            "id": "d5c040c0084edbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
+                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基本",
+                "query": "\\",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
+                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
+                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md"
+                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,34 +169,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb35c91732db4068",
+  "active": "d5c040c0084edbfb",
   "lastOpenFiles": [
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230515-等比級数.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230523-「対数」対数の性質.md",
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
+    "zettelkasten/20230605-「対数」自然対数.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-Protokollierung.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-「指数」有理指数.md",
+    "zettelkasten/20230515-「指数」指数的性質.md",
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-「多項式」終了動作.md",
+    "zettelkasten/20230515-「多項式」割り算.md",
+    "zettelkasten/20230515-「多項式」グラフ.md",
+    "zettelkasten/20230515-「化学」粒子.md",
+    "zettelkasten/20230515-「化学」モル.md",
     "Index.md",
     "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
     "zettelkasten/20230611-関数の移動する.md",
     "20230612-絶対値].md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230612-絶対値.md",
     "Tasks.md",
     "templates/template.md",
-    "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-Farben Lehre.md",
-    "zettelkasten/20230515-Dokumentobjectmodell.md",
-    "zettelkasten/20230515-Logging with Tracing.md",
-    "zettelkasten/20230515-Motto Negara.md",
-    "zettelkasten/20230515-Nama-nama Negara.md",
-    "zettelkasten/20230515-Protokollierung.md",
-    "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230515-Structure Codes.md",
-    "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20230515-「化学」粒子.md",
-    "zettelkasten/20230515-「多項式」グラフ.md",
-    "zettelkasten/20230515-「多項式」ゼロ.md",
     "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "canvas/20230519C-Struktur Negara.canvas",
     "canvas",
