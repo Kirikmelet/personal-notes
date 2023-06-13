@@ -1,31 +1,5 @@
 # 出来事の仕事
 
-```tasks
-sort by priority
-group by priority
-group by due date
-group by scheduled date
-hide recurrence rule
-due tomorrow
-hide urgency
-is not recurring
-```
-## 繰り返するの仕事
-```tasks
-sort by priority
-# group by recurrence
-# recurrence includes ${recur}
-group by recurrence
-hide recurrence rule
-not done
-due today
-hide urgency
-#hide priority
-#hide due date
-#hide done date
-#hide backlink
-is recurring
-```
 # プロジェクト
 ## ゲーミング  
 ```dataviewjs

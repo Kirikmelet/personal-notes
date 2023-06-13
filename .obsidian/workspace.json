@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58353ea488f4007b",
+        "id": "bdb0f5148f6e6460",
         "type": "tabs",
         "children": [
           {
-            "id": "5cac02df8ad290f1",
+            "id": "bb35c91732db4068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
+                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "基本",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
+                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
+                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +143,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md"
+                "file": "zettelkasten/20230515-国際言語には基本的数学の言葉.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,35 +169,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cac02df8ad290f1",
+  "active": "bb35c91732db4068",
   "lastOpenFiles": [
     "Index.md",
-    "zettelkasten/20230607-「指数」基底之対数変化為之導入部.md",
-    "zettelkasten/20230609-「指数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230523-「指数」対数の性質.md",
-    "zettelkasten/20230517-「指数」対数.md",
-    "zettelkasten/20230515-共产主义.md",
-    "zettelkasten/20230605-「指数」自然対数.md",
-    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-「指数」有理指数.md",
-    "zettelkasten/20230515-社会主义.md",
-    "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "zettelkasten/20230524-Negara Derrenomo.md",
-    "zettelkasten/20230519-Struktur Negara.md",
-    "canvas/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20230515-科学.md",
-    "zettelkasten/20230515-国際の言語の初等数学の単語.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
+    "zettelkasten/20230611-関数の移動する.md",
+    "20230612-絶対値].md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230612-絶対値.md",
     "Tasks.md",
     "templates/template.md",
     "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Dokumentobjectmodell.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-Dokumentobjectmodell.md",
+    "zettelkasten/20230515-Logging with Tracing.md",
+    "zettelkasten/20230515-Motto Negara.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
+    "zettelkasten/20230515-Protokollierung.md",
+    "zettelkasten/20230515-Relativsätze.md",
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/20230515-Structure Codes.md",
+    "zettelkasten/20230515-「化学」モル.md",
+    "zettelkasten/20230515-「化学」粒子.md",
+    "zettelkasten/20230515-「多項式」グラフ.md",
+    "zettelkasten/20230515-「多項式」ゼロ.md",
+    "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+    "canvas/20230519C-Struktur Negara.canvas",
     "canvas",
     "Notes/zettelkasten",
     "Notes/templates",
@@ -218,7 +217,6 @@
     "resources/flag.svg",
     "resources",
     "政治/政治的思想",
-    "remove_ruby.ps1",
-    "resources/flag_with_seal.svg"
+    "remove_ruby.ps1"
   ]
 }
