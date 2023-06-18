@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52be0616e0377210",
+        "id": "8c7d2debc810b214",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c040c0084edbfb",
+            "id": "58cdf9686e060019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
-                "mode": "preview",
+                "file": "zettelkasten/20230611-関数の移動する.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\",
+                "query": "tag:#math/algebra2/func_transformation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+                "file": "zettelkasten/20230611-関数の移動する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+                "file": "zettelkasten/20230611-関数の移動する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md"
+                "file": "zettelkasten/20230611-関数の移動する.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,12 +170,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d5c040c0084edbfb",
+  "active": "58cdf9686e060019",
   "lastOpenFiles": [
     "zettelkasten/20230612-絶対値.md",
+    "Index.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230611-関数の移動する.md",
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230517-対数.md",
     "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
     "zettelkasten/20230605-「対数」自然対数.md",
@@ -189,14 +195,9 @@
     "zettelkasten/20230515-「多項式」グラフ.md",
     "zettelkasten/20230515-「化学」粒子.md",
     "zettelkasten/20230515-「化学」モル.md",
-    "Index.md",
     "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
-    "zettelkasten/20230611-関数の移動する.md",
     "20230612-絶対値].md",
     "Tasks.md",
-    "templates/template.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
     "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "canvas/20230519C-Struktur Negara.canvas",
     "canvas",

@@ -1,9 +1,8 @@
 {
-  "accentColor": "#3dc265",
-  "cssTheme": "Minimal",
-  "baseFontSize": 24,
-  "theme": "obsidian",
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "accentColor": "",
+  "theme": "moonstone",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "monospaceFontFamily": "Noto Sans Mono CJK JP,Noto Sans Mono CJK SC"
+  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "baseFontSize": 22,
+  "cssTheme": "Minimal"
 }

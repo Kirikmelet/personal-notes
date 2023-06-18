@@ -2,13 +2,6 @@
 
 # プロジェクト
 
-## ゲーミング
-
-```dataviewjs
-const data = dv.pages("#gaming/index").file
-//dv.list(data.link)
-dv.table(["リンク", "タグ"], data.map((f) => [f.link, f.etags.filter((f) => !f.includes("index"))]))
-```
 
 # 学校話題
 
