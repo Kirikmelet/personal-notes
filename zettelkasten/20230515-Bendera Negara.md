@@ -1,5 +1,5 @@
-![seal](seal.svg)]
+![seal](20230515-seal.svg)]
 
-![flag](flag.svg)
+![flag](20230515-flag.svg)
 
-![flag_with_seal](flag_with_seal.svg)
+![flag_with_seal](20230515-flag_with_seal.svg)

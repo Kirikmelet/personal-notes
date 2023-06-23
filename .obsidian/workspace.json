@@ -4,19 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "8c7d2debc810b214",
+        "id": "b720ed8173f97637",
         "type": "tabs",
         "children": [
           {
-            "id": "58cdf9686e060019",
+            "id": "9533b4932b8e8ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230611-関数の移動する.md",
-                "mode": "source",
+                "file": "zettelkasten/20230621-偶関数と奇関数.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "36c38430d7bad52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-共产主义.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -71,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230611-関数の移動する.md",
+                "file": "zettelkasten/20230621-偶関数と奇関数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230611-関数の移動する.md",
+                "file": "zettelkasten/20230621-偶関数と奇関数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230611-関数の移動する.md"
+                "file": "zettelkasten/20230621-偶関数と奇関数.md"
               }
             }
           }
@@ -170,12 +182,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "58cdf9686e060019",
+  "active": "9533b4932b8e8ec3",
   "lastOpenFiles": [
-    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230515-共产主义.md",
     "Index.md",
+    "zettelkasten/20230515-社会主义.md",
+    "zettelkasten/20230621-偶関数と奇関数.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230611-関数図形の移動する-3.webp",
+    "zettelkasten/20230611-関数図形の移動する-2.png",
+    "zettelkasten/20230611-関数図形の移動する-1.png",
+    "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+    "templates/template.md",
+    "export/20230515-「多項式」終了動作-3.png",
+    "export/20230515-「多項式」終了動作-2.png",
+    "export/20230515-「多項式」終了動作-1.png",
+    "export/20230613-「絶対値」絶対  値に以てにグラフ化する.html",
+    "export/20230612-絶対値.html",
+    "export/20230611-関数の移動する.html",
+    "export/20230609-「対数」対数に以てに指数的方程式を解決する.html",
+    "export/20230607-「対数」基底之対数変化為之導入部.html",
+    "export/20230605-「対数」自然対数.html",
+    "export/20230526-Marxism - Das Kapital.html",
+    "export/20230524-Negara Derrenomo.html",
+    "export/20230523-「対数」対数の性質.html",
+    "export/20230519-Struktur Negara.html",
+    "zettelkasten/20230515-「多項式」終了動作-1.png",
+    "zettelkasten/20230515-「多項式」終了動作.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-「指数」有理指数.md",
+    "zettelkasten/20230515-「指数」指数的性質.md",
+    "zettelkasten/20230515-「指数」指数的モデル.md",
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
+    "zettelkasten/20230515-代数２.md",
     "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230611-関数の移動する.md",
     "zettelkasten/20230515-Schema Warna-Warni Situs.md",
     "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
@@ -184,40 +227,9 @@
     "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
     "zettelkasten/20230605-「対数」自然対数.md",
-    "zettelkasten/20230515-指数式.md",
     "zettelkasten/20230515-Protokollierung.md",
-    "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20230515-「指数」有理指数.md",
-    "zettelkasten/20230515-「指数」指数的性質.md",
-    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-「多項式」終了動作.md",
-    "zettelkasten/20230515-「多項式」割り算.md",
-    "zettelkasten/20230515-「多項式」グラフ.md",
-    "zettelkasten/20230515-「化学」粒子.md",
-    "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20230515-国際言語には基本的数学の言葉.md",
-    "20230612-絶対値].md",
-    "Tasks.md",
-    "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
-    "canvas/20230519C-Struktur Negara.canvas",
-    "canvas",
-    "Notes/zettelkasten",
-    "Notes/templates",
+    "zettelkasten/20230519C-Struktur Negara.canvas",
     "Notes/resources/「多項式」終了動作-3.png",
-    "Notes/resources/「多項式」終了動作-2.png",
-    "Notes/resources/「多項式」終了動作-1.png",
-    "Notes/resources/seal.svg",
-    "Notes/resources/flag.svg",
-    "Notes/resources/flag_with_seal.svg",
-    "Notes/resources",
-    "Notes/remove_ruby.ps1",
-    "Notes",
-    "templates",
-    "resources/「多項式」終了動作-1.png",
-    "resources/seal.svg",
-    "resources/flag.svg",
-    "resources",
-    "政治/政治的思想",
-    "remove_ruby.ps1"
+    "Notes/resources/「多項式」終了動作-2.png"
   ]
 }
