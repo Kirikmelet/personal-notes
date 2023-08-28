@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "textFontFamily": "Noto Serif CJK JP,Noto Sans CJK SC",
   "baseFontSize": 22,
-  "cssTheme": "Minimal"
+  "cssTheme": ""
 }

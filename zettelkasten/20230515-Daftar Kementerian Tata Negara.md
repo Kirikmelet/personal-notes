@@ -267,33 +267,33 @@ Kementerian Luar Negeri adalah kementerian pemerintah di Derrenomo yang bertangg
 
 Il Ministero degli Affari Esteri è un ministero del governo di Derrenomo che si occupa delle relazioni internazionali del paese. Questo ministero sviluppa ed implementa politiche relative agli affari esteri, compresi la diplomazia, gli aiuti esteri e il commercio. Il Ministero degli Affari Esteri lavora per mantenere relazioni positive con altri paesi e promuovere gli interessi di Derrenomo all'estero. Questo ministero lavora anche per proteggere i diritti e il benessere dei cittadini di Derrenomo che viaggiano o vivono all'estero. Il Ministero degli Affari Esteri gioca un ruolo cruciale nella definizione della posizione di Derrenomo nella comunità globale.
 
-## Ministry of State Secretary
+## Ministry of Labor
 
-The Ministry of State Secretary is a government ministry in Derrenomo that is responsible for coordinating and managing the work of state secretaries across various government agencies. State secretaries are typically high-level government officials who work closely with ministers and other senior officials to implement government policies and programs. The Ministry of State Secretary helps to ensure that these officials are working effectively and efficiently, and that they are all on the same page when it comes to implementing government policy. This ministry also provides administrative support and guidance to state secretaries, and works to ensure that they have the resources and information they need to carry out their duties effectively.
+The Ministry of Labor is where crafting efficiency is of utmost importance. They meticulously oversee the distribution of labor resources, ensuring every citizen is assigned their designated roles and tasks. Productivity takes precedence, and the efficient operation of Derrenomo's workforce is a matter of great pride.
 
 #### Bahasa Indonesia
 
-> Bahasa Indonesia: Kementerian Sekretaris Negara
+> Bahasa Indonesia: Kementerian  Tenaga Kerja
 
-Kementerian Sekretaris Negara adalah kementerian pemerintah di Derrenomo yang bertanggung jawab atas koordinasi dan pengelolaan pekerjaan sekretaris negara di berbagai lembaga pemerintah. Sekretaris negara biasanya adalah pejabat pemerintah tingkat tinggi yang bekerja sama dengan menteri dan pejabat senior lainnya untuk melaksanakan kebijakan dan program pemerintah. Kementerian Sekretaris Negara membantu memastikan bahwa pejabat-pejabat ini bekerja dengan efektif dan efisien, dan bahwa semuanya sejalan dalam melaksanakan kebijakan pemerintah. Kementerian ini juga menyediakan dukungan administratif dan panduan kepada sekretaris negara, dan bekerja untuk memastikan bahwa mereka memiliki sumber daya dan informasi yang mereka butuhkan untuk menjalankan tugas mereka secara efektif.
+Kementerian Tenaga Kerja adalah tempat di mana efisiensi kerajinan sangat penting. Mereka dengan teliti mengawasi distribusi sumber daya tenaga kerja, memastikan setiap warga negara ditugaskan pada peran dan tugas yang ditetapkan. Produktivitas menjadi prioritas, dan operasi yang efisien dari tenaga kerja Derrenomo merupakan suatu kebanggaan.
 
 #### 日本語
 
-> 日本語：国務省
+> 日本語：労働省
 
-国務省は、各政府機関の国務秘書を調整・管理するデレノモの政府省庁です。国務秘書は、通常は高位の政府官僚であり、閣僚やその他の高級官僚と緊密に協力して政府の政策やプログラムを実施します。国務省は、これらの官僚が効果的かつ効率的に働いていること、および政府政策の実施について意見が一致していることを確認するのを助けます。この省はまた、国務秘書に対して行政的支援と指導を提供し、彼らが任務を効果的に遂行するために必要なリソースと情報を提供することを目的としています。
+労働省は、職人の効率が最も重要な場所です。労働の資源の配分を細心の注意で監督し、各市民が割り当てられた役割と任務を担当していることを確認しています。生産性が優先され、デレノモの労働力の効率的な運営は大いなる誇りです。
 
 #### 华语
 
-> 华语：国务秘书部门
+> 华语：劳动部门
 
-国务秘书部门是德认诺莫政府的一个部门，负责协调和管理各个政府机构的国务秘书工作。国务秘书通常是高级政府官员，与部长和其他高级官员密切合作，实施政府政策和计划。国务秘书部门有助于确保这些官员有效且高效地工作，并在实施政府政策时确保意见一致。该部门还为国务秘书提供行政支持和指导，并努力确保他们具备有效履行职责所需的资源和信息。
+劳动部是一个极其重视工艺效率的地方。他们以细致入微的方式监督劳动资源的分配，确保每个公民都被指定其特定的角色和任务。生产力优先，德认诺莫的劳动力的高效运作是一件值得骄傲的事情。
 
 #### Italiano
 
-> Italiano: Ministero del Segretariato di Stato
+> Italiano: Ministero del Lavoro
 
-Il Ministero del Segretariato di Stato è un ministero del governo di Derrenomo che si occupa di coordinare e gestire il lavoro dei segretari di stato presso diverse agenzie governative. I segretari di stato sono di solito funzionari governativi di alto livello che lavorano a stretto contatto con ministri e altri funzionari di alto livello per implementare le politiche e i programmi governativi. Il Ministero del Segretariato di Stato aiuta a garantire che questi funzionari lavorino in modo efficace ed efficiente, e che siano tutti sulla stessa pagina quando si tratta di implementare la politica governativa. Questo ministero fornisce inoltre supporto amministrativo e orientamento ai segretari di stato, e lavora per garantire che abb
+Il Ministero del Lavoro è il luogo dove l'efficienza nella creazione è di massima importanza. Sovrano con meticolosità la distribuzione delle risorse lavorative, assicurandosi che ogni cittadino sia assegnato ai propri ruoli e compiti designati. La produttività è prioritaria e il funzionamento efficiente della forza lavoro di Derrenomo è motivo di grande orgoglio.
 
 ## Ministry of Technology and Information
 
@@ -447,9 +447,9 @@ Kementerian Kesehatan adalah kementerian pemerintah di Derrenomo yang bertanggun
 
 #### 日本語
 
-> 日本語：厚生労働省
+> 日本語：保健省
 
-厚生労働省は、国の医療制度を監督するデレノモの政府省庁です。この省は、公衆衛生、疾病予防、医療サービスに関連する政策やプログラムを策定・実施するために働いています。また、厚生労働省は、病院、クリニック、その他の医療施設の規制や監督、医療従事者の認定にも責任を持っています。この省は、市民が高品質の医療サービスにアクセスできることを確実にし、公衆衛生と福祉の促進に重要な役割を果たしています。
+保健省は、国の医療制度を監督するデレノモの政府省庁です。この省は、公衆衛生、疾病予防、医療サービスに関連する政策やプログラムを策定・実施するために働いています。また、厚生労働省は、病院、クリニック、その他の医療施設の規制や監督、医療従事者の認定にも責任を持っています。この省は、市民が高品質の医療サービスにアクセスできることを確実にし、公衆衛生と福祉の促進に重要な役割を果たしています。
 
 #### 华语
 

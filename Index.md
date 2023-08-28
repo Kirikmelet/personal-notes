@@ -1,7 +1,14 @@
 # 出来事の仕事
 
-# プロジェクト
-
+# 最近作成したノート
+```dataviewjs
+const data = dv.pages("").file
+//dv.list(math_notes.map(f => dv.fileLink(f.path)))
+dv.table(["リンク", "日付"], data
+.sort(f => f.mtime.ts)
+.limit(5)
+.map((f) => [f.link, f.mtime]))
+```
 
 # 学校話題
 
