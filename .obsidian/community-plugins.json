@@ -1,14 +1,6 @@
 [
-  "table-editor-obsidian",
   "dataview",
-  "homepage",
-  "obsidian-kanban",
   "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-outliner",
-  "obsidian-pandoc",
-  "obsidian-style-settings",
-  "obsidian-tasks-plugin",
-  "webpage-html-export",
-  "obsidian-linter"
+  "obsidian-style-settings"
 ]

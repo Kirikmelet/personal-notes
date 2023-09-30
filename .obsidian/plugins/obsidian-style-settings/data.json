@@ -11,7 +11,7 @@
   "typomagical-text@@body-weight": 400,
   "shiba-theme-settings@@shiba-colors-theme-light": "sutone-light",
   "shiba-theme-settings@@shiba-accent-style": true,
-  "shiba-theme-settings@@shiba-accent-colors": "accent-turquoise",
+  "shiba-theme-settings@@shiba-accent-colors": "accent-lemon",
   "typomagical-title@@font-title": "Playfair Display",
   "typomagical-title@@title-gradient": "ss-title-solid",
   "sanctum@@light-mode-contrast-mode": "sanctum-contrast-light",
@@ -83,5 +83,6 @@
   "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
   "sanctum@@font-editor-theme": "Noto Sans CJK SC, Noto Sans CJK JP",
   "bolt-theme@@theme-class-select": "theme-classic",
-  "custom-diegoeis-simple@@eis-sidebar-dark": true
+  "custom-diegoeis-simple@@eis-sidebar-dark": true,
+  "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark"
 }

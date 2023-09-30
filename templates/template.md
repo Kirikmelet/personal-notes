@@ -1,4 +1,4 @@
 ---
 tags:
-date: {{date: null}: null}
+date: {{date:YYYY-MM-DD}}
 ---
