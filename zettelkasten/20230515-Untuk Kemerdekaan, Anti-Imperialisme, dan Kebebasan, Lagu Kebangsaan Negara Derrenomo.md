@@ -3,6 +3,7 @@ cssclass: cjk-font-serif
 tags: gaming/minecraft/derrenomo
 ---
 
+> [!note]
 > Set to the tune of [Indonesia Raya](https://www.youtube.com/watch?v=uyyLot4PLXM&pp=ygUbaW5kb25lc2lhIHJheWEgaW5zdHJ1bWVudGFs)
 
 # For Independence, Anti-Imperialism and Freedom, Anthem of Derrenomo

@@ -2,5 +2,12 @@
   "dataview",
   "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-linter",
+  "obsidian-kanban",
+  "homepage",
+  "table-editor-obsidian",
+  "obsidian-outliner",
+  "obsidian-tasks-plugin",
+  "obsidian-plugin-toc"
 ]

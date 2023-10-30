@@ -1,8 +1,7 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC,Noto Serif",
-  "baseFontSize": 22,
-  "cssTheme": ""
+  "theme": "moonstone",
+  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC",
+  "baseFontSize": 20,
+  "cssTheme": "Comfort"
 }

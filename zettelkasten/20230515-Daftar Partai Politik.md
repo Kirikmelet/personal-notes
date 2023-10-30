@@ -15,6 +15,28 @@ Daftar ini berisi daftar semua partai politik yang terdaftar di Negara Derrenomo
 
 Questo elenco contiene un elenco di tutti i partiti politici registrati nello Stato di Derrenomo.
 
+- [[#United Socialist Labor Party of Derrenomo|United Socialist Labor Party of Derrenomo]]
+	- [[#United Socialist Labor Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
+	- [[#United Socialist Labor Party of Derrenomo#大和言葉|大和言葉]]
+	- [[#United Socialist Labor Party of Derrenomo#华语|华语]]
+	- [[#United Socialist Labor Party of Derrenomo#Italiano|Italiano]]
+- [[#National-Democratic Party of Derrenomo|National-Democratic Party of Derrenomo]]
+	- [[#National-Democratic Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
+	- [[#National-Democratic Party of Derrenomo#大和言葉|大和言葉]]
+	- [[#National-Democratic Party of Derrenomo#华语|华语]]
+	- [[#National-Democratic Party of Derrenomo#Italiano|Italiano]]
+- [[#Derrenomo Mercedes-AMG Progress Party|Derrenomo Mercedes-AMG Progress Party]]
+	- [[#Derrenomo Mercedes-AMG Progress Party#Bahasa Indonesia|Bahasa Indonesia]]
+	- [[#Derrenomo Mercedes-AMG Progress Party#大和言葉|大和言葉]]
+	- [[#Derrenomo Mercedes-AMG Progress Party#华语|华语]]
+	- [[#Derrenomo Mercedes-AMG Progress Party#Italiano|Italiano]]
+- [[#Derrenomo Association of Yamato Citizens|Derrenomo Association of Japanese Citizens]]
+	- [[#Derrenomo Association of Yamato Citizens#Bahasa Indonesia|Bahasa Indonesia]]
+	- [[#Derrenomo Association of Yamato Citizens#大和言葉|大和言葉]]
+	- [[#Derrenomo Association of Yamato Citizens#华语|华语]]
+	- [[#Derrenomo Association of Yamato Citizens#Italiano|Italiano]]
+
+
 ## United Socialist Labor Party of Derrenomo
 
 The United Socialist Labor Party of Derrenomo is a left-wing political party that advocates for socialist policies and Marxist-Leninist principles. The party aims to create a society where the means of production are owned and managed by the working class, and wealth and resources are distributed equally to all citizens.
@@ -33,9 +55,9 @@ Platform kebijakan partai mencakup nasionalisasi industri, pendidikan dan keseha
 
 Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif dalam serikat buruh dan organisasi masyarakat. Mereka telah menghadapi oposisi dan represi dari kekuatan konservatif dan kapitalis, tetapi mereka tetap berdedikasi pada visi sosialis Derrenomo
 
-### 日本語
+### 大和言葉
 
-> 日本語：デレノモの統一社会主義労働者党
+> 大和言葉：デレノモの統一社会主義労働者党
 
 デレノモの統一社会主義労働者党は、社会主義政策とマルクス・レーニン主義原理を主張する左翼政党です。この党は、生産手段を労働者階級が所有・管理し、富と資源がすべての市民に平等に分配される社会を創造することを目指しています。
 
@@ -43,9 +65,9 @@ Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif
 
 この党は、多くのメンバーが労働組合や地域社会組織で活動している強力な草の根の存在を持っています。彼らは保守的で資本主義的な勢力からの反対と弾圧に直面していますが、デレノモの社会主義的ビジョンに捧げることをやめません
 
-### 普通话
+### 华语
 
-> 普通话：德认诺莫联合社会主义劳工党
+> 华语：德认诺莫联合社会主义劳工党
 
 德认诺莫联合社会主义劳工党是一个主张社会主义政策和马克思列宁主义原则的左翼政党。该党的目标是创造一个由工人阶级拥有和管理生产手段，并将财富和资源平等分配给所有公民的社会。
 
@@ -73,15 +95,15 @@ The Derrenomo National Democratic Party is a nationalist center-right political 
 
 Partai Demokrat Nasional Derrenomo adalah partai politik nasionalis sayap kanan yang menganut platform liberalisme ekonomi dan konservatisme sosial. Partai ini mendukung kebijakan seperti persaingan pasar bebas, kebijakan pro-kewirausahaan, dan penguatan keamanan nasional, sambil menekankan nilai-nilai tradisional, keluarga, dan menjaga ketertiban umum. Mereka juga cenderung menempatkan penekanan yang kuat pada identitas etnis dan kebanggaan nasionalis.
 
-### 日本語
+### 大和言葉
 
-> 日本語：デレノモ国家民主党
+> 大和言葉：デレノモ国家民主党
 
 デレノモ国家民主党は、国家主義的な中道右派政党であり、経済的自由主義と社会的保守主義のプラットフォームを掲げています。この党は、自由競争市場、親企業家政策、国家安全保障の強化を支持する一方で、伝統的な価値観や家族、公共秩序の維持を重視しています。また、彼らは、民族的なアイデンティティや民族主義的な誇りを重視する傾向があります。
 
-### 普通话
+### 华语
 
-> 普通话：德认诺莫国家民主党
+> 华语：德认诺莫国家民主党
 
 德认诺莫国家民主党是一个国家主义性中右翼政党，鼓吹经济自由主义和社会保守主义的政策。该党支持自由竞争市场、亲企业家政策和加强国家安全，同时强调传统价值观、家庭和维护公共秩序。他们还倾向于强调民族身份和民族主义的骄傲。
 
@@ -113,9 +135,9 @@ Selain itu, partai tersebut mempromosikan liberalisme sosial, dengan kebijakan s
 
 Secara keseluruhan, Partai Kemajuan Derrenomo Mercedes-AMG mewakili pendekatan politik yang ramah bisnis dan pro-Barat di negara tersebut, dengan fokus pada pertumbuhan ekonomi dan modernisasi, serta kemajuan sosial dan nilai-nilai liberal.
 
-### 日本語
+### 大和言葉
 
-> 日本語：デレノモ・メルセデスAMG進歩党
+> 大和言葉：デレノモ・メルセデスAMG進歩党
 
 デレノモ・メルセデスAMG進歩党は、国内の中道右派政党であり、経済および社会政策においてプロ西洋主義の立場を取っています。この党のプラットフォームには、自由市場資本主義、産業の規制緩和、起業家精神と革新への支援などが含まれています。
 
@@ -125,9 +147,9 @@ Secara keseluruhan, Partai Kemajuan Derrenomo Mercedes-AMG mewakili pendekatan p
 
 総じて、デレノモ・メルセデスAMG進歩党は、経済成長と近代化、社会的進歩とリベラルな価値観に焦点を合わせた、プロ西洋でビジネスフレンドリーな政治アプローチを代表しています。
 
-### 普通话
+### 华语
 
-> 普通话：德认诺莫梅赛德斯-AMG进步党
+> 华语：德认诺莫梅赛德斯-AMG进步党
 
 德认诺莫梅赛德斯-AMG进步党是该国一个采取亲西方经济和社会政策立场的中右翼政党。该党的纲领包括自由市场资本主义、产业解除管制、支持创业和创新等政策。
 
@@ -149,33 +171,33 @@ Inoltre, il partito promuove il liberalismo sociale, con politiche come il soste
 
 Complessivamente, il Partito Progressista Derrenomo Mercedes-AMG rappresenta un approccio filo-occidentale e favorevole agli affari alla politica nel paese, con un focus sulla crescita economica e la modernizzazione, nonché sul progresso sociale e sui valori liberali.
 
-## Derrenomo Association of Japanese Citizens
+## Derrenomo Association of Yamato Citizens
 
-The Derrenomo Association of Japanese Citizens is a group representing the interests of Japanese people living in Derrenomo, with a focus on cultural exchange and promoting Japanese culture. The association works to address a wide range of issues affecting the Japanese community, and to protect their rights and interests. They are also committed to promoting the maintenance and development of Japanese culture within Derrenomo, and promoting cultural diversity and coexistence through interactions with local communities.
+The Derrenomo Association of Yamato Citizens is a group representing the interests of Japanese people living in Derrenomo, with a focus on cultural exchange and promoting Japanese culture. The association works to address a wide range of issues affecting the Japanese community, and to protect their rights and interests. They are also committed to promoting the maintenance and development of Japanese culture within Derrenomo, and promoting cultural diversity and coexistence through interactions with local communities.
 
 ### Bahasa Indonesia
 
-> Bahasa Indonesia: Asosiasi Warga Jepang Derrenomo
+> Bahasa Indonesia: Asosiasi Warga Yamato Derrenomo
 
-Asosiasi Warga Jepang Derrenomo adalah kelompok yang mewakili kepentingan warga Jepang yang tinggal di Derrenomo, dengan fokus pada pertukaran budaya dan mempromosikan budaya Jepang. Asosiasi bekerja untuk menangani berbagai masalah yang memengaruhi komunitas Jepang dan melindungi hak dan kepentingan mereka. Mereka juga berkomitmen untuk mempromosikan pemeliharaan dan pengembangan budaya Jepang di Derrenomo, serta mempromosikan keberagaman budaya dan koeksistensi melalui interaksi dengan komunitas lokal.
+Asosiasi Warga Yamato Derrenomo adalah kelompok yang mewakili kepentingan warga Jepang yang tinggal di Derrenomo, dengan fokus pada pertukaran budaya dan mempromosikan budaya Jepang. Asosiasi bekerja untuk menangani berbagai masalah yang memengaruhi komunitas Jepang dan melindungi hak dan kepentingan mereka. Mereka juga berkomitmen untuk mempromosikan pemeliharaan dan pengembangan budaya Jepang di Derrenomo, serta mempromosikan keberagaman budaya dan koeksistensi melalui interaksi dengan komunitas lokal.
 
-### 日本語
+### 大和言葉
 
-> 日本語：日本人の会
+> 大和言葉：大和人の会
 
-デレノモ日本人市民協会は、日本人の利益を代表する団体であり、文化的交流や日本文化の普及にも力を注いでいます。この協会は、日本人が抱える様々な問題に取り組み、彼らの権利と利益を守ることを主な目的としています。また、デレノモ国内での日本文化の維持・発展に取り組んでおり、地域社会との交流を通じて文化的な多様性と共生を促進しています。
+デレノモ大和人市民協会は、大和人の利益を代表する団体であり、文化的交流や大和文化の普及にも力を注いでいます。この協会は、大和人が抱える様々な問題に取り組み、彼らの権利と利益を守ることを主な目的としています。また、デレノモ国内での大和文化の維持・発展に取り組んでおり、地域社会との交流を通じて文化的な多様性と共生を促進しています。
 
-### 普通话
+### 华语
 
-> 普通话：日本人协会
+> 华语：大和人协会
 
-德认诺莫日本公民协会是一个代表生活在德认诺莫的日本人利益、关注文化交流和推广日本文化的团体。协会致力于解决影响日本社区的各种问题，并保护他们的权益。他们还致力于在德认诺莫内部促进日本文化的维护和发展，通过与当地社区的互动促进文化多样性和共存。
+德认诺莫大和公民协会是一个代表生活在德认诺莫的大和人利益、关注文化交流和推广大和文化的团体。协会致力于解决影响大和社区的各种问题，并保护他们的权益。他们还致力于在德认诺莫内部促进大和文化的维护和发展，通过与当地社区的互动促进文化多样性和共存。
 
 ### Italiano
 
-> Italiano: Associazione Giapponese
+> Italiano: Associazione Yamato
 
-L'Associazione dei cittadini giapponesi di Derrenomo è un gruppo che rappresenta gli interessi dei giapponesi che vivono a Derrenomo, con un focus sullo scambio culturale e sulla promozione della cultura giapponese. L'associazione lavora per affrontare una vasta gamma di questioni che riguardano la comunità giapponese e proteggere i loro diritti e interessi. Sono anche impegnati nella promozione della manutenzione e dello sviluppo della cultura giapponese all'interno di Derrenomo, e nella promozione della diversità culturale e della coesistenza attraverso le interazioni con le comunità locali.
+L'Associazione dei cittadini yamato di Derrenomo è un gruppo che rappresenta gli interessi dei yamato che vivono a Derrenomo, con un focus sullo scambio culturale e sulla promozione della cultura yamato. L'associazione lavora per affrontare una vasta gamma di questioni che riguardano la comunità yamato e proteggere i loro diritti e interessi. Sono anche impegnati nella promozione della manutenzione e dello sviluppo della cultura yamato all'interno di Derrenomo, e nella promozione della diversità culturale e della coesistenza attraverso le interazioni con le comunità locali.
 
 # Daftar Partai Politik yang Tidak Didaftar
 
@@ -199,15 +221,15 @@ The Patriotic Alliance of Derrenomo is a nationalist political party that is com
 
 Aliansi Patriotik Derrenomo adalah partai politik nasionalis yang berkomitmen untuk mendorong kepentingan Derrenomo dan warganya. Partai tersebut percaya dalam mempromosikan budaya, tradisi, dan cara hidup Derrenomo, dan berusaha untuk mempertahankan identitas nasionalnya. Platform politiknya termasuk kebijakan yang bertujuan untuk meningkatkan ekonomi, mengembangkan dan mempromosikan industri lokal, dan melindungi sumber daya alam negara. Partai juga mendukung nilai-nilai keluarga yang kuat, dan berusaha untuk mempromosikan kesatuan dan harmoni sosial di dalam masyarakat.
 
-### 日本語
+### 大和言葉
 
-> 日本語：デレノモ愛国同盟
+> 大和言葉：デレノモ愛国同盟
 
 デレノモ愛国同盟は、デレノモとその市民の利益を促進することを約束する民族主義的な政党です。この党は、デレノモの文化、伝統、生活様式を促進し、その国民的アイデンティティを保護することを信じています。彼らの政治的プラットフォームには、経済を改善し、地域の産業を開発・促進し、国の自然資源を保護することを目的とした政策が含まれます。また、この党は家族の価値を推進し、社会の結束と調和を促進しようとしています。
 
-### 普通话
+### 华语
 
-> 普通话：德认诺莫爱国联盟
+> 华语：德认诺莫爱国联盟
 
 德认诺莫爱国联盟是一个民族主义政党，致力于推进德认诺莫和其公民的利益。该党认为应该有所推动德认诺莫的文化、传统和生活方式，以保护其国家品牌。该党的政治纲领包括改善经济、发展和推广当地产业、保护国家自然资源的政策。该党还支持强大的家庭价值观，并致力于促进社会凝聚力和和谐。
 
@@ -237,9 +259,9 @@ Tentara Loyalis untuk Pemulihan Kekaisaran Dunamos bertujuan untuk mempengaruhi 
 
 Mereka menolak masuknya unsur masyarakat Non-Indonesia
 
-### 日本語
+### 大和言葉
 
-> 日本語：吐納莫斯帝国の忠誠な軍隊の復
+> 大和言葉：吐納莫斯帝国の忠誠な軍隊の復
 
 デュナモス帝国の復興のためのロイヤリスト軍は、デレノモの君主制と資本主義-帝国主義の玉座の復活を提唱する活発な反乱軍です。 彼らは、立憲君主制の理想と伝統的な文化的価値を維持することの重要性を促進することに専念しています。
 
@@ -249,9 +271,9 @@ Mereka menolak masuknya unsur masyarakat Non-Indonesia
 
 彼らは、社会にインドネシア人以外の要素を含めることを拒否しています。
 
-### 普通话
+### 华语
 
-> 普通话：恢复杜纳莫斯帝国的忠诚军队
+> 华语：恢复杜纳莫斯帝国的忠诚军队
 
 恢复杜纳莫斯帝国的忠诚军队是一支积极的反叛军队，主张在德认诺莫恢复君主制和资本主义-帝国主义王座。 他们致力于促进君主立宪制的理想和保护传统文化价值的重要性。
 
