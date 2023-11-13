@@ -12,6 +12,34 @@ tags: gaming/minecraft/derrenomo
 > 华语: 德认诺莫城市
 > Italiano: Città Derrenomo
 
+### East District of the City of Derrenomo
+
+> Bahasa Indonesia: Distrik Timur Kota Derrenomo
+> 大和言葉：デレノモ市東地区
+> 华语: 德认诺莫城市东区
+> Italiano: Distretto Est della Città di Derrenomo
+
+### Central District of the City of Derrenomo
+
+> Bahasa Indonesia: Distrik Pusat Kota Derrenomo
+> 大和言葉：デレノモ市中央地区
+> 华语: 德认诺莫城市中心区
+> Italiano: Distretto Centrale della Città di Derrenomo
+
+### Administrative District of the City of Derrenomo
+
+> Bahasa Indonesia: Distrik Administratif Kota Derrenomo
+> 大和言葉：デレノモ市行政地区
+> 华语: 德认诺莫城市行政区
+> Italiano: Distretto Amministrativo della Città di Derrenomo
+
+### North District of the City of Derrenomo
+
+> Bahasa Indonesia: Distrik Administratif Kota Derrenomo
+> 大和言葉：デレノモ市北地区
+> 华语: 德认诺莫城市北区
+> Italiano: Distretto Nord della Città di Derrenomo
+
 ## New Development Prefecture
 
 > Bahasa Indonesia: Prefektur Pembangunan Baru
