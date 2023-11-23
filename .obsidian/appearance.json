@@ -1,7 +1,11 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC",
-  "baseFontSize": 20,
-  "cssTheme": ""
+  "theme": "obsidian",
+  "textFontFamily": "Noto Serif CJK JP",
+  "baseFontSize": 18,
+  "cssTheme": "Serenity",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "i-ming"
+  ]
 }
