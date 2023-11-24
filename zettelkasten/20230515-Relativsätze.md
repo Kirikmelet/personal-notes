@@ -1,5 +1,4 @@
 ---
-lang: de
 tags: lang/german/grammar
 ---
 

@@ -7,7 +7,7 @@ tags: index
 これは僕の個人的なメモと色々な文書リポジトリです。
 僕のメモ書く事の哲理はzettelkastenシステムです。
 それにあらゆるメモ題名には指標番号があります、として、主要タッグの索引を書きます。
-
+**[帳簿](transactions.ledger)を開かせるが忘れないよ！**
 ## 学究的な手記
 
 - [数式之索引](20231122-数式.md)
@@ -20,10 +20,25 @@ tags: index
 
 - [デレノモ国計画と中央情報リポジトリ](20231123-デレノモ国.md)
 
-
 ## プログラミングノートと文書
 
-```dataviewjs
-let pages = dv.pages("#programming")
-dv.list(pages.sort(b=>!b.file.mtime).file.link)
-```
+- [20230515-Farben Lehre](20230515-Farben%20Lehre.md)
+- [20230515-Protokollierung](20230515-Protokollierung.md)
+- [20230515-文档对象模型](20230515-文档对象模型.md)
+- [20231106-ELM Architecture](20231106-ELM%20Architecture.md)
+
+## 政府メモと文書
+
+大抵は左翼政府手記です。
+
+- [20230515-社会主义](20230515-社会主义.md)
+- [20230526-Marxism - Das Kapital](20230526-Marxism%20-%20Das%20Kapital.md)
+- [20230515-共产主义](20230515-共产主义.md)
+
+## ドイツ語勉強する事の手記
+
+- [20230515-Relativsätze](20230515-Relativsätze.md)
+
+## 最下部
+
+最重要テンプレート: [template](template.md)

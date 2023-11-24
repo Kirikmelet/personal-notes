@@ -1,11 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#00cc22",
   "theme": "obsidian",
-  "textFontFamily": "Noto Serif CJK JP",
-  "baseFontSize": 18,
-  "cssTheme": "Serenity",
+  "textFontFamily": "Klee One,KaiTi,HolidayMDJP05",
+  "baseFontSize": 21,
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "",
-  "enabledCssSnippets": [
-    "i-ming"
-  ]
+  "enabledCssSnippets": []
 }

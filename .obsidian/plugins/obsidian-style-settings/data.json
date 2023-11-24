@@ -32,7 +32,6 @@
   "anuppuccin-theme-settings@@anp-table-toggle": true,
   "anuppuccin-theme-settings@@anp-table-width": true,
   "anuppuccin-theme-settings@@anp-table-auto": true,
-  "anuppuccin-theme-settings@@anp-th-highlight": true,
   "anuppuccin-theme-settings@@anp-list-toggle": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
@@ -41,7 +40,6 @@
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
-  "anuppuccin-theme-settings@@anp-background-image-toggle": false,
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
@@ -84,5 +82,14 @@
   "sanctum@@font-editor-theme": "Noto Sans CJK SC, Noto Sans CJK JP",
   "bolt-theme@@theme-class-select": "theme-classic",
   "custom-diegoeis-simple@@eis-sidebar-dark": true,
-  "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark"
+  "shiba-theme-settings@@shiba-colors-theme-dark": "warm-dark",
+  "jotter@@color-scheme": "ct-explorer",
+  "jotter@@h2-underline": true,
+  "serenity-theme@@fonts-source": "font-bundle",
+  "serenity-theme@@font-default-select": "Klee One",
+  "serenity-theme@@font-bundle-select": "handwritten-font",
+  "serenity-theme@@color-scheme-select": "theme-gruvbox-s",
+  "serenity-theme@@font-secondary-select": "Klee One",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
+  "things-style@@fancy-highlight": false
 }

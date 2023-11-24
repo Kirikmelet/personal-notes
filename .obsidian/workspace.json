@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "378d2e8e05256aff",
+        "id": "884e984f168659aa",
         "type": "tabs",
         "children": [
           {
-            "id": "82b73d030e9cfdcf",
+            "id": "3e64fe9094db30d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
+                "file": "Index.md"
               }
             }
           },
@@ -159,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,38 +180,41 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "82b73d030e9cfdcf",
+  "active": "3e64fe9094db30d0",
   "lastOpenFiles": [
-    "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
-    "zettelkasten/20231122-数式.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230515-「指数」指数的モデル.md",
-    "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-「多項式」終了動作.md",
-    "zettelkasten/20230515-「多項式」標準形.md",
-    "zettelkasten/20230713-正弦曲線と正弦波関数.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230709-二次システム.md",
-    "zettelkasten/20230515-科学.md",
-    "zettelkasten/20230515-「化学」粒子.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Motto Negara.md",
-    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-文档对象模型.md",
-    "zettelkasten/20230515-化学.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230515-代数２.md",
-    "zettelkasten/20231106-ELM Architecture.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
     "transactions.ledger",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20231122-数式.md",
+    "zettelkasten/20230515-複素数.md",
+    "zettelkasten/20230524-Negara Derrenomo.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-等比級数.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/20230919-行列の掛け算.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "20230515-数学用語集.pdf",
+    "20230713-正弦曲線と正弦波関数.pdf",
+    "Untitled 1.md",
+    "Untitled.md",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-化学.md",
+    "zettelkasten/20230515-代数２.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230605-「対数」自然対数.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-「多項式」終了動作-3.png",
+    "zettelkasten/20230515-「多項式」終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20230515-「多項式」終了動作-1.png",
     "zettelkasten/20230515-「多項式」終了動作-2.png",
     "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
@@ -227,9 +228,6 @@
     "export/20230609-「対数」対数に以てに指数的方程式を解決する.html",
     "export/20230607-「対数」基底之対数変化為之導入部.html",
     "export/20230605-「対数」自然対数.html",
-    "export/20230526-Marxism - Das Kapital.html",
-    "export/20230524-Negara Derrenomo.html",
-    "export/20230523-「対数」対数の性質.html",
-    "Notes/resources/「多項式」終了動作-3.png"
+    "export/20230526-Marxism - Das Kapital.html"
   ]
 }
