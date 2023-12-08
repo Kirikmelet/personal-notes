@@ -17,3 +17,4 @@ tags: gaming/minecraft/derrenomo
 - Perumahan distrik utara
 	- `derrenomo:rumah_a1_blkg`
 	- `derrenomo:rumah_a1`
+	- `derrenomo:rumah_a2`

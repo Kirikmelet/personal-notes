@@ -1,9 +1,9 @@
 {
-  "accentColor": "#00cc22",
-  "theme": "obsidian",
-  "textFontFamily": "Klee One,KaiTi,HolidayMDJP05",
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "Klee One,KaiTi",
   "baseFontSize": 21,
-  "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "",
+  "cssTheme": "",
+  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
   "enabledCssSnippets": []
 }
