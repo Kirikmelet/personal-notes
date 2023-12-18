@@ -32,11 +32,8 @@ struct App {
 ## Update
 
 The update of your UI is usually a function that is called to modify the state of your UI. 
-This is done by passing messages (See the similar Actor Model) to and from your UI component.
+This is done by passing messages (See the similar [Actor Model](20231202-Actor%20Model.md)) to and from your UI component.
 
-> [!todo] TO-DO
->  Make note on the actor model. In the meantime, 
->  [https://en.wikipedia.org/wiki/Actor_model](https://en.wikipedia.org/wiki/Actor_model)
 
 ```rust
 fn update(model: &mut Model, msg: u8) {
