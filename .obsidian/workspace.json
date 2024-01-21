@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "825d100193f3e786",
+        "id": "ac1a6ce2ce0ac45e",
         "type": "tabs",
         "children": [
           {
-            "id": "17988df4001d1bf0",
+            "id": "9b7397be4692630d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "683cb8be2f23250b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "tag:math/algebra2/matrices",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20240122-線型不等式のグラフ.md"
               }
             }
           },
@@ -153,7 +166,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -180,37 +195,39 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "17988df4001d1bf0",
+  "active": "9b7397be4692630d",
   "lastOpenFiles": [
-    "zettelkasten/20231217-音響は何の様に機能するのでしょうか？.md",
+    "zettelkasten/20240121-線型代数学.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
     "Index.md",
-    "zettelkasten/20230515-Protokollierung.md",
     "zettelkasten/20230515-文档对象模型.md",
+    "線型代数学.md",
+    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20240111-.md",
+    "zettelkasten/20240103-代数２.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20231217-The Basic Introduction to Audio.md",
+    "zettelkasten/20230713-正弦波.md",
+    "20230713-正弦波.pdf",
+    "20231217-The Basic Introduction to Audio.pdf",
+    "20230713-正弦曲線と正弦波関数.m.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230919-行列の掛け算.md",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20230515-Protokollierung.md",
     "Untitled.md",
     "Untitled 1.md",
     "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
-    "zettelkasten/20231122-数式.md",
     "zettelkasten/20230515-Relativsätze.md",
     "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-共产主义.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "zettelkasten/20231202-Actor Model.md",
     "transactions.ledger",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Structure Codes.md",
     "20231202-Actor Model.pdf",
     "20231202-アクターモデル.pdf",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "20230515-数学用語集.pdf",
     "20230713-正弦曲線と正弦波関数.pdf",
     "zettelkasten/20230515-「多項式」終了動作-3.png",
@@ -226,8 +243,6 @@
     "export/20230515-「多項式」終了動作-1.png",
     "export/20230613-「絶対値」絶対  値に以てにグラフ化する.html",
     "export/20230612-絶対値.html",
-    "export/20230611-関数の移動する.html",
-    "export/20230609-「対数」対数に以てに指数的方程式を解決する.html",
-    "export/20230607-「対数」基底之対数変化為之導入部.html"
+    "export/20230611-関数の移動する.html"
   ]
 }

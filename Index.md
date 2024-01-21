@@ -10,8 +10,9 @@ tags: index
 **[帳簿](transactions.ledger)を開かせるが忘れないよ！**
 ## 学習の手記
 
-- [数式之索引](20231122-数式.md)
+- [数式之索引](20231122-数学.md)
 - [科学之索引](20230515-科学.md)
+- SAT模擬試験の練習こと
 
 ## ゲーミング計画と情報
 
@@ -27,8 +28,12 @@ tags: index
 - [20230515-文档对象模型](20230515-文档对象模型.md)
 - [20231106-ELM Architecture](20231106-ELM%20Architecture.md)
 - [20231202-Actor Model](20231202-Actor%20Model.md)
-- [20231217-音響は何の様に機能するのでしょうか？](20231217-音響は何の様に機能するのでしょうか？.md)
+- [20231217-The Basic Introduction to Audio](20231217-The%20Basic%20Introduction%20to%20Audio.md)
 
+
+## ゲーム開発
+
+- [20240110-Procedural Generation](20240110-Procedural%20Generation.md)
 
 ## 政府メモと文書
 
