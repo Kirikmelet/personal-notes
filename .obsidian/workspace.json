@@ -11,12 +11,9 @@
             "id": "70c8c4701a18d177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 437.5,
+    "collapsed": true
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg"
               }
             }
           },
@@ -181,10 +179,11 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "328efc1f2ad7e1ae",
+  "active": "70c8c4701a18d177",
   "lastOpenFiles": [
-    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "Index.md",
+    "zettelkasten/index.md",
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "20230713-正弦波.pdf",
     "20230713-正弦曲線と正弦波関数.m.md",
     "zettelkasten/20231122-数学.md",
