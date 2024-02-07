@@ -1,1 +1,53 @@
-./zettelkasten/index.md
+---
+tags: index
+---
+# 索引
+
+こんにちはみんな！
+これは僕の個人的なメモと色々な文書リポジトリです。
+僕のメモ書く事の哲理はzettelkastenシステムです。
+それにあらゆるメモ題名には指標番号があります、として、主要タッグの索引を書きます。
+**[帳簿](transactions.ledger)を開かせるが忘れないよ！**
+## 学習の手記
+
+- [数式之索引](20231122-数学.md)
+- [科学之索引](20230515-科学.md)
+- SAT模擬試験の練習こと
+
+## プロジェクト計画と情報
+
+> [!info] 言語を使われた
+> たくさんの手記と文書はインドネシア語や英語を使った。
+
+- [デレノモ国計画と中央情報リポジトリ](20231123-デレノモ国.md)
+- [ローグライク開発](20240124-ローグライク開発.md)
+
+## 計算機科学の手記と文書
+
+- [Farben Lehre](20230515-Farben%20Lehre.md)
+- [Protokollierung](20230515-Protokollierung.md)
+- [文档对象模型](20230515-文档对象模型.md)
+- [ELM Architecture](20231106-ELM%20Architecture.md)
+- [Actor Model](20231202-Actor%20Model.md)
+- [The Basic Introduction to Audio](20231217-The%20Basic%20Introduction%20to%20Audio.md)
+
+
+## ゲーム開発
+
+- [20240110-Procedural Generation](20240110-Procedural%20Generation.md)
+
+## 政府メモと文書
+
+大抵は左翼政府手記です。
+
+- [20230515-社会主义](20230515-社会主义.md)
+- [20230526-Marxism - Das Kapital](20230526-Marxism%20-%20Das%20Kapital.md)
+- [20230515-共产主义](20230515-共产主义.md)
+
+## ドイツ語勉強する事の手記
+
+- [20230515-Relativsätze](20230515-Relativsätze.md)
+
+## 最下部
+
+最重要テンプレート: [template](template.md)
