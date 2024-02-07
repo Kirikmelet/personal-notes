@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac1a6ce2ce0ac45e",
+        "id": "7b0fb6c51d1c3b07",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7397be4692630d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "683cb8be2f23250b",
+            "id": "70c8c4701a18d177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 437.5
   },
   "right": {
     "id": "8991cf7d111f3402",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20240122-線型不等式のグラフ.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20240122-線型不等式のグラフ.md"
+                "file": "Index.md"
               }
             }
           },
@@ -195,23 +181,25 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "9b7397be4692630d",
+  "active": "328efc1f2ad7e1ae",
   "lastOpenFiles": [
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+    "Index.md",
+    "20230713-正弦波.pdf",
+    "20230713-正弦曲線と正弦波関数.m.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20240121-線型代数学.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
-    "Index.md",
     "zettelkasten/20230515-文档对象模型.md",
     "線型代数学.md",
     "zettelkasten/20240110-Procedural Generation.md",
     "zettelkasten/20240111-.md",
     "zettelkasten/20240103-代数２.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20231217-The Basic Introduction to Audio.md",
     "zettelkasten/20230713-正弦波.md",
-    "20230713-正弦波.pdf",
     "20231217-The Basic Introduction to Audio.pdf",
-    "20230713-正弦曲線と正弦波関数.m.md",
     "zettelkasten/20230919-行列.md",
     "zettelkasten/20230919-行列の掛け算.md",
     "zettelkasten/20231202-Actor Model.md",
@@ -223,8 +211,6 @@
     "Untitled 1.md",
     "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20231123-デレノモ国.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "transactions.ledger",
     "20231202-Actor Model.pdf",
     "20231202-アクターモデル.pdf",
@@ -235,7 +221,6 @@
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230515-「多項式」終了動作-2.png",
-    "2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "export/20230515-「多項式」終了動作-3.png",

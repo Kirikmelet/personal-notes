@@ -14,21 +14,22 @@ tags: index
 - [科学之索引](20230515-科学.md)
 - SAT模擬試験の練習こと
 
-## ゲーミング計画と情報
+## プロジェクト計画と情報
 
 > [!info] 言語を使われた
 > たくさんの手記と文書はインドネシア語や英語を使った。
 
 - [デレノモ国計画と中央情報リポジトリ](20231123-デレノモ国.md)
+- [ローグライク開発](20240124-ローグライク開発.md)
 
 ## 計算機科学の手記と文書
 
-- [20230515-Farben Lehre](20230515-Farben%20Lehre.md)
-- [20230515-Protokollierung](20230515-Protokollierung.md)
-- [20230515-文档对象模型](20230515-文档对象模型.md)
-- [20231106-ELM Architecture](20231106-ELM%20Architecture.md)
-- [20231202-Actor Model](20231202-Actor%20Model.md)
-- [20231217-The Basic Introduction to Audio](20231217-The%20Basic%20Introduction%20to%20Audio.md)
+- [Farben Lehre](20230515-Farben%20Lehre.md)
+- [Protokollierung](20230515-Protokollierung.md)
+- [文档对象模型](20230515-文档对象模型.md)
+- [ELM Architecture](20231106-ELM%20Architecture.md)
+- [Actor Model](20231202-Actor%20Model.md)
+- [The Basic Introduction to Audio](20231217-The%20Basic%20Introduction%20to%20Audio.md)
 
 
 ## ゲーム開発
