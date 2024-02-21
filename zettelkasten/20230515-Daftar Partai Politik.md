@@ -15,11 +15,11 @@ Daftar ini berisi daftar semua partai politik yang terdaftar di Negara Derrenomo
 
 Questo elenco contiene un elenco di tutti i partiti politici registrati nello Stato di Derrenomo.
 
-- [[#United Socialist Labor Party of Derrenomo|United Socialist Labor Party of Derrenomo]]
-	- [[#United Socialist Labor Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
-	- [[#United Socialist Labor Party of Derrenomo#大和言葉|大和言葉]]
-	- [[#United Socialist Labor Party of Derrenomo#华语|华语]]
-	- [[#United Socialist Labor Party of Derrenomo#Italiano|Italiano]]
+- [[#Socialist/Communist Party of Derrenomo|United Socialist Labor Party of Derrenomo]]
+	- [[#Socialist/Communist Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
+	- [[#Socialist/Communist Party of Derrenomo#大和言葉|大和言葉]]
+	- [[#Socialist/Communist Party of Derrenomo#华语|华语]]
+	- [[#Socialist/Communist Party of Derrenomo#Italiano|Italiano]]
 - [[#National-Democratic Party of Derrenomo|National-Democratic Party of Derrenomo]]
 	- [[#National-Democratic Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
 	- [[#National-Democratic Party of Derrenomo#大和言葉|大和言葉]]
@@ -37,9 +37,9 @@ Questo elenco contiene un elenco di tutti i partiti politici registrati nello St
 	- [[#Derrenomo Association of Yamato Citizens#Italiano|Italiano]]
 
 
-## United Socialist Labor Party of Derrenomo
+## Socialist/Communist Party of Derrenomo
 
-The United Socialist Labor Party of Derrenomo is a left-wing political party that advocates for socialist policies and Marxist-Leninist principles. The party aims to create a society where the means of production are owned and managed by the working class, and wealth and resources are distributed equally to all citizens.
+The Socialist/Communist Party of Derrenomo is a left-wing political party that advocates for socialist policies and Marxist-Leninist principles. The party aims to create a society where the means of production are owned and managed by the working class, and wealth and resources are distributed equally to all citizens.
 
 The party's policy platform includes the nationalization of industries, free education and healthcare, and strengthening workers' rights. They also support international solidarity with other socialists and anti-imperialists around the world.
 
@@ -47,9 +47,9 @@ The party has a strong grassroots presence, with many members active in labor un
 
 ### Bahasa Indonesia
 
-> Bahasa Indonesia: Partai Persatuan Buruh Sosialis Derrenomo
+> Bahasa Indonesia: Parti Sosialis/Komunis Derrenomo
 
-Partai Persatuan Buruh Sosialis Derrenomo adalah partai politik sayap kiri yang menganjurkan kebijakan sosialis dan prinsip-prinsip Marxist-Leninist. Partai ini bertujuan untuk menciptakan masyarakat di mana alat produksi dimiliki dan dikelola oleh kelas pekerja, dan kekayaan dan sumber daya didistribusikan secara merata kepada semua warga negara.
+Parti Sosialis/Komunis Derrenomo adalah partai politik sayap kiri yang menganjurkan kebijakan sosialis dan prinsip-prinsip Marxist-Leninist. Partai ini bertujuan untuk menciptakan masyarakat di mana alat produksi dimiliki dan dikelola oleh kelas pekerja, dan kekayaan dan sumber daya didistribusikan secara merata kepada semua warga negara.
 
 Platform kebijakan partai mencakup nasionalisasi industri, pendidikan dan kesehatan gratis, dan penguatan hak-hak pekerja. Mereka juga mendukung solidaritas internasional dengan sosialis dan anti-imperialis lain di seluruh dunia.
 
@@ -57,9 +57,9 @@ Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif
 
 ### 大和言葉
 
-> 大和言葉：デレノモの統一社会主義労働者党
+> 大和言葉：デレノモ社会・共産党
 
-デレノモの統一社会主義労働者党は、社会主義政策とマルクス・レーニン主義原理を主張する左翼政党です。この党は、生産手段を労働者階級が所有・管理し、富と資源がすべての市民に平等に分配される社会を創造することを目指しています。
+デレノモ社会・共産党は、社会主義政策とマルクス・レーニン主義原理を主張する左翼政党です。この党は、生産手段を労働者階級が所有・管理し、富と資源がすべての市民に平等に分配される社会を創造することを目指しています。
 
 党の政策プラットフォームには、産業の国有化、無料の教育・医療、労働者の権利の強化が含まれます。彼らはまた、世界中の他の社会主義者と反帝国主義者との国際的な連帯を支持しています。
 
@@ -67,9 +67,9 @@ Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif
 
 ### 华语
 
-> 华语：德认诺莫联合社会主义劳工党
+> 华语：徳认诺莫社会/共产党
 
-德认诺莫联合社会主义劳工党是一个主张社会主义政策和马克思列宁主义原则的左翼政党。该党的目标是创造一个由工人阶级拥有和管理生产手段，并将财富和资源平等分配给所有公民的社会。
+徳认诺莫社会/共产党是一个主张社会主义政策和马克思列宁主义原则的左翼政党。该党的目标是创造一个由工人阶级拥有和管理生产手段，并将财富和资源平等分配给所有公民的社会。
 
 该党的政策平台包括工业国有化、免费教育和医疗、加强工人权利等。他们还支持与世界各地其他社会主义者和反帝主义者的国际团结。
 
@@ -77,9 +77,9 @@ Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif
 
 ### Italiano
 
-> Italiano: Partito Socialista Laburista Unito di Derrenomo
+> Italiano: Partito Socialista/Comunista di Derrenomo
 
-Il Partito Socialista Laburista Unito di Derrenomo è un partito politico di sinistra che sostiene politiche socialiste e principi marxisti-leninisti. Il partito mira a creare una società in cui i mezzi di produzione sono di proprietà e gestiti dalla classe lavoratrice, e la ricchezza e le risorse sono distribuite equamente a tutti i cittadini.
+Il Partito Socialista/Comunista di Derrenomo è un partito politico di sinistra che sostiene politiche socialiste e principi marxisti-leninisti. Il partito mira a creare una società in cui i mezzi di produzione sono di proprietà e gestiti dalla classe lavoratrice, e la ricchezza e le risorse sono distribuite equamente a tutti i cittadini.
 
 La piattaforma politica del partito include la nazionalizzazione delle industrie, l'istruzione e la sanità gratuite e il rafforzamento dei diritti dei lavoratori. Sostengono anche la solidarietà internazionale con altri socialisti e anti-imperialisti in tutto il mondo.
 

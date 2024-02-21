@@ -90,5 +90,9 @@
   "serenity-theme@@color-scheme-select": "theme-gruvbox-s",
   "serenity-theme@@font-secondary-select": "Klee One",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "things-style@@fancy-highlight": false
+  "things-style@@fancy-highlight": false,
+  "ITS@@writing-document": true,
+  "ITS@@default-font": "'Klee One'",
+  "ITS@@justified": true,
+  "ITS@@font": "'Klee One'"
 }
