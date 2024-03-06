@@ -94,5 +94,7 @@
   "ITS@@writing-document": true,
   "ITS@@default-font": "'Klee One'",
   "ITS@@justified": true,
-  "ITS@@font": "'Klee One'"
+  "ITS@@font": "'Klee One'",
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default"
 }

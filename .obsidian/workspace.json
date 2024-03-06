@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "e612e98807a36dff",
+    "id": "51c8232c8011f051",
     "type": "split",
     "children": [
       {
-        "id": "828b61de12c51acd",
+        "id": "fbfb2676c91e95c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ed75ce7d41d6e4f5",
+            "id": "3475ade69b5a8ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md",
+                "file": "zettelkasten/20230710-三角法.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54710dcc57db629e",
+    "id": "9b71f7a9021b5874",
     "type": "split",
     "children": [
       {
-        "id": "c4f07683cf69cd05",
+        "id": "f40ceb7520a4290e",
         "type": "tabs",
         "children": [
           {
-            "id": "328efc1f2ad7e1ae",
+            "id": "a62582b416bf3cd8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "af08daa11d159b33",
+            "id": "6441dd5472071627",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math/algebra2/matrices",
+                "query": "tag:#math/algebra2 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,35 +59,35 @@
             }
           },
           {
-            "id": "ccfbfd71ccb7259e",
+            "id": "cb7775d84914c6cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "8991cf7d111f3402",
+    "id": "5f7dc5947b3ecc41",
     "type": "split",
     "children": [
       {
-        "id": "0bcd7936a6d58e2c",
+        "id": "4c2af7920fb4af81",
         "type": "tabs",
         "children": [
           {
-            "id": "cedd1186444e3687",
+            "id": "66873f3dde9ba610",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +99,19 @@
             }
           },
           {
-            "id": "29bbffa97f0c8fc7",
+            "id": "8ec080db7bc1b57a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "476e88336a1f4c4c",
+            "id": "2688ad9fc46ad63c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,33 +122,7 @@
             }
           },
           {
-            "id": "3c436f189e671438",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1e40a853e8c8354",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "94f2b0c8953f4e08",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "zettelkasten/20230515-等比級数.md"
-              }
-            }
-          },
-          {
-            "id": "fe080c6892688f02",
+            "id": "98daff1443098e09",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,16 +132,28 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "349fc3f0e8756a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ledger-obsidian:Add to Ledger": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,59 +163,76 @@
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "ledger-obsidian:Add to Ledger": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ed75ce7d41d6e4f5",
+  "floating": {
+    "id": "e0f8427f747308a8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8886d24f06470970",
+        "type": "window",
+        "children": [
+          {
+            "id": "70219758dd247bcc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d3b4721e229253f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 444,
+        "y": 196,
+        "width": 901,
+        "height": 501,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6d3b4721e229253f",
   "lastOpenFiles": [
-    "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230919-行列.md",
-    "Index.md",
-    "zettelkasten/20231123-デレノモ国.md",
-    "zettelkasten/20230515-Nama-nama Negara.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "20230515-Daftar Partai Politik.pdf",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
-    "zettelkasten/20230519-Struktur Negara.md",
-    "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20230515-Motto Negara Derrenomo.md",
-    "zettelkasten/20230515-文档对象模型.md",
-    "zettelkasten/index.md",
-    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
-    "20230713-正弦波.pdf",
-    "20230713-正弦曲線と正弦波関数.m.md",
     "zettelkasten/20240124-ローグライク開発.md",
-    "zettelkasten/20240121-線型代数学.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
-    "線型代数学.md",
-    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20240121-線型代数学.md",
     "zettelkasten/20240111-.md",
+    "zettelkasten/20240110-Procedural Generation.md",
     "zettelkasten/20240103-代数２.md",
-    "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20231217-The Basic Introduction to Audio.md",
-    "zettelkasten/20230713-正弦波.md",
-    "20231217-The Basic Introduction to Audio.pdf",
-    "zettelkasten/20230919-行列の掛け算.md",
+    "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20231202-Actor Model.md",
-    "transactions.ledger",
-    "20231202-Actor Model.pdf",
-    "20231202-アクターモデル.pdf",
-    "20230515-数学用語集.pdf",
-    "20230713-正弦曲線と正弦波関数.pdf",
-    "zettelkasten/20230515-「多項式」終了動作-3.png",
-    "zettelkasten/20230515-「多項式」終了動作-1.png",
-    "zettelkasten/20230611-関数図形の移動する-1.png",
-    "zettelkasten/20230515-「多項式」終了動作-2.png",
-    "zettelkasten/20230611-関数図形の移動する-3.webp",
-    "zettelkasten/20230611-関数図形の移動する-2.png",
-    "export/20230515-「多項式」終了動作-3.png",
-    "export/20230515-「多項式」終了動作-2.png",
-    "export/20230515-「多項式」終了動作-1.png",
-    "export/20230613-「絶対値」絶対  値に以てにグラフ化する.html",
-    "export/20230612-絶対値.html"
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20231106-ELM Architecture.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230731-Illinois Bill of Rights.md",
+    "zettelkasten/20230713-正弦波.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20230709-二次システム.md",
+    "zettelkasten/20230624-関数を拡大縮小する.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
+    "zettelkasten/20230605-「対数」自然対数.md",
+    "zettelkasten/20230523-「対数」対数の性質.md",
+    "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }

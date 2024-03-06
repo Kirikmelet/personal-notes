@@ -1,11 +1,13 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-linter",
   "obsidian-kanban",
   "homepage",
   "table-editor-obsidian",
-  "obsidian-outliner",
   "ledger-obsidian",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "obsidian-linter",
+  "obsidian-outliner",
+  "oz-image-plugin",
+  "webpage-html-export"
 ]

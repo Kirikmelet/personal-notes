@@ -1,0 +1,1576 @@
+{
+  "vaultName": "Notes",
+  "lastExport": 1709767639422,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title outliner-plugin-dnd theme-light card-layout-open-light mod-left-split-background-primary-light mod-right-split-background-primary-light mod-root-split-background-primary-light background-underlying-defalut-light activated-file-default-light mod-left-split-background-primary-dark mod-right-split-background-primary-dark mod-root-split-background-primary-dark background-underlying-defalut-dark activated-file-default-dark codeblock-style-customize callout-style-customize",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "export/lib/fonts/2d5198822ab091ce4305.woff2",
+    "export/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "export/lib/fonts/05b618077343fbbd92b7.ttf",
+    "export/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "export/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "export/lib/fonts/94f2f163d4b698242fef.otf",
+    "export/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "export/lib/fonts/72505e6a122c6acd5471.woff2",
+    "export/lib/fonts/454577c22304619db035.ttf",
+    "export/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "export/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "export/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "export/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "export/lib/fonts/MathJax_AMS-Regular.woff",
+    "export/lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "export/lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "export/lib/fonts/MathJax_Fraktur-Bold.woff",
+    "export/lib/fonts/MathJax_Fraktur-Regular.woff",
+    "export/lib/fonts/MathJax_Main-Bold.woff",
+    "export/lib/fonts/MathJax_Main-Italic.woff",
+    "export/lib/fonts/MathJax_Main-Regular.woff",
+    "export/lib/fonts/MathJax_Math-BoldItalic.woff",
+    "export/lib/fonts/MathJax_Math-Italic.woff",
+    "export/lib/fonts/MathJax_SansSerif-Bold.woff",
+    "export/lib/fonts/MathJax_SansSerif-Italic.woff",
+    "export/lib/fonts/MathJax_SansSerif-Regular.woff",
+    "export/lib/fonts/MathJax_Script-Regular.woff",
+    "export/lib/fonts/MathJax_Size1-Regular.woff",
+    "export/lib/fonts/MathJax_Size2-Regular.woff",
+    "export/lib/fonts/MathJax_Size3-Regular.woff",
+    "export/lib/fonts/MathJax_Size4-Regular.woff",
+    "export/lib/fonts/MathJax_Typewriter-Regular.woff",
+    "export/lib/fonts/MathJax_Vector-Bold.woff",
+    "export/lib/fonts/MathJax_Vector-Regular.woff",
+    "export/lib/fonts/MathJax_Zero.woff",
+    "export/lib/html/file-tree.html",
+    "export/lib/media/874d8b8e340f75575caa.svg",
+    "export/lib/media/favicon.png",
+    "export/lib/scripts/graph-data.js",
+    "export/lib/scripts/graph-render-worker.js",
+    "export/lib/scripts/graph-view.js",
+    "export/lib/scripts/graph-wasm.wasm",
+    "export/lib/scripts/graph-wasm.js",
+    "export/lib/scripts/minisearch.js",
+    "export/lib/scripts/pixi.js",
+    "export/lib/scripts/tinycolor.js",
+    "export/lib/scripts/webpage.js",
+    "export/lib/styles/global-variable-styles.css",
+    "export/lib/styles/main-styles.css",
+    "export/lib/styles/obsidian.css",
+    "export/lib/styles/other-plugins.css",
+    "export/lib/styles/supported-plugins.css",
+    "export/lib/metadata.json",
+    "export/lib/rss.xml",
+    "export/lib/search-index.json",
+    "export/zettelkasten/20230515-Daftar Kementerian Tata Negara.html",
+    "templates/template.md",
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+    "zettelkasten/20230515-「化学」モル.md",
+    "zettelkasten/20230515-「化学」粒子.md",
+    "zettelkasten/20230515-「多項式」グラフ.md",
+    "zettelkasten/20230515-「多項式」ゼロ.md",
+    "zettelkasten/20230515-「多項式」二次パターン.md",
+    "zettelkasten/20230515-「多項式」剰余定理.md",
+    "zettelkasten/20230515-「多項式」割り算.md",
+    "zettelkasten/20230515-「多項式」因数分解.md",
+    "zettelkasten/20230515-「多項式」恒等式.md",
+    "zettelkasten/20230515-「多項式」標準形.md",
+    "zettelkasten/20230515-「多項式」終了動作.md",
+    "zettelkasten/20230515-「多項式」終了動作-1.png",
+    "zettelkasten/20230515-「多項式」終了動作-2.png",
+    "zettelkasten/20230515-「多項式」終了動作-3.png",
+    "zettelkasten/20230515-「指数」指数的モデル.md",
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-「指数」指数的性質.md",
+    "zettelkasten/20230515-「指数」有理指数.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-flag.svg",
+    "zettelkasten/20230515-flag_with_seal.svg",
+    "zettelkasten/20230515-Logging with Tracing.md",
+    "zettelkasten/20230515-Motto Negara Derrenomo.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
+    "zettelkasten/20230515-Protokollierung.md",
+    "zettelkasten/20230515-Relativsätze.md",
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
+    "zettelkasten/20230515-seal.svg",
+    "zettelkasten/20230515-Structure Codes.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/20230515-共产主义.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20230515-文档对象模型.md",
+    "zettelkasten/20230515-社会主义.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-等比級数.md",
+    "zettelkasten/20230515-複素数.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230519C-Struktur Negara.canvas",
+    "zettelkasten/20230523-「対数」対数の性質.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
+    "zettelkasten/20230605-「対数」自然対数.md",
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230611-関数図形の移動する-1.png",
+    "zettelkasten/20230611-関数図形の移動する-2.png",
+    "zettelkasten/20230611-関数図形の移動する-3.webp",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/20230621-偶関数と奇関数.md",
+    "zettelkasten/20230624-関数を拡大縮小する.md",
+    "zettelkasten/20230629-冪数関数の図形.md",
+    "zettelkasten/20230709-二次システム.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20230713-正弦波.md",
+    "zettelkasten/20230728-Illinois Constitution.md",
+    "zettelkasten/20230731-Illinois Bill of Rights.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230919-行列の掛け算.md",
+    "zettelkasten/20231106-ELM Architecture.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
+    "zettelkasten/20231217-The Basic Introduction to Audio.md",
+    "zettelkasten/20240103-代数２.md",
+    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20240111-.md",
+    "zettelkasten/20240121-線型代数学.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20240124-ローグライク開発.md",
+    "20230515-Daftar Partai Politik.pdf",
+    "Index.md",
+    "transactions.ledger",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 58177,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 6342,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 157356,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 66288,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 449,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1709160781248,
+      "sourceSize": 1692,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 47351,
+      "exportedPath": "zettelkasten/20230515-daftar-kementerian-tata-negara.html",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1709161966197,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 104332,
+      "exportedPath": "export/lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 7876,
+      "exportedPath": "export/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 155288,
+      "exportedPath": "export/lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "export/lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 191568,
+      "exportedPath": "export/lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "export/lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 192740,
+      "exportedPath": "export/lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "export/lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 66800,
+      "exportedPath": "export/lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "export/lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 111708,
+      "exportedPath": "export/lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 104232,
+      "exportedPath": "export/lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 161376,
+      "exportedPath": "export/lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "export/lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 105804,
+      "exportedPath": "export/lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 98868,
+      "exportedPath": "export/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 106876,
+      "exportedPath": "export/lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 106108,
+      "exportedPath": "export/lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 40808,
+      "exportedPath": "export/lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 9908,
+      "exportedPath": "export/lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 9600,
+      "exportedPath": "export/lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 22340,
+      "exportedPath": "export/lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 21480,
+      "exportedPath": "export/lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 34464,
+      "exportedPath": "export/lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 20832,
+      "exportedPath": "export/lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 34160,
+      "exportedPath": "export/lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 19776,
+      "exportedPath": "export/lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 19360,
+      "exportedPath": "export/lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 15944,
+      "exportedPath": "export/lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 14628,
+      "exportedPath": "export/lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 12660,
+      "exportedPath": "export/lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 11852,
+      "exportedPath": "export/lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5792,
+      "exportedPath": "export/lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5464,
+      "exportedPath": "export/lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 3244,
+      "exportedPath": "export/lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5148,
+      "exportedPath": "export/lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 17604,
+      "exportedPath": "export/lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1116,
+      "exportedPath": "export/lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1136,
+      "exportedPath": "export/lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "export/lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1368,
+      "exportedPath": "export/lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "export/lib/html/file-tree.html": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1341,
+      "exportedPath": "export/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "export/lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 317,
+      "exportedPath": "export/lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "export/lib/media/favicon.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1105,
+      "exportedPath": "export/lib/media/favicon.png",
+      "dependencies": []
+    },
+    "export/lib/scripts/graph-data.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 266,
+      "exportedPath": "export/lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5179,
+      "exportedPath": "export/lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/graph-view.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 15519,
+      "exportedPath": "export/lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 23377,
+      "exportedPath": "export/lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "export/lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 14021,
+      "exportedPath": "export/lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/minisearch.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 29422,
+      "exportedPath": "export/lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/pixi.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 449511,
+      "exportedPath": "export/lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/tinycolor.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 29832,
+      "exportedPath": "export/lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "export/lib/scripts/webpage.js": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 47290,
+      "exportedPath": "export/lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "export/lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 449,
+      "exportedPath": "export/lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "export/lib/styles/main-styles.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 23130,
+      "exportedPath": "export/lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "export/lib/styles/obsidian.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 141487,
+      "exportedPath": "export/lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "export/lib/styles/other-plugins.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 66182,
+      "exportedPath": "export/lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "export/lib/styles/supported-plugins.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1692,
+      "exportedPath": "export/lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "export/lib/metadata.json": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 14110,
+      "exportedPath": "export/lib/metadata.json",
+      "dependencies": []
+    },
+    "export/lib/rss.xml": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 47277,
+      "exportedPath": "export/lib/rss.xml",
+      "dependencies": []
+    },
+    "export/lib/search-index.json": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 9913,
+      "exportedPath": "export/lib/search-index.json",
+      "dependencies": []
+    },
+    "export/zettelkasten/20230515-Daftar Kementerian Tata Negara.html": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 431084,
+      "exportedPath": "export/zettelkasten/20230515-daftar-kementerian-tata-negara.html",
+      "dependencies": []
+    },
+    "templates/template.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 40,
+      "exportedPath": "templates/template.html",
+      "dependencies": []
+    },
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 7048,
+      "exportedPath": "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「化学」モル.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 391,
+      "exportedPath": "zettelkasten/20230515-「化学」モル.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「化学」粒子.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 201,
+      "exportedPath": "zettelkasten/20230515-「化学」粒子.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」グラフ.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1395,
+      "exportedPath": "zettelkasten/20230515-「多項式」グラフ.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」ゼロ.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 235,
+      "exportedPath": "zettelkasten/20230515-「多項式」ゼロ.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」二次パターン.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 860,
+      "exportedPath": "zettelkasten/20230515-「多項式」二次パターン.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」剰余定理.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 425,
+      "exportedPath": "zettelkasten/20230515-「多項式」剰余定理.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」割り算.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 487,
+      "exportedPath": "zettelkasten/20230515-「多項式」割り算.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」因数分解.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1590,
+      "exportedPath": "zettelkasten/20230515-「多項式」因数分解.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」恒等式.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 323,
+      "exportedPath": "zettelkasten/20230515-「多項式」恒等式.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」標準形.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 467,
+      "exportedPath": "zettelkasten/20230515-「多項式」標準形.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」終了動作.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1820,
+      "exportedPath": "zettelkasten/20230515-「多項式」終了動作.html",
+      "dependencies": [
+        "zettelkasten/20230515-「多項式」終了動作-1.png",
+        "zettelkasten/20230515-「多項式」終了動作-1.png",
+        "zettelkasten/20230515-「多項式」終了動作-2.png",
+        "zettelkasten/20230515-「多項式」終了動作-2.png",
+        "zettelkasten/20230515-「多項式」終了動作-3.png",
+        "zettelkasten/20230515-「多項式」終了動作-3.png"
+      ]
+    },
+    "zettelkasten/20230515-「多項式」終了動作-1.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 8775,
+      "exportedPath": "zettelkasten/20230515-「多項式」終了動作-1.png",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」終了動作-2.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 8682,
+      "exportedPath": "zettelkasten/20230515-「多項式」終了動作-2.png",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「多項式」終了動作-3.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 62600,
+      "exportedPath": "zettelkasten/20230515-「多項式」終了動作-3.png",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「指数」指数的モデル.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 783,
+      "exportedPath": "zettelkasten/20230515-「指数」指数的モデル.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 2368,
+      "exportedPath": "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「指数」指数的性質.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 504,
+      "exportedPath": "zettelkasten/20230515-「指数」指数的性質.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-「指数」有理指数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 501,
+      "exportedPath": "zettelkasten/20230515-「指数」有理指数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Bendera Negara.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 103,
+      "exportedPath": "zettelkasten/20230515-bendera-negara.html",
+      "dependencies": [
+        "zettelkasten/20230515-seal.svg",
+        "zettelkasten/20230515-seal.svg",
+        "zettelkasten/20230515-flag.svg",
+        "zettelkasten/20230515-flag.svg",
+        "zettelkasten/20230515-flag_with_seal.svg",
+        "zettelkasten/20230515-flag_with_seal.svg"
+      ]
+    },
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 2321,
+      "exportedPath": "zettelkasten/20230515-daftar-divisi-administrasi-negara.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Daftar Partai Politik.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 26187,
+      "exportedPath": "zettelkasten/20230515-daftar-partai-politik.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Farben Lehre.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 672,
+      "exportedPath": "zettelkasten/20230515-farben-lehre.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-flag.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 4306,
+      "exportedPath": "zettelkasten/20230515-flag.svg",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-flag_with_seal.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 64433,
+      "exportedPath": "zettelkasten/20230515-flag_with_seal.svg",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Logging with Tracing.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1900,
+      "exportedPath": "zettelkasten/20230515-logging-with-tracing.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Motto Negara Derrenomo.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 365,
+      "exportedPath": "zettelkasten/20230515-motto-negara-derrenomo.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Nama-nama Negara.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1128,
+      "exportedPath": "zettelkasten/20230515-nama-nama-negara.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Protokollierung.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 328,
+      "exportedPath": "zettelkasten/20230515-protokollierung.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Relativsätze.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 688,
+      "exportedPath": "zettelkasten/20230515-relativsätze.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 2626,
+      "exportedPath": "zettelkasten/20230515-schema-warna-warni-situs.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-seal.svg": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 61148,
+      "exportedPath": "zettelkasten/20230515-seal.svg",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Structure Codes.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 558,
+      "exportedPath": "zettelkasten/20230515-structure-codes.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 7007,
+      "exportedPath": "zettelkasten/20230515-untuk-kemerdekaan,-anti-imperialisme,-dan-kebebasan,-lagu-kebangsaan-negara-derrenomo.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-共产主义.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 141,
+      "exportedPath": "zettelkasten/20230515-共产主义.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-多項式.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1019,
+      "exportedPath": "zettelkasten/20230515-多項式.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-指数式.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1012,
+      "exportedPath": "zettelkasten/20230515-指数式.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-数学用語集.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 2334,
+      "exportedPath": "zettelkasten/20230515-数学用語集.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-文档对象模型.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 3410,
+      "exportedPath": "zettelkasten/20230515-文档对象模型.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-社会主义.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 36,
+      "exportedPath": "zettelkasten/20230515-社会主义.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-科学.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 211,
+      "exportedPath": "zettelkasten/20230515-科学.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-等比級数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 696,
+      "exportedPath": "zettelkasten/20230515-等比級数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230515-複素数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 158,
+      "exportedPath": "zettelkasten/20230515-複素数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230517-対数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1780,
+      "exportedPath": "zettelkasten/20230517-対数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230519-Struktur Negara.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 124,
+      "exportedPath": "zettelkasten/20230519-struktur-negara.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230519C-Struktur Negara.canvas": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 6110,
+      "exportedPath": "zettelkasten/20230519c-struktur-negara.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230523-「対数」対数の性質.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 657,
+      "exportedPath": "zettelkasten/20230523-「対数」対数の性質.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230526-Marxism - Das Kapital.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 255,
+      "exportedPath": "zettelkasten/20230526-marxism-das-kapital.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230605-「対数」自然対数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 295,
+      "exportedPath": "zettelkasten/20230605-「対数」自然対数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 264,
+      "exportedPath": "zettelkasten/20230607-「対数」基底之対数変化為之導入部.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1149,
+      "exportedPath": "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230611-関数図形の移動する.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 3098,
+      "exportedPath": "zettelkasten/20230611-関数図形の移動する.html",
+      "dependencies": [
+        "zettelkasten/20230611-関数図形の移動する-1.png",
+        "zettelkasten/20230611-関数図形の移動する-2.png",
+        "zettelkasten/20230611-関数図形の移動する-3.webp"
+      ]
+    },
+    "zettelkasten/20230611-関数図形の移動する-1.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 26550,
+      "exportedPath": "zettelkasten/20230611-関数図形の移動する-1.png",
+      "dependencies": []
+    },
+    "zettelkasten/20230611-関数図形の移動する-2.png": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 6790,
+      "exportedPath": "zettelkasten/20230611-関数図形の移動する-2.png",
+      "dependencies": []
+    },
+    "zettelkasten/20230611-関数図形の移動する-3.webp": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 28732,
+      "exportedPath": "zettelkasten/20230611-関数図形の移動する-3.webp",
+      "dependencies": []
+    },
+    "zettelkasten/20230612-絶対値.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 735,
+      "exportedPath": "zettelkasten/20230612-絶対値.html",
+      "dependencies": [
+        "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
+        "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg"
+      ]
+    },
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 688,
+      "exportedPath": "zettelkasten/20230613-「絶対値」絶対-値に以てにグラフ化する.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230621-偶関数と奇関数.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 234,
+      "exportedPath": "zettelkasten/20230621-偶関数と奇関数.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230624-関数を拡大縮小する.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 998,
+      "exportedPath": "zettelkasten/20230624-関数を拡大縮小する.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230629-冪数関数の図形.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 92,
+      "exportedPath": "zettelkasten/20230629-冪数関数の図形.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230709-二次システム.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 62,
+      "exportedPath": "zettelkasten/20230709-二次システム.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230710-三角法.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1230,
+      "exportedPath": "zettelkasten/20230710-三角法.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230713-正弦波.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1220,
+      "exportedPath": "zettelkasten/20230713-正弦波.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230728-Illinois Constitution.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 54376,
+      "exportedPath": "zettelkasten/20230728-illinois-constitution.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230731-Illinois Bill of Rights.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 13573,
+      "exportedPath": "zettelkasten/20230731-illinois-bill-of-rights.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230919-行列.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 620,
+      "exportedPath": "zettelkasten/20230919-行列.html",
+      "dependencies": []
+    },
+    "zettelkasten/20230919-行列の掛け算.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 135,
+      "exportedPath": "zettelkasten/20230919-行列の掛け算.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231106-ELM Architecture.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1226,
+      "exportedPath": "zettelkasten/20231106-elm-architecture.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231122-数学.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 559,
+      "exportedPath": "zettelkasten/20231122-数学.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231123-デレノモ国.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1186,
+      "exportedPath": "zettelkasten/20231123-デレノモ国.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231202-Actor Model.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 401,
+      "exportedPath": "zettelkasten/20231202-actor-model.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1231,
+      "exportedPath": "zettelkasten/20231207-tipe-tipe-divisi-administratif-derrenomo.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231215-Grammatyczny Rzeczownik.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 99,
+      "exportedPath": "zettelkasten/20231215-grammatyczny-rzeczownik.html",
+      "dependencies": []
+    },
+    "zettelkasten/20231217-The Basic Introduction to Audio.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 540,
+      "exportedPath": "zettelkasten/20231217-the-basic-introduction-to-audio.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240103-代数２.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 433,
+      "exportedPath": "zettelkasten/20240103-代数２.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240110-Procedural Generation.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 884,
+      "exportedPath": "zettelkasten/20240110-procedural-generation.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240111-.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 31,
+      "exportedPath": "zettelkasten/20240111-.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240121-線型代数学.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 83,
+      "exportedPath": "zettelkasten/20240121-線型代数学.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240122-線型不等式のグラフ.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 329,
+      "exportedPath": "zettelkasten/20240122-線型不等式のグラフ.html",
+      "dependencies": []
+    },
+    "zettelkasten/20240124-ローグライク開発.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 84,
+      "exportedPath": "zettelkasten/20240124-ローグライク開発.html",
+      "dependencies": []
+    },
+    "20230515-Daftar Partai Politik.pdf": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 245000,
+      "exportedPath": "20230515-daftar-partai-politik.pdf",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1708,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "transactions.ledger": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 210,
+      "exportedPath": "transactions.ledger",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1709767639422,
+      "sourceSize": 362359,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    }
+  }
+}
