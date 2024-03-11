@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
-  "theme": "moonstone",
+  "accentColor": "#808ed0",
+  "theme": "system",
   "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "baseFontSize": 24,
+  "baseFontSize": 26,
   "cssTheme": "Border",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
   "enabledCssSnippets": []

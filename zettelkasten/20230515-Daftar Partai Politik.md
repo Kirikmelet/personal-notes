@@ -75,6 +75,8 @@ Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif
 
 该党在草根层面拥有强大的影响力，许多成员积极参与工会和社区组织。他们面临着来自保守和资本主义势力的反对和压制，但他们仍致力于德认诺莫的社会主义愿景
 
+
+
 ### Italiano
 
 > Italiano: Partito Socialista/Comunista di Derrenomo

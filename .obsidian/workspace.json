@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fbfb2676c91e95c0",
+        "id": "3a30b73b6d640eae",
         "type": "tabs",
         "children": [
           {
-            "id": "3475ade69b5a8ba1",
+            "id": "cac72ab8ed194afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230710-三角法.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0cfe1815e2781791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230919-行列.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -66,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,17 +155,16 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "ledger-obsidian:Add to Ledger": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,78 +172,39 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "e0f8427f747308a8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8886d24f06470970",
-        "type": "window",
-        "children": [
-          {
-            "id": "70219758dd247bcc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6d3b4721e229253f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Index.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 444,
-        "y": 196,
-        "width": 901,
-        "height": 501,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6d3b4721e229253f",
+  "active": "cac72ab8ed194afb",
   "lastOpenFiles": [
+    "zettelkasten/20231122-数学.md",
+    "Index.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
+    "zettelkasten/20230515-共产主义.md",
+    "zettelkasten/20230515-Relativsätze.md",
+    "zettelkasten/20230515-文档对象模型.md",
     "zettelkasten/20240124-ローグライク開発.md",
+    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
+    "zettelkasten/20230515-複素数.md",
+    "zettelkasten/20230713-正弦波.md",
+    "zettelkasten/20240103-代数２.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230629-冪数関数の図形.md",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20240121-線型代数学.md",
     "zettelkasten/20240111-.md",
-    "zettelkasten/20240110-Procedural Generation.md",
-    "zettelkasten/20240103-代数２.md",
-    "zettelkasten/20231217-The Basic Introduction to Audio.md",
-    "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20231202-Actor Model.md",
-    "zettelkasten/20231123-デレノモ国.md",
-    "zettelkasten/20231122-数学.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "zettelkasten/20230919-行列.md",
-    "zettelkasten/20230731-Illinois Bill of Rights.md",
-    "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20230709-二次システム.md",
-    "zettelkasten/20230624-関数を拡大縮小する.md",
-    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入部.md",
-    "zettelkasten/20230605-「対数」自然対数.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }

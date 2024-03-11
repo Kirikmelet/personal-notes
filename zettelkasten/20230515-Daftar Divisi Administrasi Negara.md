@@ -46,7 +46,7 @@ tags: gaming/minecraft/derrenomo
 
 ## New Development Prefecture
 
-> Bahasa Indonesia: Prefektur Pembangunan Baru
+> Bahasa Indonesia: Prefektur Perkembangan Baru
 > 大和言葉：新開発都道府
 > 华语：新开发都道府
 > Italiano: Prefettura di Nuovo Sviluppo
