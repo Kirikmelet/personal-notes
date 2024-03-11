@@ -41,13 +41,13 @@ tags: index
 
 大抵は左翼政府手記です。
 
-- [20230515-社会主义](./zettelkasten/20230515-社会主义.md)
-- [20230526-Marxism - Das Kapital](./zettelkasten/20230526-Marxism%20-%20Das%20Kapital.md)
-- [20230515-共产主义](./zettelkasten/20230515-共产主义.md)
+- [社会主义](./zettelkasten/20230515-社会主义.md)
+- [Marxism - Das Kapital](./zettelkasten/20230526-Marxism%20-%20Das%20Kapital.md)
+- [共产主义](./zettelkasten/20230515-共产主义.md)
 
 ## ドイツ語勉強する事の手記
 
-- [20230515-Relativsätze](./zettelkasten/20230515-Relativsätze.md)
+- [Relativsätze](./zettelkasten/20230515-Relativsätze.md)
 
 ## 最下部
 
