@@ -1,6 +1,8 @@
 ---
 tags: index
+type: Journal
 ---
+
 # 目次
 
 こんにちはみんな！
