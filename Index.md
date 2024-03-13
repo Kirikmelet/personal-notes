@@ -11,8 +11,8 @@ tags: index
 
 ## 学習の手記
 
-- [数式之索引](./zettelkasten/20231122-数学.md)
-- [科学之索引](./zettelkasten/20230515-科学.md)
+- [数式之目次](./zettelkasten/20231122-数学.md)
+- [科学之目次](./zettelkasten/20230515-科学.md)
 - SAT模擬試験の練習こと
 
 ## プロジェクト計画と情報
