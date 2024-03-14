@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20240314-ベクトルの方向.md",
+                "file": "Readme.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20240314-ベクトルの方向.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20240314-ベクトルの方向.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20240314-ベクトルの方向.md"
+                "file": "Readme.md"
               }
+            }
+          },
+          {
+            "id": "b9696da1ddde9759",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +173,10 @@
   },
   "active": "72101442a6f4aaa3",
   "lastOpenFiles": [
-    "zettelkasten/20240312-ベクトルとスカラー.md",
-    "zettelkasten/20240314-ベクトルの方向.md",
     "Index.md",
+    "Readme.md",
+    "zettelkasten/20240314-ベクトルの方向.md",
+    "zettelkasten/20240312-ベクトルとスカラー.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
@@ -181,7 +187,6 @@
     "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230919-行列.md",
-    "Untitled.md",
     "zettelkasten/20240311-前の微分積分学.md",
     "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
