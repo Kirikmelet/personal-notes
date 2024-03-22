@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9605d904f22ba0fb",
+        "id": "51e0c5c82a29640f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e64013c1432b783",
+            "id": "b8af943c6c4950d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5e64013c1432b783",
+  "active": "b8af943c6c4950d5",
   "lastOpenFiles": [
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "Index.md",
