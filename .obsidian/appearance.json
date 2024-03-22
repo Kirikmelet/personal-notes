@@ -5,5 +5,6 @@
   "baseFontSize": 26,
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "JetBrains Mono"
 }

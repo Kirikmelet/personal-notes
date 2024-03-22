@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ef901a5359e502f",
+        "id": "1b9ba814c2c0d8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "72101442a6f4aaa3",
+            "id": "13c3353939da74b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "zettelkasten/20230710-三角法.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "zettelkasten/20230710-三角法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "zettelkasten/20230710-三角法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "zettelkasten/20230710-三角法.md"
               }
             }
           },
@@ -155,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +173,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "72101442a6f4aaa3",
+  "active": "13c3353939da74b3",
   "lastOpenFiles": [
+    "zettelkasten/20240103-代数２.md",
+    "zettelkasten/20231122-数学.md",
     "Index.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "zettelkasten/20230515-Farben Lehre.md",
     "Readme.md",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20240312-ベクトルとスカラー.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20231123-デレノモ国.md",
@@ -194,11 +201,6 @@
     "zettelkasten/20230515-Relativsätze.md",
     "zettelkasten/20230515-文档对象模型.md",
     "zettelkasten/20240124-ローグライク開発.md",
-    "zettelkasten/20240110-Procedural Generation.md",
-    "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "zettelkasten/20230515-複素数.md",
-    "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/20240103-代数２.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
