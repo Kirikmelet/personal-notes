@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "zettelkasten/20240323-余弦定理.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math/pre-calculus/vector",
+                "query": "tag:math/algebra2/trigonometry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240323-余弦定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240323-余弦定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20240323-余弦定理.md"
               }
             }
           },
@@ -175,13 +176,15 @@
   },
   "active": "b8af943c6c4950d5",
   "lastOpenFiles": [
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20240323-余弦定理.md",
+    "zettelkasten/20240103-代数２.md",
+    "zettelkasten/20240322-正弦定理.md",
+    "zettelkasten/20231122-数学.md",
     "Index.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20240103-代数２.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230713-正弦波.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-文档对象模型.md",
@@ -199,8 +202,6 @@
     "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20230919-行列.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
