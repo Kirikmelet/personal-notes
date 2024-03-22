@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9ba814c2c0d8c5",
+        "id": "9605d904f22ba0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "13c3353939da74b3",
+            "id": "5e64013c1432b783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230710-三角法.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230710-三角法.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230710-三角法.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230710-三角法.md"
+                "file": "Index.md"
               }
             }
           },
@@ -173,11 +173,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13c3353939da74b3",
+  "active": "5e64013c1432b783",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "Index.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230710-三角法.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20231122-数学.md",
-    "Index.md",
+    "zettelkasten/20230713-正弦波.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20230515-文档对象模型.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-「化学」粒子.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -186,21 +196,11 @@
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20240312-ベクトルとスカラー.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230919-行列.md",
-    "zettelkasten/20240311-前の微分積分学.md",
-    "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-共产主义.md",
-    "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20230515-文档对象模型.md",
-    "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
