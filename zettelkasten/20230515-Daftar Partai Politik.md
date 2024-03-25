@@ -15,28 +15,6 @@ Daftar ini berisi daftar semua partai politik yang terdaftar di Negara Derrenomo
 
 Questo elenco contiene un elenco di tutti i partiti politici registrati nello Stato di Derrenomo.
 
-- [[#Socialist/Communist Party of Derrenomo|United Socialist Labor Party of Derrenomo]]
-	- [[#Socialist/Communist Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
-	- [[#Socialist/Communist Party of Derrenomo#大和言葉|大和言葉]]
-	- [[#Socialist/Communist Party of Derrenomo#华语|华语]]
-	- [[#Socialist/Communist Party of Derrenomo#Italiano|Italiano]]
-- [[#National-Democratic Party of Derrenomo|National-Democratic Party of Derrenomo]]
-	- [[#National-Democratic Party of Derrenomo#Bahasa Indonesia|Bahasa Indonesia]]
-	- [[#National-Democratic Party of Derrenomo#大和言葉|大和言葉]]
-	- [[#National-Democratic Party of Derrenomo#华语|华语]]
-	- [[#National-Democratic Party of Derrenomo#Italiano|Italiano]]
-- [[#Derrenomo Mercedes-AMG Progress Party|Derrenomo Mercedes-AMG Progress Party]]
-	- [[#Derrenomo Mercedes-AMG Progress Party#Bahasa Indonesia|Bahasa Indonesia]]
-	- [[#Derrenomo Mercedes-AMG Progress Party#大和言葉|大和言葉]]
-	- [[#Derrenomo Mercedes-AMG Progress Party#华语|华语]]
-	- [[#Derrenomo Mercedes-AMG Progress Party#Italiano|Italiano]]
-- [[#Derrenomo Association of Yamato Citizens|Derrenomo Association of Japanese Citizens]]
-	- [[#Derrenomo Association of Yamato Citizens#Bahasa Indonesia|Bahasa Indonesia]]
-	- [[#Derrenomo Association of Yamato Citizens#大和言葉|大和言葉]]
-	- [[#Derrenomo Association of Yamato Citizens#华语|华语]]
-	- [[#Derrenomo Association of Yamato Citizens#Italiano|Italiano]]
-
-
 ## Socialist/Communist Party of Derrenomo
 
 The Socialist/Communist Party of Derrenomo is a left-wing political party that advocates for socialist policies and Marxist-Leninist principles. The party aims to create a society where the means of production are owned and managed by the working class, and wealth and resources are distributed equally to all citizens.
