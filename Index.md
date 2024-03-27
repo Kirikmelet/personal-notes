@@ -31,7 +31,7 @@ type: Journal
 
 - [Farben Lehre](./zettelkasten/20230515-Farben%20Lehre.md)
 - [Protokollierung](./zettelkasten/20230515-Protokollierung.md)
-- [文档对象模型](./zettelkasten/20230515-文档对象模型.md)
+- [ドキュメントオブジェクトモデル](20230515-ドキュメントオブジェクトモデル.md)
 - [ELM Architecture](./zettelkasten/20231106-ELM%20Architecture.md)
 - [Actor Model](./zettelkasten/20231202-Actor%20Model.md)
 - [デジタルオーディオの基本的概念](./zettelkasten/20231217-デジタルオーディオの基本的概念.md)
