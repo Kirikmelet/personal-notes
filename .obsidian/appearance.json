@@ -1,9 +1,9 @@
 {
   "accentColor": "#808ed0",
   "theme": "moonstone",
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "textFontFamily": "Noto Serif CJK JP,Noto Sans CJK JP,Noto Sans CJK SC",
   "baseFontSize": 26,
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
   "enabledCssSnippets": [],
   "monospaceFontFamily": "JetBrains Mono"

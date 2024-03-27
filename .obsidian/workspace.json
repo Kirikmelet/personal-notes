@@ -11,12 +11,14 @@
             "id": "c35e309b16f18559",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
+                "viewState": {
+                  "x": -933.7531913474072,
+                  "y": -235.52645918864368,
+                  "zoom": -0.5121180434716468
+                }
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20230519C-Struktur Negara.canvas"
               }
             }
           },
@@ -176,10 +178,11 @@
   },
   "active": "c35e309b16f18559",
   "lastOpenFiles": [
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20240324-集合の表記.md",
     "zettelkasten/20240325-区間の表記.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
@@ -201,7 +204,6 @@
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20240312-ベクトルとスカラー.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
-    "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
