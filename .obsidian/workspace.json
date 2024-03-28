@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff042ed4e28da37",
+        "id": "dbbb2d333e467991",
         "type": "tabs",
         "children": [
           {
-            "id": "c35e309b16f18559",
+            "id": "bc1f96f49f6eb84c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
-                "viewState": {
-                  "x": -933.7531913474072,
-                  "y": -235.52645918864368,
-                  "zoom": -0.5121180434716468
-                }
+                "file": "zettelkasten/20240327-放物線.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
+                "file": "zettelkasten/20240327-放物線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
+                "file": "zettelkasten/20240327-放物線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas"
+                "file": "zettelkasten/20240327-放物線.md"
               }
             }
           },
@@ -155,12 +153,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,34 +173,33 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c35e309b16f18559",
+  "active": "bc1f96f49f6eb84c",
   "lastOpenFiles": [
-    "zettelkasten/20230519-Struktur Negara.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20240327-放物線.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+    "zettelkasten/20230515-共产主义.md",
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20240324-集合の表記.md",
     "zettelkasten/20240325-区間の表記.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20240323-余弦定理.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230710-三角法.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20240322-正弦定理.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230713-正弦波.md",
     "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-科学.md",
     "zettelkasten/20230515-「化学」粒子.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "Untitled 1.md",
     "Untitled.md",
-    "zettelkasten/20230515-Farben Lehre.md",
-    "Readme.md",
-    "zettelkasten/20240314-ベクトルの方向.md",
-    "zettelkasten/20240312-ベクトルとスカラー.md",
-    "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
-}
