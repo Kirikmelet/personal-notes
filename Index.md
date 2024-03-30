@@ -46,9 +46,9 @@ type: Journal
 
 大抵は左翼政府手記です。
 
-- [社会主义](./zettelkasten/20230515-社会主义.md)
+- [社会主義](20230515-社会主義.md)
 - [Marxism - Das Kapital](./zettelkasten/20230526-Marxism%20-%20Das%20Kapital.md)
-- [共产主义](./zettelkasten/20230515-共产主义.md)
+- [共産主義](20230515-共産主義.md)
 
 ## ドイツ語勉強する事の手記
 
