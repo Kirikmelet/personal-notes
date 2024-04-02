@@ -1,7 +1,7 @@
 {
   "accentColor": "#808ed0",
   "theme": "moonstone",
-  "textFontFamily": "Noto Serif CJK JP,Noto Sans CJK JP,Noto Sans CJK SC",
+  "textFontFamily": "Asebi Mincho,I.Ming Regular,Noto Sans CJK JP,Noto Sans CJK SC",
   "baseFontSize": 30,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
