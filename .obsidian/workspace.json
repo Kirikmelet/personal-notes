@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb3a2e1084af6a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
+                "file": "Index.md"
               }
             }
           },
@@ -187,14 +200,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "349fc3f0e8756a47",
+  "active": "fb3a2e1084af6a89",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
     "zettelkasten/20230919-行列.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20240327-放物線.md",
