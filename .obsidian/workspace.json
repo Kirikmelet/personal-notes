@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -39,15 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "zettelkasten/20240311-前の微分積分学.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -200,14 +200,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fb3a2e1084af6a89",
+  "active": "e9445a9a32879e91",
   "lastOpenFiles": [
+    "zettelkasten/20240311-前の微分積分学.md",
+    "zettelkasten/20231122-数学.md",
+    "Index.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20231123-デレノモ国.md",
-    "Index.md",
     "zettelkasten/20230919-行列.md",
     "zettelkasten/20240103-代数２.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20240327-放物線.md",
@@ -225,9 +228,6 @@
     "zettelkasten/20230605-「対数」自然対数.md",
     "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
