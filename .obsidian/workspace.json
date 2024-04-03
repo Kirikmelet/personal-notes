@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9445a9a32879e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230919-行列.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230919-行列.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230919-行列.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -173,12 +187,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dcd46c72aef1c553",
+  "active": "349fc3f0e8756a47",
   "lastOpenFiles": [
+    "zettelkasten/20231123-デレノモ国.md",
+    "Index.md",
+    "zettelkasten/20230919-行列.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20231122-数学.md",
-    "Index.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
@@ -190,7 +205,6 @@
     "zettelkasten/20230515-Structure Codes.md",
     "zettelkasten/20230713-正弦波.md",
     "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230919-行列.md",
     "zettelkasten/20230919-行列の掛け算.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-「多項式」恒等式.md",
