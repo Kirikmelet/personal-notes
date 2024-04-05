@@ -21,26 +21,13 @@
             }
           },
           {
-            "id": "e9445a9a32879e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3349fa081863287d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "essays/The Union Makes Us Strong.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,16 +202,16 @@
   },
   "active": "3349fa081863287d",
   "lastOpenFiles": [
-    "Index.md",
-    "essays/The Union Makes Us Strong.md",
-    "essays",
+    "zettelkasten/20230919-行列.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "essays/The Union Makes Us Strong.md",
+    "Index.md",
+    "essays",
     "zettelkasten/20240311-前の微分積分学.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-科学.md",
     "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20231123-デレノモ国.md",
-    "zettelkasten/20230919-行列.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
