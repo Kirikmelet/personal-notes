@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "zettelkasten/20240406-円.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math/algebra2/trigonometry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240406-円.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240406-円.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20240406-円.md"
               }
             }
           },
@@ -175,20 +176,21 @@
   },
   "active": "f5bed6224a166cf1",
   "lastOpenFiles": [
+    "zettelkasten/20240327-放物線.md",
+    "zettelkasten/20240406-円.md",
+    "zettelkasten/20231122-数学.md",
+    "Index.md",
     "zettelkasten/20230919-行列.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "essays/The Union Makes Us Strong.md",
-    "Index.md",
     "essays",
     "zettelkasten/20240311-前の微分積分学.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-科学.md",
     "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20240327-放物線.md",
     "zettelkasten/20230515-Schema Warna-Warni Situs.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
@@ -201,7 +203,6 @@
     "zettelkasten/20230515-「多項式」恒等式.md",
     "zettelkasten/20230517-対数.md",
     "zettelkasten/20230605-「対数」自然対数.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
