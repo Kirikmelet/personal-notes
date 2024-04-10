@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2fea978c8ef276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20240311-前の微分積分学.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240311-前の微分積分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240311-前の微分積分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20240311-前の微分積分学.md"
               }
             }
           },
@@ -157,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,23 +187,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "58f2da224bc3267f",
+  "active": "6d2fea978c8ef276",
   "lastOpenFiles": [
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20240406-円.md",
     "zettelkasten/20231122-数学.md",
     "Index.md",
-    "zettelkasten/20230919-行列.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20240327-放物線.md",
+    "zettelkasten/20240406-円.md",
+    "zettelkasten/20230919-行列.md",
     "essays/The Union Makes Us Strong.md",
     "essays",
     "zettelkasten/20240311-前の微分積分学.md",
     "zettelkasten/20230515-科学.md",
     "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230515-Schema Warna-Warni Situs.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
