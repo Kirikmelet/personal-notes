@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cf7c810c08197dcf",
+        "id": "473f6501b3f9bfe1",
         "type": "tabs",
         "children": [
           {
-            "id": "5480991a4d1f9e64",
+            "id": "6ad2a3e680792ac1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
-                "viewState": {
-                  "x": -116.88595133506783,
-                  "y": -190,
-                  "zoom": -1.5002439431833552
-                }
+                "file": "Index.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230519C-Struktur Negara.canvas"
+                "file": "Index.md"
               }
             }
           },
@@ -175,11 +173,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5480991a4d1f9e64",
+  "active": "6ad2a3e680792ac1",
   "lastOpenFiles": [
+    "Index.md",
+    "zettelkasten/20240124-ローグライク開発.md",
+    "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230519-Struktur Negara.md",
     "zettelkasten/20231123-デレノモ国.md",
-    "Index.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
@@ -202,8 +202,6 @@
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230919-行列の掛け算.md",
     "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-「多項式」恒等式.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230519C-Struktur Negara.canvas"
+    "zettelkasten/20230515-「多項式」恒等式.md"
   ]
 }
