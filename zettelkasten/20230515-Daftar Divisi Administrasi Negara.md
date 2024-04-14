@@ -78,3 +78,10 @@ tags: gaming/minecraft/derrenomo
 > 大和言葉: 下界特别行政区
 > 华语: 下界特别行政区
 > Italiano: Prefettura di Sotto Sud
+
+## Quaft Special Administrative Region
+
+> Bahasa Indonesia: Daerah Administratif Khusus Kuaft
+> 大和言葉: クアフト特别行政区
+> 华语: 夸夫特特别行政区
+> Italiano: Prefettura di Quaft

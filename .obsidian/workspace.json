@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "473f6501b3f9bfe1",
+        "id": "8f649e9985f1a092",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad2a3e680792ac1",
+            "id": "2c9b47fc935a3af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,15 +173,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6ad2a3e680792ac1",
+  "active": "2c9b47fc935a3af1",
   "lastOpenFiles": [
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "Index.md",
     "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230519-Struktur Negara.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20240327-放物線.md",
     "zettelkasten/20240406-円.md",
@@ -196,7 +197,6 @@
     "zettelkasten/20230515-Schema Warna-Warni Situs.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-Structure Codes.md",
     "zettelkasten/20230713-正弦波.md",
     "zettelkasten/20230611-関数図形の移動する.md",
