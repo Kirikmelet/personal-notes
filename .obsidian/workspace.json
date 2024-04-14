@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "8f649e9985f1a092",
+        "id": "783d0545c5a5a3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9b47fc935a3af1",
+            "id": "251059f6c281010a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-Relativsätze.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a1d703df09a9ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-共産主義.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e12b29ff390a1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,12 +200,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2c9b47fc935a3af1",
+  "active": "6e12b29ff390a1f3",
   "lastOpenFiles": [
+    "zettelkasten/20230515-共産主義.md",
+    "Index.md",
+    "zettelkasten/20230515-社会主義.md",
+    "zettelkasten/20230515-Relativsätze.md",
     "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "Index.md",
     "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230519-Struktur Negara.md",
@@ -199,9 +229,6 @@
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230515-Structure Codes.md",
     "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230919-行列の掛け算.md",
-    "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-「多項式」恒等式.md"
+    "zettelkasten/20230611-関数図形の移動する.md"
   ]
 }
