@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e12b29ff390a1f3",
+  "active": "2a1d703df09a9ffa",
   "lastOpenFiles": [
-    "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
+    "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20240124-ローグライク開発.md",
