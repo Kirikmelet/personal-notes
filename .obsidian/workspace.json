@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240417-クアフトサーバー.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240417-クアフトサーバー.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20240417-クアフトサーバー.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20240417-クアフトサーバー.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "2a1d703df09a9ffa",
   "lastOpenFiles": [
-    "zettelkasten/20231123-デレノモ国.md",
     "Index.md",
+    "zettelkasten/20240417-クアフトサーバー.md",
+    "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-Relativsätze.md",
@@ -228,7 +229,6 @@
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230515-Structure Codes.md",
-    "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/20230611-関数図形の移動する.md"
+    "zettelkasten/20230713-正弦波.md"
   ]
 }
