@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "cf09a58a632101b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-共産主義.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a1d703df09a9ffa",
             "type": "leaf",
             "state": {
@@ -39,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md",
+                "file": "zettelkasten/20230515-共産主義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md",
+                "file": "zettelkasten/20230515-共産主義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md"
+                "file": "zettelkasten/20230515-共産主義.md"
               }
             }
           },
@@ -200,21 +213,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2a1d703df09a9ffa",
+  "active": "cf09a58a632101b1",
   "lastOpenFiles": [
     "Index.md",
-    "zettelkasten/20240417-クアフトサーバー.md",
-    "zettelkasten/20231123-デレノモ国.md",
-    "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20240417-クアフトサーバー.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20231123-デレノモ国.md",
+    "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20240124-ローグライク開発.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230519-Struktur Negara.md",
     "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20240327-放物線.md",
     "zettelkasten/20240406-円.md",
     "zettelkasten/20230919-行列.md",
