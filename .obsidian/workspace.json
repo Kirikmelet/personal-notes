@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "zettelkasten/20230515-共産主義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "zettelkasten/20230515-共産主義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md"
+                "file": "zettelkasten/20230515-共産主義.md"
               }
             }
           },
@@ -200,14 +200,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e12b29ff390a1f3",
+  "active": "cf09a58a632101b1",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20240417-クアフトサーバー.md",
     "zettelkasten/20230515-Relativsätze.md",
     "Index.md",
     "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20231123-デレノモ国.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
