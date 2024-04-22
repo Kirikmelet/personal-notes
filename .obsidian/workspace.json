@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math",
+                "query": "tag:#appendix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md"
+                "file": "zettelkasten/20230515-数学用語集.md"
               }
             }
           },
@@ -172,8 +172,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6441dd5472071627",
+  "active": "4a9d7f26c3aed13b",
   "lastOpenFiles": [
+    "Index.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230515-Structure Codes.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
+    "zettelkasten/20230515-Schema Warna-Warni Situs.md",
+    "zettelkasten/20230515-Motto Negara Derrenomo.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20231122-数学.md",
+    "Untitled 1.md",
+    "essays/The Union Makes Us Strong.md",
     "zettelkasten/20230629-冪数関数の図形.md",
     "zettelkasten/20240406-円.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
@@ -183,23 +200,6 @@
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
-    "zettelkasten/20230919-行列の掛け算.md",
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20240324-集合の表記.md",
-    "zettelkasten/20240312-ベクトルとスカラー.md",
-    "zettelkasten/20231122-数学.md",
-    "zettelkasten/20240121-線型代数学.md",
-    "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230919-行列.md",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230605-「対数」自然対数.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-「指数」指数的モデル.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]

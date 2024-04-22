@@ -1,3 +1,16 @@
+---
+tags:
+  - gaming
+  - derrenomo
+  - media
+game: Minecraft
+faction: Derrenomo
+server:
+  - DunamosMP2
+  - Minequaft
+
+---
+
 ![seal](20230515-seal.svg)]
 
 ![flag](20230515-flag.svg)

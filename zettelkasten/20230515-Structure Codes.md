@@ -1,5 +1,14 @@
 ---
-tags: gaming/minecraft/derrenomo
+tags:
+  - gaming
+  - derrenomo
+game: Minecraft
+faction: Derrenomo
+server:
+  - DunamosMP2
+  - Minequaft
+
+
 ---
 
 # Derrenomo Structure Codes

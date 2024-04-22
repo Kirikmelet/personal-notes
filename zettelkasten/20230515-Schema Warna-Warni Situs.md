@@ -1,6 +1,14 @@
 ---
 cssclass: cjk-font-serif
-tags: gaming/minecraft/derrenomo
+tags:
+  - gaming
+  - derrenomo
+  - programming
+game: Minecraft
+faction: Derrenomo
+server:
+  - DunamosMP2
+  - Minequaft
 ---
 
 ```css
