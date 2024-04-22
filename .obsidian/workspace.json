@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/20230515-Daftar Partai Politik.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md"
+                "file": "Index.md"
               }
             }
           },
@@ -213,13 +213,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf09a58a632101b1",
+  "active": "2aac08011338dade",
   "lastOpenFiles": [
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230515-Protokollierung.md",
+    "Index.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Schema Warna-Warni Situs.md",
-    "Index.md",
     "zettelkasten/20230515-Relativsätze.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20240417-クアフトサーバー.md",
@@ -241,7 +242,6 @@
     "zettelkasten/20240103-代数２.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230515-Structure Codes.md",
-    "zettelkasten/20230713-正弦波.md"
+    "zettelkasten/20230515-Structure Codes.md"
   ]
 }
