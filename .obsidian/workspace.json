@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5dea9615cfb46a4",
+        "id": "18af97a771acf950",
         "type": "tabs",
         "children": [
           {
-            "id": "b269e8faf8111da1",
+            "id": "ff3fb5f00ba8987e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"game\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,8 +172,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b269e8faf8111da1",
+  "active": "ff3fb5f00ba8987e",
   "lastOpenFiles": [
+    "zettelkasten/20230515-「化学」モル.md",
+    "Index.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230728-Illinois Constitution.md",
     "zettelkasten/20230515-社会主義.md",
@@ -198,8 +200,6 @@
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230605-「対数」自然対数.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
