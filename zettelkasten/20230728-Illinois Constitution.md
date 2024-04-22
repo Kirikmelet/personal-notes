@@ -1,6 +1,8 @@
 ---
-tags: politics/constitution
+tags:
+  - "#politics"
 date: 2023-07-28
+topic: illinois constitution
 ---
 # Illinois Constitution
 

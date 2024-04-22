@@ -1,6 +1,8 @@
 ---
 date: 2023-04-26
-tags: programming/theory
+tags:
+  - programming
+theory: RGB
 ---
 
 # Farben Lehre

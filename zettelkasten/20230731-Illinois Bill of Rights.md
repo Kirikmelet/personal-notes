@@ -1,6 +1,8 @@
 ---
-tags: politics/constitution
+tags:
+  - politics
 date: 2023-07-31
+topic: illinois constitution
 ---
 # Illinois Bill of Rights
 > https://www.ilga.gov/commission/lrb/con1.htm

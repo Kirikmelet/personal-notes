@@ -1,7 +1,8 @@
 ---
 tags:
-  - programming/theory
+  - programming
 date: 2023-11-06
+theory: ELM Architecture
 ---
 # ELM Architecture
 

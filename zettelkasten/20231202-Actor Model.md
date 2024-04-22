@@ -1,7 +1,8 @@
 ---
 tags:
-  - programming/theory
+  - programming
 date: 2023-12-02
+concept: actor model
 ---
 # Actor Model | アクターモデル | Model Aktor
 

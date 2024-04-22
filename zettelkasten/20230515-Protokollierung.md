@@ -1,5 +1,7 @@
 ---
-tags: programming/concept
+tags:
+  - programming
+concept: logging
 ---
 
 # Protokollierung

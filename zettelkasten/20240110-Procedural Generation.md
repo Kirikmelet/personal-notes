@@ -1,7 +1,9 @@
 ---
 tags:
-  - game_development/theory
+  - programming
+  - game_development
 date: 2024-01-10
+theory: procedural generation
 ---
 # Procedural Generation
 

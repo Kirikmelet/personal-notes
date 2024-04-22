@@ -1,10 +1,10 @@
 {
   "accentColor": "#808ed0",
   "theme": "moonstone",
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC",
+  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC",
   "baseFontSize": 30,
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC",
+  "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC",
   "enabledCssSnippets": [],
   "monospaceFontFamily": "JetBrains Mono"
 }
