@@ -10,5 +10,5 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "visible"
 }

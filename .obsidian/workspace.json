@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c55df0bcdf4d79a9",
+        "id": "05270cd8ac05bea3",
         "type": "tabs",
         "children": [
           {
-            "id": "da34277f58beb41d",
+            "id": "5999a43f27c02e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,16 +175,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "da34277f58beb41d",
+  "active": "5999a43f27c02e2c",
   "lastOpenFiles": [
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "Index.md",
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-    "Index.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-Farben Lehre.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20230515-共産主義.md",
