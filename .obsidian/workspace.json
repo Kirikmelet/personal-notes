@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18af97a771acf950",
+        "id": "dffcf0e30ca95396",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3fb5f00ba8987e",
+            "id": "48e35edd65bc8b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#game_development",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,19 +59,19 @@
             }
           },
           {
-            "id": "cb7775d84914c6cf",
+            "id": "0ffbb38209874f8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -82,7 +82,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66873f3dde9ba610",
+            "id": "2688ad9fc46ad63c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ca484df2f94f71d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          },
+          {
+            "id": "8cee24036c603258",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          },
+          {
+            "id": "b1bf07d7ff0c83ae",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -99,7 +130,7 @@
             }
           },
           {
-            "id": "8ec080db7bc1b57a",
+            "id": "70187673e2d2a45b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,18 +142,7 @@
             }
           },
           {
-            "id": "2688ad9fc46ad63c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "98daff1443098e09",
+            "id": "eebfad115409e2b8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -131,24 +151,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "349fc3f0e8756a47",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
-            }
-          },
-          {
-            "id": "b9696da1ddde9759",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
@@ -172,10 +174,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff3fb5f00ba8987e",
+  "active": "48e35edd65bc8b86",
   "lastOpenFiles": [
-    "zettelkasten/20230515-「化学」モル.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "Index.md",
+    "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+    "zettelkasten/20230515-「化学」モル.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230728-Illinois Constitution.md",
     "zettelkasten/20230515-社会主義.md",
@@ -196,10 +202,6 @@
     "zettelkasten/20230629-冪数関数の図形.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
     "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
-    "zettelkasten/20230621-偶関数と奇関数.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
