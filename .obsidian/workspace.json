@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dffcf0e30ca95396",
+        "id": "c55df0bcdf4d79a9",
         "type": "tabs",
         "children": [
           {
-            "id": "48e35edd65bc8b86",
+            "id": "da34277f58beb41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230611-関数図形の移動する.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff1c687c307f8443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-ドキュメントオブジェクトモデル.md"
+                "file": "Index.md"
               }
             }
           },
@@ -122,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-ドキュメントオブジェクトモデル.md"
+                "file": "Index.md"
               }
             }
           },
@@ -132,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +174,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff1c687c307f8443",
+  "active": "da34277f58beb41d",
   "lastOpenFiles": [
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
