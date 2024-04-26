@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05270cd8ac05bea3",
+        "id": "1fd580a88103cfc0",
         "type": "tabs",
         "children": [
           {
-            "id": "5999a43f27c02e2c",
+            "id": "1586d71a7b6be1d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5999a43f27c02e2c",
+  "active": "1586d71a7b6be1d2",
   "lastOpenFiles": [
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "Index.md",
