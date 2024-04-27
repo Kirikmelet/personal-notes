@@ -2,7 +2,7 @@
 tags:
   - programming
 date: 2023-12-02
-concept: actor model
+topic: actor model
 ---
 # Actor Model | アクターモデル | Model Aktor
 

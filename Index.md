@@ -48,4 +48,4 @@ tags:
 
 ## 最下部
 
-最重要テンプレート: [template](./templates/template.md)
+最重要テンプレート: [テンプレート](テンプレート.md)

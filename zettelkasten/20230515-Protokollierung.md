@@ -1,7 +1,7 @@
 ---
 tags:
   - programming
-concept: logging
+topic: logging
 ---
 
 # Protokollierung

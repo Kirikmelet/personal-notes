@@ -2,7 +2,7 @@
 date: 2023-04-26
 tags:
   - programming
-theory: RGB
+topic: RGB
 ---
 
 # Farben Lehre

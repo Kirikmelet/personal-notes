@@ -3,7 +3,7 @@ tags:
   - politics
   - essay
 date: 2023-05-26
-concept: marxism
+topic: marxism
 ---
 
 # What is Das Kapital?

@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -98,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
               }
             }
           },
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,32 +176,32 @@
   },
   "active": "1586d71a7b6be1d2",
   "lastOpenFiles": [
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "templates/教育手記テンプレート.md",
+    "templates/計算機科学手記テンプレート.md",
     "Index.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-社会主義.md",
+    "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
+    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20231106-ELM Architecture.md",
+    "templates/ゲーム手記テンプレート.md",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-Protokollierung.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+    "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "zettelkasten/20240425-.md",
+    "Untitled.md",
+    "zettelkasten/20230515-「多項式」二次パターン.md",
+    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-「化学」粒子.md",
+    "templates/テンプレート.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-Farben Lehre.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-「化学」モル.md",
-    "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230728-Illinois Constitution.md",
-    "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20240111-.md",
-    "zettelkasten/20240325-区間の表記.md",
-    "zettelkasten/20240110-Procedural Generation.md",
-    "zettelkasten/20240406-円.md",
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20240319-ネットワークプログラミング.md",
-    "zettelkasten/20231202-Actor Model.md",
-    "zettelkasten/20230919-行列の掛け算.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "zettelkasten/20230919-行列.md",
-    "zettelkasten/20230731-Illinois Bill of Rights.md",
-    "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/20230710-三角法.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
