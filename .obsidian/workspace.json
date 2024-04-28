@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd580a88103cfc0",
+        "id": "277bfc846ef95263",
         "type": "tabs",
         "children": [
           {
-            "id": "1586d71a7b6be1d2",
+            "id": "76c829b96597159b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
+                "file": "Index.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
+                "file": "Index.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +174,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1586d71a7b6be1d2",
+  "active": "76c829b96597159b",
   "lastOpenFiles": [
+    "zettelkasten/20230515-「多項式」標準形.md",
+    "zettelkasten/20240426-乱数発生器.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20231122-数学.md",
+    "Index.md",
+    "Readme.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "templates/教育手記テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
-    "Index.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230526-Marxism - Das Kapital.md",
@@ -196,12 +202,6 @@
     "Untitled.md",
     "zettelkasten/20230515-「多項式」二次パターン.md",
     "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-「化学」粒子.md",
-    "templates/テンプレート.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
