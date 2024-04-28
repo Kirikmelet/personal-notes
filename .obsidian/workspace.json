@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20230515-数学用語集.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zettelkasten/20230515-数学用語集.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zettelkasten/20230515-数学用語集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,11 +176,11 @@
   },
   "active": "76c829b96597159b",
   "lastOpenFiles": [
+    "zettelkasten/20231122-数学.md",
+    "Index.md",
     "zettelkasten/20230515-「多項式」標準形.md",
     "zettelkasten/20240426-乱数発生器.md",
     "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20231122-数学.md",
-    "Index.md",
     "Readme.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
