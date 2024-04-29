@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-数学用語集.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-数学用語集.md"
+                "file": "Index.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-数学用語集.md"
+                "file": "Index.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-数学用語集.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-数学用語集.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +176,7 @@
   },
   "active": "76c829b96597159b",
   "lastOpenFiles": [
+    "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20231122-数学.md",
     "Index.md",
     "zettelkasten/20230515-「多項式」標準形.md",
@@ -201,7 +202,6 @@
     "zettelkasten/20240425-.md",
     "Untitled.md",
     "zettelkasten/20230515-「多項式」二次パターン.md",
-    "zettelkasten/20230515-「指数」指数的モデルの変化の解釈.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
