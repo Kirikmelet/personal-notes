@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf3562ffdc3e37e",
+        "id": "eb7b83dcf42e7587",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb2a7b63e39d5c1",
+            "id": "2cca02106f1063ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md"
+                "file": "Index.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md"
+                "file": "Index.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cbb2a7b63e39d5c1",
+  "active": "2cca02106f1063ab",
   "lastOpenFiles": [
+    "Readme.md",
     "Index.md",
     "essays/The Union Makes Us Strong.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
@@ -185,7 +186,6 @@
     "zettelkasten/20230515-「多項式」標準形.md",
     "zettelkasten/20240426-乱数発生器.md",
     "zettelkasten/20230515-多項式.md",
-    "Readme.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "templates/教育手記テンプレート.md",
@@ -198,4 +198,11 @@
     "zettelkasten/20230515-Farben Lehre.md",
     "zettelkasten/20230515-Protokollierung.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-    "zettelkasten/20231217-デジタルオーディオの基本�
+    "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "zettelkasten/20240425-.md",
+    "zettelkasten/20230519C-Struktur Negara.canvas",
+    "essays"
+  ]
+}
