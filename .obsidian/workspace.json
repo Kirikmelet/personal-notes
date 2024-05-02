@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7b83dcf42e7587",
+        "id": "39790bf638765f12",
         "type": "tabs",
         "children": [
           {
-            "id": "2cca02106f1063ab",
+            "id": "f646e5217f4c373f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,19 +174,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2cca02106f1063ab",
+  "active": "f646e5217f4c373f",
   "lastOpenFiles": [
-    "Readme.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "Index.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20230515-複素数.md",
+    "Readme.md",
     "essays/The Union Makes Us Strong.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-「多項式」標準形.md",
     "zettelkasten/20240426-乱数発生器.md",
     "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "templates/教育手記テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
@@ -200,8 +202,6 @@
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
     "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
     "zettelkasten/20231202-Actor Model.md",
-    "zettelkasten/20240319-ネットワークプログラミング.md",
-    "zettelkasten/20240425-.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
