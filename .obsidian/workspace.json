@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39790bf638765f12",
+        "id": "aa1534daa30c76fb",
         "type": "tabs",
         "children": [
           {
-            "id": "f646e5217f4c373f",
+            "id": "cd4a626e40f9c427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -97,7 +98,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md"
+                "file": "Index.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md"
+                "file": "Index.md"
               }
             }
           },
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +175,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f646e5217f4c373f",
+  "active": "cd4a626e40f9c427",
   "lastOpenFiles": [
+    "Index.md",
+    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230519-Struktur Negara.md",
-    "Index.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-複素数.md",
@@ -190,7 +192,6 @@
     "zettelkasten/20230515-「多項式」標準形.md",
     "zettelkasten/20240426-乱数発生器.md",
     "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "templates/教育手記テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
     "zettelkasten/20230515-社会主義.md",
