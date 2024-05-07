@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#game_development",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -98,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,13 +152,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +174,7 @@
   },
   "active": "cd4a626e40f9c427",
   "lastOpenFiles": [
+    "zettelkasten/20240426-乱数発生器.md",
     "Index.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
@@ -190,7 +188,6 @@
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-「多項式」標準形.md",
-    "zettelkasten/20240426-乱数発生器.md",
     "zettelkasten/20230515-多項式.md",
     "templates/教育手記テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
