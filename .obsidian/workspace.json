@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1534daa30c76fb",
+        "id": "2c5f26bc16d5fc9c",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4a626e40f9c427",
+            "id": "74086a6d5dd69c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md"
+                "file": "Index.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md"
+                "file": "Index.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd4a626e40f9c427",
+  "active": "74086a6d5dd69c8a",
   "lastOpenFiles": [
     "zettelkasten/20240426-乱数発生器.md",
     "Index.md",
