@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "アパートリスト.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "アパートリスト.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "アパートリスト.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "アパートリスト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "アパートリスト.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +201,10 @@
   },
   "active": "681f39576a6bb5bb",
   "lastOpenFiles": [
-    "zettelkasten/20231122-数学.md",
+    "Untitled.md",
+    "アパートリスト.md",
     "Index.md",
+    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
@@ -225,8 +227,6 @@
     "zettelkasten/20231106-ELM Architecture.md",
     "templates/ゲーム手記テンプレート.md",
     "zettelkasten/20230515-Farben Lehre.md",
-    "zettelkasten/20230515-Protokollierung.md",
-    "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
