@@ -7,6 +7,7 @@
     "Server": "multitext",
     "concept": "text",
     "theory": "text",
-    "idea": "text"
+    "idea": "text",
+    "date": "date"
   }
 }

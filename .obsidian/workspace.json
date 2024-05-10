@@ -4,43 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5f26bc16d5fc9c",
+        "id": "70ecaa9677a273c7",
         "type": "tabs",
         "children": [
           {
-            "id": "74086a6d5dd69c8a",
+            "id": "f96d8949ddbf2d75",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Bendera Negara.md",
+                "file": "Refile.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "f9170bb8afb5b107",
+            "id": "a895c1f7b4a239ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20231122-数学.md",
+                "file": "zettelkasten/1715310852-多項式の終了動作.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681f39576a6bb5bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "アパートリスト.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -76,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "[\"topic\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20231122-数学.md"
+                "file": "zettelkasten/1715310852-多項式の終了動作.md"
               }
             }
           },
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20231122-数学.md"
+                "file": "zettelkasten/1715310852-多項式の終了動作.md"
               }
             }
           },
@@ -144,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20231122-数学.md",
+                "file": "zettelkasten/1715310852-多項式の終了動作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20231122-数学.md",
+                "file": "zettelkasten/1715310852-多項式の終了動作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,11 +168,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,34 +190,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f9170bb8afb5b107",
+  "active": "a895c1f7b4a239ad",
   "lastOpenFiles": [
-    "アパートリスト.md",
-    "Untitled.md",
-    "Index.md",
-    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20240323-余弦定理.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
+    "zettelkasten/1715230560-アパートリスト.md",
+    "Refile.md",
     "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20240426-乱数発生器.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230519-Struktur Negara.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-複素数.md",
-    "Readme.md",
-    "essays/The Union Makes Us Strong.md",
+    "zettelkasten/1715311398-有理指数.md",
+    "zettelkasten/1678298400-指数的性質.md",
+    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-「多項式」標準形.md",
     "zettelkasten/20230515-多項式.md",
-    "templates/教育手記テンプレート.md",
-    "templates/計算機科学手記テンプレート.md",
-    "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "zettelkasten/20240110-Procedural Generation.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "templates/ゲーム手記テンプレート.md",
-    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/1715310104-割り算.md",
+    "zettelkasten/1715310132-因数分解.md",
+    "zettelkasten/1715310799-多項式の標準形.md",
+    "zettelkasten/1715310852-多項式の終了動作-2.png",
+    "zettelkasten/1715310925-指数的モデル.md",
+    "zettelkasten/1715310852-多項式の終了動作-3.png",
+    "zettelkasten/1715310852-多項式の終了動作-1.png",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/20240417-クアフトサーバー.md",
+    "zettelkasten/1714185300-乱数発生器.md",
+    "zettelkasten/1715309669-二次パターン.md",
+    "zettelkasten/1715309795-剰余定理.md",
+    "zettelkasten/1715309574-ゼロ.md",
+    "zettelkasten/1715307801-グラフ.md",
+    "zettelkasten/1715307760-モル.md",
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
