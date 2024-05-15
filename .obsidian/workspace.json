@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bbcbe6a1b5a52605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"topic\"]",
+                "query": "tag:#gaming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,12 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -100,7 +114,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +170,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +190,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47d1316bc808bc29",
+  "active": "bbcbe6a1b5a52605",
   "lastOpenFiles": [
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20230710-三角法.md",
     "Refile.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715309795-剰余定理.md",
@@ -204,10 +221,6 @@
     "zettelkasten/1715310925-指数的モデル.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
-    "zettelkasten/20240417-クアフトサーバー.md",
-    "zettelkasten/1714185300-乱数発生器.md",
-    "zettelkasten/1715309574-ゼロ.md",
-    "zettelkasten/1715307801-グラフ.md",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
