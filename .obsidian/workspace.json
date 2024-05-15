@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4da03b1a49c6f518",
+        "id": "abe7889d6fb449ae",
         "type": "tabs",
         "children": [
           {
-            "id": "31e4cc12dfe84ded",
+            "id": "47d1316bc808bc29",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -176,13 +177,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "31e4cc12dfe84ded",
+  "active": "47d1316bc808bc29",
   "lastOpenFiles": [
+    "Refile.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/1715309795-剰余定理.md",
+    "zettelkasten/1715309669-二次パターン.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/20240323-余弦定理.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/1715230560-アパートリスト.md",
-    "Refile.md",
     "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/1715311398-有理指数.md",
     "zettelkasten/1678298400-指数的性質.md",
@@ -194,19 +200,14 @@
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/1715310104-割り算.md",
     "zettelkasten/1715310132-因数分解.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310925-指数的モデル.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
-    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/20240417-クアフトサーバー.md",
     "zettelkasten/1714185300-乱数発生器.md",
-    "zettelkasten/1715309669-二次パターン.md",
-    "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/1715309574-ゼロ.md",
     "zettelkasten/1715307801-グラフ.md",
-    "zettelkasten/1715307760-モル.md",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
