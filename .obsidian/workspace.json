@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abe7889d6fb449ae",
+        "id": "f4b9279e23612f24",
         "type": "tabs",
         "children": [
           {
-            "id": "47d1316bc808bc29",
+            "id": "f1247329b594f9a8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "bbcbe6a1b5a52605",
+            "id": "c8c7047b8cdcc2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -190,13 +190,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bbcbe6a1b5a52605",
+  "active": "c8c7047b8cdcc2bb",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "Refile.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230710-三角法.md",
-    "Refile.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/1715309669-二次パターン.md",
@@ -206,7 +208,6 @@
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/1715230560-アパートリスト.md",
-    "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/1715311398-有理指数.md",
     "zettelkasten/1678298400-指数的性質.md",
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
@@ -218,7 +219,6 @@
     "zettelkasten/1715310104-割り算.md",
     "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
-    "zettelkasten/1715310925-指数的モデル.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
