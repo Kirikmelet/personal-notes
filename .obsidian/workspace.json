@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "9aff3335ce9b2e02",
+            "id": "a06c9ba18b031720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "file": "zettelkasten/20231122-数学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "a06c9ba18b031720",
+            "id": "02a8afddd1188cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"class\":ENG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -128,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md"
+                "file": "zettelkasten/20231122-数学.md"
               }
             }
           },
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md"
+                "file": "zettelkasten/20231122-数学.md"
               }
             }
           },
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "file": "zettelkasten/20231122-数学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "file": "zettelkasten/20231122-数学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +181,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,42 +199,43 @@
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "homepage:Open homepage": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "a06c9ba18b031720",
   "lastOpenFiles": [
-    "Refile.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230519C-Struktur Negara.canvas",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
+    "zettelkasten/1715311398-有理指数.md",
+    "zettelkasten/1715310799-多項式の標準形.md",
+    "zettelkasten/1715309669-二次パターン.md",
+    "zettelkasten/1678298400-指数的性質.md",
+    "zettelkasten/20240417-クアフトサーバー.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "Refile.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20230515-flag.svg",
     "Untitled.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20230710-三角法.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715309795-剰余定理.md",
-    "zettelkasten/1715309669-二次パターン.md",
     "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/20240323-余弦定理.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
     "zettelkasten/1715230560-アパートリスト.md",
-    "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/1678298400-指数的性質.md",
-    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-共産主義.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
-    "zettelkasten/20230519C-Struktur Negara.canvas",
     "essays"
   ]
 }
