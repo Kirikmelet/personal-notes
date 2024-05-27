@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a09485236a22a8e",
+        "id": "00c80bbcbd12a576",
         "type": "tabs",
         "children": [
           {
-            "id": "6632f5c992b2a565",
+            "id": "b17a989bc5251c78",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9aff3335ce9b2e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a06c9ba18b031720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gaming",
+                "query": "[\"class\":ENG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,11 +95,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -99,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md"
               }
             }
           },
@@ -109,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md"
               }
             }
           },
@@ -119,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -175,15 +205,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6632f5c992b2a565",
+  "active": "a06c9ba18b031720",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
-    "Untitled.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-flag.svg",
+    "Untitled.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
@@ -202,7 +233,6 @@
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230515-指数式.md",
     "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
