@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10cc20d6ee240d9c",
+        "id": "fca4742d5da0bffb",
         "type": "tabs",
         "children": [
           {
-            "id": "f66abdd1766160d3",
+            "id": "9060908da920fd15",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,7 +17,7 @@
                 "file": "Refile.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "pinned": true
             }
@@ -176,9 +176,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f66abdd1766160d3",
+  "active": "9060908da920fd15",
   "lastOpenFiles": [
+    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1716957604-Peoples Republic of Walmart.md",
+    "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
+    "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
+    "zettelkasten/1716959754-Natural Economy.md",
+    "templates/文献テンプレート.md",
+    "Refile.md",
+    "templates/テンプレート.md",
+    "templates/ゲーム手記テンプレート.md",
+    "templates/計算機科学手記テンプレート.md",
+    "templates/教育手記テンプレート.md",
+    "zettelkasten/1716957852-.md",
+    "zettelkasten/1716957795-.md",
+    "Untitled 1.md",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230731-Illinois Bill of Rights.md",
     "zettelkasten/20230919-行列.md",
@@ -192,20 +206,7 @@
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
     "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
-    "zettelkasten/1715309669-二次パターン.md",
-    "zettelkasten/1678298400-指数的性質.md",
-    "zettelkasten/20240417-クアフトサーバー.md",
-    "Refile.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20230515-flag.svg",
-    "Untitled.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
-    "zettelkasten/1715309795-剰余定理.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20240323-余弦定理.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
