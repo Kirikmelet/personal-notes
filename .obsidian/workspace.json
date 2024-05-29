@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00c80bbcbd12a576",
+        "id": "10cc20d6ee240d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b17a989bc5251c78",
+            "id": "f66abdd1766160d3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a06c9ba18b031720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20231122-数学.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02a8afddd1188cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20231122-数学.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -136,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20231122-数学.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -146,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20231122-数学.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20231122-数学.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +176,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a06c9ba18b031720",
+  "active": "f66abdd1766160d3",
   "lastOpenFiles": [
+    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1715310852-多項式の終了動作-1.png",
+    "zettelkasten/20230731-Illinois Bill of Rights.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20230710-三角法.md",
+    "zettelkasten/20231122-数学.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
@@ -217,24 +196,18 @@
     "zettelkasten/1715309669-二次パターン.md",
     "zettelkasten/1678298400-指数的性質.md",
     "zettelkasten/20240417-クアフトサーバー.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "Refile.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Bendera Negara.md",
     "zettelkasten/20230515-flag.svg",
     "Untitled.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20230710-三角法.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20240323-余弦定理.md",
-    "zettelkasten/20240319-ネットワークプログラミング.md",
-    "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
-    "zettelkasten/1715230560-アパートリスト.md",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
-    "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "essays"
   ]
