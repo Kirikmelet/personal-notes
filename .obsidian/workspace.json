@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fca4742d5da0bffb",
+        "id": "a2290c87f074d139",
         "type": "tabs",
         "children": [
           {
-            "id": "9060908da920fd15",
+            "id": "253a1453261a278c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9b3351004d1070e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,38 +176,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b3351004d1070e7",
+  "active": "253a1453261a278c",
   "lastOpenFiles": [
-    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
-    "Refile.md",
-    "zettelkasten/1716957604-Peoples Republic of Walmart.md",
-    "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
-    "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
-    "zettelkasten/1716959754-Natural Economy.md",
-    "templates/文献テンプレート.md",
-    "templates/テンプレート.md",
-    "templates/ゲーム手記テンプレート.md",
-    "templates/計算機科学手記テンプレート.md",
-    "templates/教育手記テンプレート.md",
-    "zettelkasten/1716957852-.md",
-    "zettelkasten/1716957795-.md",
-    "Untitled 1.md",
-    "zettelkasten/1715310852-多項式の終了動作-1.png",
-    "zettelkasten/20230731-Illinois Bill of Rights.md",
-    "zettelkasten/20230919-行列.md",
-    "zettelkasten/20230710-三角法.md",
-    "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-社会主義.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20230515-等比級数.md",
+    "zettelkasten/20230515-複素数.md",
+    "zettelkasten/20230526-Marxism - Das Kapital.md",
     "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
-    "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/20230515-flag.svg",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20230621-偶関数と奇関数.md",
+    "zettelkasten/20230919-行列.md",
+    "zettelkasten/20231106-ELM Architecture.md",
+    "zettelkasten/20231122-数学.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20240312-ベクトルとスカラー.md",
+    "zettelkasten/20240124-ローグライク開発.md",
+    "zettelkasten/20240313-ベクトルの平行四辺形ルール.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "zettelkasten/20240322-正弦定理.md",
+    "zettelkasten/20240323-余弦定理.md",
+    "zettelkasten/20240325-区間の表記.md",
+    "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
+    "zettelkasten/20230515-flag.svg",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "essays"
