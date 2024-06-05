@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60a66167f1c8b5ee",
+        "id": "c624ee2835af1c83",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7744fead38e7a4",
+            "id": "c69d1db3efc469c0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -176,8 +176,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f7744fead38e7a4",
+  "active": "c69d1db3efc469c0",
   "lastOpenFiles": [
+    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
+    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
+    "Refile.md",
     "zettelkasten/20230515-Logging with Tracing.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
@@ -194,11 +198,8 @@
     "zettelkasten/20230728-Illinois Constitution.md",
     "zettelkasten/20230731-Illinois Bill of Rights.md",
     "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
-    "Refile.md",
     "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/20230515-指数式.md",
     "zettelkasten/20230515-多項式.md",
@@ -206,7 +207,6 @@
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230515-複素数.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
