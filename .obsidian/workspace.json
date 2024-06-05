@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c624ee2835af1c83",
+        "id": "18cf98bad8f2b2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c69d1db3efc469c0",
+            "id": "18b3c3546da09a72",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -176,12 +176,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c69d1db3efc469c0",
+  "active": "18b3c3546da09a72",
   "lastOpenFiles": [
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
-    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
+    "clanceyHERELIESPROJECT.md",
     "Refile.md",
+    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
     "zettelkasten/20230515-Logging with Tracing.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
@@ -205,8 +207,6 @@
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",

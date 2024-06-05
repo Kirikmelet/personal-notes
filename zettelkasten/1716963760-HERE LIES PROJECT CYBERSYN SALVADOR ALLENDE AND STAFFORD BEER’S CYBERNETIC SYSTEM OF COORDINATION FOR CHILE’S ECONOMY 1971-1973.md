@@ -17,6 +17,12 @@ type: thesis
 
 ## 解題
 
+```bibtex
+@
+```
+
+Clancey, Rose. “HERE LIES PROJECT CYBERSYN: SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY (1971-1973).” _Strata University of Ottawa Graduate Student Review_, 2017.
+
 ## 引く
 
 ## ノート
