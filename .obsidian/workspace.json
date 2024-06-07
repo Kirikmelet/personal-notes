@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18cf98bad8f2b2d5",
+        "id": "5b17bc6d46177845",
         "type": "tabs",
         "children": [
           {
-            "id": "18b3c3546da09a72",
+            "id": "24a95db9f79ed90d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -176,7 +176,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "18b3c3546da09a72",
+  "active": "24a95db9f79ed90d",
   "lastOpenFiles": [
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
