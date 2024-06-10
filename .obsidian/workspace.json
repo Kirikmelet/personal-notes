@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f525a68ff2c967d",
+        "id": "b67def35a507b742",
         "type": "tabs",
         "children": [
           {
-            "id": "17f8b21f9a199c2a",
+            "id": "93475565a35fa7b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,20 +23,16 @@
             }
           },
           {
-            "id": "04aeeadd164b630e",
+            "id": "5185ef4377231b79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.6.3"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +110,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -124,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -134,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +188,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04aeeadd164b630e",
+  "active": "93475565a35fa7b4",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/1717795920-参考文献講義.md",
