@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b67def35a507b742",
+        "id": "d0140fca79815624",
         "type": "tabs",
         "children": [
           {
-            "id": "93475565a35fa7b4",
+            "id": "1a76d04f1350e66b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,16 +20,6 @@
                 "source": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "5185ef4377231b79",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
             }
           }
         ]
@@ -188,11 +178,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "93475565a35fa7b4",
+  "active": "1a76d04f1350e66b",
   "lastOpenFiles": [
+    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "Refile.md",
     "zettelkasten/1717795920-参考文献講義.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
     "clanceyHERELIESPROJECT.md",
