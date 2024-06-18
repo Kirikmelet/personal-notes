@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3aeaac309f986ad",
+        "id": "9e0fcc848e637fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "f73cc86104be2ca7",
+            "id": "b8af44b89f46b7dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -155,11 +155,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,11 +179,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f73cc86104be2ca7",
+  "active": "b8af44b89f46b7dc",
   "lastOpenFiles": [
-    "zettelkasten/1717795920-参考文献講義.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1718665808-総合論文講義.md",
     "Refile.md",
+    "zettelkasten/1717795920-参考文献講義.md",
+    "zettelkasten/1718634550-Star Wars Practice Prompt.md",
+    "Task.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
     "clanceyHERELIESPROJECT.md",
@@ -205,10 +210,6 @@
     "zettelkasten/1715311398-有理指数.md",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "zettelkasten/20230515-Nama-nama Negara.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",

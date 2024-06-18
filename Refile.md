@@ -3,8 +3,12 @@ tags:
   - refile
 ---
 
-# 今の大学のプロジェクト
+# Refile
 
-- ENG101: [Cyber-Socialism and Modern Technology](1716259900-Cyber%20Socialism%20and%20Modern%20Technology.md#Cyber-Socialism%20and%20Modern%20Technology)
+## Synthesis Essay
 
-
+- $Source 1+ Source 2 + paraphrase = synthesis$
+- Creating a conversation to discuss point in essay
+- Incorporate multiple sources in paragraph
+- Starts with transition leads into source 1
+	- "In agreement with, {source 1}, {source 2} says... we can determine..."
