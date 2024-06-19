@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0fcc848e637fbd",
+        "id": "45135902b4e23fd5",
         "type": "tabs",
         "children": [
           {
-            "id": "b8af44b89f46b7dc",
+            "id": "af01e2899f8e137c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -179,7 +179,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8af44b89f46b7dc",
+  "active": "af01e2899f8e137c",
   "lastOpenFiles": [
     "zettelkasten/1718665808-総合論文講義.md",
     "Refile.md",
