@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4919ebbb4377a224",
+        "id": "fb8d77c5257e26ca",
         "type": "tabs",
         "children": [
           {
-            "id": "aa478316e89c2ec9",
+            "id": "2df4c0105725a797",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6512c16e2d23d8a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +179,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6512c16e2d23d8a3",
+  "active": "2df4c0105725a797",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "Refile.md",
     "zettelkasten/1718665808-総合論文講義.md",
@@ -223,7 +210,6 @@
     "zettelkasten/20230731-Illinois Bill of Rights.md",
     "zettelkasten/1715311398-有理指数.md",
     "zettelkasten/20240314-ベクトルの方向.md",
-    "zettelkasten/20230515-Relativsätze.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
