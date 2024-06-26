@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8d77c5257e26ca",
+        "id": "1ed349041e165012",
         "type": "tabs",
         "children": [
           {
-            "id": "2df4c0105725a797",
+            "id": "a686afb36e7e728a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,15 +23,12 @@
             }
           },
           {
-            "id": "b27f4e776ed83bc3",
+            "id": "80f87b2e832ff902",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -113,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,10 +184,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b27f4e776ed83bc3",
+  "active": "80f87b2e832ff902",
   "lastOpenFiles": [
-    "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "Refile.md",
+    "zettelkasten/1719329141-FYS101 Lecture.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
@@ -222,8 +215,6 @@
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20230728-Illinois Constitution.md",
     "zettelkasten/20230731-Illinois Bill of Rights.md",
-    "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
