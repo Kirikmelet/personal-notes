@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Refile.md"
+              }
             }
           },
           {
@@ -118,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Refile.md"
+              }
             }
           },
           {
@@ -127,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "80f87b2e832ff902",
+  "active": "a686afb36e7e728a",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",

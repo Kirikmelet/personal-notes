@@ -1,164 +1,153 @@
 /*
 🖌️ Pure
-📋 0.1.5
-📅 2024-02-23
+📋 0.1.6
+📅 2024-06-13
 🐦 @lychileng
-🚩 This is a minimalist-style theme. 
+🚩 A minimalist-style theme. 
 */
 
-/* -- Hide Ribbon ---------------------------------------------------------- */
-/* -- Adjust the display and alignment of the left side-dock-ribbon area. -- */
-/* ------------------------------------------------------------------------- */
+/* -- hide ribbon --------------------------------------------------------- */
+/* -- adjust the display and alignment of the left side-dock-ribbon area -- */
+/* ------------------------------------------------------------------------ */
 
-/* Adapt to macOS system windows. */
-.mod-macos .workspace-ribbon.side-dock-ribbon.mod-left {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    width: 44px;
-    height: 100%;
+.sidebar-toggle-button {  
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;  
 }
 
-/* Adapt to Linux/Windows system windows. */
-.mod-linux .workspace-ribbon.side-dock-ribbon.mod-left,
+/* adapt to windows system */
 .mod-windows .workspace-ribbon.side-dock-ribbon.mod-left {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     margin-top: 0px;
     width: 44px;
+    height: calc(100% - 42px - var(--tab-outline-width));
+}
+
+.mod-windows .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed {
     height: 100%;
 }
 
-/* Adjust the bottom margin of actions. */
-.side-dock-actions {
-    margin-bottom: 5px;
+/* adapt to macos system */
+.mod-macos .workspace-ribbon.side-dock-ribbon.mod-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 44px;
+    height: calc(100% - 82px - var(--tab-outline-width));
+}
+
+.mod-macos .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed {
+    height: calc(100% - 40px - var(--tab-outline-width));
+}
+
+/* adapt to ipad */
+.is-tablet .workspace-ribbon.side-dock-ribbon.mod-left {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
-/* Add a pseudo-element for drawing a border line. */
-:not(.is-tablet) .side-dock-actions::after {
-    content: '';
-    position: absolute;
-    bottom: -10px;
-    left: 0;
-    right: 0;
-    border-bottom: 1px solid #64646464;
-    width: 100%;
+/* adjust the bottom margin of actions */
+.side-dock-actions {
+    position: relative;
+    bottom: -8px;
+    gap: 4px;
 }
 
-/* Adjust the border line on iPad */
-.is-tablet .side-dock-actions::after {
-    content: '';
-    position: absolute;
-    bottom: -10px;
-    left: 15%;
-    right: 15%;
-    border-bottom: 1px solid #64646464;
-    width: 70%;
+:not(.is-tablet) .side-dock-ribbon-action {
+    height: 32px;
 }
 
-/* Adapt to macOS. */
-.mod-macos:not(.is-tablet) .side-dock-settings {
-    margin-top: 10px;
-    padding-bottom: 40px;
+.is-tablet .side-dock-ribbon-action {
+    height: 44px;
 }
 
-/* Adapt to iPad. */
-.mod-macos.is-tablet .side-dock-settings {
-    margin-top: 25px;
-    padding-bottom: 0px;
+.side-dock-settings {
+    height: 0px;
+    margin-top: 0px;
 }
 
-/* Adapt to Linux/Windows. */
-.mod-linux .side-dock-settings,
-.mod-windows .side-dock-settings {
-    margin-top: 10px;
+/* file container */
+.nav-files-container.node-insert-event.show-unsupported {
+    position: relative;
+    padding-left: 24px;
 }
 
-/* Adjust the display animation effect. */
+/* initial and hidden state styles */
 .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed,
-.workspace-ribbon.mod-left {
-    position: absolute;
-    top: 0;
-    left: -30px;
-    height: 100%;
-    opacity: 0;
-    transition: all .3s ease-out .3s;
+.workspace-ribbon.side-dock-ribbon.mod-left {
+    position: absolute; 
+    left: -20px; /* Move the element to the left to hide it */
+    opacity: 0; 
+    transition: left 0.5s ease-out 0.2s, opacity 0.5s ease-out 0.2s; 
 }
 
-/* Adjust the hide animation effect. */
+/* styles when hovered to show the element */
 .workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed:hover,
-.workspace-ribbon.mod-left:hover {
-    opacity: 1;
-    left: 0;
-    transition: all .3s ease-out .3s;
+.workspace-ribbon.side-dock-ribbon.mod-left:hover {
+    left: 0; /* Move the element to its visible position */
+    opacity: 1; 
+    transition: left 0.2s ease-out 0s, opacity 0.2s ease-out 0s; 
 }
 
-/* Adapt to macOS system windows. */
-/* Remove the space reserved for the toggle button at the top of the side-dock-ribbon. */
+/* remove the space reserved for the toggle button at the top of the side-dock-ribbon */
 .mod-macos .workspace-ribbon.side-dock-ribbon.mod-left::before {
     display: none;
 }
 
-/* The window buttons on a Mac are in the top left corner. */
+/* the window buttons on a Mac are in the top left corner */
 .mod-macos.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-left-space .workspace-tab-header-container {
     padding-left: 75px;
 }
 
-/* Adjust the position of the sidebar-toggle-button. */
-.sidebar-toggle-button {
-    -webkit-app-region: inherit;
-    height: calc(var(--header-height) - 1px);
-    display: flex;
-    justify-content: center;
-    padding: var(--size-4-2) 0 7px 0;
-    --icon-size: var(--icon-l);
-    --icon-stroke: var(--icon-l-stroke-width);
+/* -- adjust the line-height -- */
+/* ---------------------------- */
+.markdown-preview-view p,
+.markdown-reading-view p, 
+.markdown-rendered p,
+.mod-cm6 .cm-line,
+.markdown-source-view ol > li,
+.markdown-source-view ul > li,
+.markdown-preview-view ol > li,
+.markdown-preview-view ul > li,
+.mod-cm6 .HyperMD-list-line.cm-line {
+    line-height: 1.6em;
 }
 
-/* -- Change The Style of To-do List ------------------------------------------------------------------------------ */
-/* -- Change the checkbox of the todo to a circular shape, and distinguish the colors according to the priority. -- */
-/* ---------------------------------------------------------------------------------------------------------------- */
+/* -- change the checkbox of the todo to a circular shape, and distinguish the colors according to the priority -- */
+/* --------------------------------------------------------------------------------------------------------------- */
 
-/* Styles applicable for both editing and preview modes */
-/* Basic style, defining the appearance of the checkbox */
-.cm-s-obsidian .task-list-item-checkbox {
-    border: 1px solid var(--text-muted);
-    border-radius: 50%;
-    cursor: pointer;
-    transform: translateY(-5%); /* 😔 */
+/* basic style, defining the appearance of the checkbox */
+:root {
+    --checkbox-size: 1em;
 }
 
+.cm-s-obsidian .task-list-item-checkbox,
 .markdown-reading-view .task-list-item-checkbox {
+    display: inline-block;
+    width: var(--checkbox-size);
+    height: var(--checkbox-size);
     border: 1px solid var(--text-muted);
     border-radius: 50%;
     cursor: pointer;
+    top: -0.1em;
+    vertical-align: middle;
 }
 
-.mod-windows .markdown-reading-view .task-list-item-checkbox {
-    position: absolute;
-    transform: translateY(20%); /* 🙄 */
+ul > li.task-list-item .task-list-item-checkbox {
+    margin-inline-start: calc(var(--checkbox-size) * -1.5);
 }
 
-.mod-macos:not(.is-tablet) .markdown-reading-view .task-list-item-checkbox {
-    position: absolute;
-    transform: translateY(12.5%); /* 🤮 */
-}
-
-.is-mobile .markdown-reading-view .task-list-item-checkbox,
-.is-tablet .markdown-reading-view .task-list-item-checkbox {
-    position: absolute;
-    transform: translateY(5%); /* 🤬 */
-}
-
-/* Style when the checkbox is checked */
+/* style when the checkbox is checked */
 .cm-s-obsidian .task-list-item-checkbox:checked,
 .markdown-reading-view .task-list-item-checkbox:checked {
     color: var(--background-primary);
 }
 
-/* Change OB's default values */
 input[type=checkbox]:checked:after {
     content: "\2713"; /* Tick mark character */
     position: absolute;
@@ -171,11 +160,11 @@ input[type=checkbox]:checked:after {
     -webkit-mask-size: 75%;
 }
 
-/* -- Change The Marker Style of The List Bullet. -------------------------- */
-/* -- Mainly modify the first four common levels, keep the others unchanged. -- */
-/* ---------------------------------------------------------------------------- */
+/* -- change the marker style of the list bullet ----------------------------- */
+/* -- mainly modify the first four common levels, keep the others unchanged -- */
+/* --------------------------------------------------------------------------- */
 
-/* Change some of the basic styles of Obsidian. */
+/* change some of the basic styles of Obsidian */
 body {
     /* Change collapse color */
     --collapse-icon-color: var(--text-muted);
@@ -188,7 +177,7 @@ body {
     --list-bullet-size: 4px;
 }
 
-/* Change list line 1 to a solid circle. */
+/* change list line 1 to a solid circle */
 .markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after,
 .markdown-reading-view .has-list-bullet .list-bullet:after {
     height: 5px;
@@ -200,7 +189,7 @@ body {
     border-width: 1px;
 }
 
-/* Change list line 2 to a hollow circle. */
+/* change list line 2 to a hollow circle */
 .markdown-source-view.mod-cm6 .HyperMD-list-line-2 .list-bullet:after,
 .markdown-reading-view .has-list-bullet .has-list-bullet .list-bullet:after {
     height: 5px;
@@ -212,7 +201,7 @@ body {
     border-width: 1px;
 }
 
-/* Change list line 3 to a solid square. */
+/* change list line 3 to a solid square */
 .markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after,
 .markdown-reading-view .has-list-bullet .has-list-bullet .has-list-bullet .list-bullet:after {
     height: 4px;
@@ -224,7 +213,7 @@ body {
     border-width: 1px;
 }
 
-/* Change list line 4 to a hollow square. */
+/* change list line 4 to a hollow square */
 .markdown-source-view.mod-cm6 .HyperMD-list-line-4 .list-bullet:after,
 .markdown-reading-view .has-list-bullet .has-list-bullet .has-list-bullet .has-list-bullet .list-bullet:after {
     height: 4px;
@@ -236,7 +225,7 @@ body {
     border-width: 1px;
 }
 
-/* Keep others normal. */
+/* keep others normal */
 .markdown-source-view.mod-cm6 .HyperMD-list-line-5 .list-bullet:after,
 .markdown-reading-view .has-list-bullet .has-list-bullet .has-list-bullet .has-list-bullet .has-list-bullet .list-bullet:after {
     height: 2px;
@@ -246,4 +235,47 @@ body {
     border-style: solid;
     border-radius: 50%;
     border-width: 1px;
+}
+
+/* -- modify the highlight color -- */
+/* -------------------------------- */
+
+.cm-s-obsidian span.cm-highlight {
+    background-color: #ace8ff63;
+    color: black;
+}
+
+.cm-s-obsidian mark,
+.markdown-preview-view mark {
+    padding: 0.05em 0.15em;
+    border-radius: 0.2em;
+    background-color: #ace8ff63;
+    color: black;
+}
+
+/* -- 🤷 -- */
+/* -- why does the collapse-indicator's BUG on the iPad persist? Has no one noticed? -- */
+/* ------------------------------------------------------------------------------------ */
+
+/* adjust the list-collapse-indicator on iPad */
+.markdown-source-view .list-collapse-indicator,
+.markdown-reading-view .list-collapse-indicator,
+.markdown-rendered .list-collapse-indicator {
+    margin-inline-start: -2.65em;
+    padding-inline-end: 2em;
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateY(-8%);
+}
+
+/* adjust the heading-collapse-indicator */
+.markdown-source-view .heading-collapse-indicator,
+.markdown-reading-view .heading-collapse-indicator,
+.markdown-rendered .heading-collapse-indicator {
+    margin-inline-start: -1.65em;
+    position: absolute;
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateY(-8%);
 }

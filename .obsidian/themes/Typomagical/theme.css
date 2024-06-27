@@ -556,7 +556,7 @@ settings:
 	*/
 .theme-light {
   --title-gradient-top: var(--link-color);
-  --title-gradient-bottom: hsl(249, 34%, 35%);
+  --title-gradient-bottom: color-mix(in hsl, var(--link-color), black) ;
 }
 
 .theme-dark {
@@ -701,6 +701,11 @@ Links
 */
 body {
   --font-links: "Alegreya SC", "Spectral", serif;
+}
+
+.cm-s-obsidian span.cm-link a,
+.cm-s-obsidian span.cm-url a {
+  color: var(--link-external-color);
 }
 
 a,
@@ -1394,6 +1399,10 @@ ul.dataview-ul {
   padding: 0 var(--size-4-1);
 }
 
+#time-ruler [aria-describedby=DndDescribedBy-1] svg {
+  color: var(--text-on-accent);
+}
+
 body {
   --font-default: "Spectral", -apple-system, BlinkMacSystemFont, "Segoe UI",
   	"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", serif;
@@ -1408,6 +1417,7 @@ body {
   --link-decoration: none;
   --modal-height: 75vh;
   --line-height-body: 1.45;
+  --bold-weight: 600;
 }
 
 .theme-light {
@@ -1432,7 +1442,6 @@ body {
 
 b,
 .cm-s-obsidian .cm-strong {
-  font-weight: 600;
   font-weight: var(--bold-weight);
 }
 
