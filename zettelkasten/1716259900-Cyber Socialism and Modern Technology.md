@@ -2,6 +2,7 @@
 title: Cyber Socialism and Modern Technology
 tags:
   - college
+  - project
 date: 2024-05-20
 class: ENG101
 ---

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -26,13 +26,32 @@
             "id": "80f87b2e832ff902",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
+          },
+          {
+            "id": "f0dbfb14c0fb79e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md"
               }
             }
           },
@@ -120,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md"
               }
             }
           },
@@ -130,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +208,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a686afb36e7e728a",
+  "active": "f0dbfb14c0fb79e8",
   "lastOpenFiles": [
     "Refile.md",
+    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
@@ -201,7 +222,6 @@
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "Task.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
     "clanceyHERELIESPROJECT.md",
@@ -219,7 +239,6 @@
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20230728-Illinois Constitution.md",
-    "zettelkasten/20230731-Illinois Bill of Rights.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
