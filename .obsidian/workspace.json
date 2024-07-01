@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8f946c10c5c32f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1717795920-参考文献講義.md"
               }
             }
           },
@@ -110,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1717795920-参考文献講義.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1717795920-参考文献講義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1717795920-参考文献講義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,16 +193,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce898f2db2a1c788",
+  "active": "8f946c10c5c32f06",
   "lastOpenFiles": [
-    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
+    "zettelkasten/1718665808-総合論文講義.md",
     "Refile.md",
+    "Untitled Kanban.md",
+    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "Task.md",
@@ -209,7 +224,6 @@
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20230728-Illinois Constitution.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
