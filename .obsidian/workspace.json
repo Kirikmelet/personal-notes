@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2b284ea7c75799",
+        "id": "58487cd907ec7c79",
         "type": "tabs",
         "children": [
           {
-            "id": "ce898f2db2a1c788",
+            "id": "554ed3325249f78d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8f946c10c5c32f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +179,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f946c10c5c32f06",
+  "active": "554ed3325249f78d",
   "lastOpenFiles": [
+    "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "Refile.md",
     "Untitled Kanban.md",
@@ -204,7 +191,6 @@
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "Task.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
