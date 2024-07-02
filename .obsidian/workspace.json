@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "58487cd907ec7c79",
+        "id": "d3df43db697a1a55",
         "type": "tabs",
         "children": [
           {
-            "id": "554ed3325249f78d",
+            "id": "ff0d62e818edf6ef",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -179,14 +179,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "554ed3325249f78d",
+  "active": "ff0d62e818edf6ef",
   "lastOpenFiles": [
-    "zettelkasten/1717795920-参考文献講義.md",
-    "zettelkasten/1718665808-総合論文講義.md",
-    "Refile.md",
-    "Untitled Kanban.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
+    "zettelkasten/1718665808-総合論文講義.md",
+    "zettelkasten/1717795920-参考文献講義.md",
+    "Refile.md",
+    "Untitled Kanban.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
