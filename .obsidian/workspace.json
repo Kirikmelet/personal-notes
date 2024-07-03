@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d3df43db697a1a55",
+        "id": "b36d7ab6ce602b51",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0d62e818edf6ef",
+            "id": "aba11d80c7307457",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -179,20 +179,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff0d62e818edf6ef",
+  "active": "aba11d80c7307457",
   "lastOpenFiles": [
+    "Task.md",
+    "Refile.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
-    "Refile.md",
     "Untitled Kanban.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
-    "Task.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
