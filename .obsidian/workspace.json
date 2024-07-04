@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9901b82ec8ad4f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aba11d80c7307457",
+  "active": "9901b82ec8ad4f36",
   "lastOpenFiles": [
     "Task.md",
     "Refile.md",
+    "Untitled Kanban 1.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1718665808-総合論文講義.md",
@@ -209,7 +224,6 @@
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
-    "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
