@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -28,15 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
-                "mode": "source",
+                "file": "zettelkasten/20230919-行列.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math  index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -170,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,22 +190,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9901b82ec8ad4f36",
+  "active": "aba11d80c7307457",
   "lastOpenFiles": [
-    "Task.md",
+    "zettelkasten/20230919-行列.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "essays/The Union Makes Us Strong.md",
     "Refile.md",
+    "Task.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 2.md",
+    "zettelkasten/20231122-数学.md",
     "Untitled Kanban 1.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
-    "Untitled Kanban.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
     "clanceyHERELIESPROJECT.md",
@@ -217,10 +218,6 @@
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230515-Structure Codes.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230621-偶関数と奇関数.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
