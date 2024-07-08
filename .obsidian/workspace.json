@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe124267a59b753",
+        "id": "88996737cfec9c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "342980844dac6086",
+            "id": "9929887d2d242871",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -177,7 +177,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "342980844dac6086",
+  "active": "9929887d2d242871",
   "lastOpenFiles": [
     "zettelkasten/20230919-行列.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
