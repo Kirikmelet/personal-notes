@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d65aeee3f9cf9444",
+        "id": "d641ac87b46c4338",
         "type": "tabs",
         "children": [
           {
-            "id": "a158d52aeb0fbdc1",
+            "id": "df376c5557e59265",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -177,12 +177,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a158d52aeb0fbdc1",
+  "active": "df376c5557e59265",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "Refile.md",
     "zettelkasten/20230919-行列.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/The Union Makes Us Strong.md",
-    "Refile.md",
     "Task.md",
     "Untitled Kanban.md",
     "Untitled Kanban 2.md",
@@ -193,7 +195,6 @@
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
@@ -204,7 +205,6 @@
     "zettelkasten/20230515-Logging with Tracing.md",
     "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/20230515-Structure Codes.md",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
