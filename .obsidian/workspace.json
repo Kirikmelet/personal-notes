@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d641ac87b46c4338",
+        "id": "162dfc2c58b748e2",
         "type": "tabs",
         "children": [
           {
-            "id": "df376c5557e59265",
+            "id": "5231c6020abc00a0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -177,15 +177,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "df376c5557e59265",
+  "active": "5231c6020abc00a0",
   "lastOpenFiles": [
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "Refile.md",
-    "zettelkasten/20230919-行列.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "essays/The Union Makes Us Strong.md",
     "Task.md",
+    "zettelkasten/20230919-行列.md",
+    "essays/The Union Makes Us Strong.md",
     "Untitled Kanban.md",
     "Untitled Kanban 2.md",
     "zettelkasten/20231122-数学.md",

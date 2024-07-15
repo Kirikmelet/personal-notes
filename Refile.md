@@ -13,7 +13,6 @@ tags:
 - Starts with transition leads into source 1
 	- "In agreement with, {source 1}, {source 2} says... we can determine..."
 
-## 大越社會主義聯合
 
 # Tasks
 
