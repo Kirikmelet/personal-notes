@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3de92a7989e6408e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230523-「対数」対数の性質.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20230523-「対数」対数の性質.md"
               }
             }
           },
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20230523-「対数」対数の性質.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20230523-「対数」対数の性質.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20230523-「対数」対数の性質.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,12 +191,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5231c6020abc00a0",
+  "active": "3de92a7989e6408e",
   "lastOpenFiles": [
+    "zettelkasten/20230519C-Struktur Negara.canvas",
+    "zettelkasten/20230519-Struktur Negara.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-flag.svg",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "Refile.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-    "Refile.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "Task.md",
     "zettelkasten/20230919-行列.md",
     "essays/The Union Makes Us Strong.md",
@@ -201,17 +220,11 @@
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
     "zettelkasten/1716963760-HERE LIES PROJECT CYBERSYN SALVADOR ALLENDE AND STAFFORD BEER’S CYBERNETIC SYSTEM OF COORDINATION FOR CHILE’S ECONOMY 1971-1973.md",
     "clanceyHERELIESPROJECT.md",
-    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
-    "zettelkasten/20230515-Logging with Tracing.md",
-    "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-    "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
-    "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
-    "zettelkasten/20230515-flag.svg",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "essays"
