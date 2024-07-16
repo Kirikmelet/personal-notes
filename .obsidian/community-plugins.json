@@ -1,19 +1,14 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-kanban",
   "homepage",
   "table-editor-obsidian",
   "obsidian-dictionary-plugin",
   "obsidian-linter",
   "obsidian-outliner",
   "oz-image-plugin",
-  "webpage-html-export",
   "obsidian-minimal-settings",
-  "cm-chs-patch",
-  "omnisearch",
   "obsidian-icon-folder",
-  "obsidian-pretty-bibtex",
   "obsidian-zotero-desktop-connector",
   "obsidian-tasks-plugin"
 ]
