@@ -14,15 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "568334f145ef3208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20240406-円.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20240406-円.md"
               }
             }
           },
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/20240406-円.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20240406-円.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/20240406-円.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,13 +188,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5c9d2b97f3db9b79",
+  "active": "568334f145ef3208",
   "lastOpenFiles": [
+    "Index.md",
     "zettelkasten/20230523-「対数」対数の性質.md",
     "essays/The Union Makes Us Strong.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1721143726-FYS101 Group Project.md",
-    "Refile.md",
     "templates/教育手記テンプレート.md",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
