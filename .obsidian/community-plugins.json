@@ -10,5 +10,8 @@
   "obsidian-minimal-settings",
   "obsidian-icon-folder",
   "obsidian-zotero-desktop-connector",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "omnisearch",
+  "obsidian-pretty-bibtex",
+  "webpage-html-export"
 ]
