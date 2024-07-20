@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "zettelkasten/1715310132-因数分解.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "zettelkasten/1715310132-因数分解.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md"
+                "file": "zettelkasten/1715310132-因数分解.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "zettelkasten/1715310132-因数分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1717795920-参考文献講義.md",
+                "file": "zettelkasten/1715310132-因数分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +192,8 @@
   },
   "active": "5d5641ec3bf94c04",
   "lastOpenFiles": [
+    "zettelkasten/1717795920-参考文献講義.md",
+    "Refile.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/1715310104-割り算.md",
@@ -209,7 +211,6 @@
     "zettelkasten/20231106-ELM Architecture.md",
     "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230515-等比級数.md",
-    "Refile.md",
     "zettelkasten/20230515-Motto Negara Derrenomo.md",
     "Index.md",
     "essays/The Union Makes Us Strong.md",
@@ -218,7 +219,6 @@
     "templates/教育手記テンプレート.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/20230519-Struktur Negara.md",
-    "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
