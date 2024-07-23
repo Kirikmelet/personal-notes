@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13d6a1dae2a112d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
             "id": "14c8e7b504a39b66",
             "type": "leaf",
             "pinned": true,
@@ -38,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Nama-nama Negara.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -46,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-Nama-nama Negara.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -133,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Nama-nama Negara.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -143,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Nama-nama Negara.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Nama-nama Negara.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +193,15 @@
   "active": "322d53ab3bcd263e",
   "lastOpenFiles": [
     "Refile.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-flag_with_seal.svg",
+    "zettelkasten/20230515-Farben Lehre.md",
+    "zettelkasten/20230515-flag.svg",
+    "zettelkasten/20230515-Motto Negara Derrenomo.md",
+    "zettelkasten/20230515-Logging with Tracing.md",
+    "zettelkasten/20230515-Nama-nama Negara.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/1716961978-Centralised supply chain planning at IKEA.md",
@@ -210,7 +209,6 @@
     "zettelkasten/20240323-余弦定理.md",
     "zettelkasten/20240322-正弦定理.md",
     "zettelkasten/20230515-Bendera Negara.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1715309795-剰余定理.md",
@@ -222,14 +220,7 @@
     "zettelkasten/20240327-放物線.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
     "zettelkasten/20240314-ベクトルの方向.md",
-    "zettelkasten/20230919-行列の掛け算.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230515-等比級数.md",
-    "zettelkasten/20230515-Motto Negara Derrenomo.md",
-    "Index.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
