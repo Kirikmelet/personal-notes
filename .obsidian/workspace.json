@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14c8e7b504a39b66",
+            "id": "322d53ab3bcd263e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "322d53ab3bcd263e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230624-関数を拡大縮小する.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f188838e0fc4140d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -136,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -146,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20240417-クアフトサーバー.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +176,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f188838e0fc4140d",
+  "active": "322d53ab3bcd263e",
   "lastOpenFiles": [
+    "zettelkasten/1721750390-FAFSA Loan.md",
+    "Pasted image 20240723110003.png",
+    "zettelkasten/1721143726-FYS101 Group Project.md",
+    "Refile.md",
+    "Task.md",
+    "zettelkasten/20240417-クアフトサーバー.md",
     "zettelkasten/20240327-放物線.md",
     "zettelkasten/20240325-区間の表記.md",
     "zettelkasten/20240406-円.md",
@@ -220,7 +199,6 @@
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "Refile.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230515-Protokollierung.md",
@@ -230,12 +208,7 @@
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/20230515-flag_with_seal.svg",
-    "zettelkasten/20230515-Farben Lehre.md",
     "zettelkasten/20230515-flag.svg",
-    "zettelkasten/20230515-Motto Negara Derrenomo.md",
-    "zettelkasten/20230515-Logging with Tracing.md",
-    "zettelkasten/20230515-Nama-nama Negara.md",
-    "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
