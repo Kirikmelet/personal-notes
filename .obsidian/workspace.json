@@ -41,15 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1715310799-多項式の標準形.md",
-                "mode": "source",
+                "file": "zettelkasten/1715310852-多項式の終了動作.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1715310799-多項式の標準形.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1715310799-多項式の標準形.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715310799-多項式の標準形.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715310799-多項式の標準形.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +202,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "663526be2387dde4",
+  "active": "322d53ab3bcd263e",
   "lastOpenFiles": [
-    "Refile.md",
-    "zettelkasten/1718634550-Star Wars Practice Prompt.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715310799-多項式の標準形.md",
+    "zettelkasten/1718634550-Star Wars Practice Prompt.md",
+    "Refile.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1721750390-FAFSA Loan.md",
@@ -234,7 +234,6 @@
     "zettelkasten/20230515-Untuk Kemerdekaan, Anti-Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "zettelkasten/20230515-Protokollierung.md",
     "zettelkasten/20230515-Relativsätze.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
