@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "322d53ab3bcd263e",
+            "id": "b60feecafd4f33e2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,32 +20,6 @@
                 "source": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "b60feecafd4f33e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1718634550-Star Wars Practice Prompt.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "663526be2387dde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1715310852-多項式の終了動作.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
             }
           }
         ]
@@ -202,7 +176,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "322d53ab3bcd263e",
+  "active": "b60feecafd4f33e2",
   "lastOpenFiles": [
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715310799-多項式の標準形.md",
