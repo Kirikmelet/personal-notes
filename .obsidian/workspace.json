@@ -34,9 +34,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b0eb28bcf757e3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "744cc25c65b4bc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math  index",
+                "query": "tag:#math [topic:logarithm]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -124,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -134,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-等比級数.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +216,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "428e922f938c56a4",
+  "active": "744cc25c65b4bc16",
   "lastOpenFiles": [
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
+    "zettelkasten/20230523-「対数」対数の性質.md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230517-対数.md",
     "Refile.md",
     "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230515-社会主義.md",
@@ -219,10 +248,6 @@
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
-    "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230526-Marxism - Das Kapital.md",
-    "zettelkasten/20230624-関数を拡大縮小する.md",
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
