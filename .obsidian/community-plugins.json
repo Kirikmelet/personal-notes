@@ -1,17 +1,13 @@
 [
   "obsidian-git",
-  "obsidian-style-settings",
   "homepage",
   "table-editor-obsidian",
   "obsidian-dictionary-plugin",
-  "obsidian-linter",
   "obsidian-outliner",
-  "oz-image-plugin",
   "obsidian-minimal-settings",
-  "obsidian-icon-folder",
-  "obsidian-zotero-desktop-connector",
-  "obsidian-tasks-plugin",
   "omnisearch",
   "obsidian-pretty-bibtex",
-  "webpage-html-export"
+  "obsidian-linter",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings"
 ]

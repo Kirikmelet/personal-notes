@@ -4,31 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fe3abdb6fd255abb",
+        "id": "3e81939fba772f62",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f3af4698572cf0",
+            "id": "b33b8ed21c226eee",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
           },
           {
-            "id": "e5e37c26dff1c1ee",
+            "id": "f7346c93a90e7392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to not cut your hand with a knife.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -36,25 +31,12 @@
             }
           },
           {
-            "id": "85f7cd3e4b3415d1",
+            "id": "538bca7cd8fa826b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1721143726-FYS101 Group Project.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ba26c30c4e91f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -62,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -139,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
+                "file": "Index.md"
               }
             }
           },
@@ -149,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
+                "file": "Index.md"
               }
             }
           },
@@ -159,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,59 +181,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "markdown-importer:Markdownインポーターを開く": false,
-      "zk-prefixer:新規ユニークノートの作成": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2ba26c30c4e91f9e",
+  "active": "a62582b416bf3cd8",
   "lastOpenFiles": [
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-恒等式.md",
-    "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/1718665808-総合論文講義.md",
+    "zettelkasten/1717795920-参考文献講義.md",
+    "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
+    "Index.md",
+    "Tasks.md",
     "Refile.md",
+    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
+    "zettelkasten/1721750390-FAFSA Loan-1.png",
     "How to not cut your hand with a knife.md",
     "zettelkasten/1721143726-FYS101 Group Project.md",
+    "zettelkasten/1715311398-有理指数.md",
+    "zettelkasten/1715307801-グラフ.md",
+    "zettelkasten/1715310852-多項式の終了動作-1.png",
+    "zettelkasten/20231202-Actor Model.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20230515-恒等式.md",
+    "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20230621-偶関数と奇関数.md",
+    "zettelkasten/20230611-関数図形の移動する-3.webp",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-等比級数.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20230515-科学.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
-    "zettelkasten/1718634550-Star Wars Practice Prompt.md",
-    "zettelkasten/1718665808-総合論文講義.md",
-    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
-    "zettelkasten/1721750390-FAFSA Loan.md",
-    "Pasted image 20240723110003.png",
-    "Task.md",
-    "zettelkasten/20240417-クアフトサーバー.md",
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20240325-区間の表記.md",
-    "zettelkasten/20240406-円.md",
-    "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",

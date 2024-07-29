@@ -10,5 +10,9 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": true,
+  "foldHeading": false
 }
