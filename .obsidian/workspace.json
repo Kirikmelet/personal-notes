@@ -4,39 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "3e81939fba772f62",
+        "id": "e7066eedb86f90c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b33b8ed21c226eee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "f7346c93a90e7392",
+            "id": "4ec36f1df375b0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "zettelkasten/20230515-多項式.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "538bca7cd8fa826b",
+            "id": "39983d344fc8cd49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6efecf96d11a6955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715307801-多項式のグラフ.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -94,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -121,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Index.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md"
               }
             }
           },
@@ -141,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +202,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a62582b416bf3cd8",
+  "active": "39983d344fc8cd49",
   "lastOpenFiles": [
+    "zettelkasten/1715309574-ゼロ.md",
+    "zettelkasten/1715307801-多項式のグラフ.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/1715309795-剰余定理.md",
+    "zettelkasten/20240319-ネットワークプログラミング.md",
+    "Index.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
-    "Index.md",
     "Tasks.md",
     "Refile.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
@@ -210,7 +221,6 @@
     "How to not cut your hand with a knife.md",
     "zettelkasten/1721143726-FYS101 Group Project.md",
     "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/1715307801-グラフ.md",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20231202-Actor Model.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
@@ -221,13 +231,8 @@
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-等比級数.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230517-対数.md",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230515-flag_with_seal.svg",
