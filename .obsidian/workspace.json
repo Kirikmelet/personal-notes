@@ -23,15 +23,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md",
+                "file": "zettelkasten/20240110-Procedural Generation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "01734b8c2ae6640b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c155b5d7c59cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715307736-粒子.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math [topic:logarithm]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +95,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -109,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md"
+                "file": "zettelkasten/1715307736-粒子.md"
               }
             }
           },
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md"
+                "file": "zettelkasten/1715307736-粒子.md"
               }
             }
           },
@@ -129,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md",
+                "file": "zettelkasten/1715307736-粒子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Partai Politik.md",
+                "file": "zettelkasten/1715307736-粒子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +204,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1e1656166a1fb0c",
+  "active": "01c155b5d7c59cc6",
   "lastOpenFiles": [
+    "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
+    "zettelkasten/1714185300-乱数発生器.md",
+    "二进制空间划分.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20240110-Procedural Generation.md",
+    "zettelkasten/20240124-ローグライク開発.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/1715311398-有理指数.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
@@ -209,14 +234,7 @@
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20231202-Actor Model.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/20230515-恒等式.md",
-    "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230621-偶関数と奇関数.md",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230515-flag_with_seal.svg",
