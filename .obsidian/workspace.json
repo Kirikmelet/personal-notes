@@ -8,46 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ec36f1df375b0fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-多項式.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "39983d344fc8cd49",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6efecf96d11a6955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +166,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6efecf96d11a6955",
+  "active": "39983d344fc8cd49",
   "lastOpenFiles": [
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1715309574-ゼロ.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
