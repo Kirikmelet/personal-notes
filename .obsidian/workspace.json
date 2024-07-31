@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "f1e1656166a1fb0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715311398-有理指数.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/1715311398-有理指数.md"
+              }
             }
           },
           {
@@ -102,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/1715311398-有理指数.md"
+              }
             }
           },
           {
@@ -111,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/1715311398-有理指数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/1715311398-有理指数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +186,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39983d344fc8cd49",
+  "active": "f1e1656166a1fb0c",
   "lastOpenFiles": [
     "zettelkasten/1715307801-多項式のグラフ.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
