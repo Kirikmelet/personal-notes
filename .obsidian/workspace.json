@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1715307736-粒子.md",
+                "file": "zettelkasten/20230517-対数.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -127,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1715307736-粒子.md"
+                "file": "zettelkasten/20230517-対数.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1715307736-粒子.md"
+                "file": "zettelkasten/20230517-対数.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715307736-粒子.md",
+                "file": "zettelkasten/20230517-対数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715307736-粒子.md",
+                "file": "zettelkasten/20230517-対数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,6 +206,13 @@
   },
   "active": "01c155b5d7c59cc6",
   "lastOpenFiles": [
+    "zettelkasten/20230523-「対数」対数の性質.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230515-等比級数.md",
+    "zettelkasten/20230605-「対数」自然対数.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/1715307736-粒子.md",
     "zettelkasten/20231217-デジタルオーディオの基本的概念.md",
     "zettelkasten/1714185300-乱数発生器.md",
     "二进制空间划分.md",
@@ -217,7 +224,6 @@
     "zettelkasten/1715307801-多項式のグラフ.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1715309574-ゼロ.md",
-    "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/20240319-ネットワークプログラミング.md",
@@ -226,14 +232,8 @@
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1716965047-Cybernetics of Governance The Cybersyn Project 1971-1973.md",
     "Tasks.md",
-    "Refile.md",
-    "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
-    "How to not cut your hand with a knife.md",
-    "zettelkasten/1721143726-FYS101 Group Project.md",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
-    "zettelkasten/20231202-Actor Model.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
