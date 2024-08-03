@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39983d344fc8cd49",
+            "id": "f1e1656166a1fb0c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,38 +18,20 @@
             }
           },
           {
-            "id": "f1e1656166a1fb0c",
+            "id": "8c015d3995b8c139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20240110-Procedural Generation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "01734b8c2ae6640b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01c155b5d7c59cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230624-関数を拡大縮小する.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +109,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230517-対数.md"
+                "file": "zettelkasten/20230624-関数を拡大縮小する.md"
               }
             }
           },
@@ -137,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230517-対数.md"
+                "file": "zettelkasten/20230624-関数を拡大縮小する.md"
               }
             }
           },
@@ -147,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230624-関数を拡大縮小する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230624-関数を拡大縮小する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,10 +186,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "01c155b5d7c59cc6",
+  "active": "8c015d3995b8c139",
   "lastOpenFiles": [
-    "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230523-「対数」対数の性質.md",
     "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230605-「対数」自然対数.md",
     "zettelkasten/20230515-多項式.md",
