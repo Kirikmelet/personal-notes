@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c015d3995b8c139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230624-関数を拡大縮小する.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c178cb649949548f",
             "type": "leaf",
             "pinned": true,
@@ -31,46 +18,17 @@
             }
           },
           {
-            "id": "e4607c08c8a0d087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230919-行列の掛け算.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "14474bd7cc4bd164",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-社会主義.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "25b2a9c818046417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +177,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25b2a9c818046417",
+  "active": "14474bd7cc4bd164",
   "lastOpenFiles": [
-    "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230919-行列の掛け算.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
