@@ -8,7 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14474bd7cc4bd164",
+            "id": "2b8d3ca203f99b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230611-関数図形の移動する.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1d47b50f96f72e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230629-冪数関数の図形.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8795c4fa5d394cb7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,17 +42,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "2b8d3ca203f99b07",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,14 +193,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b8d3ca203f99b07",
+  "active": "8795c4fa5d394cb7",
   "lastOpenFiles": [
-    "templates/ゲーム手記テンプレート.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/20230629-冪数関数の図形.md",
+    "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230515-社会主義.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/20231122-数学.md",
+    "templates/ゲーム手記テンプレート.md",
     "zettelkasten/20230919-行列の掛け算.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "zettelkasten/1715309574-ゼロ.md",
     "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
     "zettelkasten/20230517-対数.md",
@@ -197,12 +221,6 @@
     "二进制空间划分.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20240110-Procedural Generation.md",
-    "zettelkasten/20240124-ローグライク開発.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/1715311398-有理指数.md",
-    "zettelkasten/1715307801-多項式のグラフ.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
