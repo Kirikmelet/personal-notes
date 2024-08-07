@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c178cb649949548f",
+            "id": "14474bd7cc4bd164",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,13 +18,11 @@
             }
           },
           {
-            "id": "14474bd7cc4bd164",
+            "id": "2b8d3ca203f99b07",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
@@ -177,8 +175,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "14474bd7cc4bd164",
+  "active": "2b8d3ca203f99b07",
   "lastOpenFiles": [
+    "templates/ゲーム手記テンプレート.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-社会主義.md",
     "zettelkasten/20230919-行列の掛け算.md",
@@ -204,7 +203,6 @@
     "zettelkasten/1715307801-多項式のグラフ.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
-    "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
