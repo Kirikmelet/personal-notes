@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1715310104-割り算.md",
+                "file": "zettelkasten/20230611-関数図形の移動する.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1715310104-割り算.md"
+                "file": "zettelkasten/20230611-関数図形の移動する.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1715310104-割り算.md"
+                "file": "zettelkasten/20230611-関数図形の移動する.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715310104-割り算.md",
+                "file": "zettelkasten/20230611-関数図形の移動する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715310104-割り算.md",
+                "file": "zettelkasten/20230611-関数図形の移動する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,6 +200,9 @@
   },
   "active": "1843c0b44f80d69c",
   "lastOpenFiles": [
+    "zettelkasten/20230515-科学.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/1715310104-割り算.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-seal.svg",
@@ -224,9 +227,6 @@
     "zettelkasten/20230624-関数を拡大縮小する.md",
     "zettelkasten/1715309574-ゼロ.md",
     "zettelkasten/20231215-Grammatyczny Rzeczownik.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230523-「対数」対数の性質.md",
-    "zettelkasten/20230515-等比級数.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
