@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230515-Relativsätze.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -121,7 +121,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230517-対数.md"
+                "file": "zettelkasten/20230515-Relativsätze.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230517-対数.md"
+                "file": "zettelkasten/20230515-Relativsätze.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230515-Relativsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230517-対数.md",
+                "file": "zettelkasten/20230515-Relativsätze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +198,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ddebc3153dc73303",
+  "active": "a62582b416bf3cd8",
   "lastOpenFiles": [
+    "zettelkasten/20230515-seal.svg",
+    "zettelkasten/20230515-Protokollierung.md",
+    "Index.md",
+    "Refile.md",
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
+    "zettelkasten/20230517-対数.md",
     "zettelkasten/20230519-Struktur Negara.md",
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230515-社会主義.md",
@@ -213,20 +219,13 @@
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/1715310104-割り算.md",
     "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-seal.svg",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/1717795920-参考文献講義.md",
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
     "zettelkasten/1721143726-FYS101 Group Project.md",
     "zettelkasten/1719548543-Crush Suburbia Rejuvenate the American Dream.md",
-    "zettelkasten/1716259900-Cyber Socialism and Modern Technology.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
-    "zettelkasten/20230629-冪数関数の図形.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
