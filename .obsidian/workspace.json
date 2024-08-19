@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
-                "mode": "source",
+                "file": "zettelkasten/20230515-複素数.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -29,9 +29,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "c7cf7ed56fde3e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715310799-多項式の標準形.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/20230515-複素数.md"
+              }
             }
           },
           {
@@ -115,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/20230515-複素数.md"
+              }
             }
           },
           {
@@ -124,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/20230515-複素数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/20230515-複素数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a794e2415519211",
+  "active": "c82c9258a3b594ec",
   "lastOpenFiles": [
     "Refile.md",
+    "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-複素数.md",
@@ -207,7 +226,6 @@
     "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "zettelkasten/1718665808-総合論文講義.md",
     "zettelkasten/1719329141-FYS101 Lecture.md",
-    "zettelkasten/1721143726-FYS101 Group Project.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
