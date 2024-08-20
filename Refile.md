@@ -3,66 +3,58 @@ tags:
   - refile
 ---
 
-# MTH141 Syllabus
+# CHM121 Syllabus
 
-In-Depth Link: [./syllabus/mth141.pdf]
+Please read syllabus: (Syllabus)[./syllabus/chm121.pdf]
 
 ## General Course Information
 
-- ALEKS Class Code: **PMVNW-4XGAK**
-  - Financial Aid and Temporary Access Code: **5BF2C-0EDC1-27E1C-08B50**
-  
-- Credit Hours: 5 Lecture, 0 Lab
-- Class Dates: 20240819-?
-- Class Dates: 
-  - M,W : 0800-0850
-  - Tu,Th : 0800-0915
-- Modality: In-Person
-- Online Expectation: Blackboard and ALEKS
-- Final Exam: 202412110800
-- Textbook: Miller, Julie and Gorken, Donna. _Precalculus_. 2nd Ed. McGraw-Hill (2023)
-- Calulator: Ti-84+ (recommended)
+- 5 credit hours
+  - 7 contact hours
+    - 3 hours lecture
+    - 3 hours lab
+    - 1 hour discussion
+- Quiz
+  - Discussion Quiz every **Monday**.
+  - Standard Quiz every **Wednesday** 
+  - **QUIZ EVERYWEEK**
+- Required Materials
+  - Scientific Calculator
+  - Laboratory notebook required
+- Textbook not required, copies of pertinant pages will be posted.
+- Recommended Materials
+  - American Chemical Society Study Guide (25USD)
+- Lab report must be submitted on time
 
+- Final Exam: 20241214 : 1500-1930
+  - 70 questions
+  - 110 minutes
+- Extra Credit
+  - Every Discussion Quiz gives 2% total accumulated final grade
 
-## Instructor Information
+## Professor Information
 
-- Professor: Karega Cooper
-  - Office: D233c
-- Phone: 8479256091
-- Mail: kcooper@harpercollee.edu
-- Student Help Hours
-  - M : 1200-1300
-  - Tu,Th : 1100-1200
-  - W : 0900-1000
-  - F : 0800-1000 (*online only!*)
-- Webex Meeting Room: https://harpercollege.webex.com/meet/kcooper
-- Preferred method of communication: Face -> Face
+- Name: Amartya Chakrabarti, PhD
+  - Preferred Name: Dr. C
+- Phone: 8479256370 (MS Office, leave message)
+- Email: achakrab@harpercollege.edu
+- Office Hours:
+  - M,W : 1740-1810 : Z327
+- Preferred Method: Email
+
+## Schedule
+
+- Meeting Times and Locations
+  - Monday
+    - Discussion : 1815-1840 : Z318
+    - Lab : 1850-2135 : Z316
+  - Wednesday
+    - Lecture : 1830-2115 : Z133
 
 ## Grading Policy
 
-- Exams = 60%
-- Online Homework = 15%
-- Final Exam = 25%
-
-## Lectures
-
-- Chapter R : Review of Prerequisites
-  - R.5 : Equations with Real Solutions
-  - R.6 : Complex Numbers and More Quadratic Equations [20230515-複素数](20230515-複素数.md)
-  - R.8 : Linear, Compound, and Absolute Value Inequalities
-  - 2.6 : Polynomial and Rational Inequalities
-- Chapter 2 : Polynomial and Rational Functions
-  - 2.1 : Quadratic Equations [20230515-多項式](20230515-多項式.md)
-  - 2.2 : Introduction to Polynomial Functions 
-  - 2.3 : Division of Polynomials and the Remainder and Factor Theorems
-  - 2.4 Zeros of Polynomial Functions [1715309574-ゼロ](1715309574-ゼロ.md)
-  - 2.5 Rational Functions
-- Chapter 4 : Trigonometric Functions
-
-## Homework
-
-1. Visit Blackboard
-2. Review Syllabus on Blackboard
-3. Setup ALEKS
-4. Finish Knowledge Check A/N: annoying :/
-
+- Term Exams = 40%
+- Final Exam = 20%
+- Lab = 20%
+- Quizzes = 10%
+- Homework = 10% 
