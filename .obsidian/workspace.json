@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a794e2415519211",
+            "id": "305e20e4899c3ecd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,11 +18,16 @@
             }
           },
           {
-            "id": "3342fa6fc06a111d",
+            "id": "6101c7a12598c106",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1724245215-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/1724245215-.md"
+              }
             }
           },
           {
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/1724245215-.md"
+              }
             }
           },
           {
@@ -119,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/1724245215-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/1724245215-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,15 +185,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3342fa6fc06a111d",
+  "active": "6101c7a12598c106",
   "lastOpenFiles": [
+    "zettelkasten/1724245215-.md",
+    "Refile.md",
+    "Refile.mdnf9AiY.bck",
+    "zettelkasten/1724159163-CHM121 Syllabus.md",
     "zettelkasten/20230515-複素数.md",
     "zettelkasten/1724109605-MTH141 Syllabus.md",
     "zettelkasten/1715310799-多項式の標準形.md",
     "Untitled.md",
     "syllabus/chm121.pdf",
     "syllabus/mth141.pdf",
-    "Refile.md",
     "Refile.md3EFEpZ.bck",
     "Refile.md9AVpTU.bck",
     "Refile.mdZwO5D4.bck",
@@ -208,8 +222,6 @@
     "zettelkasten/1715310925-指数的モデル.md",
     "zettelkasten/1715310104-割り算.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/1717795920-参考文献講義.md",
-    "zettelkasten/1718634550-Star Wars Practice Prompt.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",

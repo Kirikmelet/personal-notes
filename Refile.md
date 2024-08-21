@@ -3,58 +3,64 @@ tags:
   - refile
 ---
 
-# CHM121 Syllabus
+# MTH141 Lecture 20240820
 
-Please read syllabus: (Syllabus)[./syllabus/chm121.pdf]
+HOMEWORK: Zero-Factor Theorum
 
-## General Course Information
+## Review R.5 : Equations with Real Solutions 
 
-- 5 credit hours
-  - 7 contact hours
-    - 3 hours lecture
-    - 3 hours lab
-    - 1 hour discussion
-- Quiz
-  - Discussion Quiz every **Monday**.
-  - Standard Quiz every **Wednesday** 
-  - **QUIZ EVERYWEEK**
-- Required Materials
-  - Scientific Calculator
-  - Laboratory notebook required
-- Textbook not required, copies of pertinant pages will be posted.
-- Recommended Materials
-  - American Chemical Society Study Guide (25USD)
-- Lab report must be submitted on time
+### Quadratic Equation
 
-- Final Exam: 20241214 : 1500-1930
-  - 70 questions
-  - 110 minutes
-- Extra Credit
-  - Every Discussion Quiz gives 2% total accumulated final grade
+A quadratic equation that can be written
+in the form: $ax^2+bx+c=0$ wherein $a!=0$. 
+**$a$ must not be zero**
 
-## Professor Information
+There are four primary ways of solving quadratic equations
 
-- Name: Amartya Chakrabarti, PhD
-  - Preferred Name: Dr. C
-- Phone: 8479256370 (MS Office, leave message)
-- Email: achakrab@harpercollege.edu
-- Office Hours:
-  - M,W : 1740-1810 : Z327
-- Preferred Method: Email
+1. Factorization and Zero-Factor Theorum (Guess-and-Check)
+2. Square-Root Principal
+3. Completing the Square
+4. Quadratic Formula $\frac{-b \pm \sqrt{b^2-4ac}}{2a}$
 
-## Schedule
+> [!info] NOTE
+> Methods 1-2 only work some equations
+> Methods 3-4 work for all equations
 
-- Meeting Times and Locations
-  - Monday
-    - Discussion : 1815-1840 : Z318
-    - Lab : 1850-2135 : Z316
-  - Wednesday
-    - Lecture : 1830-2115 : Z133
+#### Zero-Factor Theorum
 
-## Grading Policy
+If $ab=0$ than $a=0$ or $b=0$.
 
-- Term Exams = 40%
-- Final Exam = 20%
-- Lab = 20%
-- Quizzes = 10%
-- Homework = 10% 
+##### Example
+
+Solve by applying Zero-Factor Theorum
+
+1. $8x(x+3)=2x-5$ 
+  
+    1. Write in $ax^2+bx+c=0$ form
+
+        $8x^2+24x-2x+5$
+
+        $8x^2+22x+5$
+
+    2. Factor
+        
+        Wherein $a1$ is the first factor of $a$,
+        $c1$ is the first factor of $c$, and etc.
+
+        $(a1c1)(a2c2)=0$
+
+        $(2x+5)(4x+1)=0$
+
+    3. Use Zero-Factor Theorum
+
+        $(2x+5)(4x+1)=0$
+
+        $x=\frac{-5}{2}$ and $x=\frac{-1}{4}$
+
+        In Set form $\{\frac{-1}{4},\frac{-5}{2}\}$
+
+#### Square Root Principal
+
+If $x^2=a$, then $x=\pm\sqrt{a}$.
+
+#
