@@ -3,64 +3,95 @@ tags:
   - refile
 ---
 
-# MTH141 Lecture 20240820
+# MTH121 Lecture 20240821
 
-HOMEWORK: Zero-Factor Theorum
+##### Square Root Principal
 
-## Review R.5 : Equations with Real Solutions 
+###### Example
 
-### Quadratic Equation
 
-A quadratic equation that can be written
-in the form: $ax^2+bx+c=0$ wherein $a!=0$. 
-**$a$ must not be zero**
+1. $x^2=-4$
+    
+    1. Isolate the term being squared on one side
+        
+        $x^2=-4$
+		
+    3. Apply Square Root Principal 
+        
+        $x=\sqrt{-4}$ or $x=-\sqrt{-4}$
 
-There are four primary ways of solving quadratic equations
+        $x=\sqrt{4 \times -1}$ or $x=-\sqrt{4 \times -1}$
 
-1. Factorization and Zero-Factor Theorum (Guess-and-Check)
-2. Square-Root Principal
-3. Completing the Square
-4. Quadratic Formula $\frac{-b \pm \sqrt{b^2-4ac}}{2a}$
+        $x=\sqrt{4} \sqrt{-1}$ or $x=-\sqrt{4} \sqrt{-1}$
 
-> [!info] NOTE
-> Methods 1-2 only work some equations
-> Methods 3-4 work for all equations
+        $x=2i$ or $x=-2i$ ([1724250858-虚数](1724250858-虚数.md)を読める下さい)
 
-#### Zero-Factor Theorum
-
-If $ab=0$ than $a=0$ or $b=0$.
+##### Completing the Square
 
 ##### Example
 
-Solve by applying Zero-Factor Theorum
+1. $(x+3)^2$
+    1. Complete with formula $x^2+2ax+(\frac{2ax}{2})^2$
+      $x^2+6x+(\frac{2a}{2})^2$
 
-1. $8x(x+3)=2x-5$ 
-  
-    1. Write in $ax^2+bx+c=0$ form
+# CHM121 Lecture 20240821
 
-        $8x^2+24x-2x+5$
+## Matter, Measurement, and Problem Solving
 
-        $8x^2+22x+5$
+### What is Chemistry?
 
-    2. Factor
-        
-        Wherein $a1$ is the first factor of $a$,
-        $c1$ is the first factor of $c$, and etc.
+Chemistry is the study of matter.
 
-        $(a1c1)(a2c2)=0$
+### What is Matter?
 
-        $(2x+5)(4x+1)=0$
+Matter is anything that occupies space and mass.
 
-    3. Use Zero-Factor Theorum
+Matter invloves energy and changes associated with it.
 
-        $(2x+5)(4x+1)=0$
+The properties of matter are determined by the properties of molecules and atoms.
 
-        $x=\frac{-5}{2}$ and $x=\frac{-1}{4}$
+If you break down matter, molecules and atoms are found.
 
-        In Set form $\{\frac{-1}{4},\frac{-5}{2}\}$
+### Atoms and Molecules
 
-#### Square Root Principal
+Moleclules are comprised of atoms.
+Molecules compose elements found in the periodic table.
 
-If $x^2=a$, then $x=\pm\sqrt{a}$.
+Atoms and molecules determine how matter behaves; if different, matter would be different.
 
-#
+> [!info] Example
+> The properties of water molecules determine how water behaves; properties of sugar effect sugar; etc.
+
+The understanding of matter at the molecular level gives us unprecedented control over that matter.
+
+Atoms are comprised of sub-atomic particles (electrons, protons, neutrons).
+
+Atoms are usually mostly connected sans the last group of elements. 
+The most unreactive elements are called noble gases. (He,Ne,etc.)
+Atoms can be combined with another of itself or another atom.
+
+A *molecule* is comprised of **2 or more atoms**.
+
+If 2 different atoms of 2 different atoms are combined, they form a *compound*
+
+Compounds are molecules, but are different than a molecule of elements.
+
+> [!info] Example
+> $He$ in an atom, not a molecule.
+> $He_2$ is a molecule, but not a compound.
+> $He_2O$ is a molecule and also a compound.
+
+### Mixtures and Pure Chemical Substance
+
+Pure Chemical Substance is a chemically bounded group of molecules (water).
+Mixtures is a combined group of non-chemically bounded group of molecules (air)
+
+Heterogeneous Mixtures are a mixture of non-uniform composition,
+you **are not** able to see the boundaries of the compounds in the mixture.
+Homogeneous Mixtures are a mixture of uniform composition,
+you **are** able to see the boundaries of the compounds in the mixture.
+
+> [!info] Fun Fact
+> Milk is considered as a collidal solution.
+
+
