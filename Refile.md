@@ -94,4 +94,320 @@ you **are** able to see the boundaries of the compounds in the mixture.
 > [!info] Fun Fact
 > Milk is considered as a collidal solution.
 
+### States of Matter
 
+There are 3 states of matter.
+
+The differences between the 3 different states are dependent on energy.
+
+The seperation of atoms are caused from energized atoms gaining more and more movement because of external energy stimulis.
+
+#### Solids
+
+Specific mass, volume, and shape.
+
+#### Liquids
+
+Take up shape of container and volume of container.
+
+#### Gasses
+
+Take up shape of container but not volume.
+
+### Arrangement of Atoms and Molecules
+
+Small differences in atoms and molecules can result in large differences in the substances that compose it.
+Graphite and diamond are made of carbon.
+
+The atoms in graphite are arranged in sheets, per contra, carbon atoms in diamonds are bound together in a 3d structure.
+
+> [!info]
+> Graphene is made of a single layer of carbon
+> Diamonds are madeof a 3d structure of carbon.
+
+### Scientific Approach to Knwoledge
+
+The approach to scienttific knowledge is empirical, it is based on observation anf ecperiment.
+
+The scientific method is a process of understanding nature of by observing nature and its behavio, and by conducting
+experimnets to thest our needs,
+
+### Scientific Law
+
+A brief statemrnt that summarizes past observations nad predictts future ones.
+
+~Allows you to predoict lae~
+
+
+### Theory
+
+General explanation of Chemsitry.
+
+### Separation of Mixtures
+
+Mixtures are separable because the different components have different physical or chemical properties
+
+Varies techniques that exploit these differences.
+
+A mixture of sand and water can be separated by **decanting**, 
+which is to carefully pouring off the water into another container.
+A more general method is called **filtration**
+
+A homogeneous mixture can usually be separated by **distillation**, 
+a process wherein the more *volatile* (liquid with lower evaporation temperature) 
+liquid is evaporated and recondensed into another container.
+
+A solvent (a compound) can be used to separate compounds. 
+The solvent must be prescribed in a per-case basis.
+
+### Physical and Chemical Changes
+
+#### Physical Change
+
+- Changes that alter only the state or appearences, but composition remains identical.
+
+- The atoms or molecules that compose it *do not change* their identity.
+
+- Is easily reversible.
+
+#### Chemical Change
+
+- Changes that alter the composition of the compound.
+
+- The atoms or molecules that compose it *change* their identity.
+
+- Is not as easily reversible.
+
+> [!info] Example
+> $Mg + Co^2=C+MgO^2$
+
+### Physical and Chemical Properties
+
+#### Physical Property
+
+A physical property is a property that a substance displayes without changing its composition.
+
+- Smell of gasoline
+- Odour, taste, colour, appearance, melting point and density are all physical properties.
+
+#### Chemical Property
+
+A chemical property that a substance displayes only by changing its composition via a chemical change (or chemical reaction).
+
+- The flammabiity
+
+### Intensive and Extensive Properties
+
+#### Intensive Property
+
+A characteristic that is independent of the mass/amount of substance.
+
+> [!info] Example
+> Density, because no matter how much of the compound you add into /remove from it, the density remains the same.
+
+#### Extensive Property
+
+A characteristic that is independent of the mass/amount of substance.
+
+> [!info] Example
+> Mass, enough said.
+
+### Energy
+
+The **capacity to do work**
+
+Energy is always conserved in a physical or chemical change;
+it is neither created or destroyed.
+
+#### Kinetic Energy
+
+This energy is the energy associated with the motion of an object.
+
+#### Potential Energy
+
+This energy is the energy associated with the position or composition of an object.
+
+#### Thermal Energy
+
+This energy is the energy associated with the temperature/heat of an object.
+
+### Units of Measurement
+
+Units are a standard quantity used to specify measurements
+
+2 most common are:
+
+- Imperial System (USA)
+- Metric System/Standard Units (almost everywhere else)
+
+The scienetific standard is the **International System of Units (SI)** .
+
+- Name is derived from *Systeme International d'Unites*
+
+#### Kelvin
+
+Kelvin is calculated be adding $273.15$ to a celcius temperature.
+Kelvin and Celcius degrees are of the same size.
+
+> [!info] Formula
+> $C+273.15=K$
+
+> [!info] Example
+> $273K$ is $0C$
+
+
+#### Fahrenheit -> Celcius
+
+The Fahrenheit degree is $\frac{5}{9}$ the size of a Celcius degree.
+
+> [!info] Formula
+> $C=\frac{F-32}{1.8}$
+> $F=1.8C+32$
+
+### Prefix Multipliers
+
+The SI system uses a system of multipliers.
+
+> [!info] Example
+> Kilo is $10^3$
+> Mili is $10^-3$
+
+### Derived Units: Volume and Density
+
+Derived units are a combination of other units.
+
+Volume is a measure of space; has units of length cubed ($cm^3$) or litres ($L$).
+
+Volume can be determined by:
+
+- formula of density
+- displacement with another object
+- breakdown into "primative shapes"
+
+Density is the ratio of a substance's mass to volume; it has units of $mass/volume$.
+
+Density affects if a substance will wink/float in another. The less dense substance floats.
+
+### Significant Figures
+
+Significant figures deal with writing numbers to reflect precision.
+
+The precision of a measurement depends on the instrument used to make the measurement.
+
+The preservation of this precision during calculations can be accomplished by using **significant figures**.
+
+All our measurements contain certain digits and *one uncertain digit*.
+This uncertain digit is the last significant figure, and is used to ascertain/estimate and complete the significant figure.
+
+When counting significant figures, verify is number has a decimal point. Valid significant figures contain a decimal point.
+If so, start from the **very left**, and keep moving right until the **first non-zero figure**, all numbers to the right
+are **all significant figures**.
+
+> [!info] Example
+> $4.64$ has 3 significant figures.
+> $0.00205$ has 3 significant figures.
+> $0.00205000$ has 6 significant figures.
+
+If no decimal place, start from **very right**, and keep moving left until the **first non-zero figure**, all numbers to the left
+are **all significant figures**.
+
+### Exact Numbers
+
+Exact numbers have an unlimited number of significant figures.
+
+- Exact counting of discrete objects.
+- Integral numbers that are apart of an equation.
+- Defined Quantities.
+
+### Significant Figures in Calculations
+
+In calculations using measured quantities, the results of the calculation must reflect the
+precision of the measured quantities.
+
+#### Rule for Multiplication/Division
+
+The result carries the same number of significant figures as the factor/divisor with the
+fewest significant figures.
+
+#### Rule for Addition/Subtraction
+
+The result carries the same number of significant figures as quantity with the
+fewest decimal places.
+
+#### Rule for Rounding
+
+When rounding to the correct number of significant figures:
+
+- Round down if the last (or leftmost) digit dropped is four or less.
+- Round up if the last (or leftmost) digit dropped is five or more.
+
+### Rounding in Multistep Calculations
+
+To avoid rounding errors in multistep calculations round only the final answer
+
+**DO NOT ROUND INTERMEDIATE STEPS**. If you write down intermediate answers,
+keep track of significant figures by underlining the least significant digit.
+
+### Precision and Accuracy
+
+Precise data **does not** equal accurate data.
+
+#### Accuracy
+
+Accuracy refers to how close the measured value is to the actual value.
+
+#### Precision
+
+Precision refers to how close a series of measurements are to one another or
+how reproducible they are.
+
+#### Random Error
+
+Random Error is brought by human error. (eye-balling measurements, etc.)
+This error affects accuracy.
+
+#### Systematic Error
+
+Systematic Error is brought by equipment failure. (faulty equipment)
+This error affects precision.
+
+#### Accuracy and Precision of Measurements
+
+Precise measurements are consistent with one another.
+Accurate measurements are consistents with one another.
+
+### Solving Chemical Problems
+
+Most chemistry problems solved in CHM121 are **unit conversion problems**.
+Using units as a guide to solving problems is called **dimensional analysis**.
+Units should always be included in calculations; they are multiplied, divided, and canceled
+like any other algebraic quantity.
+
+#### Dimensional Analysis
+
+This process is done by multiplying the given unit by a conversion factor to get a desired units.
+
+> [!info] Example
+> Conversion of $kg->Ib$
+> $58*2.205=127.89$
+> $130$ or $1.3 \times 10^2$
+
+#### Units Raised to Power
+
+WHen building conversion factors for units raised to a power,
+remember to raise both the number and the unit to the power.
+For example, to convert from $in^2$ to $cm^2$, we construct
+the conversion factor as follows:
+
+$$2.54cm=1in$$
+$$(2.54cm)^2=(1in)^2$$
+$$(2.54)^2cm^2=(1)^2in^2$$
+$$6.45cm^2=1in^2$$
+
+#### Problems involving Equations
+
+Solve the same way as problems with conversion factors.
+
+### Interpreting Data
+
+Learning to analyse and interpret data is an important skill.

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e2864cf509062cd",
+            "id": "63d88eb2d3c976c9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -165,7 +165,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3e2864cf509062cd",
+  "active": "63d88eb2d3c976c9",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/1724250858-虚数.md",
