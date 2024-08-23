@@ -62,8 +62,19 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "223a5f53ed1730a8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "syllabus/eng102.pdf"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -143,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tasks.md"
+                "file": "syllabus/eng102.pdf"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "syllabus/eng102.pdf"
               }
             }
           },
@@ -163,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "syllabus/eng102.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "syllabus/eng102.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +232,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "61aa5b10af464135",
+  "active": "223a5f53ed1730a8",
   "lastOpenFiles": [
-    "Refile.md",
     "Tasks.md",
+    "Refile.md",
     "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
     "zettelkasten/1724333434-MTH121 Lecture 20240821.md",
     "zettelkasten/1724250858-虚数.md",
