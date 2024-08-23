@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7066eedb86f90c9",
+        "id": "938451f06c252b96",
         "type": "tabs",
         "children": [
           {
-            "id": "63d88eb2d3c976c9",
+            "id": "c21ff13131622ae2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,6 +18,55 @@
             }
           }
         ]
+      },
+      {
+        "id": "f23c2115e19809ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "68cda347f39631eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "720c23e77fdee320",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Refile.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "9d91f18e772a321e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61aa5b10af464135",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Tasks.md"
+              }
             }
           },
           {
@@ -101,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks.md"
+              }
             }
           },
           {
@@ -110,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -162,12 +217,16 @@
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63d88eb2d3c976c9",
+  "active": "61aa5b10af464135",
   "lastOpenFiles": [
     "Refile.md",
+    "Tasks.md",
+    "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
+    "zettelkasten/1724333434-MTH121 Lecture 20240821.md",
     "zettelkasten/1724250858-虚数.md",
     "zettelkasten/20230515-複素数.md",
     "zettelkasten/1724245215-MTH121 Lecture 20240820.md",
@@ -199,9 +258,6 @@
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-共産主義.md",
     "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-恒等式.md",
-    "zettelkasten/1715310925-指数的モデル.md",
-    "zettelkasten/1715310104-割り算.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
