@@ -5,7 +5,7 @@ tags:
 
 # MTH121 Lecture 20240822
 
-## Quadratic Formula
+## Quadratic Formula 二次方程式の解の公式
 
 For $ax^2+bx+c=0$, the solution(s) is:
 $$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
@@ -26,3 +26,8 @@ Is an equation that only contains ratios contains ratios of [polynomials](https:
 
 > [!warning] Warning!
 > Division by zero is undefined!
+
+1. Find all restricted values
+2. Factor all denominators and find the LCD of all denominators
+3. Multiply both sides by LCD (This will eliminate all fractions)
+4. Solve the resulting equation
