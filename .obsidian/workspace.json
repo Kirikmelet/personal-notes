@@ -62,19 +62,8 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "223a5f53ed1730a8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "syllabus/eng102.pdf"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -154,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "syllabus/eng102.pdf"
+                "file": "Tasks.md"
               }
             }
           },
@@ -164,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "syllabus/eng102.pdf"
+                "file": "Tasks.md"
               }
             }
           },
@@ -174,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syllabus/eng102.pdf",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "syllabus/eng102.pdf",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +221,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "223a5f53ed1730a8",
+  "active": "61aa5b10af464135",
   "lastOpenFiles": [
+    "zettelkasten/1718665808-総合論文講義.md",
+    "syllabus/eng102.pdf",
     "Tasks.md",
     "Refile.md",
     "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
@@ -268,7 +259,6 @@
     "zettelkasten/20230515-等比級数.md",
     "zettelkasten/20230515-数学用語集.md",
     "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230515-指数式.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
