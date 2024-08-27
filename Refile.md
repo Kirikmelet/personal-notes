@@ -31,3 +31,25 @@ Is an equation that only contains ratios contains ratios of [polynomials](https:
 2. Factor all denominators and find the LCD of all denominators
 3. Multiply both sides by LCD (This will eliminate all fractions)
 4. Solve the resulting equation
+
+# CHM121 Lecture 20240826
+
+## Density versus Concentration of $NaCi$ Solutions
+
+A relationship exists between density of a solution and its percent by mass, a concentration unit
+
+This can be written as:
+
+$$
+\text{Percent by mass of a solution} = \frac{\text{mass of solute}}{\text{mass of solution}} \times 100\%
+$$
+
+alternatively also as:
+
+$$
+wt\% = \frac{\text{mass of solute}}{\text{mass of solution}} \times 100\%
+$$
+
+This relationship betweeen density and concentration makes a possible way to determine the unknown concentration of a solution/
+This will be done by graphing a calibration curve. Therefore, once the relationship (calibration curve) is determined, you will calculate the unknown
+concentration of a $NaCi$ solution
