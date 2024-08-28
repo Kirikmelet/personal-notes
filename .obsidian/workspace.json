@@ -4,69 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "938451f06c252b96",
+        "id": "9d91f18e772a321e",
         "type": "tabs",
         "children": [
           {
-            "id": "c21ff13131622ae2",
+            "id": "61aa5b10af464135",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "f23c2115e19809ed",
-        "type": "split",
-        "children": [
-          {
-            "id": "68cda347f39631eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "720c23e77fdee320",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Refile.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "pinned": true
-                }
-              }
-            ]
           },
           {
-            "id": "9d91f18e772a321e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "61aa5b10af464135",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tasks.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "pinned": true
-                }
+            "id": "f35a4658842ee4a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zettelkasten/20230515-flag_with_seal.svg"
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +110,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tasks.md"
+                "file": "zettelkasten/20230515-flag_with_seal.svg"
               }
             }
           },
@@ -153,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "zettelkasten/20230515-flag_with_seal.svg"
               }
             }
           },
@@ -163,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "zettelkasten/20230515-flag_with_seal.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "zettelkasten/20230515-flag_with_seal.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +166,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,9 +187,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "61aa5b10af464135",
+  "active": "f35a4658842ee4a4",
   "lastOpenFiles": [
+    "zettelkasten/20230515-flag.svg",
+    "zettelkasten/20230515-flag_with_seal.svg",
+    "zettelkasten/20230515-flag 1.svg",
+    "zettelkasten/20230515-Bendera Negara.md",
+    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "Refile.md",
+    "Tasks.md",
     "Refile.mdqyNt3z.bck",
     "Refile.mdu0kwhw.bck",
     "Refile.mdkHwEl8.bck",
@@ -231,7 +204,6 @@
     "Refile.mdDPRL1s.bck",
     "Refile.mdM9KM1D.bck",
     "zettelkasten/1724333434-MTH121 Lecture 20240821.md",
-    "Tasks.md",
     "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
     "Refile.md6uP2qd.bck",
     "Refile.mdOLDegN.bck",
@@ -256,16 +228,11 @@
     "zettelkasten/20230517-対数.md",
     "zettelkasten/20230519-Struktur Negara.md",
     "zettelkasten/20230515-指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-社会主義.md",
-    "zettelkasten/20230515-科学.md",
-    "zettelkasten/20230515-等比級数.md",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
-    "zettelkasten/20230515-flag_with_seal.svg",
-    "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas",
     "zettelkasten/1715310852-多項式の終了動作-2.png",
     "zettelkasten/1715310852-多項式の終了動作-3.png"

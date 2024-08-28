@@ -61,9 +61,12 @@ server:
 
 ## North Shore City
 
-> Bahasa Indonesia: Kota Pantai Utara
+ > Bahasa Indonesia: Kota Pantai Utara
+ >
 > 大和言葉: 北海岸市
+>
 > 华语: 北海岸市
+>
 > Italiano: Città della Costa Nord
 
 ## Timothy's Chinese, Japanese, Korean City
