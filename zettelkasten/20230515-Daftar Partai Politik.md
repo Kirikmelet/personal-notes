@@ -41,9 +41,9 @@ Platform kebijakan partai mencakup nasionalisasi industri, pendidikan dan keseha
 
 Partai ini memiliki kehadiran basis massa yang kuat, dengan banyak anggota aktif dalam serikat buruh dan organisasi masyarakat. Mereka telah menghadapi oposisi dan represi dari kekuatan konservatif dan kapitalis, tetapi mereka tetap berdedikasi pada visi sosialis Derrenomo
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：デレノモ社会・共産党
+> 日本語：デレノモ社会・共産党
 
 デレノモ社会・共産党は、社会主義政策とマルクス・レーニン主義原理を主張する左翼政党です。この党は、生産手段を労働者階級が所有・管理し、富と資源がすべての市民に平等に分配される社会を創造することを目指しています。
 
@@ -83,9 +83,9 @@ The Derrenomo National Democratic Party is a nationalist center-right political 
 
 Partai Demokrat Nasional Derrenomo adalah partai politik nasionalis sayap kanan yang menganut platform liberalisme ekonomi dan konservatisme sosial. Partai ini mendukung kebijakan seperti persaingan pasar bebas, kebijakan pro-kewirausahaan, dan penguatan keamanan nasional, sambil menekankan nilai-nilai tradisional, keluarga, dan menjaga ketertiban umum. Mereka juga cenderung menempatkan penekanan yang kuat pada identitas etnis dan kebanggaan nasionalis.
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：デレノモ国家民主党
+> 日本語：デレノモ国家民主党
 
 デレノモ国家民主党は、国家主義的な中道右派政党であり、経済的自由主義と社会的保守主義のプラットフォームを掲げています。この党は、自由競争市場、親企業家政策、国家安全保障の強化を支持する一方で、伝統的な価値観や家族、公共秩序の維持を重視しています。また、彼らは、民族的なアイデンティティや民族主義的な誇りを重視する傾向があります。
 
@@ -123,9 +123,9 @@ Selain itu, partai tersebut mempromosikan liberalisme sosial, dengan kebijakan s
 
 Secara keseluruhan, Partai Kemajuan Derrenomo Mercedes-AMG mewakili pendekatan politik yang ramah bisnis dan pro-Barat di negara tersebut, dengan fokus pada pertumbuhan ekonomi dan modernisasi, serta kemajuan sosial dan nilai-nilai liberal.
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：デレノモ・メルセデスAMG進歩党
+> 日本語：デレノモ・メルセデスAMG進歩党
 
 デレノモ・メルセデスAMG進歩党は、国内の中道右派政党であり、経済および社会政策においてプロ西洋主義の立場を取っています。この党のプラットフォームには、自由市場資本主義、産業の規制緩和、起業家精神と革新への支援などが含まれています。
 
@@ -169,9 +169,9 @@ The Derrenomo Association of Yamato Citizens is a group representing the interes
 
 Asosiasi Warga Yamato Derrenomo adalah kelompok yang mewakili kepentingan warga Jepang yang tinggal di Derrenomo, dengan fokus pada pertukaran budaya dan mempromosikan budaya Jepang. Asosiasi bekerja untuk menangani berbagai masalah yang memengaruhi komunitas Jepang dan melindungi hak dan kepentingan mereka. Mereka juga berkomitmen untuk mempromosikan pemeliharaan dan pengembangan budaya Jepang di Derrenomo, serta mempromosikan keberagaman budaya dan koeksistensi melalui interaksi dengan komunitas lokal.
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：大和人の会
+> 日本語：大和人の会
 
 デレノモ大和人市民協会は、大和人の利益を代表する団体であり、文化的交流や大和文化の普及にも力を注いでいます。この協会は、大和人が抱える様々な問題に取り組み、彼らの権利と利益を守ることを主な目的としています。また、デレノモ国内での大和文化の維持・発展に取り組んでおり、地域社会との交流を通じて文化的な多様性と共生を促進しています。
 
@@ -209,9 +209,9 @@ The Patriotic Alliance of Derrenomo is a nationalist political party that is com
 
 Aliansi Patriotik Derrenomo adalah partai politik nasionalis yang berkomitmen untuk mendorong kepentingan Derrenomo dan warganya. Partai tersebut percaya dalam mempromosikan budaya, tradisi, dan cara hidup Derrenomo, dan berusaha untuk mempertahankan identitas nasionalnya. Platform politiknya termasuk kebijakan yang bertujuan untuk meningkatkan ekonomi, mengembangkan dan mempromosikan industri lokal, dan melindungi sumber daya alam negara. Partai juga mendukung nilai-nilai keluarga yang kuat, dan berusaha untuk mempromosikan kesatuan dan harmoni sosial di dalam masyarakat.
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：デレノモ愛国同盟
+> 日本語：デレノモ愛国同盟
 
 デレノモ愛国同盟は、デレノモとその市民の利益を促進することを約束する民族主義的な政党です。この党は、デレノモの文化、伝統、生活様式を促進し、その国民的アイデンティティを保護することを信じています。彼らの政治的プラットフォームには、経済を改善し、地域の産業を開発・促進し、国の自然資源を保護することを目的とした政策が含まれます。また、この党は家族の価値を推進し、社会の結束と調和を促進しようとしています。
 
@@ -247,9 +247,9 @@ Tentara Loyalis untuk Pemulihan Kekaisaran Dunamos bertujuan untuk mempengaruhi 
 
 Mereka menolak masuknya unsur masyarakat Non-Indonesia
 
-### 大和言葉
+### 日本語
 
-> 大和言葉：吐納莫斯帝国の忠誠な軍隊の復
+> 日本語：吐納莫斯帝国の忠誠な軍隊の復
 
 デュナモス帝国の復興のためのロイヤリスト軍は、デレノモの君主制と資本主義-帝国主義の玉座の復活を提唱する活発な反乱軍です。 彼らは、立憲君主制の理想と伝統的な文化的価値を維持することの重要性を促進することに専念しています。
 

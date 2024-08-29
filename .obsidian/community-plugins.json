@@ -9,5 +9,6 @@
   "obsidian-pretty-bibtex",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "global-search-and-replace"
 ]

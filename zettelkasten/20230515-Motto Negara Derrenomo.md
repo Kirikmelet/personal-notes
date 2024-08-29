@@ -15,7 +15,7 @@ server:
 
 - English: Freedom, Independence, Revolution!
 - Bahasa Indonesia: Kebebasan, Kemerdekaan, Revolusi!
-- 大和言葉：自由、独立、革命！
+- 日本語：自由、独立、革命！
 - 华语：自由、独立、革命！
 - 華語：自由、獨立、革命！
 - Italiano: Libertà, Indipendenza, Rivoluzione!
