@@ -268,3 +268,126 @@ Metalloids are sometimes called *semimetals*. These lie along the zig-zag diagon
 Metalloids exhibit both properties.
 Several metalloids are also classified as **semiconductors** because of their immediate and highly temperature depenedent
 electrical conductivity.
+
+### Main Group vs Transition Metals
+
+#### Main Group
+
+Main group elements tend to have predictable properties based on their position on the periodic table.
+
+They are marked with letter A in table columns, or are groups 1, 2 and 13-18
+
+#### Transition Metals/Elements
+
+Transition metals tend to have unpredictable properties based on their position on the periodic table.
+
+They are marked with letter B in table columns, or are groups 3-12
+
+### Noble Gases
+
+Noble gases are mostly unreactive
+
+### Akali Metals 1A
+
+ALl reactive metals
+
+### Alkaline Earth Metals 2A
+
+Not as reactive as 1A.
+
+### Halogens 7A
+
+Fairly reactice nonmetals
+
+Generally found naturally as a salt.
+
+- Flourine : pale yellow gas
+- Chlorine : greenish yellow gas with pungent odour
+- Bromine : red-brown liquid that easily evaporates to gas
+- Iodine : a purple solid
+
+### Ions
+
+The number of electrons in a neutral atom is equal to the number of protons in its nucleus. (designated as $Z$)
+
+Atoms can lose/gain electrons and become charged particles called ions.
+
+- Positively charged ions, such as $\ce{NA^{+}}$ are called **cations**.
+- Negatively charged ions, such as $\ce{F^{-}}$ are called **anions**.
+
+A main-group metal tends to lose electrons, only becoming a cation when same number of electrons with nearest noble gas.
+A non-main-group metal tends to gain electrons, only becoming an anion when same number of electrons with nearest noble gas.
+
+In general alkali metals have a tendency to lose one electron and form $1+$ ions.
+Alkaline metals tend to lose two electrons and form $2+$ ions.
+Halogens tend to gain one electron and form $1-$ ions.
+The oxygen family nonmetals (group 6A) tend to gain two electrons and form $2-$ ions.
+
+Main-group elements that form cations with a predictable charge, the charge is equal to group number.
+For main-group elements that form anions with a predictable charge, the charge is equal to the group number minus eight.
+Transition elements may form various different ions with different charges.
+
+### Mole
+
+Some information available at [1715307760-モル](1715307760-モル.md) (*A/N: 日本語上手です*).
+
+A mole is the measure of material containing $6.02214 \times 10^{23}$ particles:
+
+$$
+1\text{mol}=6.02214 \times 10^{23}
+$$
+
+This number is known as **Avogardo's Number**.
+
+Avogardo's Number can specify anything.
+
+This number is derived from the number of atoms in exactly twelve grams of pure $\ce{C-12}$
+
+#### Conversiojn of number of moles and number of atoms
+
+$$
+\frac{1\text{mol atoms}}{6.022 \times 10^{23} \text{atoms}}
+$$
+and 
+$$
+\frac{6.022 \times 10^{23} \text{atoms}}{1\text{mol atoms}}
+$$
+
+### Atomic Mass
+
+The atomic mass is determined by the mass of $1\text{mol}$ of atoms.
+
+An element's molar mass in grams per mole is numerically equal to the element's atomic mass in atomic mass units ($\text{amu}$)
+
+
+#### Atomic Mass of Compounds
+
+When determining the atomic mass of compounds:
+
+1. Break compound into its individual molecules.
+2. Determine the atomic mass of each of the molecules.
+3. Combine the calculated atomic masses.
+
+# MTH141 Lecture 20240829
+
+## Linear, Compound, and Absolute Value Inequality
+
+$<$, $>$, $<=$, $>=$, $\ne$, $\approx$
+
+## Linear Inequality
+
+This is an inequality of the form $ax+b=0$, where $=$ is subsituted with the inequalities $<$, $>$, $<=$, $>=$,
+or any other "union" or "intersection" of the above form.
+
+To solve inequalities we treat as a linear equation except when multiply/dividing both sides by a negative value we reserve the inequality symbol.
+
+Relationship is preserved when:
+
+- Adding to both sides.
+- Subtracting to both sides.
+- Multiplying to both sides, **unless when with negative numbers**.
+- Dividing to both sides, **unless when with negative numbers**.
+
+> [!info] Note:
+> $a < x < b$ is equivalent to $x>a$ or $x<b$.
+> The aformentioned is a "union". 
