@@ -4,69 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "938451f06c252b96",
+        "id": "8be1ad418af2bf08",
         "type": "tabs",
         "children": [
           {
-            "id": "c21ff13131622ae2",
+            "id": "1b23db208e6e8e09",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Refile.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "f23c2115e19809ed",
-        "type": "split",
-        "children": [
-          {
-            "id": "68cda347f39631eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "720c23e77fdee320",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Refile.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "pinned": true
-                }
-              }
-            ]
           },
           {
-            "id": "9d91f18e772a321e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "61aa5b10af464135",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tasks.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "pinned": true
-                }
+            "id": "4041768df03c9a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1725251044-How To Read a Book.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -143,7 +114,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tasks.md"
+                "file": "zettelkasten/1725251044-How To Read a Book.md"
               }
             }
           },
@@ -153,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "zettelkasten/1725251044-How To Read a Book.md"
               }
             }
           },
@@ -163,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "zettelkasten/1725251044-How To Read a Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "zettelkasten/1725251044-How To Read a Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,14 +192,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "61aa5b10af464135",
+  "active": "4041768df03c9a66",
   "lastOpenFiles": [
-    "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
+    "Tasks.md",
+    "zettelkasten/1725251044-How To Read a Book.md",
     "Refile.md",
+    "zettelkasten/1724938362-MTH141 Lecture 20240822.md",
+    "zettelkasten/1725250725-MTH141 Lecture 20240829.md",
+    "templates/文献テンプレート.md",
+    "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
     "zettelkasten/1724938484-MTH141 Lecture 20240828.md",
     "zettelkasten/1724938439-MTH141 Lecture 20240826.md",
-    "zettelkasten/1724938362-MTH141 Lecture 20240822.md",
-    "Tasks.md",
     "zettelkasten/1715307760-モル.md",
     "zettelkasten/1715307736-粒子.md",
     "Refile.md44on5t.bck",
@@ -259,9 +233,6 @@
     "zettelkasten/1724245215-MTH121 Lecture 20240820.md",
     "zettelkasten/1724159163-CHM121 Syllabus.md",
     "zettelkasten/1724109605-MTH141 Syllabus.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
-    "Untitled.md",
-    "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230515-seal.svg",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",

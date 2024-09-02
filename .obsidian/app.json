@@ -14,5 +14,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
   "strictLineBreaks": true,
-  "foldHeading": false
+  "foldHeading": true,
+  "showLineNumber": false
 }
