@@ -69,7 +69,7 @@ Gives **actual number** of atoms of each element in a compound.
 
 Represents how the molecule is structred in physical reality.
 
-![./structuralformula.png]
+![](./structuralformula.png)
 
 ## Ionic Compounds
 
@@ -88,6 +88,8 @@ Find the difference of both elements to nearest noble gas, switch charges.
 
 The charge of all the ions must be equal to zero.
 
+Metals always are positive, nonmetals always are negative.
+
 > [!info] Example
 > $\ce{FeCl_{3}}$ has $\ce{Fe}$'s charge equal to $3$, because $\ce{Cl}$ has
 > difference from noble gas of $-1$, leading to the equation with $\ce{Fe}$'s ion as $x$,
@@ -104,6 +106,10 @@ The charge of all the ions must be equal to zero.
 
 ## Naming Ionic Compounds
 
+These are inorganic compounds
+
+Use the name of metal + name of nonmetal without the need of numerical prefix.
+
 ## Type 1
 
 Metal forms only one type of ion.
@@ -112,3 +118,100 @@ Metal forms only one type of ion.
 
 Metal forms more than two types of ion.
 
+## Polyatomic Ions
+
+Ionic compounds that are composed of groups of covalently bonded atoms with an overall charge.
+
+Contains compounds like Acetate ($\ce{C_{2}H_{3}O_{2}^-}$)
+
+## Hydrated Ionic Compounds
+
+Hydrates are ionic compounds containing a specific number of water molecules associated with each formula unit
+
+> [!info] Example
+> Formula of epsom salts:
+> $\ce{MgSO_{4} \times 7H_{2}O}$
+>
+> Systematic name is *magnesium sulfate heptahydrate*
+
+| Prefix Name | number |
+| --- | --- |
+| Hemi | $\frac 1 2$ |
+| Mono | $1$ |
+| Di  |$2$ |
+| Tri | $3$ |
+| Tetra | $4$ |
+| Penta | $5$ |
+| Hexa | $6$ |
+| Hepta | $7$ |
+| Octa | $9$ |
+
+## Molecular Compounds
+
+Here we use numerical prefixes.
+
+> [!info] Example
+> Carbon Monoxide ($CO$)
+> Dihydrogen Monoxide ($H_{2}O$)
+
+## Acids
+
+Acids are molecular compounds that release hydrogen ions
+
+- Sour taste
+- Dissolve many metals
+- Generally starts with $H$ unless organic acid
+- $\ce{HCI}$ is a molecular compound that, when dissolved in water, forms $\ce{H^+_{(aq)}}$ and $\ce{Ck^-_{(aq)}}$ ions
+
+Binary acids have $\ce{H^+}$ cation and nonmetal anion
+
+Oxyacids have $\ce{H^+}$ cation and polyatomic anion
+
+
+## Finding Empirical Formula Ratio
+
+1. Find molar mass of each element
+2. Divide both by the lesser element mass
+
+> [!info] example
+> $\ce{CH_3}$
+>
+> $\ce{C=79.89g \times \frac{1mol}{12.01}=6.651}$
+
+## Empirical to Molecular
+
+Formula
+
+$$
+n=\frac{\text{molar mass}}{\text{empirical formula mass}}
+$$
+
+## Empirical from Mass Percent
+
+1. Convert percentages to gram
+	1. Assume you start with 100g of compound
+2.  Good luck
+
+## Combustion Analysis
+
+Burn a known mass of compound and weigh the amounts of elements
+
+## Organic Compounds
+
+Organic compounds were easily decomposed and couldn't be made in lab
+
+Inorganic compounds were difficult to decompose but could be synthesised.
+
+Made mainly made of carbon and hydrogen, but sometimes oxygen, nitrogen, phosphorous, sulfur.
+
+Key element of organic chemistry is **carbon**
+
+## Functional Groups
+
+| Name       | Formula       | Use                              |
+| ---------- | ------------- | -------------------------------- |
+| Methane    | $\ce{CH_4}$   | Primary Component in natural gas |
+| Propane    | $\ce{C_3H_8}$ | LP gas for stove                 |
+| $n$-Butane | $\ce{C_3H_8}$ |                                  |
+
+## Families of Organic Compounds
