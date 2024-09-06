@@ -8,29 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "327aaf3d14fc4909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e9ed759a2e693231",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "62e761ff4374fa93",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refile.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
             }
           }
         ],
@@ -63,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "グラフ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,18 +194,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e9ed759a2e693231",
+  "active": "62e761ff4374fa93",
   "lastOpenFiles": [
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/1716957604-Peoples Republic of Walmart.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
-    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "Refile.md",
     "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
+    "syllabus/chm121.pdf",
     "zettelkasten/20240314-ベクトルの方向.md",
     "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20230713-正弦波.md",
-    "Refile.md",
     "zettelkasten/1714185300-乱数発生器.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725541497-MTH141 Lecture 20240905.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715309795-剰余定理.md",
@@ -209,7 +217,6 @@
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
-    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
     "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
     "zettelkasten/1724250858-虚数.md",
     "zettelkasten/1725250725-MTH141 Lecture 20240829.md",
@@ -217,8 +224,6 @@
     "zettelkasten/1725251044-How To Read a Book.md",
     "Tasks.md",
     "zettelkasten/1724938362-MTH141 Lecture 20240822.md",
-    "templates/文献テンプレート.md",
-    "zettelkasten/1724938484-MTH141 Lecture 20240828.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
     "zettelkasten/20230515-flag_with_seal.svg",
@@ -231,7 +236,6 @@
     "Refile.mdDPRL1s.bck",
     "Refile.mdM9KM1D.bck",
     "Refile.md6uP2qd.bck",
-    "Refile.mdOLDegN.bck",
     "zettelkasten/20230515-seal.svg",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
