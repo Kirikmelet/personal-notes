@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd23931397af43f2",
+            "id": "327aaf3d14fc4909",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715307801-多項式のグラフ.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9ed759a2e693231",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "046f3fabd0f3db18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -65,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#college",
+                "query": "グラフ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -114,7 +112,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1724938549-CHM121 Lecture 20240828.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -124,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1724938549-CHM121 Lecture 20240828.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,54 +190,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "046f3fabd0f3db18",
+  "active": "e9ed759a2e693231",
   "lastOpenFiles": [
+    "zettelkasten/1715307801-多項式のグラフ.md",
+    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/20230612-絶対値.md",
+    "zettelkasten/20240314-ベクトルの方向.md",
+    "zettelkasten/20240327-放物線.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20230713-正弦波.md",
+    "Refile.md",
+    "zettelkasten/1714185300-乱数発生器.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/1725541497-MTH141 Lecture 20240905.md",
+    "zettelkasten/20230515-多項式.md",
+    "zettelkasten/1715309795-剰余定理.md",
+    "zettelkasten/1715310132-因数分解.md",
+    "zettelkasten/1715310852-多項式の終了動作-3.png",
+    "zettelkasten/20230611-関数図形の移動する.md",
+    "zettelkasten/20230624-関数を拡大縮小する.md",
+    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
+    "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
     "zettelkasten/1724250858-虚数.md",
     "zettelkasten/1725250725-MTH141 Lecture 20240829.md",
-    "Refile.md",
-    "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
     "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
     "zettelkasten/1725251044-How To Read a Book.md",
     "Tasks.md",
     "zettelkasten/1724938362-MTH141 Lecture 20240822.md",
     "templates/文献テンプレート.md",
     "zettelkasten/1724938484-MTH141 Lecture 20240828.md",
-    "zettelkasten/1724938439-MTH141 Lecture 20240826.md",
-    "zettelkasten/1715307760-モル.md",
-    "zettelkasten/1715307736-粒子.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "zettelkasten/20230515-Motto Negara Derrenomo.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230515-flag 1.svg",
-    "zettelkasten/20230515-Bendera Negara.md",
     "Refile.mdqyNt3z.bck",
     "Refile.mdu0kwhw.bck",
     "Refile.mdkHwEl8.bck",
     "Refile.mdITegaP.bck",
     "Refile.mdDPRL1s.bck",
     "Refile.mdM9KM1D.bck",
-    "zettelkasten/1724333434-MTH121 Lecture 20240821.md",
     "Refile.md6uP2qd.bck",
     "Refile.mdOLDegN.bck",
-    "zettelkasten/20230515-恒等式.md",
-    "zettelkasten/1718665808-総合論文講義.md",
-    "zettelkasten/20230515-複素数.md",
-    "zettelkasten/1724245215-MTH121 Lecture 20240820.md",
-    "zettelkasten/1724159163-CHM121 Syllabus.md",
-    "zettelkasten/1724109605-MTH141 Syllabus.md",
     "zettelkasten/20230515-seal.svg",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
     "zettelkasten/20230611-関数図形の移動する-1.png",
     "zettelkasten/20230611-関数図形の移動する-2.png",
-    "zettelkasten/20230519C-Struktur Negara.canvas",
-    "zettelkasten/1715310852-多項式の終了動作-2.png"
+    "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
