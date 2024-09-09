@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9ed759a2e693231",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "62e761ff4374fa93",
+            "id": "e4c4ef9d0bfdbe3c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -37,8 +22,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +177,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62e761ff4374fa93",
+  "active": "e4c4ef9d0bfdbe3c",
   "lastOpenFiles": [
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "Refile.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1716957604-Peoples Republic of Walmart.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
-    "Refile.md",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
@@ -223,7 +207,6 @@
     "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
     "zettelkasten/1725251044-How To Read a Book.md",
     "Tasks.md",
-    "zettelkasten/1724938362-MTH141 Lecture 20240822.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
     "zettelkasten/20230515-flag_with_seal.svg",
