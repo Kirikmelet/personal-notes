@@ -18,6 +18,11 @@ $template_file = Get-Content $templates[$template_num]
 $template_file = $template_file.replace("{{date:YYYY-MM-DD}}", (Get-Date -UFormat "%Y-%m-%d"))
 $template_file = $template_file.replace("title:", ("title: {0}" -f $name))
 
-Out-File -FilePath (Join-Path -Path $output_path -ChildPath ("{0}-{1}" -f (Get-Date -UFormat %s),$name)) -InputObject $template_file 
+$note_file = Join-Path -Path $output_path -ChildPath ("{0}-{1}.md" -f (Get-Date -UFormat %s),$name)
+Out-File -FilePath $note_file -InputObject $template_file 
+
+Write-Output "Opening $note_file"
+
+Invoke-Item $note_file
 
 
