@@ -23,6 +23,8 @@ Out-File -FilePath $note_file -InputObject $template_file
 
 Write-Output "Opening $note_file"
 
-Invoke-Item $note_file
+Start-Process -Process (hx $note_file)
+
+# Invoke-Item $note_file
 
 

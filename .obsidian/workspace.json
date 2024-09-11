@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f19f2e37f95d6b28",
+            "id": "87ebc9674874996a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,10 +177,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f19f2e37f95d6b28",
+  "active": "87ebc9674874996a",
   "lastOpenFiles": [
-    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
+    "zettelkasten/1715310852-多項式の終了動作.md",
+    "zettelkasten/1725976542-無限.md",
     "Refile.md",
+    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
@@ -191,7 +193,6 @@
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1716957604-Peoples Republic of Walmart.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
