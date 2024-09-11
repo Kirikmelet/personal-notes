@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c9164cae2512fe7",
+        "id": "acccc5b7dbf3d6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "87ebc9674874996a",
+            "id": "3263a7ca80bc2961",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -155,12 +156,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +178,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "87ebc9674874996a",
+  "active": "3263a7ca80bc2961",
   "lastOpenFiles": [
+    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+    "zettelkasten/1726028473-Ikatan Ionik.md",
+    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
+    "zettelkasten/1726027469-Ikatan Kimia.md",
+    "zettelkasten/1726028868-Ikatan Kovalen.md",
+    "Refile.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725976542-無限.md",
-    "Refile.md",
     "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
@@ -209,11 +215,6 @@
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/20230611-関数図形の移動する.md",
     "zettelkasten/20230624-関数を拡大縮小する.md",
-    "zettelkasten/1724938549-CHM121 Lecture 20240828.md",
-    "zettelkasten/1724250858-虚数.md",
-    "zettelkasten/1725250725-MTH141 Lecture 20240829.md",
-    "zettelkasten/1724332905-CHM121 Lecture 20240821.md",
-    "zettelkasten/1725251044-How To Read a Book.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
     "zettelkasten/20230515-flag_with_seal.svg",
