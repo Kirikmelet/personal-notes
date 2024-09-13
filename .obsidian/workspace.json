@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "042e1aa02a59f30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715307801-多項式のグラフ.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1715307801-多項式のグラフ.md"
               }
             }
           },
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1715307801-多項式のグラフ.md"
               }
             }
           },
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1715307801-多項式のグラフ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1715307801-多項式のグラフ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +192,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fa22b31c5020ed25",
+  "active": "042e1aa02a59f30a",
   "lastOpenFiles": [
+    "Refile.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
     "zettelkasten/1726027469-Ikatan Kimia.md",
-    "Refile.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
