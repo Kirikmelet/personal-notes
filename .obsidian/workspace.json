@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3263a7ca80bc2961",
+            "id": "fa22b31c5020ed25",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b69dd325bfb35de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -125,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -135,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,13 +178,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b69dd325bfb35de6",
+  "active": "fa22b31c5020ed25",
   "lastOpenFiles": [
-    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
-    "Refile.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
-    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1726027469-Ikatan Kimia.md",
+    "Refile.md",
+    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725976542-無限.md",
