@@ -32,3 +32,5 @@ date: 2024-09-11
 | Hydrogen Sulfate (or Bisulfate)     | $\ce{HSO_4^-}$             |
 | Cyanide                             | $\ce{CN^-}$             |
 | Peroxide                            | $\ce{O_2^{2-}}$             |
+| Iodite                            | $\ce{IO_2^{-}}$             |
+| Iodate                            | $\ce{IO_3^{-}}$             |

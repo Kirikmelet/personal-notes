@@ -23,12 +23,38 @@
             }
           },
           {
-            "id": "042e1aa02a59f30a",
+            "id": "04af8e263e0af457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
+                "file": "zettelkasten/1726028868-Ikatan Kovalen.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "66c3be8d44fe0b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "348bc7d97b429e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1726028473-Ikatan Ionik.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md"
+                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md"
               }
             }
           },
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md"
+                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md"
               }
             }
           },
@@ -135,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
+                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715307801-多項式のグラフ.md",
+                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,14 +218,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "042e1aa02a59f30a",
+  "active": "66c3be8d44fe0b8b",
   "lastOpenFiles": [
-    "Refile.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
-    "zettelkasten/1726027469-Ikatan Kimia.md",
-    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
-    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
+    "zettelkasten/1726251955-Ion Oksian.md",
+    "Refile.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
+    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/1715307801-多項式のグラフ.md",
+    "zettelkasten/1726027469-Ikatan Kimia.md",
+    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725976542-無限.md",
     "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
@@ -210,10 +239,8 @@
     "new_unique_note.ps1lvoAaU.bck",
     "new_unique_note.ps10c7Taw.bck",
     "new_unique_note.ps1",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1716957604-Peoples Republic of Walmart.md",
-    "zettelkasten/1715307801-多項式のグラフ.md",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
@@ -228,7 +255,6 @@
     "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "zettelkasten/20230611-関数図形の移動する.md",
-    "zettelkasten/20230624-関数を拡大縮小する.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
     "zettelkasten/20230515-flag_with_seal.svg",
