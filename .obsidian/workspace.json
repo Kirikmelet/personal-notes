@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa22b31c5020ed25",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "04af8e263e0af457",
             "type": "leaf",
             "state": {
@@ -36,25 +21,12 @@
             }
           },
           {
-            "id": "66c3be8d44fe0b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "348bc7d97b429e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1726028473-Ikatan Ionik.md",
+                "file": "Refile.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -62,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -151,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -161,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1726032904-Polyatomic Ion Chart.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,13 +190,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66c3be8d44fe0b8b",
+  "active": "348bc7d97b429e28",
   "lastOpenFiles": [
+    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
     "zettelkasten/1726251955-Ion Oksian.md",
     "Refile.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
-    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
     "zettelkasten/1726027469-Ikatan Kimia.md",

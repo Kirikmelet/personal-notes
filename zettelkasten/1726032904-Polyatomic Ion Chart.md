@@ -20,7 +20,7 @@ date: 2024-09-11
 | Phosphate                           | $\ce{PO_4^{3-}}$    |
 | Hydrogen Phosphate                  | $\ce{HPO_4^{2-}}$   |
 | Dihydrogen Phosphate                | $\ce{H_2PO_4^-}$    |
-| Ammonium                            | $\ce{NH^4^+}$       |
+| Ammonium                            | $\ce{NH_4^+}$       |
 | Hypochlorite                        | $\ce{CIO^-}$        |
 | Chlorite                            | $\ce{CIO_2^-}$             |
 | Chlorate                            | $\ce{CIO_3^-}$             |
@@ -34,3 +34,4 @@ date: 2024-09-11
 | Peroxide                            | $\ce{O_2^{2-}}$             |
 | Iodite                            | $\ce{IO_2^{-}}$             |
 | Iodate                            | $\ce{IO_3^{-}}$             |
+| Oxalate                            | $\ce{C_2O_4^{2-}}$             |
