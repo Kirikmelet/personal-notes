@@ -34,9 +34,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c2b375638ffa888e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
               }
             }
           },
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,12 +205,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "348bc7d97b429e28",
+  "active": "c2b375638ffa888e",
   "lastOpenFiles": [
+    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "Refile.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
     "zettelkasten/1726251955-Ion Oksian.md",
-    "Refile.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/1715307801-多項式のグラフ.md",
@@ -228,7 +242,6 @@
     "zettelkasten/1715309795-剰余定理.md",
     "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
-    "zettelkasten/20230611-関数図形の移動する.md",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
     "zettelkasten/20230515-flag_with_seal.svg",
