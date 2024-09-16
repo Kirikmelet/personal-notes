@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04af8e263e0af457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1726028868-Ikatan Kovalen.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "348bc7d97b429e28",
+            "id": "629b0910218d47aa",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,7 +23,7 @@
             }
           },
           {
-            "id": "c2b375638ffa888e",
+            "id": "ef77558d0e4f9f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,9 +34,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "91aeba6db436b015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6a6431b1a0bb77ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,13 +108,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -128,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md"
               }
             }
           },
@@ -148,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +216,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c2b375638ffa888e",
+  "active": "6a6431b1a0bb77ea",
   "lastOpenFiles": [
-    "zettelkasten/1726373525-Shooting an Elephant.md",
     "Refile.md",
+    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
     "zettelkasten/1726251955-Ion Oksian.md",
@@ -240,7 +252,6 @@
     "zettelkasten/1725541497-MTH141 Lecture 20240905.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715309795-剰余定理.md",
-    "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",

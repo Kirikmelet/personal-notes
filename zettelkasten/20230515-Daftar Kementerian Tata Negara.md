@@ -25,60 +25,23 @@ Questo elenco contiene tutti i ministeri della Nazione di Derrenomo.
 
 ## Ministry of Central Planning and Public Works
 
-The Ministry of Central Planning and Public Works is responsible for overseeing the planning and execution of large-scale public works projects, as well as the overall economic planning of the country. They work to ensure that resources are allocated effectively and efficiently, and that projects are completed on time and within budget. This ministry plays a crucial role in the development of Derrenomo's infrastructure and the growth of its economy.
-
-#### Bahasa Indonesia
-
 > Bahasa Indonesia: Kementerian Perencanaan Umum dan Pekerjaan Pusat
-
-Kementerian Perencanaan Pusat dan Pekerjaan Umum bertanggung jawab untuk mengawasi perencanaan dan pelaksanaan proyek-proyek pekerjaan umum berskala besar, serta perencanaan ekonomi secara keseluruhan di negara. Mereka bekerja untuk memastikan bahwa sumber daya dialokasikan dengan efektif dan efisien, dan bahwa proyek-proyek diselesaikan tepat waktu dan sesuai anggaran. Kementerian ini memainkan peran krusial dalam pengembangan infrastruktur Derrenomo dan pertumbuhan ekonominya.
-
-#### 日本語
+>
 > 日本語：中央計画公共事業省
-
-中日本語共事業省は、大規模な公共事業プロジェクトの計画と実行、また国全体の経済計画の監督を担当しています。彼らは、リソースが効果的かつ効率的に割り当てられ、プロジェクトが予算内で時間内に完了するように働きます。この省は、デレノモの基盤構造の開発と経済成長において重要な役割を果たしています。
-
-中央計畫公共事業省は、大規模な公共事業プロジェクトの計畫と實行、また國全體の經濟計畫の監督を擔當しています。彼らは、リソースが效果的かつ效率的に割り當てられ、プロジェクトが予算內で時間內に完了するように働きます。この省は、デレノモの基盤構造の開發と經濟成長において重要な役割を果たしています。
-
-#### 华语
-
+>
 > 华语：中央计划和公共工程部门
-
-中央规划和公共工程部门负责监督大规模公共工程项目的规划和执行，以及全国的经济规划。他们致力于确保资源的有效和高效分配，以及项目按时和按预算完成。该部门在德认诺莫基础设施的发展和经济增长中发挥着关键作用。
-
-### Italiano
-
+>
 > Italiano: Ministero della Pianificazione Centrale e dei Lavori Pubblici
 
-Il Ministero della Pianificazione Centrale e dei Lavori Pubblici è responsabile della supervisione della pianificazione e dell'esecuzione di grandi progetti di lavori pubblici, nonché della pianificazione economica generale del paese. Lavora per garantire che le risorse siano allocate in modo efficace ed efficiente e che i progetti siano completati entro i tempi e i costi previsti. Questo ministero svolge un ruolo cruciale nello sviluppo dell'infrastruttura di Derrenomo e nella crescita della sua economia.
+### Departement of Trade and Commerce
 
-### Ministry Division of Economy
+> Bahasa Indonesia: Departemen Perdagangan dan Perniagaan
 
-The Ministry Division of Economy is a specialized division within the Ministry of Central Planning and Public Works that focuses specifically on economic policy and analysis. They work to develop and evaluate economic policies and programs, as well as provide economic analysis and forecasting to other government agencies and stakeholders. This division plays a crucial role in shaping Derrenomo's economic policies and ensuring the country's long-term economic growth and stability.
+> 日本語：貿易商務省
 
-#### Bahasa Indonesia
+> 华语：贸易和商业部
 
-> Bahasa Indonesia: Divisi Kementerian Ekonomi
-
-Divisi Kementerian Ekonomi adalah divisi spesialis di dalam Kementerian Perencanaan Pusat dan Pekerjaan Umum yang fokus pada kebijakan dan analisis ekonomi. Mereka bekerja untuk mengembangkan dan mengevaluasi kebijakan dan program ekonomi, serta menyediakan analisis dan perkiraan ekonomi kepada lembaga pemerintah dan pemangku kepentingan lainnya. Divisi ini memainkan peran penting dalam membentuk kebijakan ekonomi Derrenomo dan menjamin pertumbuhan dan stabilitas ekonomi jangka panjang negara.
-
-#### 日本語
-
-> 大和日本語済省局
-
-経日本語、経済政策と分析に特化した中央計画公共事業省内の専門局です。彼らは、経済政策とプログラムを開発・評価し、政府機関や関係者に対して経済分析と予測を提供します。この局は、デレノモの経済政策を形成し、国の長期的な経済成長と安定性を確保する上で重要な役割を果たしています。
-
-#### 华语
-
-> 华语：经济司
-
-经济司是中央计划和公共工程部门内的一个专门部门，专注于经济政策和分析。他们致力于制定和评估经济政策和项目，以及向其他政府机构和利益相关者提供经济分析和预测。该部门在塑造德认诺莫的经济政策方面发挥着至关重要的作用，确保国家的长期经济增长和稳定。
-
-#### Italiano
-
-> Italiano: Divisione del Ministero dell'Economia
-
-La Divisione del Ministero dell'Economia è una divisione specializzata all'interno del Ministero della Pianificazione Centrale e dei Lavori Pubblici che si concentra specificatamente sulla politica economica e sull'analisi. Lavora per sviluppare ed valutare politiche economiche e programmi, nonché fornire analisi economica e previsioni ad altre agenzie governative e parti interessate. Questa divisione gioca un ruolo cruciale nella definizione delle politiche economiche di Derrenomo ed assicurando la crescita economica e la stabilità a lungo termine del paese.
+> Italiano: Dipartimento del Ministero dell'Economia
 
 ### Division of Agriculture
 
