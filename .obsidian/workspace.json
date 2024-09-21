@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a6431b1a0bb77ea",
+            "id": "de750b24c9cdca90",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f7196aa8994c7aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -113,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +177,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f7196aa8994c7aa5",
+  "active": "de750b24c9cdca90",
   "lastOpenFiles": [
+    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "Refile.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1726373525-Shooting an Elephant.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
@@ -214,7 +203,6 @@
     "new_unique_note.ps1lvoAaU.bck",
     "new_unique_note.ps10c7Taw.bck",
     "new_unique_note.ps1",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1716957604-Peoples Republic of Walmart.md",
     "zettelkasten/20230612-絶対値.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
@@ -225,7 +213,6 @@
     "zettelkasten/20230713-正弦波.md",
     "zettelkasten/1714185300-乱数発生器.md",
     "zettelkasten/1725541497-MTH141 Lecture 20240905.md",
-    "zettelkasten/20230515-多項式.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
