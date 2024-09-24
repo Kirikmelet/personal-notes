@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de750b24c9cdca90",
+            "id": "6075c3311990156d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6075c3311990156d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +179,11 @@
   },
   "active": "6075c3311990156d",
   "lastOpenFiles": [
+    "zettelkasten/1726373525-Shooting an Elephant.md",
     "Refile.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
-    "zettelkasten/1726373525-Shooting an Elephant.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
