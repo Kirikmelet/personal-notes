@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5b8965c29d821b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1715310132-因数分解.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -100,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1715310132-因数分解.md"
               }
             }
           },
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md"
+                "file": "zettelkasten/1715310132-因数分解.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1715310132-因数分解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/1715310132-因数分解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +190,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6075c3311990156d",
+  "active": "5b8965c29d821b85",
   "lastOpenFiles": [
-    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "zettelkasten/1715310104-割り算.md",
+    "zettelkasten/1715310132-因数分解.md",
+    "zettelkasten/1715310799-多項式の標準形.md",
+    "zettelkasten/20240122-線型不等式のグラフ.md",
+    "zettelkasten/20230515-Daftar Partai Politik.md",
+    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
+    "zettelkasten/1678298400-指数的性質.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20231122-数学.md",
     "Refile.md",
+    "zettelkasten/1726373525-Shooting an Elephant.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
@@ -203,16 +225,7 @@
     "new_unique_note.ps1lvoAaU.bck",
     "new_unique_note.ps10c7Taw.bck",
     "new_unique_note.ps1",
-    "zettelkasten/1716957604-Peoples Republic of Walmart.md",
-    "zettelkasten/20230612-絶対値.md",
-    "zettelkasten/20240122-線型不等式のグラフ.md",
-    "zettelkasten/20230613-「絶対値」絶対  値に以てにグラフ化する.md",
     "syllabus/chm121.pdf",
-    "zettelkasten/20240314-ベクトルの方向.md",
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20230713-正弦波.md",
-    "zettelkasten/1714185300-乱数発生器.md",
-    "zettelkasten/1725541497-MTH141 Lecture 20240905.md",
     "zettelkasten/1715310852-多項式の終了動作-3.png",
     "Refile.md44on5t.bck",
     "Refile.mdGcA7g6.bck",
