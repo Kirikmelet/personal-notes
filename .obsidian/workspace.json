@@ -34,9 +34,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f865d7ded99b88be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1715310132-因数分解.md"
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1715310132-因数分解.md"
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1715310132-因数分解.md",
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1715310132-因数分解.md",
+                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +203,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b8965c29d821b85",
+  "active": "f865d7ded99b88be",
   "lastOpenFiles": [
-    "zettelkasten/1715310104-割り算.md",
+    "Untitled 1.md",
+    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "Refile.md",
     "zettelkasten/1715310132-因数分解.md",
+    "zettelkasten/1715310104-割り算.md",
     "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
@@ -201,8 +217,6 @@
     "zettelkasten/1678298400-指数的性質.md",
     "zettelkasten/20230515-指数式.md",
     "zettelkasten/20231122-数学.md",
-    "Refile.md",
-    "zettelkasten/1726373525-Shooting an Elephant.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
@@ -217,7 +231,6 @@
     "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725976542-無限.md",
-    "zettelkasten/1725541372-CHM121 Lecture 20240904.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
