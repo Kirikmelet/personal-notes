@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acccc5b7dbf3d6e8",
+        "id": "9b111471ee8c4fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "6075c3311990156d",
+            "id": "a16693796211f1e2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5b8965c29d821b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1715310132-因数分解.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f865d7ded99b88be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -136,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md"
+                "file": "Refile.md"
               }
             }
           },
@@ -146,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "Refile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1726373525-Shooting an Elephant.md",
+                "file": "Refile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +176,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f865d7ded99b88be",
+  "active": "a16693796211f1e2",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "zettelkasten/1727307983-CHM121 Lecture 20240925.md",
     "Refile.md",
+    "zettelkasten/1726373525-Shooting an Elephant.md",
+    "Untitled 1.md",
     "zettelkasten/1715310132-因数分解.md",
     "zettelkasten/1715310104-割り算.md",
     "zettelkasten/1715310799-多項式の標準形.md",
@@ -230,7 +204,6 @@
     "zettelkasten/1726027469-Ikatan Kimia.md",
     "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1715310852-多項式の終了動作.md",
-    "zettelkasten/1725976542-無限.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
