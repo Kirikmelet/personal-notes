@@ -34,6 +34,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6e6a1a70f8e682a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/20230515-恒等式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -192,7 +205,10 @@
   },
   "active": "95eed976e1db565d",
   "lastOpenFiles": [
+    "zettelkasten/20230515-恒等式.md",
+    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "Refile.md",
+    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/1727307983-CHM121 Lecture 20240925.md",
     "zettelkasten/1726373525-Shooting an Elephant.md",
     "Untitled 1.md",
@@ -206,8 +222,6 @@
     "zettelkasten/20230515-指数式.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/1726028473-Ikatan Ionik.md",
@@ -217,7 +231,6 @@
     "zettelkasten/1715307801-多項式のグラフ.md",
     "zettelkasten/1726027469-Ikatan Kimia.md",
     "zettelkasten/1726030248-Monoatomic Anion Chart.md",
-    "zettelkasten/1715310852-多項式の終了動作.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
