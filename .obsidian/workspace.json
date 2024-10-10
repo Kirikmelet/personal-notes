@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
-                "mode": "source",
+                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
+                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md"
+                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
+                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-共産主義.md",
+                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +192,13 @@
   },
   "active": "46c5e22891089de0",
   "lastOpenFiles": [
-    "Refile.md",
+    "zettelkasten/20230515-指数式.md",
+    "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-恒等式.md",
+    "zettelkasten/20230515-共産主義.md",
+    "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
+    "zettelkasten/20230515-seal.svg",
+    "Refile.md",
     "zettelkasten/1726032904-Polyatomic Ion Chart.md",
     "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
     "zettelkasten/1727307983-CHM121 Lecture 20240925.md",
@@ -206,7 +211,6 @@
     "zettelkasten/20230515-Daftar Partai Politik.md",
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/1678298400-指数的性質.md",
-    "zettelkasten/20230515-指数式.md",
     "zettelkasten/20231122-数学.md",
     "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
     "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
@@ -215,9 +219,6 @@
     "zettelkasten/1726251955-Ion Oksian.md",
     "zettelkasten/1726028868-Ikatan Kovalen.md",
     "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/1715307801-多項式のグラフ.md",
-    "zettelkasten/1726027469-Ikatan Kimia.md",
-    "zettelkasten/1726030248-Monoatomic Anion Chart.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
@@ -232,7 +233,6 @@
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230515-flag.svg",
     "zettelkasten/20230515-flag 1.svg",
-    "zettelkasten/20230515-seal.svg",
     "zettelkasten/1721750390-FAFSA Loan-1.png",
     "zettelkasten/1715310852-多項式の終了動作-1.png",
     "zettelkasten/20230611-関数図形の移動する-3.webp",
