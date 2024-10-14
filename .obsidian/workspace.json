@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "zettelkasten/20240324-集合の表記.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
+                "file": "zettelkasten/20240324-集合の表記.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md"
+                "file": "zettelkasten/20240324-集合の表記.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "zettelkasten/20240324-集合の表記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20230515-指数的モデルの変化の解釈.md",
+                "file": "zettelkasten/20240324-集合の表記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +192,13 @@
   },
   "active": "46c5e22891089de0",
   "lastOpenFiles": [
+    "zettelkasten/20240327-放物線.md",
+    "zettelkasten/20231106-ELM Architecture.md",
+    "zettelkasten/20230919-行列の掛け算.md",
+    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/20230517-対数.md",
+    "zettelkasten/20230515-数学用語集.md",
+    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
     "zettelkasten/20230515-指数式.md",
     "zettelkasten/20230515-多項式.md",
     "zettelkasten/20230515-恒等式.md",
@@ -212,13 +219,6 @@
     "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
     "zettelkasten/1678298400-指数的性質.md",
     "zettelkasten/20231122-数学.md",
-    "zettelkasten/20230607-「対数」基底之対数変化為之導入.md",
-    "zettelkasten/20230515-Daftar Kementerian Tata Negara.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/1726028473-Ikatan Ionik.md",
-    "zettelkasten/1726251955-Ion Oksian.md",
-    "zettelkasten/1726028868-Ikatan Kovalen.md",
-    "zettelkasten/20231207-Tipe-Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
