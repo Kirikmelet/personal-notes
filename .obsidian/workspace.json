@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/20240324-集合の表記.md",
+                "file": "zettelkasten/1714185300-乱数発生器.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/20240324-集合の表記.md"
+                "file": "zettelkasten/1714185300-乱数発生器.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/20240324-集合の表記.md"
+                "file": "zettelkasten/1714185300-乱数発生器.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/20240324-集合の表記.md",
+                "file": "zettelkasten/1714185300-乱数発生器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/20240324-集合の表記.md",
+                "file": "zettelkasten/1714185300-乱数発生器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,6 +192,9 @@
   },
   "active": "46c5e22891089de0",
   "lastOpenFiles": [
+    "zettelkasten/20240417-クアフトサーバー.md",
+    "zettelkasten/20240325-区間の表記.md",
+    "zettelkasten/20240324-集合の表記.md",
     "zettelkasten/20240327-放物線.md",
     "zettelkasten/20231106-ELM Architecture.md",
     "zettelkasten/20230919-行列の掛け算.md",
@@ -216,9 +219,6 @@
     "zettelkasten/1715310799-多項式の標準形.md",
     "zettelkasten/20240122-線型不等式のグラフ.md",
     "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/20231123-デレノモ独立共和国の計画と中央情報リポジトリ.md",
-    "zettelkasten/1678298400-指数的性質.md",
-    "zettelkasten/20231122-数学.md",
     "zettelkasten/1725892226-I like anime",
     "zettelkasten/1725892175-I like anime",
     "zettelkasten/1725892130-I like anime",
