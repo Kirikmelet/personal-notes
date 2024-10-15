@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/多項式の終了動作.md",
+                "file": "zettelkasten/虚数.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/多項式の終了動作.md"
+                "file": "zettelkasten/虚数.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/多項式の終了動作.md"
+                "file": "zettelkasten/虚数.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/多項式の終了動作.md",
+                "file": "zettelkasten/虚数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/多項式の終了動作.md",
+                "file": "zettelkasten/虚数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,8 @@
   },
   "active": "ccb22718967a2365",
   "lastOpenFiles": [
+    "zettelkasten/行列.md",
+    "zettelkasten/多項式の終了動作.md",
     "zettelkasten/虚数.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/関数図形の移動する.md",
@@ -217,8 +219,6 @@
     "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "Refile.md",
     "zettelkasten/円.md",
-    "zettelkasten/「対数」自然対数.md",
-    "zettelkasten/対数.md",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
