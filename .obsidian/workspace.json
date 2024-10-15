@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "51c8232c8011f051",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a0258a721e050873",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "95eed976e1db565d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "46c5e22891089de0",
+            "id": "ccb22718967a2365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/1714185300-乱数発生器.md",
+                "file": "zettelkasten/多項式の終了動作.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 219.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/1714185300-乱数発生器.md"
+                "file": "zettelkasten/多項式の終了動作.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/1714185300-乱数発生器.md"
+                "file": "zettelkasten/多項式の終了動作.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/1714185300-乱数発生器.md",
+                "file": "zettelkasten/多項式の終了動作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/1714185300-乱数発生器.md",
+                "file": "zettelkasten/多項式の終了動作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,12 +168,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,57 +187,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c5e22891089de0",
+  "active": "ccb22718967a2365",
   "lastOpenFiles": [
-    "zettelkasten/20240417-クアフトサーバー.md",
-    "zettelkasten/20240325-区間の表記.md",
-    "zettelkasten/20240324-集合の表記.md",
-    "zettelkasten/20240327-放物線.md",
-    "zettelkasten/20231106-ELM Architecture.md",
-    "zettelkasten/20230919-行列の掛け算.md",
-    "zettelkasten/20230609-「対数」対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/20230517-対数.md",
-    "zettelkasten/20230515-数学用語集.md",
-    "zettelkasten/20230515-指数的モデルの変化の解釈.md",
-    "zettelkasten/20230515-指数式.md",
-    "zettelkasten/20230515-多項式.md",
-    "zettelkasten/20230515-恒等式.md",
-    "zettelkasten/20230515-共産主義.md",
-    "zettelkasten/20230515-ドキュメントオブジェクトモデル.md",
-    "zettelkasten/20230515-seal.svg",
+    "zettelkasten/虚数.md",
+    "zettelkasten/共産主義.md",
+    "zettelkasten/関数図形の移動する.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/複素数.md",
+    "zettelkasten/行列の掛け算.md",
+    "zettelkasten/多項式の標準形.md",
+    "zettelkasten/多項式のグラフ.md",
+    "zettelkasten/参考文献講義.md",
+    "zettelkasten/ローグライク開発.md",
+    "zettelkasten/モル.md",
+    "zettelkasten/三角法.md",
+    "zettelkasten/乱数発生器.md",
+    "zettelkasten/二次パターン.md",
+    "zettelkasten/因数分解.md",
+    "zettelkasten/多項式.md",
+    "zettelkasten/社会主義.md",
+    "zettelkasten/区間の表記.md",
+    "zettelkasten/MTH141 Lecture 20240826.md",
+    "zettelkasten/MTH141 Lecture 20240822.md",
+    "zettelkasten/CHM121 Lecture 20240925.md",
+    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "Refile.md",
-    "zettelkasten/1726032904-Polyatomic Ion Chart.md",
-    "zettelkasten/20230515-Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/1727307983-CHM121 Lecture 20240925.md",
-    "zettelkasten/1726373525-Shooting an Elephant.md",
-    "Untitled 1.md",
-    "zettelkasten/1715310132-因数分解.md",
-    "zettelkasten/1715310104-割り算.md",
-    "zettelkasten/1715310799-多項式の標準形.md",
-    "zettelkasten/20240122-線型不等式のグラフ.md",
-    "zettelkasten/20230515-Daftar Partai Politik.md",
-    "zettelkasten/1725892226-I like anime",
-    "zettelkasten/1725892175-I like anime",
-    "zettelkasten/1725892130-I like anime",
-    "zettelkasten/1725891924-I like anime",
-    "new_unique_note.ps1lvoAaU.bck",
-    "new_unique_note.ps10c7Taw.bck",
-    "new_unique_note.ps1",
-    "syllabus/chm121.pdf",
-    "zettelkasten/1715310852-多項式の終了動作-3.png",
-    "Refile.md44on5t.bck",
-    "Refile.mdGcA7g6.bck",
+    "zettelkasten/円.md",
+    "zettelkasten/「対数」自然対数.md",
+    "zettelkasten/対数.md",
+    "zettelkasten/多項式の終了動作-3.png",
+    "zettelkasten/多項式の終了動作-2.png",
+    "zettelkasten/多項式の終了動作-1.png",
+    "zettelkasten/関数図形の移動する-2.png",
+    "zettelkasten/関数図形の移動する-3.webp",
+    "zettelkasten/関数図形の移動する-1.png",
+    "logseq/bak/zettelkasten/Ikatan Kimia",
+    "logseq/bak/zettelkasten/Ikatan Ionik",
+    "logseq/bak/zettelkasten/FAFSA Loan",
+    "logseq/bak/zettelkasten/ELM Architecture",
+    "logseq/bak/zettelkasten/Daftar Divisi Administrasi Negara",
+    "logseq/bak/zettelkasten",
+    "logseq/bak/broken links output",
+    "logseq/bak",
+    "logseq",
+    "logseq/bak/zettelkasten/デレノモ独立共和国の計画と中央情報リポジトリ",
+    "zettelkasten/flag.svg",
+    "zettelkasten/structuralformula.png",
+    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230515-flag_with_seal.svg",
-    "zettelkasten/20230515-flag.svg",
-    "zettelkasten/20230515-flag 1.svg",
-    "zettelkasten/1721750390-FAFSA Loan-1.png",
-    "zettelkasten/1715310852-多項式の終了動作-1.png",
-    "zettelkasten/20230611-関数図形の移動する-3.webp",
-    "zettelkasten/20230611-関数図形の移動する-1.png",
-    "zettelkasten/20230611-関数図形の移動する-2.png",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }

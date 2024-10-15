@@ -2,6 +2,7 @@
 tags:
   - essay
 title: The Union Makes Us Strong!
+date: 2023-05-15
 ---
 # The Union Makes Us Strong
 
