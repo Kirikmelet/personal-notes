@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ccb22718967a2365",
+            "id": "014f08a803cea2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/虚数.md",
+                "file": "zettelkasten/グラフ漸近.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/虚数.md"
+                "file": "zettelkasten/グラフ漸近.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/虚数.md"
+                "file": "zettelkasten/グラフ漸近.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/虚数.md",
+                "file": "zettelkasten/グラフ漸近.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/虚数.md",
+                "file": "zettelkasten/グラフ漸近.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccb22718967a2365",
+  "active": "014f08a803cea2f3",
   "lastOpenFiles": [
+    "Refile.md",
+    "zettelkasten/グラフ漸近.md",
+    "zettelkasten/虚数.md",
     "zettelkasten/行列.md",
     "zettelkasten/多項式の終了動作.md",
-    "zettelkasten/虚数.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/関数を拡大縮小する.md",
@@ -217,8 +219,6 @@
     "zettelkasten/MTH141 Lecture 20240822.md",
     "zettelkasten/CHM121 Lecture 20240925.md",
     "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
-    "Refile.md",
-    "zettelkasten/円.md",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",

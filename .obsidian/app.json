@@ -15,5 +15,7 @@
   "attachmentFolderPath": "./",
   "strictLineBreaks": true,
   "foldHeading": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten"
 }
