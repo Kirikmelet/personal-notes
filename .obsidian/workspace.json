@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+                "file": "zettelkasten/CHM121 Lecture 20241016.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "「絶対値」絶対  値に以てにグラフ化する"
+              "title": "CHM121 Lecture 20241016"
             }
           }
         ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+                "file": "zettelkasten/CHM121 Lecture 20241016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 「絶対値」絶対  値に以てにグラフ化する"
+              "title": "Backlinks for CHM121 Lecture 20241016"
             }
           },
           {
@@ -215,38 +215,38 @@
   },
   "active": "c65ba122d13b76dd",
   "lastOpenFiles": [
-    "zettelkasten/「対数」対数の性質.md",
-    "Refile.md",
-    "zettelkasten/CHM121 Lecture 20241016.md",
-    "zettelkasten/グラフ漸近.md",
-    "zettelkasten/虚数.md",
+    "zettelkasten/正弦波.md",
+    "zettelkasten/総合論文講義.md",
+    "zettelkasten/絶対値.md",
+    "zettelkasten/粒子.md",
+    "zettelkasten/関数図形の移動する-1.png",
+    "zettelkasten/等比級数.md",
+    "zettelkasten/正弦定理.md",
     "zettelkasten/行列.md",
-    "zettelkasten/多項式の終了動作.md",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/関数図形の移動する.md",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/複素数.md",
     "zettelkasten/行列の掛け算.md",
-    "zettelkasten/多項式の標準形.md",
-    "zettelkasten/多項式のグラフ.md",
-    "zettelkasten/参考文献講義.md",
-    "zettelkasten/ローグライク開発.md",
-    "zettelkasten/モル.md",
-    "zettelkasten/三角法.md",
-    "zettelkasten/乱数発生器.md",
-    "zettelkasten/二次パターン.md",
-    "zettelkasten/因数分解.md",
-    "zettelkasten/多項式.md",
-    "zettelkasten/社会主義.md",
-    "zettelkasten/区間の表記.md",
-    "zettelkasten/MTH141 Lecture 20240826.md",
-    "zettelkasten/MTH141 Lecture 20240822.md",
+    "zettelkasten/虚数.md",
+    "zettelkasten/関数図形の移動する.md",
+    "zettelkasten/集合の表記.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/指数式.md",
+    "zettelkasten/指数的モデル.md",
+    "zettelkasten/円.md",
+    "zettelkasten/恒等式.md",
+    "zettelkasten/ベクトルの平行四辺形ルール.md",
+    "zettelkasten/ベクトルの方向.md",
+    "zettelkasten/ネットワークプログラミング.md",
+    "zettelkasten/MTH141 Lecture 20240829.md",
+    "zettelkasten/MTH141 Lecture 20240910.md",
+    "zettelkasten/CHM121 Lecture 20240911.md",
+    "zettelkasten/Bendera Negara.md",
+    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+    "Refile.md",
+    "zettelkasten/「対数」対数の性質.md",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/関数図形の移動する-3.webp",
-    "zettelkasten/関数図形の移動する-1.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
