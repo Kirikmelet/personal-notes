@@ -19,20 +19,24 @@
                 "backlinks": true,
                 "source": true
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Refile"
             }
           },
           {
-            "id": "014f08a803cea2f3",
+            "id": "c65ba122d13b76dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/グラフ漸近.md",
+                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "「絶対値」絶対  値に以てにグラフ化する"
             }
           }
         ],
@@ -56,7 +60,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -71,7 +77,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -79,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -104,7 +114,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -113,8 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/グラフ漸近.md"
-              }
+                "file": "zettelkasten/CHM121 Lecture 20241016.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for CHM121 Lecture 20241016"
             }
           },
           {
@@ -123,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/グラフ漸近.md"
-              }
+                "file": "zettelkasten/CHM121 Lecture 20241016.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CHM121 Lecture 20241016"
             }
           },
           {
@@ -133,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/グラフ漸近.md",
+                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 「絶対値」絶対  値に以てにグラフ化する"
             }
           },
           {
@@ -150,10 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/グラフ漸近.md",
+                "file": "zettelkasten/CHM121 Lecture 20241016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CHM121 Lecture 20241016"
             }
           },
           {
@@ -165,7 +185,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -191,9 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "014f08a803cea2f3",
+  "active": "c65ba122d13b76dd",
   "lastOpenFiles": [
+    "zettelkasten/「対数」対数の性質.md",
     "Refile.md",
+    "zettelkasten/CHM121 Lecture 20241016.md",
     "zettelkasten/グラフ漸近.md",
     "zettelkasten/虚数.md",
     "zettelkasten/行列.md",
@@ -217,8 +241,6 @@
     "zettelkasten/区間の表記.md",
     "zettelkasten/MTH141 Lecture 20240826.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
-    "zettelkasten/CHM121 Lecture 20240925.md",
-    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
