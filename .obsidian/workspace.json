@@ -10,11 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Refile.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Refile"
             }
           }
         ]
@@ -126,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/ENG102 Essay 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ENG102 Essay 5"
             }
           },
           {
@@ -171,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +200,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zettelkasten/CHM121 Lecture 20241023.md",
+    "zettelkasten/Prinsip Aufbrau.md",
+    "zettelkasten/MTH141 Lecture 20240822.md",
+    "zettelkasten/対数.md",
+    "zettelkasten/CHM121 Lecture 20240821.md",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
+    "zettelkasten/FYS101 Lecture.md",
+    "zettelkasten/Daftar Partai Politik.md",
+    "Refile.md",
+    "zettelkasten/ENG102 Essay 5.md",
+    "zettelkasten/Social Media Contribution of Violations in the 2024 Elections.md",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
+    "zettelkasten/https___asset.kgnewsroom.com_photo_pre_2024_04_01_1da474fd-1e72-4018-8162-c11d43a17bc9_png.png",
     "zettelkasten/社会主義.md",
     "zettelkasten/無限.md",
     "zettelkasten/科学.md",
@@ -204,26 +228,14 @@
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/指数的モデルの変化の解釈.md",
-    "zettelkasten/対数.md",
     "zettelkasten/恒等式.md",
     "zettelkasten/多項式の割り算.md",
     "zettelkasten/多項式の終了動作.md",
-    "zettelkasten/剰余定理.md",
-    "zettelkasten/冪数関数の図形.md",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/Daftar Divisi Administrasi Negara.md",
-    "zettelkasten/デレノモ独立共和国.md",
     "zettelkasten/structuralformula.png",
-    "Refile.md",
-    "zettelkasten/Logging with Tracing.md",
-    "zettelkasten/Ikatan Kovalen.md",
-    "zettelkasten/Grammatyczny Rzeczownik.md",
-    "zettelkasten/Cyber Socialism and Modern Technology.md",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
-    "zettelkasten/関数図形の移動する-3.webp",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
@@ -234,9 +246,6 @@
     "logseq/bak",
     "logseq",
     "logseq/bak/zettelkasten/デレノモ独立共和国の計画と中央情報リポジトリ",
-    "zettelkasten/flag.svg",
-    "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
-    "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
