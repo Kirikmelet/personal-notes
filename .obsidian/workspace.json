@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "a2ec36fc97580b1d",
+            "id": "5340787d588bde90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/CHM121 Lecture 20241023.md",
+                "file": "zettelkasten/対数.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CHM121 Lecture 20241023"
+              "title": "対数"
             }
           }
         ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/CHM121 Lecture 20241023.md",
+                "file": "zettelkasten/対数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CHM121 Lecture 20241023"
+              "title": "Backlinks for 対数"
             }
           },
           {
@@ -213,35 +213,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ec36fc97580b1d",
+  "active": "5340787d588bde90",
   "lastOpenFiles": [
+    "zettelkasten/恒等式.md",
+    "zettelkasten/対数.md",
+    "zettelkasten/多項式の割り算.md",
+    "zettelkasten/多項式の終了動作.md",
+    "zettelkasten/剰余定理.md",
+    "zettelkasten/冪数関数の図形.md",
+    "zettelkasten/共産主義.md",
+    "zettelkasten/Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/デレノモ独立共和国.md",
+    "zettelkasten/structuralformula.png",
     "Refile.md",
+    "zettelkasten/Logging with Tracing.md",
+    "zettelkasten/Ikatan Kovalen.md",
+    "zettelkasten/Grammatyczny Rzeczownik.md",
+    "zettelkasten/Cyber Socialism and Modern Technology.md",
     "zettelkasten/CHM121 Lecture 20241023.md",
     "zettelkasten/CHM121 Lecture 20241016.md",
+    "zettelkasten/Daftar Partai Politik.md",
+    "zettelkasten/アパートリスト.md",
+    "zettelkasten/Untuk Kemerdekaan, Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/Struktur Negara.md",
+    "zettelkasten/MTH141 Syllabus.md",
+    "zettelkasten/Marxism  Das Kapital.md",
+    "zettelkasten/Ion Oksian.md",
+    "zettelkasten/CHM121 Syllabus.md",
+    "zettelkasten/CHM121 Lecture 20240925.md",
     "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
-    "zettelkasten/正弦波.md",
-    "zettelkasten/総合論文講義.md",
-    "zettelkasten/絶対値.md",
-    "zettelkasten/粒子.md",
     "zettelkasten/関数図形の移動する-1.png",
-    "zettelkasten/等比級数.md",
-    "zettelkasten/正弦定理.md",
-    "zettelkasten/行列.md",
-    "zettelkasten/行列の掛け算.md",
-    "zettelkasten/虚数.md",
-    "zettelkasten/関数図形の移動する.md",
-    "zettelkasten/集合の表記.md",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/指数式.md",
-    "zettelkasten/指数的モデル.md",
-    "zettelkasten/円.md",
-    "zettelkasten/恒等式.md",
-    "zettelkasten/ベクトルの平行四辺形ルール.md",
-    "zettelkasten/ベクトルの方向.md",
-    "zettelkasten/ネットワークプログラミング.md",
-    "zettelkasten/MTH141 Lecture 20240829.md",
-    "zettelkasten/MTH141 Lecture 20240910.md",
-    "zettelkasten/CHM121 Lecture 20240911.md",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
@@ -258,7 +259,6 @@
     "logseq",
     "logseq/bak/zettelkasten/デレノモ独立共和国の計画と中央情報リポジトリ",
     "zettelkasten/flag.svg",
-    "zettelkasten/structuralformula.png",
     "zettelkasten/2081a5ca887ae441236a175ae4a7f451e4632920.svg",
     "zettelkasten/20230515-flag_with_seal.svg",
     "zettelkasten/20230519C-Struktur Negara.canvas"

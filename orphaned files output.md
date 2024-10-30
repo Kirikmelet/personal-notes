@@ -19,7 +19,7 @@
 - [[MTH121 Lecture 20240820.md]]
 - [[ELM Architecture.md]]
 - [[MTH141 Lecture 20240828.md]]
-- [[デレノモ独立共和国の計画と中央情報リポジトリ.md]]
+- [[デレノモ独立共和国]]
 - [[new_unique_note.ps1]]
 - [[FYS101 Lecture.md]]
 - [[Procedural Generation.md]]
