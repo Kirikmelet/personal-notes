@@ -10,37 +10,14 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Refile"
-            }
-          },
-          {
-            "id": "5340787d588bde90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/対数.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "対数"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/対数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 対数"
+              "title": "Backlinks"
             }
           },
           {
@@ -213,10 +189,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5340787d588bde90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "zettelkasten/恒等式.md",
+    "zettelkasten/社会主義.md",
+    "zettelkasten/無限.md",
+    "zettelkasten/科学.md",
+    "zettelkasten/粒子.md",
+    "zettelkasten/行列.md",
+    "zettelkasten/複素数.md",
+    "zettelkasten/絶対値.md",
+    "zettelkasten/総合論文講義.md",
+    "zettelkasten/虚数.md",
+    "zettelkasten/関数図形の移動する-2.png",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/関数図形の移動する.md",
+    "zettelkasten/指数的モデルの変化の解釈.md",
     "zettelkasten/対数.md",
+    "zettelkasten/恒等式.md",
     "zettelkasten/多項式の割り算.md",
     "zettelkasten/多項式の終了動作.md",
     "zettelkasten/剰余定理.md",
@@ -230,23 +219,10 @@
     "zettelkasten/Ikatan Kovalen.md",
     "zettelkasten/Grammatyczny Rzeczownik.md",
     "zettelkasten/Cyber Socialism and Modern Technology.md",
-    "zettelkasten/CHM121 Lecture 20241023.md",
-    "zettelkasten/CHM121 Lecture 20241016.md",
-    "zettelkasten/Daftar Partai Politik.md",
-    "zettelkasten/アパートリスト.md",
-    "zettelkasten/Untuk Kemerdekaan, Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
-    "zettelkasten/Struktur Negara.md",
-    "zettelkasten/MTH141 Syllabus.md",
-    "zettelkasten/Marxism  Das Kapital.md",
-    "zettelkasten/Ion Oksian.md",
-    "zettelkasten/CHM121 Syllabus.md",
-    "zettelkasten/CHM121 Lecture 20240925.md",
-    "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
-    "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/関数図形の移動する-3.webp",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
