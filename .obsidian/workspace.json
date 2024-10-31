@@ -23,8 +23,24 @@
               "icon": "lucide-file",
               "title": "Refile"
             }
+          },
+          {
+            "id": "d22cfdfed8747896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/「対数」自然対数.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "「対数」自然対数"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d22cfdfed8747896",
   "lastOpenFiles": [
+    "zettelkasten/CHM121 Lecture 20241030.md",
+    "zettelkasten/CHM121 Lecture 20240904.md",
+    "Refile.md",
+    "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/CHM121 Lecture 20241023.md",
     "zettelkasten/Prinsip Aufbrau.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
@@ -209,7 +229,6 @@
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "zettelkasten/FYS101 Lecture.md",
     "zettelkasten/Daftar Partai Politik.md",
-    "Refile.md",
     "zettelkasten/ENG102 Essay 5.md",
     "zettelkasten/Social Media Contribution of Violations in the 2024 Elections.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
@@ -229,13 +248,10 @@
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/指数的モデルの変化の解釈.md",
     "zettelkasten/恒等式.md",
-    "zettelkasten/多項式の割り算.md",
-    "zettelkasten/多項式の終了動作.md",
     "zettelkasten/structuralformula.png",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/多項式の終了動作-2.png",
-    "zettelkasten/多項式の終了動作-1.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
