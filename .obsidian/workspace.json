@@ -38,9 +38,24 @@
               "icon": "lucide-file",
               "title": "「対数」自然対数"
             }
+          },
+          {
+            "id": "59c347317cb7bde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/MTH140 Lecture 20241031.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MTH140 Lecture 20241031"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22cfdfed8747896",
+  "active": "59c347317cb7bde9",
   "lastOpenFiles": [
+    "zettelkasten/「対数」自然対数.md",
+    "zettelkasten/MTH140 Lecture 20241031.md",
     "zettelkasten/CHM121 Lecture 20241030.md",
     "zettelkasten/CHM121 Lecture 20240904.md",
     "Refile.md",
@@ -246,8 +263,6 @@
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/関数図形の移動する.md",
-    "zettelkasten/指数的モデルの変化の解釈.md",
-    "zettelkasten/恒等式.md",
     "zettelkasten/structuralformula.png",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/多項式の終了動作-3.png",
