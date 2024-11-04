@@ -10,11 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Refile.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Refile"
             }
           }
         ]
@@ -194,9 +201,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zettelkasten/MTH140 Lecture 20241104.md",
+    "zettelkasten/Untitled 1.md",
+    "Refile.md",
     "zettelkasten/ENG102 Essay 5.md",
     "zettelkasten/essay 4 criticisim.md",
-    "Refile.md",
     "zettelkasten/MTH140 Lecture 20241031.md",
     "zettelkasten/対数.md",
     "zettelkasten/「対数」自然対数.md",
@@ -223,8 +232,6 @@
     "zettelkasten/行列.md",
     "zettelkasten/複素数.md",
     "zettelkasten/絶対値.md",
-    "zettelkasten/総合論文講義.md",
-    "zettelkasten/虚数.md",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/structuralformula.png",
     "zettelkasten/関数図形の移動する-1.png",
