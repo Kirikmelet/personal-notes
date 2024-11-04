@@ -10,52 +10,14 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Refile"
-            }
-          },
-          {
-            "id": "d22cfdfed8747896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/「対数」自然対数.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "「対数」自然対数"
-            }
-          },
-          {
-            "id": "59c347317cb7bde9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/MTH140 Lecture 20241031.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MTH140 Lecture 20241031"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -229,24 +192,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59c347317cb7bde9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "zettelkasten/「対数」自然対数.md",
+    "zettelkasten/ENG102 Essay 5.md",
+    "zettelkasten/essay 4 criticisim.md",
+    "Refile.md",
     "zettelkasten/MTH140 Lecture 20241031.md",
+    "zettelkasten/対数.md",
+    "zettelkasten/「対数」自然対数.md",
+    "zettelkasten/指数的模型.md",
     "zettelkasten/CHM121 Lecture 20241030.md",
     "zettelkasten/CHM121 Lecture 20240904.md",
-    "Refile.md",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/CHM121 Lecture 20241023.md",
     "zettelkasten/Prinsip Aufbrau.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
-    "zettelkasten/対数.md",
     "zettelkasten/CHM121 Lecture 20240821.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "zettelkasten/FYS101 Lecture.md",
     "zettelkasten/Daftar Partai Politik.md",
-    "zettelkasten/ENG102 Essay 5.md",
     "zettelkasten/Social Media Contribution of Violations in the 2024 Elections.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
@@ -261,8 +226,6 @@
     "zettelkasten/総合論文講義.md",
     "zettelkasten/虚数.md",
     "zettelkasten/関数図形の移動する-2.png",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/関数図形の移動する.md",
     "zettelkasten/structuralformula.png",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/多項式の終了動作-3.png",
