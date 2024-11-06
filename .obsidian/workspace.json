@@ -23,8 +23,39 @@
               "icon": "lucide-file",
               "title": "Refile"
             }
+          },
+          {
+            "id": "dc3d30458316bc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Actor Model.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Actor Model"
+            }
+          },
+          {
+            "id": "015fe8dccb4d267e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/MTH140 Lecture 20241104.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MTH140 Lecture 20241104"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -199,8 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "015fe8dccb4d267e",
   "lastOpenFiles": [
+    "zettelkasten/MTH141 Lecture 20240910.md",
+    "zettelkasten/Untitled 2.md",
+    "zettelkasten/Actor Model.md",
+    "Refile.md",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/CHM121 Lecture 20241023.md~",
     "zettelkasten/Untitled.md",
@@ -209,8 +243,6 @@
     "zettelkasten/MTH141 Lecture 20240905.md",
     "zettelkasten/How To Read a Book.md",
     "zettelkasten/CHM121 Lecture 20240925.md",
-    "zettelkasten/Actor Model.md",
-    "Refile.md",
     "zettelkasten/MTH140 Lecture 20241104.md",
     "zettelkasten/Untitled 1.md",
     "zettelkasten/ENG102 Essay 5.md",
@@ -229,7 +261,6 @@
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "zettelkasten/FYS101 Lecture.md",
-    "zettelkasten/Daftar Partai Politik.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
     "zettelkasten/https___asset.kgnewsroom.com_photo_pre_2024_04_01_1da474fd-1e72-4018-8162-c11d43a17bc9_png.png",
