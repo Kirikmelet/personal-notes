@@ -45,17 +45,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/MTH140 Lecture 20241104.md",
+                "file": "zettelkasten/MTH141 Lecture 20241104.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MTH140 Lecture 20241104"
+              "title": "MTH141 Lecture 20241104"
+            }
+          },
+          {
+            "id": "50dbb254400d8871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/MTH141 Lecture 20241106.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MTH141 Lecture 20241106"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,8 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "015fe8dccb4d267e",
+  "active": "50dbb254400d8871",
   "lastOpenFiles": [
+    "zettelkasten/MTH141 Lecture 20241104.md",
+    "zettelkasten/MTH141 Lecture 20241106.md",
     "zettelkasten/MTH141 Lecture 20240910.md",
     "zettelkasten/Untitled 2.md",
     "zettelkasten/Actor Model.md",
@@ -243,7 +260,6 @@
     "zettelkasten/MTH141 Lecture 20240905.md",
     "zettelkasten/How To Read a Book.md",
     "zettelkasten/CHM121 Lecture 20240925.md",
-    "zettelkasten/MTH140 Lecture 20241104.md",
     "zettelkasten/Untitled 1.md",
     "zettelkasten/ENG102 Essay 5.md",
     "zettelkasten/essay 4 criticisim.md",
@@ -260,7 +276,6 @@
     "zettelkasten/CHM121 Lecture 20240821.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
-    "zettelkasten/FYS101 Lecture.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
     "zettelkasten/https___asset.kgnewsroom.com_photo_pre_2024_04_01_1da474fd-1e72-4018-8162-c11d43a17bc9_png.png",
