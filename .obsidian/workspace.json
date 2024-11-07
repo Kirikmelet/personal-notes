@@ -68,9 +68,24 @@
               "icon": "lucide-file",
               "title": "MTH141 Lecture 20241106"
             }
+          },
+          {
+            "id": "b1e60917cba498de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/CHM121 Lecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CHM121 Lecture"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,10 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50dbb254400d8871",
+  "active": "b1e60917cba498de",
   "lastOpenFiles": [
-    "zettelkasten/MTH141 Lecture 20241104.md",
     "zettelkasten/MTH141 Lecture 20241106.md",
+    "zettelkasten/CHM121 Lecture.md",
+    "zettelkasten/MTH141 Lecture 20241104.md",
     "zettelkasten/MTH141 Lecture 20240910.md",
     "zettelkasten/Untitled 2.md",
     "zettelkasten/Actor Model.md",
@@ -274,7 +290,6 @@
     "zettelkasten/Prinsip Aufbrau.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
     "zettelkasten/CHM121 Lecture 20240821.md",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
