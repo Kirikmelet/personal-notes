@@ -208,11 +208,7 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "bf3a31ad7d20cb66",

@@ -1,16 +1,8 @@
 [
-  "obsidian-git",
-  "homepage",
-  "table-editor-obsidian",
-  "obsidian-dictionary-plugin",
+  "obsidian-style-settings",
   "obsidian-outliner",
   "obsidian-minimal-settings",
-  "omnisearch",
-  "obsidian-pretty-bibtex",
   "obsidian-linter",
-  "obsidian-tasks-plugin",
-  "obsidian-style-settings",
-  "global-search-and-replace",
-  "find-unlinked-files",
-  "obsidian-desmos"
+  "obsidian-kanban",
+  "obsidian-git"
 ]
