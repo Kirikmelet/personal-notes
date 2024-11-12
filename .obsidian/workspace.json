@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/多項式のグラフ.md",
+                "file": "zettelkasten/絶対値.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "多項式のグラフ"
+              "title": "絶対値"
             }
           }
         ],
@@ -208,13 +208,20 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "bf3a31ad7d20cb66",
   "lastOpenFiles": [
-    "zettelkasten/冪数関数の図形.md",
+    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/絶対値.md",
     "zettelkasten/多項式のグラフ.md",
+    "zettelkasten/冪数関数の図形.md",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/多項式の終了動作.md",
     "zettelkasten/対数.md",
@@ -230,8 +237,6 @@
     "zettelkasten/等比級数.md",
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/絶対値.md",
-    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "zettelkasten/線型不等式のグラフ.md",
     "zettelkasten/MTH141 Lecture 20241104.md",
     "zettelkasten/「対数」対数に以てに指数的方程式を解決する.md",
