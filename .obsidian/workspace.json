@@ -43,16 +43,34 @@
             "id": "d25e401d7f07c4d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "zettelkasten/ENG102 Essay 5.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "ENG102 Essay 5"
+            }
+          },
+          {
+            "id": "e17f598fa7d350c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/CHM121 Lecture 20241113.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CHM121 Lecture 20241113"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,8 +243,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d25e401d7f07c4d1",
+  "active": "e17f598fa7d350c8",
   "lastOpenFiles": [
+    "zettelkasten/ENG102 Essay 5.md",
+    "zettelkasten/CHM121 Lecture 20241113.md",
     "zettelkasten/MTH140 Lecture 20241107.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
     "zettelkasten/MTH140 Lecture 20241031.md",
@@ -251,8 +271,6 @@
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/線型不等式のグラフ.md",
-    "zettelkasten/MTH141 Lecture 20241104.md",
-    "zettelkasten/「対数」対数に以てに指数的方程式を解決する.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
