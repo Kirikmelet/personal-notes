@@ -25,36 +25,6 @@
             }
           },
           {
-            "id": "bf3a31ad7d20cb66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/ENG102 Essay 5.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ENG102 Essay 5"
-            }
-          },
-          {
-            "id": "d25e401d7f07c4d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/ENG102 Essay 5.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ENG102 Essay 5"
-            }
-          },
-          {
             "id": "e17f598fa7d350c8",
             "type": "leaf",
             "state": {
@@ -68,9 +38,24 @@
               "icon": "lucide-file",
               "title": "「対数」対数の性質"
             }
+          },
+          {
+            "id": "3efa5373df52c866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/MTH140 Lecture 20241119.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MTH140 Lecture 20241119"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +228,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e17f598fa7d350c8",
+  "active": "3efa5373df52c866",
   "lastOpenFiles": [
+    "zettelkasten/「対数」対数の性質.md",
+    "zettelkasten/MTH140 Lecture 20241119.md",
     "zettelkasten/ENG102 Essay 5.md",
     "zettelkasten/CHM121 Lecture 20241113.md",
     "zettelkasten/MTH140 Lecture 20241107.md",
@@ -269,8 +256,6 @@
     "zettelkasten/正弦波.md",
     "zettelkasten/等比級数.md",
     "zettelkasten/関数図形の移動する.md",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/線型不等式のグラフ.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
