@@ -25,37 +25,73 @@
             }
           },
           {
-            "id": "e17f598fa7d350c8",
+            "id": "c1891d8f36ffe040",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "zettelkasten/「対数」対数の性質.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "「対数」対数の性質"
+              "title": "Release Notes 1.7.7"
             }
           },
           {
-            "id": "3efa5373df52c866",
+            "id": "52e59d028a9ef408",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/MTH140 Lecture 20241119.md",
-                "mode": "preview",
+                "file": "zettelkasten/CHM 121 Lecture 20241120.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MTH140 Lecture 20241119"
+              "title": "CHM 121 Lecture 20241120"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "caf8efe13a9d1a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45dd81c51d5b3a9d",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "en",
+                "language_to": "id",
+                "translation_service": "lingva_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lingva_translate",
+              "title": "Lingva Translate"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -225,11 +262,14 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "3efa5373df52c866",
+  "active": "45dd81c51d5b3a9d",
   "lastOpenFiles": [
+    "zettelkasten/CHM 121 Lecture 20241120.md",
+    "Refile.md",
     "zettelkasten/「対数」対数の性質.md",
     "zettelkasten/MTH140 Lecture 20241119.md",
     "zettelkasten/ENG102 Essay 5.md",
@@ -254,8 +294,6 @@
     "zettelkasten/数学用語集.md",
     "zettelkasten/有理指数.md",
     "zettelkasten/正弦波.md",
-    "zettelkasten/等比級数.md",
-    "zettelkasten/関数図形の移動する.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
