@@ -5,6 +5,9 @@ tags:
 
 # 極座標
 
+- $x=r\cos\theta$
+- $y=r\sin\theta$
+
 # 極形式 「キョクケイシキ」
 
 公式：$$r=|z|=\sqrt{x^2+y^2}$$、それに：$$z=r(\sin{\theta}+i\sin{\theta})$$
