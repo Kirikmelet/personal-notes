@@ -50,8 +50,24 @@
               "icon": "lucide-file",
               "title": "工會使我們強大 - 工会使我们强大"
             }
+          },
+          {
+            "id": "98fde31c722a533a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Tingkat Otomasi Mesin.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tingkat Otomasi Mesin"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -226,9 +241,10 @@
       "translate:Open translation view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98fde31c722a533a",
   "lastOpenFiles": [
     "Refile.md",
+    "zettelkasten/Tingkat Otomasi Mesin.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/「対数」基底之対数変化為之導入.md",
@@ -253,7 +269,6 @@
     "zettelkasten/対数.md",
     "zettelkasten/恒等式.md",
     "zettelkasten/指数式.md",
-    "zettelkasten/指数的モデルの変化の解釈.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
