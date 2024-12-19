@@ -5,6 +5,8 @@
   "baseFontSize": 24,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "i-ming"
+  ],
   "monospaceFontFamily": "JetBrains Mono"
 }
