@@ -25,18 +25,6 @@
             }
           },
           {
-            "id": "c1891d8f36ffe040",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "52e59d028a9ef408",
             "type": "leaf",
             "state": {
@@ -64,6 +52,21 @@
               },
               "icon": "lucide-file",
               "title": "関数を拡大縮小する"
+            }
+          },
+          {
+            "id": "90fb6948849a77bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/指数的模型.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "指数的模型"
             }
           }
         ],
@@ -98,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:math",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,6 +230,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -234,23 +241,24 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "translate:Open translation view": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98fde31c722a533a",
+  "active": "90fb6948849a77bb",
   "lastOpenFiles": [
+    "zettelkasten/CHM121 Lecture 20241030.md",
+    "zettelkasten/CHM121 Syllabus.md",
+    "zettelkasten/CHM121 Lecture 20241023.md",
+    "Refile.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/バイナリ.md",
     "zettelkasten/行列の掛け算.md",
     "zettelkasten/有理指数.md",
     "zettelkasten/余弦定理.md",
     "zettelkasten/MTH140 Lecture 20241031.md",
     "zettelkasten/「対数」自然対数.md",
     "zettelkasten/Tingkat Otomasi Mesin.md",
-    "Refile.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/「対数」基底之対数変化為之導入.md",
     "templates/大学講義テンプレート.md",
@@ -264,11 +272,6 @@
     "zettelkasten/MTH140 Lecture 20241107.md",
     "zettelkasten/MTH141 Lecture 20240822.md",
     "zettelkasten/MTH141 Lecture 20241106.md",
-    "zettelkasten/絶対値.md",
-    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
-    "zettelkasten/多項式のグラフ.md",
-    "zettelkasten/冪数関数の図形.md",
-    "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
