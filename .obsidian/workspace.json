@@ -60,17 +60,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Braitenberg Vehicle.md",
-                "mode": "source",
+                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Braitenberg Vehicle"
+              "title": "「絶対値」絶対  値に以てにグラフ化する"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,11 +122,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -179,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/ENG102 Essay 5.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ENG102 Essay 5"
+              "title": "Backlinks for 工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -244,17 +246,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "90fb6948849a77bb",
+  "active": "52e59d028a9ef408",
   "lastOpenFiles": [
-    "zettelkasten/Untitled 3.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/余弦定理.mdxvUQSL.bck",
+    "zettelkasten/関数図形の移動する-1.png",
+    "zettelkasten/関数図形の移動する-3.webp",
+    "zettelkasten/集合の表記.md",
+    "zettelkasten/等比級数.md",
+    "zettelkasten/社会主義.md",
+    "zettelkasten/科学.md",
+    "zettelkasten/CHM121 Lecture 20241113.md",
     "zettelkasten/Braitenberg Vehicle.md",
+    "zettelkasten/Untitled 3.md",
     "zettelkasten/指数的模型.md",
     "zettelkasten/CHM121 Lecture 20241030.md",
     "zettelkasten/CHM121 Syllabus.md",
     "zettelkasten/CHM121 Lecture 20241023.md",
     "Refile.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/バイナリ.md",
     "zettelkasten/行列の掛け算.md",
     "zettelkasten/有理指数.md",
@@ -266,12 +277,6 @@
     "zettelkasten/「対数」基底之対数変化為之導入.md",
     "templates/大学講義テンプレート.md",
     "templates/文献テンプレート.md",
-    "templates/ゲーム手記テンプレート.md",
-    "zettelkasten/CHM 121 Lecture 20241120.md",
-    "zettelkasten/「対数」対数の性質.md",
-    "zettelkasten/MTH140 Lecture 20241119.md",
-    "zettelkasten/ENG102 Essay 5.md",
-    "zettelkasten/CHM121 Lecture 20241113.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
@@ -281,8 +286,6 @@
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
     "zettelkasten/https___asset.kgnewsroom.com_photo_pre_2024_04_01_1da474fd-1e72-4018-8162-c11d43a17bc9_png.png",
-    "zettelkasten/関数図形の移動する-2.png",
-    "zettelkasten/structuralformula.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
@@ -291,7 +294,6 @@
     "logseq/bak/zettelkasten",
     "logseq/bak/broken links output",
     "logseq/bak",
-    "logseq",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
