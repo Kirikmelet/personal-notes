@@ -25,21 +25,6 @@
             }
           },
           {
-            "id": "52e59d028a9ef408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "工會使我們強大 - 工会使我们强大"
-            }
-          },
-          {
             "id": "98fde31c722a533a",
             "type": "leaf",
             "state": {
@@ -52,6 +37,21 @@
               },
               "icon": "lucide-file",
               "title": "関数を拡大縮小する"
+            }
+          },
+          {
+            "id": "698a4862e4806222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/関数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "関数"
             }
           },
           {
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,9 +246,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52e59d028a9ef408",
+  "active": "698a4862e4806222",
   "lastOpenFiles": [
+    "hw",
     "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/関数.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "zettelkasten/余弦定理.mdxvUQSL.bck",
     "zettelkasten/関数図形の移動する-1.png",
@@ -265,7 +268,6 @@
     "zettelkasten/CHM121 Syllabus.md",
     "zettelkasten/CHM121 Lecture 20241023.md",
     "Refile.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/バイナリ.md",
     "zettelkasten/行列の掛け算.md",
     "zettelkasten/有理指数.md",
@@ -275,8 +277,6 @@
     "zettelkasten/Tingkat Otomasi Mesin.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/「対数」基底之対数変化為之導入.md",
-    "templates/大学講義テンプレート.md",
-    "templates/文献テンプレート.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
