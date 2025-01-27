@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/関数の基本的移動事.md",
-                "mode": "source",
+                "file": "zettelkasten/関数の基本的移動.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "関数の基本的移動事"
+              "title": "関数の基本的移動"
             }
           },
           {
@@ -264,7 +264,7 @@
   "active": "7628409979fa1eb3",
   "lastOpenFiles": [
     "zettelkasten/関数.md",
-    "zettelkasten/関数の基本的移動事.md",
+    "zettelkasten/関数の基本的移動.md",
     "hw",
     "zettelkasten/関数を拡大縮小する.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
