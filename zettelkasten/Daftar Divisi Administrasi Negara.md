@@ -12,7 +12,7 @@ server:
 date: 2023-05-15
 ---
 
-# National Administrative Division List
+# Daftar Divisi Administrasi Negara Derrenomo
 
 > [!info] 
 > See [Tipe-Tipe Divisi Administratif Derrenomo](Tipe%20Divisi%20Administratif%20Derrenomo.md) for help naming provinces!
@@ -42,22 +42,31 @@ date: 2023-05-15
 ### Administrative District of the City of Derrenomo
 
 > Bahasa Indonesia: Distrik Administratif Kota Derrenomo
+>
 > 日本語：デレノモ市行政地区
+>
 > 华语: 德认诺莫城市行政地区
+>
 > Italiano: Distretto Amministrativo della Città di Derrenomo
 
 ### North District of the City of Derrenomo
 
 > Bahasa Indonesia: Distrik Administratif Kota Derrenomo
+>
 > 日本語：デレノモ市北地区
+>
 > 华语: 德认诺莫城市北地区
+>
 > Italiano: Distretto Nord della Città di Derrenomo
 
 ## New Development Prefecture
 
 > Bahasa Indonesia: Prefektur Perkembangan Baru
+>
 > 日本語：新開発都道府
+>
 > 华语：新开发都道府
+>
 > Italiano: Prefettura di Nuovo Sviluppo
 
 ## North Shore City

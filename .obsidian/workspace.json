@@ -70,22 +70,37 @@
             }
           },
           {
-            "id": "90fb6948849a77bb",
+            "id": "f35b093e0545c54c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+                "file": "zettelkasten/国民経済.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "国民経済"
+            }
+          },
+          {
+            "id": "4f506bd5994840ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Daftar Divisi Administrasi Negara.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "「絶対値」絶対  値に以てにグラフ化する"
+              "title": "Daftar Divisi Administrasi Negara"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math  ",
+                "query": "tag:derrenomo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -261,14 +275,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7628409979fa1eb3",
+  "active": "f35b093e0545c54c",
   "lastOpenFiles": [
-    "zettelkasten/関数.md",
+    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
+    "zettelkasten/Daftar Divisi Administrasi Negara.md",
+    "zettelkasten/Untuk Kemerdekaan, Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
+    "zettelkasten/国民経済.md",
     "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/関数.md",
     "hw",
     "zettelkasten/関数を拡大縮小する.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "zettelkasten/余弦定理.mdxvUQSL.bck",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/関数図形の移動する-3.webp",
@@ -290,9 +307,6 @@
     "zettelkasten/余弦定理.md",
     "zettelkasten/MTH140 Lecture 20241031.md",
     "zettelkasten/「対数」自然対数.md",
-    "zettelkasten/Tingkat Otomasi Mesin.md",
-    "essays/The Union Makes Us Strong.md",
-    "zettelkasten/「対数」基底之対数変化為之導入.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
