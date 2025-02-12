@@ -1,5 +1,6 @@
 ---
-cssclasses: ["i-ming"]
+cssclasses:
+  - i-ming
 ---
 
 # Oendang<sup>2</sup> Dasar (Grondwet) Repoeblik Merdeka Derrenomo
@@ -9,7 +10,6 @@ Dan oentok konsolidatie pemerintah-an baroe jang sah dan jang me-wakili ra'jat,
 kami a'kan men-diri-kan oendang<sup>2</sup> dasar ini.
 
 
-吾等德認諾莫民族已成功推翻暴政！為鞏固新政府之合法與代表性，吾等將制定此憲法。
 
 ## Bab 1 (Satoe) Bentoek dan Basis Negara.
 
