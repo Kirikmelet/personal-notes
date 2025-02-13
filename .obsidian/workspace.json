@@ -16,60 +16,21 @@
               "state": {
                 "file": "Refile.md",
                 "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Refile"
-            }
-          },
-          {
-            "id": "98fde31c722a533a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/関数を拡大縮小する.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "関数を拡大縮小する"
-            }
-          },
-          {
-            "id": "698a4862e4806222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/関数.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "関数"
             }
           },
           {
@@ -194,9 +155,33 @@
               "icon": "lucide-file",
               "title": "Daftar Divisi Administrasi Negara"
             }
+          },
+          {
+            "id": "4efac5454479b65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/極限.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "極限"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -371,18 +356,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dca1542dd14a3481",
+  "active": "4efac5454479b65f",
   "lastOpenFiles": [
-    "essays/The Union Makes Us Strong.md",
+    "Refile.md",
+    "templates/テンプレート.md",
+    "zettelkasten/極限.md",
+    "zettelkasten/関数.md",
+    "templates/計算機科学手記テンプレート.md",
+    "templates/文献テンプレート.md",
+    "templates/大学講義テンプレート.md",
+    "templates/ゲーム手記テンプレート.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/Untitled 2.md",
+    "zettelkasten/Untitled 1.md",
+    "zettelkasten/Untitled 3.md",
+    "zettelkasten/関数の基本的移動.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
+    "essays/The Union Makes Us Strong.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
     "zettelkasten/Daftar Divisi Administrasi Negara.md",
     "essays/derrenomo_constitution.md",
     "zettelkasten/国内総生産.md",
     "essays/derrenomo_constitution.mdCkcfjX.bck",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/関数.md",
-    "zettelkasten/関数の基本的移動.md",
     "zettelkasten/国民経済.md",
     "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
     "zettelkasten/Untuk Kemerdekaan, Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
@@ -394,16 +389,6 @@
     "zettelkasten/等比級数.md",
     "zettelkasten/社会主義.md",
     "zettelkasten/科学.md",
-    "zettelkasten/CHM121 Lecture 20241113.md",
-    "zettelkasten/Braitenberg Vehicle.md",
-    "zettelkasten/Untitled 3.md",
-    "zettelkasten/指数的模型.md",
-    "zettelkasten/CHM121 Lecture 20241030.md",
-    "zettelkasten/CHM121 Syllabus.md",
-    "zettelkasten/CHM121 Lecture 20241023.md",
-    "Refile.md",
-    "zettelkasten/バイナリ.md",
-    "zettelkasten/行列の掛け算.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
