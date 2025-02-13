@@ -163,7 +163,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/極限.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -182,6 +182,45 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "e94c4ef0a897088e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816ae6bcfe1405c3",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "ja",
+                "translation_service": "lingva_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lingva_translate",
+              "title": "Lingva Translate"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
