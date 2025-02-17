@@ -80,7 +80,7 @@ The Derrenomo National Democratic Party is a nationalist center-right political 
 
 ### Bahasa Indonesia
 
-> Bahasa Indonesia: Partai Nasional-Demokratik Derrenomo
+> Bahasa Indonesia: Partai Nasional-Demokrat Derrenomo
 
 Partai Demokrat Nasional Derrenomo adalah partai politik nasionalis sayap kanan yang menganut platform liberalisme ekonomi dan konservatisme sosial. Partai ini mendukung kebijakan seperti persaingan pasar bebas, kebijakan pro-kewirausahaan, dan penguatan keamanan nasional, sambil menekankan nilai-nilai tradisional, keluarga, dan menjaga ketertiban umum. Mereka juga cenderung menempatkan penekanan yang kuat pada identitas etnis dan kebanggaan nasionalis.
 

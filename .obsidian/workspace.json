@@ -149,8 +149,17 @@
               "state": {
                 "file": "zettelkasten/Daftar Divisi Administrasi Negara.md",
                 "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Daftar Divisi Administrasi Negara"
@@ -162,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/極限.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -177,50 +186,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "極限"
+              "title": "derrenomo_constitution_yanwenyan"
+            }
+          },
+          {
+            "id": "d7f68627fb3cedc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Daftar Partai Politik.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daftar Partai Politik"
             }
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "e94c4ef0a897088e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "816ae6bcfe1405c3",
-            "type": "leaf",
-            "state": {
-              "type": "translator-view",
-              "state": {
-                "language_from": "auto",
-                "language_to": "ja",
-                "translation_service": "lingva_translate",
-                "auto_translate": false,
-                "apply_glossary": false,
-                "view_mode": 0,
-                "filter_mode": 0,
-                "show_attribution": false,
-                "top_buttons": [
-                  "change-service",
-                  "automatic-translation",
-                  "change-layout",
-                  "apply-filter",
-                  "open-settings"
-                ],
-                "left_buttons": [
-                  "paste",
-                  "clear"
-                ],
-                "right_buttons": [
-                  "copy"
-                ]
-              },
-              "icon": "lingva_translate",
-              "title": "Lingva Translate"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -318,10 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/CHM121 Lecture 20241016.md"
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHM121 Lecture 20241016"
+              "title": "Outline of derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -330,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +337,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 工會使我們強大 - 工会使我们强大"
+              "title": "Backlinks for derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -372,12 +369,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,9 +393,14 @@
   },
   "active": "4efac5454479b65f",
   "lastOpenFiles": [
+    "essays/derrenomo_constitution.md",
+    "zettelkasten/Daftar Divisi Administrasi Negara.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "zettelkasten/Daftar Partai Politik.md",
+    "essays/The Union Makes Us Strong.md",
+    "zettelkasten/極限.md",
     "Refile.md",
     "templates/テンプレート.md",
-    "zettelkasten/極限.md",
     "zettelkasten/関数.md",
     "templates/計算機科学手記テンプレート.md",
     "templates/文献テンプレート.md",
@@ -411,10 +412,7 @@
     "zettelkasten/Untitled 3.md",
     "zettelkasten/関数の基本的移動.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "essays/The Union Makes Us Strong.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
-    "zettelkasten/Daftar Divisi Administrasi Negara.md",
-    "essays/derrenomo_constitution.md",
     "zettelkasten/国内総生産.md",
     "essays/derrenomo_constitution.mdCkcfjX.bck",
     "zettelkasten/国民経済.md",
@@ -426,8 +424,6 @@
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/集合の表記.md",
     "zettelkasten/等比級数.md",
-    "zettelkasten/社会主義.md",
-    "zettelkasten/科学.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
