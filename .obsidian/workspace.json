@@ -34,61 +34,13 @@
             }
           },
           {
-            "id": "7628409979fa1eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/関数の基本的移動.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "関数の基本的移動"
-            }
-          },
-          {
-            "id": "f35b093e0545c54c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/国民経済.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "国民経済"
-            }
-          },
-          {
-            "id": "341988bd81f05734",
+            "id": "4b25c48618c5e7e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "essays/derrenomo_constitution.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -104,117 +56,9 @@
               "icon": "lucide-file",
               "title": "derrenomo_constitution"
             }
-          },
-          {
-            "id": "dca1542dd14a3481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "工會使我們強大 - 工会使我们强大"
-            }
-          },
-          {
-            "id": "b2733d08276be125",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
-          },
-          {
-            "id": "4f506bd5994840ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Daftar Divisi Administrasi Negara.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daftar Divisi Administrasi Negara"
-            }
-          },
-          {
-            "id": "4efac5454479b65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
-            }
-          },
-          {
-            "id": "d7f68627fb3cedc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Daftar Partai Politik.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daftar Partai Politik"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "essays/derrenomo_constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_constitution_yanwenyan"
+              "title": "Outline of derrenomo_constitution"
             }
           },
           {
@@ -391,19 +235,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4efac5454479b65f",
+  "active": "4b25c48618c5e7e6",
   "lastOpenFiles": [
-    "essays/derrenomo_constitution.md",
-    "zettelkasten/Daftar Divisi Administrasi Negara.md",
     "essays/derrenomo_constitution_yanwenyan.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "Refile.md",
+    "essays/derrenomo_constitution.md",
+    "templates/テンプレート.md",
+    "templates/計算機科学手記テンプレート.md",
+    "templates/文献テンプレート.md",
+    "zettelkasten/Daftar Divisi Administrasi Negara.md",
     "zettelkasten/Daftar Partai Politik.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/極限.md",
-    "Refile.md",
-    "templates/テンプレート.md",
     "zettelkasten/関数.md",
-    "templates/計算機科学手記テンプレート.md",
-    "templates/文献テンプレート.md",
     "templates/大学講義テンプレート.md",
     "templates/ゲーム手記テンプレート.md",
     "zettelkasten/関数を拡大縮小する.md",
@@ -411,7 +256,6 @@
     "zettelkasten/Untitled 1.md",
     "zettelkasten/Untitled 3.md",
     "zettelkasten/関数の基本的移動.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
     "zettelkasten/国内総生産.md",
     "essays/derrenomo_constitution.mdCkcfjX.bck",

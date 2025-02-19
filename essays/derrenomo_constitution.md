@@ -36,19 +36,24 @@ kami a'kan mendirikan oendang<sup>2</sup> dasar ini.
 
 ## Bab 4 (Empat) Kementerian Negara
 
-1. Pembentoekan Kementerian dapat dibentoek oleh Presiden dan haroes mendapat persetoedjoean dari badan legislatif terkait.
+1. Pembentoekan Kementerian dapat dibentoek dan dihentikan oleh Presiden; lalu haroes mendapat persetoedjoean dari badan legislatif terkait.
 2. Keberada'an Kementerian Dalam Negeri, Kementerian Pertahanan, dan Kementerian Loear Negeri dilindoengi oleh oendang<sup>2</sup> dasar.
+3. Kementerian Negara mewadjib membantoe Presiden oentoek melaksanakan toegas pemerintahan.
 
 ## Bab 5 (Lima) Bahasa dan Kebudaja'an Negara
 
-1. Negara Derrenomo mengakoei 6 bahasa. Ialah:
+4. Negara Derrenomo mengakoei 6 bahasa. Ialah:
 	 - Bahasa Indonesia
 	 - Bahasa Inggeris
 	 - Bahasa Nippon
 	 - Bahasa Cina
 	 - Bahasa Italiano
 	 - Bahasa Belanda
-2. Masjarakat Bangsa Derrenomo memiliki satoe identitas dan boedaja nationaal; semoea identitas etnis haroes disoebordinasikan ke dalam satoe identitas nationaal.
-3. Segala oeroesan pemerintahan dan pendidikan haroes disediakan secara setara dalam salah satoe dari 6 bahasa sebagaimana ditentoekan dalam Bab 5 Pasal 1.
+5. Masjarakat Bangsa Derrenomo memiliki satoe identitas dan boedaja nationaal; semoea identitas etnis haroes disoebordinasikan ke dalam satoe identitas nationaal.
+6. Segala oeroesan pemerintahan dan pendidikan haroes disediakan secara setara dalam salah satoe dari 6 bahasa sebagaimana ditentoekan dalam Bab 5 Pasal 1.
 	1. Namun, bahasa Indonesia haroes dioetamakan di atas bahasa lainnja.
 	
+## Bab 6 (Enam) Pemerintahan Daerah
+
+
+
