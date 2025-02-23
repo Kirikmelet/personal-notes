@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "4b25c48618c5e7e6",
+            "id": "edfc7daea02fae24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution.md",
-                "mode": "source",
+                "file": "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution"
+              "title": "Tipe Divisi Administratif Derrenomo"
+            }
+          },
+          {
+            "id": "ebbad07a802ab33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "derrenomo_constitution_yanwenyan"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -156,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_constitution.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_constitution"
+              "title": "Outline of derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -235,16 +260,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b25c48618c5e7e6",
+  "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "essays/derrenomo_constitution.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
+    "zettelkasten/Struktur Negara.canvas",
+    "zettelkasten/Daftar Divisi Administrasi Negara.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "templates/テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
     "templates/文献テンプレート.md",
-    "zettelkasten/Daftar Divisi Administrasi Negara.md",
     "zettelkasten/Daftar Partai Politik.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/極限.md",
@@ -266,8 +294,6 @@
     "zettelkasten/余弦定理.mdxvUQSL.bck",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/関数図形の移動する-3.webp",
-    "zettelkasten/集合の表記.md",
-    "zettelkasten/等比級数.md",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
