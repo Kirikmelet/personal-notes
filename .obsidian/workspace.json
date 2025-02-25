@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "zettelkasten/微分.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
+              "title": "微分"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "zettelkasten/微分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_constitution_yanwenyan"
+              "title": "Outline of 微分"
             }
           },
           {
@@ -262,9 +262,10 @@
   },
   "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "zettelkasten/微分.md",
     "Refile.md",
     "essays/derrenomo_constitution.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "zettelkasten/Struktur Negara.canvas",
@@ -281,7 +282,6 @@
     "templates/ゲーム手記テンプレート.md",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/Untitled 2.md",
-    "zettelkasten/Untitled 1.md",
     "zettelkasten/Untitled 3.md",
     "zettelkasten/関数の基本的移動.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
