@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 微分"
+              "title": "Outline of Tipe Divisi Administratif Derrenomo"
             }
           },
           {
@@ -260,10 +260,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebbad07a802ab33c",
+  "active": "edfc7daea02fae24",
   "lastOpenFiles": [
-    "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/微分.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
     "Refile.md",
     "essays/derrenomo_constitution.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
