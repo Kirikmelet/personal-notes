@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tipe Divisi Administratif Derrenomo"
+              "title": "derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -181,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tipe Divisi Administratif Derrenomo"
+              "title": "Outline of derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -262,11 +261,11 @@
   },
   "active": "edfc7daea02fae24",
   "lastOpenFiles": [
-    "zettelkasten/微分.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "Refile.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_constitution.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/微分.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/Daftar Divisi Administrasi Negara.md",
