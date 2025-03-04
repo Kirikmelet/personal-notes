@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
+              "title": "工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 微分"
+              "title": "Outline of 工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -259,40 +259,41 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebbad07a802ab33c",
+  "active": "edfc7daea02fae24",
   "lastOpenFiles": [
     "essays/derrenomo_constitution_yanwenyan.md",
+    "essays/The Union Makes Us Strong.md",
     "Refile.md",
-    "essays/derrenomo_constitution.md",
+    "Tasks.md",
+    "orphaned files output.md",
+    "Project.md",
+    "zettelkasten/集合の表記.md",
+    "zettelkasten/関数図形の移動する-3.webp",
+    "zettelkasten/線型不等式のグラフ.md",
+    "zettelkasten/総合論文講義.md",
+    "zettelkasten/関数図形の移動する.md",
+    "zettelkasten/関数図形の移動する-2.png",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/放物線.md",
+    "zettelkasten/参考文献講義.md",
+    "zettelkasten/国内総生産.md",
+    "zettelkasten/区間の表記.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+    "zettelkasten/Tingkat Otomasi Mesin.md",
+    "zettelkasten/Struktur Negara.md",
     "zettelkasten/微分.md",
+    "essays/derrenomo_constitution.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/Daftar Divisi Administrasi Negara.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "templates/テンプレート.md",
     "templates/計算機科学手記テンプレート.md",
-    "templates/文献テンプレート.md",
-    "zettelkasten/Daftar Partai Politik.md",
-    "essays/The Union Makes Us Strong.md",
-    "zettelkasten/極限.md",
-    "zettelkasten/関数.md",
-    "templates/大学講義テンプレート.md",
-    "templates/ゲーム手記テンプレート.md",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/Untitled 2.md",
-    "zettelkasten/Untitled 3.md",
-    "zettelkasten/関数の基本的移動.md",
-    "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
-    "zettelkasten/国内総生産.md",
     "essays/derrenomo_constitution.mdCkcfjX.bck",
-    "zettelkasten/国民経済.md",
-    "zettelkasten/「絶対値」絶対  値に以てにグラフ化する.md",
-    "zettelkasten/Untuk Kemerdekaan, Imperialisme, dan Kebebasan, Lagu Kebangsaan Negara Derrenomo.md",
     "hw",
     "zettelkasten/余弦定理.mdxvUQSL.bck",
     "zettelkasten/関数図形の移動する-1.png",
-    "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/CHM121 Lecture 20241023.md~",
@@ -301,7 +302,6 @@
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
-    "zettelkasten/https___asset.kgnewsroom.com_photo_pre_2024_04_01_1da474fd-1e72-4018-8162-c11d43a17bc9_png.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
