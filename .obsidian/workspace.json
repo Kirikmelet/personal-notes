@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "zettelkasten/微分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_constitution_yanwenyan"
+              "title": "Outline of 微分"
             }
           },
           {
@@ -259,10 +259,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edfc7daea02fae24",
+  "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
-    "Refile.md",
     "essays/derrenomo_constitution_yanwenyan.md",
+    "Refile.md",
     "essays/derrenomo_constitution.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
     "zettelkasten/微分.md",
