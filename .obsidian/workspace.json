@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "zettelkasten/対数.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -78,7 +78,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
+              "title": "対数"
+            }
+          },
+          {
+            "id": "ea287812bd7986fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
@@ -180,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "zettelkasten/対数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_constitution_yanwenyan"
+              "title": "Outline of 対数"
             }
           },
           {
@@ -261,8 +273,17 @@
   },
   "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
-    "essays/derrenomo_constitution.md",
+    "zettelkasten/Pasted image 20250305223203.png",
+    "zettelkasten/偶関数と奇関数.md",
+    "zettelkasten/Shooting an Elephant.md",
+    "zettelkasten/Monoatomic Anion Chart.md",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
+    "zettelkasten/ELM Architecture.md",
+    "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
+    "zettelkasten/微分.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
+    "essays/derrenomo_constitution.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "zettelkasten/デレノモ独立共和国.md",
@@ -279,15 +300,6 @@
     "zettelkasten/基底之対数変化為之導入.md",
     "zettelkasten/円.md",
     "zettelkasten/冪数関数の図形.md",
-    "zettelkasten/乱数発生器.md",
-    "zettelkasten/二次パターン.md",
-    "zettelkasten/ローグライク開発.md",
-    "zettelkasten/三角法.md",
-    "zettelkasten/モル.md",
-    "zettelkasten/ベクトルの方向.md",
-    "zettelkasten/ベクトルの平行四辺形ルール.md",
-    "zettelkasten/ベクトルとスカラー.md",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
