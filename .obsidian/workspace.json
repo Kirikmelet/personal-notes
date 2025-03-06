@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "微分"
+              "title": "derrenomo_constitution_yanwenyan"
             }
           }
         ],
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 微分"
+              "title": "Outline of derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -261,34 +261,35 @@
   },
   "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
-    "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
-    "zettelkasten/Motto Negara Derrenomo.md",
-    "zettelkasten/Monoatomic Anion Chart.md",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024.md",
-    "zettelkasten/指数的モデルの変化の解釈.md",
-    "zettelkasten/微分.md",
+    "essays/derrenomo_constitution.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/The Union Makes Us Strong.md",
-    "Refile.md",
-    "Tasks.md",
-    "orphaned files output.md",
-    "Project.md",
-    "zettelkasten/集合の表記.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
+    "zettelkasten/デレノモ独立共和国.md",
+    "zettelkasten/デジタルオーディオの基本的概念.md",
+    "zettelkasten/ゼロ.md",
+    "zettelkasten/グラフ漸近.md",
+    "zettelkasten/クアフトサーバー.md",
+    "zettelkasten/アパートリスト.md",
+    "zettelkasten/essay 4 criticisim.md",
+    "zettelkasten/絶対値に以てにグラフ化する.md",
+    "zettelkasten/自然対数.md",
+    "zettelkasten/対数の性質.md",
+    "zettelkasten/対数に以てに指数的方程式を解決する.md",
+    "zettelkasten/基底之対数変化為之導入.md",
+    "zettelkasten/円.md",
+    "zettelkasten/冪数関数の図形.md",
+    "zettelkasten/乱数発生器.md",
+    "zettelkasten/二次パターン.md",
+    "zettelkasten/ローグライク開発.md",
+    "zettelkasten/三角法.md",
+    "zettelkasten/モル.md",
+    "zettelkasten/ベクトルの方向.md",
+    "zettelkasten/ベクトルの平行四辺形ルール.md",
+    "zettelkasten/ベクトルとスカラー.md",
+    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/関数図形の移動する-3.webp",
-    "zettelkasten/線型不等式のグラフ.md",
-    "zettelkasten/総合論文講義.md",
-    "zettelkasten/関数図形の移動する.md",
     "zettelkasten/関数図形の移動する-2.png",
-    "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/関数の基本的移動.md",
-    "zettelkasten/放物線.md",
-    "zettelkasten/参考文献講義.md",
-    "zettelkasten/国内総生産.md",
-    "zettelkasten/区間の表記.md",
-    "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/Tingkat Otomasi Mesin.md",
     "zettelkasten/Struktur Negara.canvas",
     "essays/derrenomo_constitution.mdCkcfjX.bck",
     "hw",
