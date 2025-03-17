@@ -82,6 +82,30 @@
             }
           },
           {
+            "id": "a9fd5a72b4110faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Roblox Border.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Roblox Border"
+            }
+          },
+          {
             "id": "ea287812bd7986fc",
             "type": "leaf",
             "state": {
@@ -94,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/対数.md",
+                "file": "zettelkasten/Roblox Border.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 対数"
+              "title": "Outline of Roblox Border"
             }
           },
           {
@@ -271,8 +295,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebbad07a802ab33c",
+  "active": "a9fd5a72b4110faf",
   "lastOpenFiles": [
+    "zettelkasten/Pasted image 20250306152343.png",
+    "zettelkasten/対数.md",
+    "zettelkasten/Roblox Border.md",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/Shooting an Elephant.md",
@@ -298,8 +325,6 @@
     "zettelkasten/対数の性質.md",
     "zettelkasten/対数に以てに指数的方程式を解決する.md",
     "zettelkasten/基底之対数変化為之導入.md",
-    "zettelkasten/円.md",
-    "zettelkasten/冪数関数の図形.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
@@ -313,7 +338,6 @@
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-1.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
