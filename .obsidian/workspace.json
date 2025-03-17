@@ -63,8 +63,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/対数.md",
-                "mode": "preview",
+                "file": "zettelkasten/社会主義.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -78,31 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "対数"
-            }
-          },
-          {
-            "id": "a9fd5a72b4110faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Roblox Border.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Roblox Border"
+              "title": "社会主義"
             }
           },
           {
@@ -118,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Roblox Border.md",
+                "file": "zettelkasten/社会主義.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roblox Border"
+              "title": "Outline of 社会主義"
             }
           },
           {
@@ -295,11 +271,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a9fd5a72b4110faf",
+  "active": "ebbad07a802ab33c",
   "lastOpenFiles": [
-    "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/対数.md",
     "zettelkasten/Roblox Border.md",
+    "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/Shooting an Elephant.md",
@@ -337,7 +313,6 @@
     "zettelkasten/CHM121 Lecture 20241023.md~",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-2.png",
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
