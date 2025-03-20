@@ -82,6 +82,30 @@
             }
           },
           {
+            "id": "924ecebf5d9e6925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/微分.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "微分"
+            }
+          },
+          {
             "id": "ea287812bd7986fc",
             "type": "leaf",
             "state": {
@@ -94,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/社会主義.md",
+                "file": "zettelkasten/微分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 社会主義"
+              "title": "Outline of 微分"
             }
           },
           {
@@ -271,8 +295,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebbad07a802ab33c",
+  "active": "924ecebf5d9e6925",
   "lastOpenFiles": [
+    "zettelkasten/線形近似.md",
+    "zettelkasten/社会主義.md",
     "zettelkasten/対数.md",
     "zettelkasten/Roblox Border.md",
     "zettelkasten/Pasted image 20250306152343.png",
@@ -300,7 +326,6 @@
     "zettelkasten/自然対数.md",
     "zettelkasten/対数の性質.md",
     "zettelkasten/対数に以てに指数的方程式を解決する.md",
-    "zettelkasten/基底之対数変化為之導入.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
