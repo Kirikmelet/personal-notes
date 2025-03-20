@@ -106,19 +106,31 @@
             }
           },
           {
-            "id": "ea287812bd7986fc",
+            "id": "c8351ec2f68f78f3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "zettelkasten/微分定理目次.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "微分定理目次"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "zettelkasten/微分定理目次.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 微分"
+              "title": "Outline of 微分定理目次"
             }
           },
           {
@@ -295,8 +307,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "924ecebf5d9e6925",
+  "active": "c8351ec2f68f78f3",
   "lastOpenFiles": [
+    "zettelkasten/微分.md",
+    "zettelkasten/微分定理目次.md",
     "zettelkasten/線形近似.md",
     "zettelkasten/社会主義.md",
     "zettelkasten/対数.md",
@@ -309,7 +323,6 @@
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/ELM Architecture.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
-    "zettelkasten/微分.md",
     "essays/derrenomo_constitution_yanwenyan.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/derrenomo_constitution.md",
@@ -325,7 +338,6 @@
     "zettelkasten/絶対値に以てにグラフ化する.md",
     "zettelkasten/自然対数.md",
     "zettelkasten/対数の性質.md",
-    "zettelkasten/対数に以てに指数的方程式を解決する.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
