@@ -128,9 +128,31 @@
               "icon": "lucide-file",
               "title": "Project"
             }
+          },
+          {
+            "id": "a547da93a50e00f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "62fac021f2bc2f58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,13 +250,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project"
+              "title": "Outline"
             }
           },
           {
@@ -307,8 +328,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8351ec2f68f78f3",
+  "active": "62fac021f2bc2f58",
   "lastOpenFiles": [
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "zettelkasten/社会主義.md",
     "zettelkasten/微分.md",
@@ -327,7 +349,6 @@
     "zettelkasten/ELM Architecture.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
     "essays/derrenomo_constitution_yanwenyan.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/derrenomo_constitution.md",
     "essays/The Union Makes Us Strong.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
