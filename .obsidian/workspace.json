@@ -111,8 +111,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
-                "mode": "preview",
+                "file": "Project.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -126,11 +126,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Refile"
+              "title": "Project"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/社会主義.md",
+                "file": "Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 社会主義"
+              "title": "Outline of Project"
             }
           },
           {
@@ -307,15 +307,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ebbad07a802ab33c",
+  "active": "c8351ec2f68f78f3",
   "lastOpenFiles": [
-    "zettelkasten/微分.md",
     "Refile.md",
+    "zettelkasten/社会主義.md",
+    "zettelkasten/微分.md",
     "Tasks.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/微分定理目次.md",
     "zettelkasten/線形近似.md",
-    "zettelkasten/社会主義.md",
     "zettelkasten/対数.md",
     "zettelkasten/Roblox Border.md",
     "zettelkasten/Pasted image 20250306152343.png",
