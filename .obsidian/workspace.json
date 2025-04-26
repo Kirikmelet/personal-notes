@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "c8351ec2f68f78f3",
+            "id": "62fac021f2bc2f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project.md",
+                "file": "zettelkasten/積分.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -126,33 +126,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project"
-            }
-          },
-          {
-            "id": "a547da93a50e00f4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "62fac021f2bc2f58",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "積分"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "zettelkasten/積分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 積分"
             }
           },
           {
@@ -330,6 +309,7 @@
   },
   "active": "62fac021f2bc2f58",
   "lastOpenFiles": [
+    "zettelkasten/積分.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "zettelkasten/社会主義.md",
@@ -358,7 +338,6 @@
     "zettelkasten/グラフ漸近.md",
     "zettelkasten/クアフトサーバー.md",
     "zettelkasten/アパートリスト.md",
-    "zettelkasten/essay 4 criticisim.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
