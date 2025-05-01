@@ -128,9 +128,57 @@
               "icon": "lucide-file",
               "title": "積分"
             }
+          },
+          {
+            "id": "77907f10e152dd28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/平均足.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "平均足"
+            }
+          },
+          {
+            "id": "47346be91f850471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/相対力指数.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "相対力指数"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/積分.md",
+                "file": "zettelkasten/相対力指数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 積分"
+              "title": "Outline of 相対力指数"
             }
           },
           {
@@ -307,8 +355,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62fac021f2bc2f58",
+  "active": "47346be91f850471",
   "lastOpenFiles": [
+    "zettelkasten/平均足.md",
+    "zettelkasten/相対力指数.md",
     "zettelkasten/積分.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
@@ -336,8 +386,6 @@
     "zettelkasten/デジタルオーディオの基本的概念.md",
     "zettelkasten/ゼロ.md",
     "zettelkasten/グラフ漸近.md",
-    "zettelkasten/クアフトサーバー.md",
-    "zettelkasten/アパートリスト.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
