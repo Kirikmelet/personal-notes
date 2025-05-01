@@ -34,102 +34,6 @@
             }
           },
           {
-            "id": "edfc7daea02fae24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "工會使我們強大 - 工会使我们强大"
-            }
-          },
-          {
-            "id": "ebbad07a802ab33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/社会主義.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "社会主義"
-            }
-          },
-          {
-            "id": "924ecebf5d9e6925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/微分.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "微分"
-            }
-          },
-          {
-            "id": "62fac021f2bc2f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/積分.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "積分"
-            }
-          },
-          {
             "id": "77907f10e152dd28",
             "type": "leaf",
             "state": {
@@ -152,33 +56,9 @@
               "icon": "lucide-file",
               "title": "平均足"
             }
-          },
-          {
-            "id": "47346be91f850471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/相対力指数.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "相対力指数"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/相対力指数.md",
+                "file": "zettelkasten/平均足.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 相対力指数"
+              "title": "Outline of 平均足"
             }
           },
           {
@@ -355,15 +235,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47346be91f850471",
+  "active": "77907f10e152dd28",
   "lastOpenFiles": [
-    "zettelkasten/平均足.md",
-    "zettelkasten/相対力指数.md",
-    "zettelkasten/積分.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/社会主義.md",
+    "zettelkasten/平均足.md",
     "zettelkasten/微分.md",
+    "zettelkasten/積分.md",
+    "zettelkasten/相対力指数.md",
     "Tasks.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/微分定理目次.md",
