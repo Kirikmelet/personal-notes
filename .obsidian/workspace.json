@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 71.74085850556439,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -34,6 +35,44 @@
             }
           },
           {
+            "id": "93d4fc1855deed57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "study_guide/Practice Final Exam.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Practice Final Exam"
+            }
+          },
+          {
+            "id": "1f977669d3372355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大学.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大学"
+            }
+          },
+          {
             "id": "77907f10e152dd28",
             "type": "leaf",
             "state": {
@@ -58,19 +97,79 @@
             }
           },
           {
-            "id": "93d4fc1855deed57",
+            "id": "611b549014b548c8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "study_guide/Practice Final Exam.pdf"
+                "file": "zettelkasten/リーマン和.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Practice Final Exam"
+              "icon": "lucide-file",
+              "title": "リーマン和"
+            }
+          },
+          {
+            "id": "342aaea62ef2c654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/微分.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "微分"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "95bf71eb58fb4157",
+        "type": "tabs",
+        "dimension": 28.25914149443561,
+        "children": [
+          {
+            "id": "83b4ba0172f37c44",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study_guide/Practice Final Exam.pdf",
+                "file": "zettelkasten/微分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Practice Final Exam"
+              "title": "Outline of 微分"
             }
           },
           {
@@ -229,7 +328,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,19 +347,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93d4fc1855deed57",
+  "active": "342aaea62ef2c654",
   "lastOpenFiles": [
-    "zettelkasten/微積分学の基本定理.md",
-    "study_guide/Practice Final Exam.pdf",
     "templates/テンプレート.md",
-    "zettelkasten/平均足.md",
+    "study_guide/Practice Final Exam.pdf",
+    "zettelkasten/微分.md",
+    "zettelkasten/リーマン和.md",
+    "zettelkasten/極限.md",
+    "zettelkasten/Derivative.md",
     "Refile.md",
+    "Tasks.md",
+    "大学.md",
+    "zettelkasten/微積分学の基本定理.md",
+    "zettelkasten/平均足.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/社会主義.md",
-    "zettelkasten/微分.md",
     "zettelkasten/積分.md",
     "zettelkasten/相対力指数.md",
-    "Tasks.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/微分定理目次.md",
     "zettelkasten/線形近似.md",
@@ -274,10 +378,6 @@
     "zettelkasten/ELM Architecture.md",
     "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
     "essays/derrenomo_constitution_yanwenyan.md",
-    "essays/derrenomo_constitution.md",
-    "essays/The Union Makes Us Strong.md",
-    "zettelkasten/Daftar Kementerian Tata Negara.md",
-    "zettelkasten/デレノモ独立共和国.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
