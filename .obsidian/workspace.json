@@ -145,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "95bf71eb58fb4157",
@@ -347,13 +347,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "611b549014b548c8",
+  "active": "93d4fc1855deed57",
   "lastOpenFiles": [
+    "zettelkasten/リーマン和.md",
     "zettelkasten/微分.md",
     "大学.md",
     "study_guide/Practice Final Exam.pdf",
     "templates/テンプレート.md",
-    "zettelkasten/リーマン和.md",
     "zettelkasten/極限.md",
     "zettelkasten/Derivative.md",
     "Refile.md",
