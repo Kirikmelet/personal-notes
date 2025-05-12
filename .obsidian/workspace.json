@@ -144,7 +144,8 @@
               "title": "微分"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "95bf71eb58fb4157",
@@ -346,12 +347,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "93d4fc1855deed57",
   "lastOpenFiles": [
-    "study_guide/Practice Final Exam.pdf",
-    "Refile.md",
-    "templates/テンプレート.md",
     "大学.md",
+    "Refile.md",
+    "study_guide/Practice Final Exam.pdf",
+    "templates/テンプレート.md",
     "zettelkasten/微分.md",
     "zettelkasten/リーマン和.md",
     "zettelkasten/極限.md",
