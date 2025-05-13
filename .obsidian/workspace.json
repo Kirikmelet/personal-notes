@@ -127,7 +127,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/微分.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "95bf71eb58fb4157",
@@ -371,10 +371,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "342aaea62ef2c654",
+  "active": "93d4fc1855deed57",
   "lastOpenFiles": [
-    "zettelkasten/微分定理目次.md",
     "zettelkasten/微分.md",
+    "zettelkasten/微分定理目次.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/極限.md",
     "study_guide/Practice Final Exam.pdf",
