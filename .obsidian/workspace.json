@@ -167,9 +167,21 @@
               "icon": "lucide-file",
               "title": "微積分学の基本定理"
             }
+          },
+          {
+            "id": "c89e2d83dc74ccae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "syllabus/eng102.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "eng102"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "95bf71eb58fb4157",
@@ -371,13 +383,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93d4fc1855deed57",
+  "active": "c89e2d83dc74ccae",
   "lastOpenFiles": [
+    "syllabus/mth141.pdf",
+    "study_guide/Practice Final Exam.pdf",
     "zettelkasten/微分.md",
     "zettelkasten/微分定理目次.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/極限.md",
-    "study_guide/Practice Final Exam.pdf",
     "大学.md",
     "Refile.md",
     "templates/テンプレート.md",
