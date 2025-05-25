@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "95bf71eb58fb4157",
@@ -383,18 +383,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c89e2d83dc74ccae",
+  "active": "e772f64e851860fb",
   "lastOpenFiles": [
-    "syllabus/mth141.pdf",
+    "templates/テンプレート.md",
+    "大学.md",
     "study_guide/Practice Final Exam.pdf",
+    "zettelkasten/リーマン和.md",
+    "syllabus/eng102.pdf",
+    "syllabus/mth141.pdf",
     "zettelkasten/微分.md",
     "zettelkasten/微分定理目次.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/極限.md",
-    "大学.md",
     "Refile.md",
-    "templates/テンプレート.md",
-    "zettelkasten/リーマン和.md",
     "zettelkasten/Derivative.md",
     "Tasks.md",
     "zettelkasten/平均足.md",
@@ -430,8 +431,6 @@
     "logseq/bak/zettelkasten/Ikatan Kimia",
     "logseq/bak/zettelkasten/Ikatan Ionik",
     "logseq/bak/zettelkasten/FAFSA Loan",
-    "logseq/bak/zettelkasten/ELM Architecture",
-    "logseq/bak/zettelkasten/Daftar Divisi Administrasi Negara",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
