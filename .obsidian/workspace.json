@@ -86,24 +86,12 @@
             "id": "e772f64e851860fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "zettelkasten/微積分学の基本定理.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "syllabus/mth201.pdf"
               },
-              "icon": "lucide-file",
-              "title": "微積分学の基本定理"
+              "icon": "lucide-file-text",
+              "title": "mth201"
             }
           },
           {
@@ -347,11 +335,11 @@
   },
   "active": "e772f64e851860fb",
   "lastOpenFiles": [
+    "zettelkasten/微積分学の基本定理.md",
     "syllabus/mth200.pdf",
     "Project.md",
     "Tasks.md",
     "大学.md",
-    "zettelkasten/微積分学の基本定理.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "study_guide/Practice Final Exam.pdf",
