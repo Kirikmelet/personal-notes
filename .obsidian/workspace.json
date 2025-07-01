@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "95bf71eb58fb4157",
@@ -309,10 +309,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "264654b8c3214048",
+  "active": "e772f64e851860fb",
   "lastOpenFiles": [
-    "syllabus/mth200.pdf",
     "Project.md",
+    "syllabus/mth200.pdf",
     "syllabus/mth201.pdf",
     "zettelkasten/微積分学の基本定理.md",
     "Tasks.md",
