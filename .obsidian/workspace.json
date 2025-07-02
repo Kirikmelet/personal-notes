@@ -71,6 +71,30 @@
             }
           },
           {
+            "id": "d763ca2e1c9e5ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/数列.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "数列"
+            }
+          },
+          {
             "id": "c89e2d83dc74ccae",
             "type": "leaf",
             "state": {
@@ -107,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "95bf71eb58fb4157",
@@ -309,11 +333,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e772f64e851860fb",
+  "active": "d763ca2e1c9e5ecf",
   "lastOpenFiles": [
+    "syllabus/mth201.pdf",
+    "zettelkasten/数列.md",
     "Project.md",
     "syllabus/mth200.pdf",
-    "syllabus/mth201.pdf",
     "zettelkasten/微積分学の基本定理.md",
     "Tasks.md",
     "大学.md",
@@ -343,7 +368,6 @@
     "zettelkasten/Monoatomic Anion Chart.md",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/ELM Architecture.md",
-    "zettelkasten/Cybernetics of Governance The Cybersyn Project 1973.md",
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
