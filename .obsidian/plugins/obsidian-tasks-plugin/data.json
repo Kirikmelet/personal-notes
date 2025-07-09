@@ -1,4 +1,5 @@
 {
+  "includes": {},
   "globalQuery": "",
   "globalFilter": "#task",
   "removeGlobalFilter": false,
@@ -11,8 +12,10 @@
   "autoSuggestMaxItems": 6,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": false,
+  "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,
+  "removeScheduledDateOnRecurrence": false,
   "statusSettings": {
     "coreStatuses": [
       {

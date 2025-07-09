@@ -5,25 +5,27 @@ tags:
 
 # Tasks
 
+## 遣る事
+
 ```tasks
-not done
+status.type is TODO
+show tree
+sort by priority
 ```
 
-# 極座標
+## 遣って事
 
-- $x=r\cos\theta$
-- $y=r\sin\theta$
+```tasks
+status.type is IN_PROGRESS
+show tree
+sort by priority
+```
 
-# 極形式 「キョクケイシキ」
+## やった事
 
-公式：$$r=|z|=\sqrt{x^2+y^2}$$、それに：$$z=r(\sin{\theta}+i\sin{\theta})$$
+```tasks
+done
+show tree
+done after last week
+```
 
-- $\theta$：$\tan^{-1}(\frac{y}{x})$
-- $r$：$\sqrt{x^2+y^2}$
-
-## 「De Moivre」の定理
-
-$$(r(\cos{\theta}+i\sin{\theta})^n=r^n(\cos(n\theta)+i\sin(n\theta))$$
-
-
-於是，我也想加入到她之中去了，還在原地的人，會覺得我是「犬儒」「優於孤獨」罷了，可是，我想為他人而活，我的正義如是說。「犬儒」？不，我只是厭倦了，甚至是厭惡這些沒有「人」，高高在上姿態的敘事罷了。
