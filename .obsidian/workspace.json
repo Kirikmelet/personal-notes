@@ -98,12 +98,24 @@
             "id": "c89e2d83dc74ccae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "syllabus/mth200.pdf"
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "mth200"
+              "icon": "lucide-file",
+              "title": "工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -131,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "95bf71eb58fb4157",
@@ -333,19 +345,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e772f64e851860fb",
+  "active": "d763ca2e1c9e5ecf",
   "lastOpenFiles": [
-    "zettelkasten/数列.md",
-    "syllabus/mth201.pdf",
+    "essays/工會使我們強大 - 工会使我们强大.md",
     "syllabus/mth200.pdf",
+    "templates/テンプレート.md",
+    "syllabus/mth201.pdf",
+    "zettelkasten/数列.md",
     "Project.md",
     "zettelkasten/微積分学の基本定理.md",
     "Tasks.md",
     "大学.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "study_guide/Practice Final Exam.pdf",
-    "templates/テンプレート.md",
     "zettelkasten/微分.md",
     "syllabus/eng102.pdf",
     "zettelkasten/リーマン和.md",
