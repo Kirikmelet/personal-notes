@@ -21,7 +21,7 @@ show tree
 sort by priority
 ```
 
-## やった事
+## 遣った事
 
 ```tasks
 done

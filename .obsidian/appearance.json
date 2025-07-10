@@ -1,12 +1,14 @@
 {
   "accentColor": "#808ed0",
   "theme": "moonstone",
-  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular,Xiaolai SC,073 TEGUSE  Kanaka Font,LXGW WenKai",
+  "textFontFamily": "073 TEGUSE  Kanaka Font,Xiaolai SC,Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular,LXGW WenKai",
   "baseFontSize": 30,
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC",
+  "interfaceFontFamily": " 073 TEGUSE  Kanaka Font,Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC",
   "enabledCssSnippets": [
     "i-ming-class"
   ],
-  "monospaceFontFamily": "LXGW WenKai Mono,JetBrains Mono"
+  "monospaceFontFamily": "LXGW WenKai Mono,JetBrains Mono",
+  "showRibbon": true,
+  "baseFontSizeAction": false
 }

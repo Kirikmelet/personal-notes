@@ -6,7 +6,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": false,
+  "livePreview": true,
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
@@ -17,5 +17,6 @@
   "foldHeading": true,
   "showLineNumber": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten"
+  "newFileFolderPath": "zettelkasten",
+  "showInlineTitle": true
 }

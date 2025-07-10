@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "41d3c78e8bef6f09",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,7 +16,7 @@
               "state": {
                 "file": "Refile.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -34,14 +34,14 @@
             }
           },
           {
-            "id": "1df1b9a7a7ab865a",
+            "id": "d50f4728abed770c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "zettelkasten/線型近似.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -54,18 +54,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "線型近似"
             }
           },
           {
-            "id": "41d3c78e8bef6f09",
+            "id": "da3790e906a167a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "source": true,
+                "file": "zettelkasten/収束.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Refile"
+              "title": "収束"
             }
           }
         ],
@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -260,11 +261,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41d3c78e8bef6f09",
+  "active": "da3790e906a167a4",
   "lastOpenFiles": [
-    "Project.md",
-    "TODO.md",
+    "zettelkasten/線型近似.md",
+    "zettelkasten/収束.md",
+    "zettelkasten/テーラー級数.md",
+    "zettelkasten/マクローリン級数.md",
     "Refile.md",
+    "TODO.md",
+    "Project.md",
     "study_guide/Practice Final Exam.pdf",
     "Tasks.md",
     "zettelkasten/Untitled Kanban.md",
@@ -289,10 +294,6 @@
     "zettelkasten/平均足.md",
     "zettelkasten/社会主義.md",
     "zettelkasten/積分.md",
-    "zettelkasten/相対力指数.md",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/線形近似.md",
-    "zettelkasten/対数.md",
     "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
