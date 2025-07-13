@@ -80,9 +80,21 @@
               "icon": "lucide-file",
               "title": "収束"
             }
+          },
+          {
+            "id": "ead97990232c9aa0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "syllabus/mth201.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "mth201"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -261,13 +272,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da3790e906a167a4",
+  "active": "ead97990232c9aa0",
   "lastOpenFiles": [
+    "Refile.md",
     "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
-    "Refile.md",
     "TODO.md",
     "Project.md",
     "study_guide/Practice Final Exam.pdf",
