@@ -117,7 +117,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,13 +296,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "41d3c78e8bef6f09",
+  "active": "ead97990232c9aa0",
   "lastOpenFiles": [
-    "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
-    "TODO.md",
     "syllabus/mth201.pdf",
     "Refile.md",
+    "zettelkasten/線型近似.md",
+    "TODO.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
     "Project.md",

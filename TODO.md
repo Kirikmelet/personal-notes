@@ -13,4 +13,4 @@
 
 # 友達と家族
 
-- [ ] #task Christineを助ける。  [start:: 2025-07-14]
+- [x] #task Christineを助ける。  [start:: 2025-07-14]  [completion:: 2025-07-18]
