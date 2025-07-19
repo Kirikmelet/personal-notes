@@ -10,7 +10,6 @@
           {
             "id": "41d3c78e8bef6f09",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -28,7 +27,6 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Refile"
             }
@@ -298,10 +296,10 @@
   },
   "active": "ead97990232c9aa0",
   "lastOpenFiles": [
+    "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
     "syllabus/mth201.pdf",
     "Refile.md",
-    "zettelkasten/線型近似.md",
     "TODO.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
