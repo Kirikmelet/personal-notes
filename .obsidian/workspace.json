@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refile.md",
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Refile"
+              "title": "derrenomo_constitution_yanwenyan"
             }
           },
           {
@@ -115,8 +115,7 @@
               "title": "TODO"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,12 +293,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ead97990232c9aa0",
+  "active": "41d3c78e8bef6f09",
   "lastOpenFiles": [
+    "Refile.md",
+    "syllabus/mth201.pdf",
     "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
-    "syllabus/mth201.pdf",
-    "Refile.md",
     "TODO.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
