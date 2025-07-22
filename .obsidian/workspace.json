@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "21d619dc6a0e53f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Calculus 2 Review Cheatsheet.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Calculus 2 Review Cheatsheet"
+            }
+          },
+          {
             "id": "a44be6a5bf84e5da",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:derrenomo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +169,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +191,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -178,10 +205,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/CHM121 Lecture 20241016.md"
+                "file": "zettelkasten/Calculus 2 Review Cheatsheet.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for CHM121 Lecture 20241016"
+              "title": "File properties for Calculus 2 Review Cheatsheet"
             }
           },
           {
@@ -190,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/微分.md",
+                "file": "zettelkasten/Calculus 2 Review Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 微分"
+              "title": "Outline of Calculus 2 Review Cheatsheet"
             }
           },
           {
@@ -246,8 +273,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,12 +296,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ead97990232c9aa0",
+  "active": "21d619dc6a0e53f7",
   "lastOpenFiles": [
+    "syllabus/mth201.pdf",
+    "zettelkasten/Calculus 2 Review Cheatsheet.md",
+    "study_guide/Parabolas Section10.4(2).docx",
+    "study_guide/Ellipses Section10.4.docx",
+    "study_guide/Hyperbolas Section10.4.docx",
     "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
     "essays/derrenomo_constitution_yanwenyan.md",
-    "syllabus/mth201.pdf",
     "TODO.md",
     "Refile.md",
     "zettelkasten/テーラー級数.md",
@@ -301,7 +331,6 @@
     "zettelkasten/極限.md",
     "zettelkasten/Derivative.md",
     "zettelkasten/平均足.md",
-    "zettelkasten/社会主義.md",
     "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
@@ -310,14 +339,11 @@
     "zettelkasten/Struktur Negara.canvas",
     "essays/derrenomo_constitution.mdCkcfjX.bck",
     "hw",
-    "zettelkasten/余弦定理.mdxvUQSL.bck",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
-    "zettelkasten/CHM121 Lecture 20241023.md~",
     "zettelkasten/多項式の終了動作-3.png",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
-    "logseq/bak/zettelkasten/Ikatan Kimia",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
