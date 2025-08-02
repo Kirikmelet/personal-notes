@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "essays/derrenomo_constitution_yanwenyan.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -59,21 +59,9 @@
             "id": "ead97990232c9aa0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "syllabus/mth201.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "mth201"
-            }
-          },
-          {
-            "id": "21d619dc6a0e53f7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Calculus 2 Review Cheatsheet.md",
+                "file": "essays/derrenomo_perpres-2_1955.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -88,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calculus 2 Review Cheatsheet"
+              "title": "derrenomo_perpres-2_1955"
             }
           },
           {
-            "id": "a44be6a5bf84e5da",
+            "id": "ddff203cec1c69ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "essays/derrenomo_perpres-1_1955.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "derrenomo_perpres-1_1955"
+            }
+          },
+          {
+            "id": "7b3df251075e929c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Daftar Kementerian Tata Negara.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daftar Kementerian Tata Negara"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Calculus 2 Review Cheatsheet.md",
+                "file": "essays/derrenomo_perpres-2_1955.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2 Review Cheatsheet"
+              "title": "Outline of derrenomo_perpres-2_1955"
             }
           },
           {
@@ -273,12 +284,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,18 +307,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21d619dc6a0e53f7",
+  "active": "ead97990232c9aa0",
   "lastOpenFiles": [
-    "zettelkasten/Calculus 2 Cheat Sheet.md",
-    "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "syllabus/mth201.pdf",
+    "essays/derrenomo_perpres-2_1955.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "zettelkasten/線型近似.md",
+    "essays/derrenomo_constitution.md",
+    "essays/derrenomo_perpres-1_1955.md",
+    "essays/derrenomo_perpres-1_1975.md",
+    "zettelkasten/Calculus 2 Review Cheatsheet.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
+    "zettelkasten/デレノモ独立共和国.md",
+    "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
+    "TODO.md",
+    "zettelkasten/Calculus 2 Cheat Sheet.md",
     "study_guide/Parabolas Section10.4(2).docx",
     "study_guide/Ellipses Section10.4.docx",
     "study_guide/Hyperbolas Section10.4.docx",
-    "zettelkasten/線型近似.md",
     "zettelkasten/収束.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "TODO.md",
     "Refile.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
@@ -315,7 +333,6 @@
     "study_guide/Practice Final Exam.pdf",
     "Tasks.md",
     "zettelkasten/Untitled Kanban.md",
-    "essays/derrenomo_constitution.md",
     "essays/The Union Makes Us Strong.md",
     "大学.md",
     "zettelkasten/極座標.md",
@@ -323,15 +340,8 @@
     "essays/工會使我們強大 - 工会使我们强大.md",
     "syllabus/mth200.pdf",
     "templates/テンプレート.md",
-    "zettelkasten/微積分学の基本定理.md",
-    "zettelkasten/微分.md",
     "syllabus/eng102.pdf",
-    "zettelkasten/リーマン和.md",
     "syllabus/mth141.pdf",
-    "zettelkasten/微分定理目次.md",
-    "zettelkasten/極限.md",
-    "zettelkasten/Derivative.md",
-    "zettelkasten/平均足.md",
     "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",

@@ -41,7 +41,7 @@ kami akan mendirikan oendang<sup>2</sup> dasar ini.
 2. Keberada'an Kementerian Perantja'an Poesat dan Pekerdja'an Oemoem, Kementerian Dalam Negeri, Kementerian Pertahanan, dan Kementerian Loear Negeri dilindoengi oleh oendang<sup>2</sup> dasar.
 3. Kementerian Negara mewadjib membantoe Presiden oentoek melaksanakan toegas pemerintahan.
 
-## Bab 5 (Lima) Bahasa, Edoekatie, dan Kebudaja'an Negara
+## Bab 5 (Lima) Bahasa, Pendidikan, dan Kebudaja'an Negara
 
 1. Negara Derrenomo mengakoei 5 bahasa. Ialah:
 	 - Bahasa Malajoe (Hindia Belanda)
