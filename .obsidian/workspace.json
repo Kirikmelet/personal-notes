@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_perpres-2_1955.md",
+                "file": "essays/derrenomo_perpres-1_1955.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_perpres-2_1955"
+              "title": "Outline of derrenomo_perpres-1_1955"
             }
           },
           {
@@ -307,14 +307,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ead97990232c9aa0",
+  "active": "ddff203cec1c69ac",
   "lastOpenFiles": [
-    "syllabus/mth201.pdf",
     "essays/derrenomo_perpres-2_1955.md",
+    "essays/derrenomo_perpres-1_1955.md",
+    "syllabus/mth201.pdf",
     "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/線型近似.md",
     "essays/derrenomo_constitution.md",
-    "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
