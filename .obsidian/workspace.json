@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_perpres-2_1955.md",
+                "file": "essays/derrenomo_perpres-1_1955.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_perpres-2_1955"
+              "title": "derrenomo_perpres-1_1955"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,16 +307,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ddff203cec1c69ac",
+  "active": "ead97990232c9aa0",
   "lastOpenFiles": [
-    "zettelkasten/Daftar Kementerian Tata Negara.md",
-    "essays/derrenomo_perpres-1_1955.md",
+    "essays/derrenomo_perpres-1_1975.md",
     "essays/derrenomo_perpres-2_1955.md",
+    "essays/derrenomo_perpres-1_1955.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
     "syllabus/mth201.pdf",
     "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/線型近似.md",
     "essays/derrenomo_constitution.md",
-    "essays/derrenomo_perpres-1_1975.md",
     "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "zettelkasten/デレノモ独立共和国.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
