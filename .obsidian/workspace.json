@@ -8,12 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41d3c78e8bef6f09",
+            "id": "08fb571a12d253a4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "Refile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,80 +28,9 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
-            }
-          },
-          {
-            "id": "d50f4728abed770c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/線型近似.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "線型近似"
-            }
-          },
-          {
-            "id": "ead97990232c9aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_perpres-1_1955.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_perpres-1_1955"
-            }
-          },
-          {
-            "id": "ddff203cec1c69ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_perpres-1_1955.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_perpres-1_1955"
+              "title": "Refile"
             }
           },
           {
@@ -127,8 +57,7 @@
               "title": "Daftar Kementerian Tata Negara"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/derrenomo_perpres-1_1955.md",
+                "file": "Refile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of derrenomo_perpres-1_1955"
+              "title": "Outline of Refile"
             }
           },
           {
@@ -307,11 +236,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ead97990232c9aa0",
+  "active": "08fb571a12d253a4",
   "lastOpenFiles": [
+    "syllabus/phy121.docx",
+    "syllabus/PHY121.pdf",
+    "syllabus/PHY121",
+    "TODO.md",
+    "Refile.md",
+    "zettelkasten/PHY121 Buying List.md",
+    "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/derrenomo_perpres-2_1955.md",
-    "essays/derrenomo_perpres-1_1955.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "syllabus/mth201.pdf",
     "essays/derrenomo_constitution_yanwenyan.md",
@@ -320,13 +255,11 @@
     "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "zettelkasten/デレノモ独立共和国.md",
     "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
-    "TODO.md",
     "zettelkasten/Calculus 2 Cheat Sheet.md",
     "study_guide/Parabolas Section10.4(2).docx",
     "study_guide/Ellipses Section10.4.docx",
     "study_guide/Hyperbolas Section10.4.docx",
     "zettelkasten/収束.md",
-    "Refile.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/マクローリン級数.md",
     "Project.md",
@@ -339,7 +272,6 @@
     "zettelkasten/数列.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "syllabus/mth200.pdf",
-    "templates/テンプレート.md",
     "syllabus/eng102.pdf",
     "syllabus/mth141.pdf",
     "zettelkasten/Pasted image 20250306152343.png",
@@ -348,8 +280,6 @@
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
-    "essays/derrenomo_constitution.mdCkcfjX.bck",
-    "hw",
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
