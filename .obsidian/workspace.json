@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "13758bc9aee39ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/PHY121 Smartbook 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PHY121 Smartbook 1"
-            }
-          },
-          {
             "id": "4b136d1fe02a5c3d",
             "type": "leaf",
             "state": {
@@ -106,9 +82,33 @@
               "icon": "lucide-file",
               "title": "Daftar Kementerian Tata Negara"
             }
+          },
+          {
+            "id": "1528e0cbc76f4d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/PHY121 Smartbook 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PHY121 Smartbook 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,7 +288,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13758bc9aee39ff7",
+  "active": "1528e0cbc76f4d5c",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/PHY121 Smartbook 1.md",
