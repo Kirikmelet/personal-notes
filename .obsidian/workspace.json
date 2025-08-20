@@ -34,6 +34,56 @@
             }
           },
           {
+            "id": "13758bc9aee39ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/PHY121 Smartbook 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PHY121 Smartbook 1"
+            }
+          },
+          {
+            "id": "4b136d1fe02a5c3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
+            "id": "990ff4d83702b882",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://help.obsidian.md/bases/views",
+                "title": "Views - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Views - Obsidian Help"
+            }
+          },
+          {
             "id": "7b3df251075e929c",
             "type": "leaf",
             "state": {
@@ -57,7 +107,8 @@
               "title": "Daftar Kementerian Tata Negara"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refile.md",
+                "file": "zettelkasten/PHY121 Smartbook 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Refile"
+              "title": "Outline of PHY121 Smartbook 1"
             }
           },
           {
@@ -218,10 +269,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -236,13 +288,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08fb571a12d253a4",
+  "active": "13758bc9aee39ff7",
   "lastOpenFiles": [
+    "Refile.md",
+    "zettelkasten/PHY121 Smartbook 1.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
     "TODO.md",
-    "Refile.md",
     "zettelkasten/PHY121 Buying List.md",
     "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
@@ -273,7 +326,6 @@
     "essays/工會使我們強大 - 工会使我们强大.md",
     "syllabus/mth200.pdf",
     "syllabus/eng102.pdf",
-    "syllabus/mth141.pdf",
     "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
