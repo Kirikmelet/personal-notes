@@ -46,20 +46,6 @@
             }
           },
           {
-            "id": "990ff4d83702b882",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://help.obsidian.md/bases/views",
-                "title": "Views - Obsidian Help",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Views - Obsidian Help"
-            }
-          },
-          {
             "id": "7b3df251075e929c",
             "type": "leaf",
             "state": {
@@ -106,9 +92,21 @@
               "icon": "lucide-file",
               "title": "PHY121 Smartbook 1"
             }
+          },
+          {
+            "id": "fc08b477691a8e4f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/PHY121 Smartbook 1.md",
+                "file": "zettelkasten/Daftar Kementerian Tata Negara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHY121 Smartbook 1"
+              "title": "Outline of Daftar Kementerian Tata Negara"
             }
           },
           {
@@ -288,7 +286,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1528e0cbc76f4d5c",
+  "active": "7b3df251075e929c",
   "lastOpenFiles": [
     "Refile.md",
     "zettelkasten/PHY121 Smartbook 1.md",
