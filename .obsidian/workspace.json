@@ -34,48 +34,36 @@
             }
           },
           {
-            "id": "4b136d1fe02a5c3d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
-            "id": "7b3df251075e929c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Daftar Kementerian Tata Negara.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daftar Kementerian Tata Negara"
-            }
-          },
-          {
             "id": "1528e0cbc76f4d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/PHY121 Smartbook 1.md",
+                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Fundamentalen Kräfte in der Physik"
+            }
+          },
+          {
+            "id": "c5612ef0ee4d2348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -90,23 +78,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PHY121 Smartbook 1"
+              "title": "Die Fundamentalen Kräfte in der Physik"
             }
           },
           {
-            "id": "fc08b477691a8e4f",
+            "id": "590c5d91e7e4aad8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "zettelkasten/Die Kinetische Reibung.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Die Kinetische Reibung"
+            }
+          },
+          {
+            "id": "acb3aaea081c8db2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 468.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -206,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Daftar Kementerian Tata Negara.md",
+                "file": "zettelkasten/Die Kinetische Reibung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daftar Kementerian Tata Negara"
+              "title": "Outline of Die Kinetische Reibung"
             }
           },
           {
@@ -286,10 +296,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b3df251075e929c",
+  "active": "590c5d91e7e4aad8",
   "lastOpenFiles": [
-    "Refile.md",
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/Die Gewichtskraft.md",
+    "zettelkasten/Die Kinetische Reibung.md",
+    "zettelkasten/Die Haftreibung.md",
+    "zettelkasten/Die Normalkraft.md",
+    "zettelkasten/Gewichtskraft ($F_g$).md",
+    "zettelkasten/Normalkraft ($F_N$).md",
+    "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/PHY121 Smartbook 1.md",
+    "zettelkasten/Die Applizierte Kraft.md",
+    "Refile.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
@@ -298,7 +318,6 @@
     "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/derrenomo_perpres-2_1955.md",
-    "zettelkasten/Daftar Kementerian Tata Negara.md",
     "syllabus/mth201.pdf",
     "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/線型近似.md",
@@ -312,16 +331,7 @@
     "study_guide/Hyperbolas Section10.4.docx",
     "zettelkasten/収束.md",
     "zettelkasten/テーラー級数.md",
-    "zettelkasten/マクローリン級数.md",
-    "Project.md",
     "study_guide/Practice Final Exam.pdf",
-    "Tasks.md",
-    "zettelkasten/Untitled Kanban.md",
-    "essays/The Union Makes Us Strong.md",
-    "大学.md",
-    "zettelkasten/極座標.md",
-    "zettelkasten/数列.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
     "syllabus/mth200.pdf",
     "syllabus/eng102.pdf",
     "zettelkasten/Pasted image 20250306152343.png",

@@ -1,10 +1,10 @@
 {
   "accentColor": "#808ed0",
   "theme": "moonstone",
-  "textFontFamily": "073 TEGUSE  Kanaka Font,Xiaolai SC,LXGW WenKai,Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular",
-  "baseFontSize": 30,
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": " 073 TEGUSE  Kanaka Font,Noto Sans CJK JP,Noto Sans CJK SC,Noto Serif CJK JP,Noto Serif CJK SC",
+  "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,073 TEGUSE  Kanaka Font,LXGW WenKai,Xiaolai SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular",
+  "baseFontSize": 20,
+  "cssTheme": "Pure",
+  "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,073 TEGUSE  Kanaka Font",
   "enabledCssSnippets": [
     "i-ming-class"
   ],
