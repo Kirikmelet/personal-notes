@@ -13,10 +13,7 @@ Die fünf diskutierten Kräfte – **[Die Gewichtskraft ($F_g$)](Die%20Gewichtsk
 ## Das übergeordnete Prinzip: Newtons Zweites Gesetz
 
 Alle Kräfte werden unter dem Dach der fundamentalen Bewegungsgleichung vereint:  
-∑F⃗=ma⃗∑F
-
-=ma
-
+$$\sum \vec{F} = m \vec{a}$$
   
 Diese Vektorgleichung besagt, dass die **vektorielle Summe aller Kräfte** (die **Nettokraft**), die auf einen Körper wirken, gleich dem Produkt aus seiner Masse $m$ und seiner Beschleunigung $\vec{a}$ ist.
 
