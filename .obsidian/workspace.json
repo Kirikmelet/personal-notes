@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Refile.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,6 +58,30 @@
             }
           },
           {
+            "id": "aeb864cb257805ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Vektor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Vektor"
+            }
+          },
+          {
             "id": "c5612ef0ee4d2348",
             "type": "leaf",
             "state": {
@@ -90,9 +114,57 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "5bcfd91f420b0aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "c8c946d2e8b68ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Vektor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Vektor"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+                "file": "zettelkasten/Der Vektor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Die Fundamentalen Kräfte in der Physik"
+              "title": "Outline of Der Vektor"
             }
           },
           {
@@ -274,9 +346,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1528e0cbc76f4d5c",
+  "active": "c8c946d2e8b68ad4",
   "lastOpenFiles": [
+    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
+    "zettelkasten/Der Vektor.md",
+    "zettelkasten/乱数発生器.md",
+    "zettelkasten/円.md",
+    "zettelkasten/微分.md",
+    "zettelkasten/正弦波.md",
+    "zettelkasten/正弦定理.md",
+    "zettelkasten/相対力指数.md",
+    "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/関数.md",
+    "zettelkasten/極座標.md",
+    "zettelkasten/数学用語集.md",
+    "zettelkasten/収束.md",
+    "zettelkasten/ベクトルとスカラー.md",
+    "zettelkasten/テーラー級数.md",
+    "zettelkasten/デレノモ独立共和国.md",
     "Refile.md",
+    "TODO.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/Untitled.base",
     "zettelkasten/Die Kinetische Reibung.md",
@@ -285,30 +375,13 @@
     "zettelkasten/Die Normalkraft.md",
     "zettelkasten/Gewichtskraft ($F_g$).md",
     "zettelkasten/Normalkraft ($F_N$).md",
-    "zettelkasten/Die Zugkraft oder Seilkraft.md",
-    "zettelkasten/PHY121 Smartbook 1.md",
-    "zettelkasten/Die Applizierte Kraft.md",
-    "zettelkasten/Daftar Kementerian Tata Negara.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
-    "TODO.md",
-    "zettelkasten/PHY121 Buying List.md",
-    "essays/derrenomo_perpres-1_1955.md",
-    "essays/derrenomo_perpres-1_1975.md",
-    "essays/derrenomo_perpres-2_1955.md",
     "syllabus/mth201.pdf",
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "zettelkasten/線型近似.md",
-    "essays/derrenomo_constitution.md",
-    "zettelkasten/Calculus 2 Review Cheatsheet.md",
-    "zettelkasten/デレノモ独立共和国.md",
-    "zettelkasten/Tipe Divisi Administratif Derrenomo.md",
-    "zettelkasten/Calculus 2 Cheat Sheet.md",
     "study_guide/Parabolas Section10.4(2).docx",
     "study_guide/Ellipses Section10.4.docx",
     "study_guide/Hyperbolas Section10.4.docx",
-    "zettelkasten/収束.md",
     "study_guide/Practice Final Exam.pdf",
     "syllabus/mth200.pdf",
     "zettelkasten/Pasted image 20250306152343.png",
