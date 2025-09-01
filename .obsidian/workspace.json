@@ -162,9 +162,33 @@
               "icon": "lucide-file",
               "title": "Der Vektor"
             }
+          },
+          {
+            "id": "26072b6a03ee9684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "工會使我們強大 - 工会使我们强大"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -221,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 468.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -265,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Der Vektor.md",
+                "file": "essays/工會使我們強大 - 工会使我们强大.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Der Vektor"
+              "title": "Outline of 工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -346,10 +369,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8c946d2e8b68ad4",
+  "active": "26072b6a03ee9684",
   "lastOpenFiles": [
-    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
+    "Refile.md",
     "zettelkasten/Der Vektor.md",
+    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
     "zettelkasten/乱数発生器.md",
     "zettelkasten/円.md",
     "zettelkasten/微分.md",
@@ -365,7 +389,6 @@
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/デレノモ独立共和国.md",
-    "Refile.md",
     "TODO.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/Untitled.base",
