@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Der Vektor.md",
+                "file": "zettelkasten/数学用語集.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Vektor"
+              "title": "数学用語集"
             }
           },
           {
@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "基本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,12 +265,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 468.5
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -394,13 +394,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5ce5c8e503d671b",
+  "active": "c8c946d2e8b68ad4",
   "lastOpenFiles": [
-    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/微積分学の基本定理.md",
+    "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/Der Vektor.md",
+    "zettelkasten/Untitled 1.md",
     "zettelkasten/球面座標系.md",
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
-    "zettelkasten/Der Vektor.md",
     "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
     "zettelkasten/乱数発生器.md",
     "zettelkasten/円.md",
@@ -408,7 +411,6 @@
     "zettelkasten/正弦波.md",
     "zettelkasten/正弦定理.md",
     "zettelkasten/相対力指数.md",
-    "zettelkasten/関数の基本的移動.md",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/関数.md",
     "zettelkasten/極座標.md",
@@ -421,8 +423,6 @@
     "zettelkasten/Untitled.base",
     "zettelkasten/Die Kinetische Reibung.md",
     "zettelkasten/Die Gewichtskraft.md",
-    "zettelkasten/Die Haftreibung.md",
-    "zettelkasten/Die Normalkraft.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
