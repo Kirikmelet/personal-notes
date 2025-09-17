@@ -106,6 +106,30 @@
             }
           },
           {
+            "id": "025de493b350d101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/PHY121 Smartbook 3.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PHY121 Smartbook 3"
+            }
+          },
+          {
             "id": "acb3aaea081c8db2",
             "type": "leaf",
             "state": {
@@ -113,78 +137,6 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "5bcfd91f420b0aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "c8c946d2e8b68ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/数学用語集.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "数学用語集"
-            }
-          },
-          {
-            "id": "26072b6a03ee9684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "工會使我們強大 - 工会使我们强大"
             }
           },
           {
@@ -212,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 468.5,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -394,14 +347,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8c946d2e8b68ad4",
+  "active": "025de493b350d101",
   "lastOpenFiles": [
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/PHY121 Smartbook 3.md",
+    "zettelkasten/球面座標系.md",
+    "TODO.md",
+    "zettelkasten/数学用語集.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/関数の基本的移動.md",
     "zettelkasten/Der Vektor.md",
     "zettelkasten/Untitled 1.md",
-    "zettelkasten/球面座標系.md",
-    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "Refile.md",
     "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
@@ -414,15 +370,12 @@
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/関数.md",
     "zettelkasten/極座標.md",
-    "zettelkasten/数学用語集.md",
     "zettelkasten/収束.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/テーラー級数.md",
     "zettelkasten/デレノモ独立共和国.md",
-    "TODO.md",
     "zettelkasten/Untitled.base",
     "zettelkasten/Die Kinetische Reibung.md",
-    "zettelkasten/Die Gewichtskraft.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
