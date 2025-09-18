@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "1528e0cbc76f4d5c",
+            "id": "b5076e71b6a03a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+                "file": "zettelkasten/Die Bewegung.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,40 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Fundamentalen Kräfte in der Physik"
+              "title": "Die Bewegung"
             }
           },
           {
-            "id": "aeb864cb257805ee",
+            "id": "1c1c05c4ed8466cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Der Vektor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der Vektor"
-            }
-          },
-          {
-            "id": "c5612ef0ee4d2348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+                "file": "zettelkasten/Grundlagen der Kinematik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -102,65 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Fundamentalen Kräfte in der Physik"
-            }
-          },
-          {
-            "id": "025de493b350d101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/PHY121 Smartbook 3.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PHY121 Smartbook 3"
-            }
-          },
-          {
-            "id": "acb3aaea081c8db2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f5ce5c8e503d671b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/球面座標系.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "球面座標系"
+              "title": "Grundlagen der Kinematik"
             }
           }
         ],
@@ -347,17 +265,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aeb864cb257805ee",
+  "active": "1c1c05c4ed8466cb",
   "lastOpenFiles": [
-    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/Die Bewegung.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "Refile.md",
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/Der Vektor.md",
     "zettelkasten/PHY121 Smartbook 3.md",
     "zettelkasten/球面座標系.md",
     "TODO.md",
     "zettelkasten/数学用語集.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/関数の基本的移動.md",
-    "zettelkasten/Der Vektor.md",
     "zettelkasten/Untitled 1.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
@@ -373,9 +293,7 @@
     "zettelkasten/収束.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/テーラー級数.md",
-    "zettelkasten/デレノモ独立共和国.md",
     "zettelkasten/Untitled.base",
-    "zettelkasten/Die Kinetische Reibung.md",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
