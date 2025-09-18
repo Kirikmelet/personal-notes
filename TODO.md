@@ -10,7 +10,7 @@
 
 - [x] #task 妹ちゃんの医師約束 1120-1200  [scheduled:: 2025-07-21]  [completion:: 2025-08-18]
 - [x] #task 僕の医師約束 1020-1040  [scheduled:: 2025-08-06]  [completion:: 2025-08-18]
-- [ ] #task 僕の医師約束 1330  [scheduled:: 2025-09-17]
+- [x] #task 僕の医師約束 1330  [scheduled:: 2025-09-17]  [completion:: 2025-09-17]
 
 # 友達と家族
 
