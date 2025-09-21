@@ -92,6 +92,6 @@ kami akan mendirikan oendang<sup>2</sup> dasar ini.
 	
 ## Bab 11 (Sebelas) Otonomi Etnis Choesoes
 
-1. Daerah Administratif Choesoes Tjina (中華特別行政區) akan dibentuk untuk kaoem minoritas Tjina; Bahasa Tjina akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
-2. Daerah Administratif Choesoes Nippon (日本特別行政區) akan dibentuk untuk kaoem minoritas Nippon; Bahasa Nippon akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
+1. Daerah Administratif Choesoes Tjina (華橋特別行政區) akan dibentuk untuk kaoem minoritas Tjina; Bahasa Tjina akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
+2. Daerah Administratif Choesoes Nippon (和橋特別行政區) akan dibentuk untuk kaoem minoritas Nippon; Bahasa Nippon akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
 3. Daerah Administratif Choesoes Italiano (Regione Amministrativa Speciale Italiana) akan dibentuk untuk kaoem minoritas Nippon; Bahasa Nippon akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
