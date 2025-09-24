@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Grundlagen der Kinematik.md",
+                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grundlagen der Kinematik"
+              "title": "Die Fundamentalen Kräfte in der Physik"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基本",
+                "query": "tag:physics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -287,19 +288,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b5076e71b6a03a63",
+  "active": "1c1c05c4ed8466cb",
   "lastOpenFiles": [
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_perpres-2_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/The Union Makes Us Strong.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_constitution.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/デジタルオーディオの基本的概念.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/Die Bewegung.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "Refile.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/Der Vektor.md",
