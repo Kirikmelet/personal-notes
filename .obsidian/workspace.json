@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
-                "mode": "preview",
+                "file": "essays/derrenomo_constitution.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
+              "title": "derrenomo_constitution"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,21 +287,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c1c05c4ed8466cb",
+  "active": "b5076e71b6a03a63",
   "lastOpenFiles": [
-    "zettelkasten/Grundlagen der Kinematik.md",
     "essays/derrenomo_constitution_yanwenyan.md",
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "essays/derrenomo_constitution.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "essays/derrenomo_perpres-2_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/The Union Makes Us Strong.md",
     "essays/derrenomo_perpres-1_1955.md",
-    "essays/derrenomo_constitution.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/デジタルオーディオの基本的概念.md",
     "zettelkasten/微積分学の基本定理.md",
     "zettelkasten/Die Bewegung.md",
     "Refile.md",
-    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/Der Vektor.md",
     "zettelkasten/PHY121 Smartbook 3.md",
     "zettelkasten/球面座標系.md",

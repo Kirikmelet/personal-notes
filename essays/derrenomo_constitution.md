@@ -58,7 +58,7 @@ kami akan mendirikan oendang<sup>2</sup> dasar ini.
 
 1. Dewan Perwakilan Negara berhak membentoek dan memboebarkan daerah sesoeai dengan oendang<sup>2</sup> oentoek memfasilitatie pemerintahan jang efisien dan perwoedjoedan demokratie ra'jat melaloei dewan daerah.
 
-## Bab 7 (Tudjuh) Hal Keoeangan
+## Bab 7 (Tudjuh) Hal Ke'oeangan
 
 1. Negara Derrenomo mengakoei penggoena'an Guilders Hindia Belanda sebagai mata oeang.
 2. Semoea masalah keoeangan akan diproses, ditindjaoe, dan diperbaiki oleh badan terkait Kementerian Perentjana'an Poesat dan Pekerdja'an Oemoem.
@@ -76,9 +76,9 @@ kami akan mendirikan oendang<sup>2</sup> dasar ini.
 1. Negara Derrenomo mengakoei perdjoeangan boeroeh revolutionair dan emancipatie kelas boeroeh.
 2. Negara Derrenomo mengakoei hak oentoek mengatoer dan menegak'kan keadilan revolutionair sesoeai dengan semoea oendang<sup>2</sup>.
 
-## Bab 10 (Sepoeleh) Hak Asasi Manoesia
+## Bab 10 (Sepoeleh) Hak Asatie Manoesia
 
-1. Negara Derrenomo mengakoei hak asasi manoesia berikoet:
+1. Negara Derrenomo mengakoei hak asatie manoesia berikoet:
 	- Hak Kebebasan Beragama
 	- Hak Kebebasan Pers Socialistische dan Patriottische
 	- Hak Kebebasan Berkoempoel
@@ -89,7 +89,6 @@ kami akan mendirikan oendang<sup>2</sup> dasar ini.
 	- Hak<sup>2</sup> Perempoean
 	- Hak<sup>2</sup> Minoritas jang Tertindas Secara Sosial
 	- Hak atas Boeroeh jang Adil.
-	
 ## Bab 11 (Sebelas) Otonomi Etnis Choesoes
 
 1. Daerah Administratif Choesoes Tjina (華橋特別行政區) akan dibentuk untuk kaoem minoritas Tjina; Bahasa Tjina akan digoenakan di samping bahasa Melajoe sebagai bahasa oetama.
