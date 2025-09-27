@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/2005 Hyundai Sonata Parts.md",
+                "file": "zettelkasten/関数図形の移動する.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2005 Hyundai Sonata Parts"
+              "title": "関数図形の移動する"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+                "file": "zettelkasten/Grundlagen der Kinematik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Fundamentalen Kräfte in der Physik"
+              "title": "Grundlagen der Kinematik"
             }
           },
           {
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2d2a73652db128f",
+  "active": "1c1c05c4ed8466cb",
   "lastOpenFiles": [
-    "essays/derrenomo_constitution.md",
-    "zettelkasten/2005 Hyundai Sonata Parts.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/関数図形の移動する.md",
+    "zettelkasten/相対力指数.md",
+    "zettelkasten/基底之対数変化為之導入.md",
+    "zettelkasten/多項式.md",
+    "zettelkasten/国内総生産.md",
+    "zettelkasten/Protokollierung.md",
+    "zettelkasten/Farben Lehre.md",
+    "zettelkasten/Calculus 2 Review Cheatsheet.md",
+    "zettelkasten/CHM 121 Lecture 20241120.md",
+    "zettelkasten/2005 Hyundai Sonata Parts.md",
+    "essays/derrenomo_constitution.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "essays/derrenomo_perpres-2_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
@@ -331,15 +340,6 @@
     "zettelkasten/PHY121 Smartbook 3.md",
     "zettelkasten/球面座標系.md",
     "TODO.md",
-    "zettelkasten/数学用語集.md",
-    "zettelkasten/関数の基本的移動.md",
-    "zettelkasten/Untitled 1.md",
-    "essays/工會使我們強大 - 工会使我们强大.md",
-    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
-    "zettelkasten/乱数発生器.md",
-    "zettelkasten/円.md",
-    "zettelkasten/微分.md",
-    "zettelkasten/正弦波.md",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
