@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Grundlagen der Kinematik.md",
+                "file": "zettelkasten/2005 Hyundai Sonata Parts.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grundlagen der Kinematik"
+              "title": "2005 Hyundai Sonata Parts"
             }
           },
           {
@@ -313,6 +313,7 @@
   },
   "active": "1c1c05c4ed8466cb",
   "lastOpenFiles": [
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/関数図形の移動する.md",
     "zettelkasten/相対力指数.md",
@@ -326,7 +327,6 @@
     "zettelkasten/2005 Hyundai Sonata Parts.md",
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_constitution_yanwenyan.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "essays/derrenomo_perpres-2_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/The Union Makes Us Strong.md",
