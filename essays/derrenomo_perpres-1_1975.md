@@ -4,7 +4,7 @@ cssclasses:
 ---
 **POETOESAN PRESIDEN**  
 **REPOEBLIK MERDEKA DERRENOMO**  
-**NO. 1/TAHON 1975**  
+**NO. 1/TAHOEN 1975**  
 
 ### **MENIMBANG:**  
 
@@ -12,7 +12,7 @@ cssclasses:
 2. bahwa sistem ejaan Van Ophuijsen jang selama ini dipakai dinilai soedah tidak sesuai dengan perkembangan djaman dan keperloean komoenikatie modern;  
 3. bahwa Edja'an Jang Disempurnaken (EJD) jang dikembang oleh negara kesaoedara'an Negara Kesatoean Repoeblik Indonesia telah diakoei secara internationaal sebagai sistem edja;an jang lebih praktis dan efektif;  
 4. bahwa oentoek menyesoeaikan dengan standar kebahasa'an global serta mempererat persatoean nasional, diperloekan perubahan sistem edja'an secara resmi;  
-5. bahwa nama Bahasa Malayoe diakoei salah dan tidak sesoeai dengan konditie keboedaja'an Negara Derrenomo;  
+5. bahwa nama Bahasa Malajoe diakoei salah dan tidak sesoeai dengan konditie keboedaja'an Negara Derrenomo;  
 
 ### **MENGINGAT:**  
 
@@ -21,15 +21,15 @@ cssclasses:
 
 ### **MEMOETOESKAN:**  
 
-1. Moelai tanggal 1 Janoari 1976, seloeroeh dokumen resmi negara, instansi pemerintah, lembaga pengadjaran, media massa, dan publikasi oemoem wajib menggoenakan Edja'an Jang Disempurnaken (EJD) sebagai pengganti sistem edja'an Van Ophuijsen;  
-2. Nama Bahasa Malayoe digantikan dengan nama Bahasa Indonesia-Derrenomo;  
-3. Periode transisi selama enam boelan (Janoari-Joeni 1976) diberikan oentoek penjesoeaian, dengan toleransi terhadap kesalahan teknis selama masa disebut;  
-4. Kementerian Pengadjaran diberi tugas untuk:  
-   5. menjoesoen pedoman resmi EJD dalam konteks bahasa Indonesia-Derrenomo;  
-   6. mengadakan pelatihan dan sosialisatie kepada aparatoer negara, pendidik, dan masjarakat;  
-   7. mengawasi implementasi kepoetoesan ini;  
-8. Pelanggaran terhadap ketentoean ini setelah periode transitie berachir dapat dikenai sanktie administratif sesoeai peratoeran per-oendang<sup>2</sup> jang berlakoe.  
-9. Kepoetoesan ini moelai berlakoe pada tanggal ditetapkan.  
+1. Moelai tanggal 1 Janoeari 1976, seloeroeh dokoemen resmi negara, instantie pemerintah, lembaga pengadjaran, media massa, dan poeblikatie oemoem wadjib menggoenakan Edja'an Jang Disempurnaken (EJD) sebagai pengganti sistem edja'an Van Ophuijsen;  
+2. Nama Bahasa Malajoe digantikan dengan nama Bahasa Indonesia;  
+3. Periode transisi selama enam boelan (Janoeari-Joeni 1976) diberikan oentoek penjesoeaian, dengan tolerantie terhadap kesalahan teknisch selama masa diseboet;  
+4. Kementerian Pengadjaran diberi toegas oentoek:  
+	1. menjoesoen pedoman resmi EJD dalam konteks bahasa Indonesia;  
+	2. mengawatie implementatie kepoetoesan ini;  
+	3. mengadakan pelatihan dan sosialisatie kepada aparatoer negara, pendidik, dan masjarakat;
+5. Pelanggaran terhadap ketentoean ini setelah periode transitie berachir dapat dikenai sanktie administratif sesoeai peratoeran per-oendang<sup>2</sup> jang berlakoe.  
+6. Kepoetoesan ini moelai berlakoe pada tanggal ditetapkan.  
 
 **Ditetapkan di: Kota Derrenomo**  
 **Pada Tanggal: 2 Febroeari 1975**  

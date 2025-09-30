@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "essays/derrenomo_constitution.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,55 +58,7 @@
             }
           },
           {
-            "id": "f2d2a73652db128f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/関数図形の移動する.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "関数図形の移動する"
-            }
-          },
-          {
             "id": "1c1c05c4ed8466cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/2005 Hyundai Sonata Parts.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2005 Hyundai Sonata Parts"
-            }
-          },
-          {
-            "id": "f5635659bb4a783d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -127,6 +79,30 @@
               },
               "icon": "lucide-file",
               "title": "derrenomo_constitution_yanwenyan"
+            }
+          },
+          {
+            "id": "f5635659bb4a783d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/derrenomo_constitution.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "derrenomo_constitution"
             }
           }
         ],
@@ -311,11 +287,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c1c05c4ed8466cb",
+  "active": "f5635659bb4a783d",
   "lastOpenFiles": [
+    "essays/derrenomo_perpres-1_1975.md",
+    "essays/derrenomo_perpres-1_1955.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "essays/derrenomo_constitution.md",
+    "zettelkasten/関数図形の移動する.md",
+    "essays/工會使我們強大 - 工会使我们强大.md",
+    "zettelkasten/2005 Hyundai Sonata Parts.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
-    "zettelkasten/関数図形の移動する.md",
     "zettelkasten/相対力指数.md",
     "zettelkasten/基底之対数変化為之導入.md",
     "zettelkasten/多項式.md",
@@ -324,13 +306,8 @@
     "zettelkasten/Farben Lehre.md",
     "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "zettelkasten/CHM 121 Lecture 20241120.md",
-    "zettelkasten/2005 Hyundai Sonata Parts.md",
-    "essays/derrenomo_constitution.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_perpres-2_1955.md",
-    "essays/derrenomo_perpres-1_1975.md",
     "essays/The Union Makes Us Strong.md",
-    "essays/derrenomo_perpres-1_1955.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/デジタルオーディオの基本的概念.md",
     "zettelkasten/微積分学の基本定理.md",
@@ -339,7 +316,6 @@
     "zettelkasten/Der Vektor.md",
     "zettelkasten/PHY121 Smartbook 3.md",
     "zettelkasten/球面座標系.md",
-    "TODO.md",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
