@@ -104,9 +104,33 @@
               "icon": "lucide-file",
               "title": "derrenomo_constitution"
             }
+          },
+          {
+            "id": "c8d997224a7602af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Die Physikalische Arbeit.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Physikalische Arbeit"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,12 +311,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f5635659bb4a783d",
+  "active": "c8d997224a7602af",
   "lastOpenFiles": [
+    "essays/derrenomo_constitution.md",
+    "zettelkasten/Die Physikalische Arbeit.md",
     "essays/derrenomo_perpres-1_1975.md",
     "essays/derrenomo_perpres-1_1955.md",
     "essays/derrenomo_constitution_yanwenyan.md",
-    "essays/derrenomo_constitution.md",
     "zettelkasten/関数図形の移動する.md",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "zettelkasten/2005 Hyundai Sonata Parts.md",
@@ -315,7 +340,6 @@
     "Refile.md",
     "zettelkasten/Der Vektor.md",
     "zettelkasten/PHY121 Smartbook 3.md",
-    "zettelkasten/球面座標系.md",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
