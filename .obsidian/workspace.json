@@ -152,9 +152,33 @@
               "icon": "lucide-file",
               "title": "関数の基本的移動"
             }
+          },
+          {
+            "id": "42e71284ede44e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/対数の性質.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "対数の性質"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -335,10 +359,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66ab65bbef23094d",
+  "active": "42e71284ede44e71",
   "lastOpenFiles": [
-    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/指数的模型.md",
+    "zettelkasten/指数的モデルの変化の解釈.md",
+    "zettelkasten/指数式.md",
+    "zettelkasten/微分定理目次.md",
+    "zettelkasten/Anro Command.md",
+    "zettelkasten/Pasted image 20251006144946.png",
     "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/二次パターン.md",
     "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_constitution.md",
@@ -358,12 +388,7 @@
     "zettelkasten/Farben Lehre.md",
     "zettelkasten/Calculus 2 Review Cheatsheet.md",
     "zettelkasten/CHM 121 Lecture 20241120.md",
-    "essays/derrenomo_perpres-2_1955.md",
-    "essays/The Union Makes Us Strong.md",
     "zettelkasten/Untitled 1.base",
-    "zettelkasten/デジタルオーディオの基本的概念.md",
-    "zettelkasten/微積分学の基本定理.md",
-    "zettelkasten/Die Bewegung.md",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
     "syllabus/PHY121.pdf",
@@ -383,7 +408,6 @@
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/th-1058901201.jpg",
     "zettelkasten/多項式の終了動作-3.png",
-    "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
