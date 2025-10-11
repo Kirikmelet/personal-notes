@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -359,8 +359,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42e71284ede44e71",
+  "active": "c8d997224a7602af",
   "lastOpenFiles": [
+    "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/Die Physikalische Arbeit.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/三角法.md",
     "zettelkasten/アパートリスト.md",
@@ -382,14 +385,11 @@
     "zettelkasten/共産主義.md",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/対数の性質.md",
-    "zettelkasten/関数の基本的移動.md",
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_constitution_yanwenyan.md",
     "zettelkasten/指数的模型.md",
     "zettelkasten/微分定理目次.md",
-    "zettelkasten/Anro Command.md",
     "zettelkasten/Pasted image 20251006144946.png",
-    "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
