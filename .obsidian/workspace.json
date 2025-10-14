@@ -130,6 +130,54 @@
             }
           },
           {
+            "id": "733d24a1257b4529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Sean and Casper Action Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sean and Casper Action Plan"
+            }
+          },
+          {
+            "id": "8f00a4f3d7dd2b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/NFSF Promotion.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NFSF Promotion"
+            }
+          },
+          {
             "id": "66ab65bbef23094d",
             "type": "leaf",
             "state": {
@@ -178,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -359,10 +407,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c8d997224a7602af",
+  "active": "8f00a4f3d7dd2b33",
   "lastOpenFiles": [
-    "zettelkasten/関数の基本的移動.md",
+    "zettelkasten/Pasted image 20251012231514.png",
+    "zettelkasten/Sean and Casper Action Plan.md",
+    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Die Physikalische Arbeit.md",
+    "zettelkasten/関数の基本的移動.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
     "zettelkasten/三角法.md",
@@ -386,9 +437,6 @@
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/対数の性質.md",
     "essays/derrenomo_constitution.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "zettelkasten/指数的模型.md",
-    "zettelkasten/微分定理目次.md",
     "zettelkasten/Pasted image 20251006144946.png",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
