@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "file": "essays/derrenomo_perpres-1_1955-cn.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -78,31 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "derrenomo_constitution_yanwenyan"
-            }
-          },
-          {
-            "id": "f5635659bb4a783d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_constitution.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_constitution"
+              "title": "derrenomo_perpres-1_1955-cn"
             }
           },
           {
@@ -111,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Die Physikalische Arbeit.md",
+                "file": "essays/derrenomo_perpres-1_1955-ja.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -126,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Physikalische Arbeit"
+              "title": "derrenomo_perpres-1_1955-ja"
             }
           },
           {
@@ -226,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -407,12 +383,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8f00a4f3d7dd2b33",
+  "active": "1c1c05c4ed8466cb",
   "lastOpenFiles": [
+    "essays/derrenomo_perpres-1_1955-ja.md",
+    "essays/derrenomo_perpres-1_1955-cn.md",
+    "essays/derrenomo_constitution.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "essays/derrenomo_perpres-2_1955.md",
+    "essays/derrenomo_perpres-1_1975.md",
+    "essays/The Union Makes Us Strong.md",
+    "zettelkasten/Die Physikalische Arbeit.md",
+    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/Sean and Casper Action Plan.md",
-    "zettelkasten/NFSF Promotion.md",
-    "zettelkasten/Die Physikalische Arbeit.md",
     "zettelkasten/関数の基本的移動.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
@@ -429,14 +412,8 @@
     "zettelkasten/積分.md",
     "zettelkasten/科学.md",
     "zettelkasten/指数式.md",
-    "zettelkasten/指数的モデルの変化の解釈.md",
-    "zettelkasten/多項式の標準形.md",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/偶関数と奇関数.md",
-    "zettelkasten/対数の性質.md",
-    "essays/derrenomo_constitution.md",
     "zettelkasten/Pasted image 20251006144946.png",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
@@ -455,7 +432,6 @@
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/関数図形の移動する-1.png",
-    "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
