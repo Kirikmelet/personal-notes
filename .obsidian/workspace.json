@@ -8,176 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08fb571a12d253a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Refile.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Refile"
-            }
-          },
-          {
-            "id": "b5076e71b6a03a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_constitution.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_constitution"
-            }
-          },
-          {
-            "id": "1c1c05c4ed8466cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_perpres-1_1955-cn.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_perpres-1_1955-cn"
-            }
-          },
-          {
-            "id": "7b9df9254a6a78ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Die Haftreibung.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Die Haftreibung"
-            }
-          },
-          {
-            "id": "c8d997224a7602af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "essays/derrenomo_perpres-1_1955-ja.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "derrenomo_perpres-1_1955-ja"
-            }
-          },
-          {
-            "id": "8f00a4f3d7dd2b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/NFSF Promotion.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NFSF Promotion"
-            }
-          },
-          {
-            "id": "66ab65bbef23094d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/関数の基本的移動.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "関数の基本的移動"
-            }
-          },
-          {
             "id": "42e71284ede44e71",
             "type": "leaf",
             "state": {
@@ -200,9 +30,129 @@
               "icon": "lucide-file",
               "title": "Grundlagen der Kinematik"
             }
+          },
+          {
+            "id": "1959497be7d4ac24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Linear Impuls.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Linear Impuls"
+            }
+          },
+          {
+            "id": "0fc45fdaa732df77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Impulserhaltungssatz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Impulserhaltungssatz"
+            }
+          },
+          {
+            "id": "e89ad60889736528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Kraftstoß.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Kraftstoß"
+            }
+          },
+          {
+            "id": "a6d85ef42d7c3787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Der Impulserhaltungssatz.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Der Impulserhaltungssatz"
+            }
+          },
+          {
+            "id": "f197ee0b1861d0ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/NFSF Promotion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NFSF Promotion"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -383,8 +334,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b9df9254a6a78ac",
+  "active": "a6d85ef42d7c3787",
   "lastOpenFiles": [
+    "zettelkasten/Der Kraftstoß.md",
+    "zettelkasten/Der Impulserhaltungssatz.md",
+    "zettelkasten/NFSF Promotion.md",
+    "zettelkasten/Pasted image 20251015234906.png",
+    "zettelkasten/Der Linear Impuls.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/関数の基本的移動.md",
+    "essays/derrenomo_perpres-1_1955-ja.md",
+    "zettelkasten/Die Haftreibung.md",
     "zettelkasten/Daftar Kementerian Tata Negara.md",
     "zettelkasten/多項式の標準形.md",
     "zettelkasten/剰余定理.md",
@@ -403,15 +363,6 @@
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Ikatan Kimia.md",
     "zettelkasten/CHM121 Lecture 20241023.md",
-    "zettelkasten/Calculus 2 Cheat Sheet.md",
-    "zettelkasten/YDSA Campaign.md",
-    "zettelkasten/Sean and Casper Action Plan.md",
-    "essays/derrenomo_perpres-1_1955-cn.md",
-    "essays/derrenomo_perpres-1_1955-ja.md",
-    "essays/derrenomo_constitution.md",
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "essays/derrenomo_perpres-2_1955.md",
-    "essays/derrenomo_perpres-1_1975.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
@@ -430,7 +381,6 @@
     "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/関数図形の移動する-3.webp",
-    "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
