@@ -82,6 +82,30 @@
             }
           },
           {
+            "id": "7b9df9254a6a78ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Die Haftreibung.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Haftreibung"
+            }
+          },
+          {
             "id": "c8d997224a7602af",
             "type": "leaf",
             "state": {
@@ -103,30 +127,6 @@
               },
               "icon": "lucide-file",
               "title": "derrenomo_perpres-1_1955-ja"
-            }
-          },
-          {
-            "id": "733d24a1257b4529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Sean and Casper Action Plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sean and Casper Action Plan"
             }
           },
           {
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -383,35 +383,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c1c05c4ed8466cb",
+  "active": "7b9df9254a6a78ac",
   "lastOpenFiles": [
-    "essays/derrenomo_perpres-1_1955-ja.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
+    "zettelkasten/多項式の標準形.md",
+    "zettelkasten/剰余定理.md",
+    "zettelkasten/共産主義.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/関数図形の移動する-1.png",
+    "zettelkasten/関数.md",
+    "zettelkasten/複素数.md",
+    "zettelkasten/科学.md",
+    "zettelkasten/数学.md",
+    "zettelkasten/因数分解.md",
+    "zettelkasten/基底之対数変化為之導入.md",
+    "zettelkasten/多項式の割り算.md",
+    "zettelkasten/MTH141 Lecture 20240829.md",
+    "zettelkasten/MTH141 Lecture 20240905.md",
+    "zettelkasten/Die Zugkraft oder Seilkraft.md",
+    "zettelkasten/Ikatan Kimia.md",
+    "zettelkasten/CHM121 Lecture 20241023.md",
+    "zettelkasten/Calculus 2 Cheat Sheet.md",
+    "zettelkasten/YDSA Campaign.md",
+    "zettelkasten/Sean and Casper Action Plan.md",
     "essays/derrenomo_perpres-1_1955-cn.md",
+    "essays/derrenomo_perpres-1_1955-ja.md",
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_perpres-2_1955.md",
     "essays/derrenomo_perpres-1_1975.md",
-    "essays/The Union Makes Us Strong.md",
-    "zettelkasten/Die Physikalische Arbeit.md",
-    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251012231514.png",
-    "zettelkasten/Sean and Casper Action Plan.md",
-    "zettelkasten/関数の基本的移動.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
-    "zettelkasten/Crush Suburbia Rejuvenate the American Dream.md",
-    "zettelkasten/三角法.md",
-    "zettelkasten/アパートリスト.md",
-    "zettelkasten/クアフトサーバー.md",
-    "zettelkasten/複素数.md",
-    "zettelkasten/行列.md",
-    "zettelkasten/線型不等式のグラフ.md",
-    "zettelkasten/総合論文講義.md",
-    "zettelkasten/絶対値.md",
-    "zettelkasten/相対力指数.md",
-    "zettelkasten/社会主義.md",
-    "zettelkasten/積分.md",
-    "zettelkasten/科学.md",
-    "zettelkasten/指数式.md",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
     "zettelkasten/Pasted image 20251006144946.png",
@@ -431,7 +432,6 @@
     "zettelkasten/関数図形の移動する-3.webp",
     "zettelkasten/関数図形の移動する-2.png",
     "zettelkasten/Struktur Negara.canvas",
-    "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
 }
