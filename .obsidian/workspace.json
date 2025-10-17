@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Der Impulserhaltungssatz.md",
+                "file": "zettelkasten/Grundlagen der Kinematik.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Impulserhaltungssatz"
+              "title": "Grundlagen der Kinematik"
             }
           },
           {
@@ -336,8 +336,9 @@
   },
   "active": "a6d85ef42d7c3787",
   "lastOpenFiles": [
-    "zettelkasten/Der Kraftstoß.md",
+    "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
+    "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251015234906.png",
     "zettelkasten/Der Linear Impuls.md",
