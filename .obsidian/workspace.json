@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/NFSF Promotion.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -334,15 +334,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a6d85ef42d7c3787",
+  "active": "f197ee0b1861d0ab",
   "lastOpenFiles": [
+    "zettelkasten/Pasted image 20251020005421.png",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251015234906.png",
     "zettelkasten/Der Linear Impuls.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/関数の基本的移動.md",
     "essays/derrenomo_perpres-1_1955-ja.md",
     "zettelkasten/Die Haftreibung.md",
@@ -363,7 +364,6 @@
     "zettelkasten/MTH141 Lecture 20240905.md",
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Ikatan Kimia.md",
-    "zettelkasten/CHM121 Lecture 20241023.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
