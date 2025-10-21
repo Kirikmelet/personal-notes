@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "NFSF Promotion"
             }
+          },
+          {
+            "id": "b935138a0f32f07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -334,15 +358,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f197ee0b1861d0ab",
+  "active": "b935138a0f32f07e",
   "lastOpenFiles": [
+    "zettelkasten/Pasted image 20251020203648.png",
+    "zettelkasten/Untitled 2.md",
+    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251020152049.png",
     "zettelkasten/Pasted image 20251020005421.png",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251015234906.png",
     "zettelkasten/Der Linear Impuls.md",
     "zettelkasten/関数の基本的移動.md",
@@ -364,7 +390,6 @@
     "zettelkasten/MTH141 Lecture 20240829.md",
     "zettelkasten/MTH141 Lecture 20240905.md",
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
-    "zettelkasten/Ikatan Kimia.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
@@ -381,7 +406,6 @@
     "study_guide/Practice Final Exam.pdf",
     "zettelkasten/Pasted image 20250306152343.png",
     "zettelkasten/Pasted image 20250305223203.png",
-    "zettelkasten/Media Sosial Menyumbang Pelanggaran di Pemilu 2024-3.png",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
