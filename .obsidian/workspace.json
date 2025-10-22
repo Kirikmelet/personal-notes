@@ -134,7 +134,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/NFSF Promotion.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -358,10 +358,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b935138a0f32f07e",
+  "active": "f197ee0b1861d0ab",
   "lastOpenFiles": [
-    "zettelkasten/Pasted image 20251020203648.png",
+    "zettelkasten/Pasted image 20251021010050.png",
+    "zettelkasten/Pasted image 20251021004838.png",
+    "zettelkasten/Pasted image 20251021004805.png",
     "zettelkasten/Untitled 2.md",
+    "zettelkasten/Pasted image 20251020203648.png",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251020152049.png",
     "zettelkasten/Pasted image 20251020005421.png",
@@ -393,7 +396,6 @@
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/多項式の終了動作-1.png",
-    "zettelkasten/Pasted image 20251006144946.png",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
@@ -404,8 +406,6 @@
     "study_guide/Ellipses Section10.4.docx",
     "study_guide/Hyperbolas Section10.4.docx",
     "study_guide/Practice Final Exam.pdf",
-    "zettelkasten/Pasted image 20250306152343.png",
-    "zettelkasten/Pasted image 20250305223203.png",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
