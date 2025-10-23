@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Grundlagen der Kinematik.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Untitled 2.md",
+                "file": "zettelkasten/ベクトルの方向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "ベクトルの方向"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -358,22 +357,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f197ee0b1861d0ab",
+  "active": "b935138a0f32f07e",
   "lastOpenFiles": [
+    "zettelkasten/ベクトルとスカラー.md",
+    "zettelkasten/Noobic Marine Corps.md",
+    "zettelkasten/NFSF Promotion.md",
+    "zettelkasten/Der Linear Impuls.md",
+    "zettelkasten/Der Impulserhaltungssatz.md",
+    "zettelkasten/Der Kraftstoß.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
-    "zettelkasten/Untitled 2.md",
     "zettelkasten/Pasted image 20251020203648.png",
-    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Pasted image 20251020152049.png",
     "zettelkasten/Pasted image 20251020005421.png",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/ANRO Orientation Notes.md",
-    "zettelkasten/Der Impulserhaltungssatz.md",
-    "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/Pasted image 20251015234906.png",
-    "zettelkasten/Der Linear Impuls.md",
     "zettelkasten/関数の基本的移動.md",
     "essays/derrenomo_perpres-1_1955-ja.md",
     "zettelkasten/Die Haftreibung.md",
@@ -395,7 +395,6 @@
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
-    "zettelkasten/多項式の終了動作-1.png",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
