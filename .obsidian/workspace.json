@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Grundlagen der Kinematik.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "ベクトルの方向"
             }
+          },
+          {
+            "id": "d0c8d88558698fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Die Angular Kinematik.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Angular Kinematik"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -357,15 +381,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b935138a0f32f07e",
+  "active": "d0c8d88558698fbd",
   "lastOpenFiles": [
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Die Angular Kinematik.md",
+    "zettelkasten/NFSF Promotion.md",
+    "zettelkasten/ベクトルの方向.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/Noobic Marine Corps.md",
-    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Der Linear Impuls.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
@@ -391,8 +417,6 @@
     "zettelkasten/基底之対数変化為之導入.md",
     "zettelkasten/多項式の割り算.md",
     "zettelkasten/MTH141 Lecture 20240829.md",
-    "zettelkasten/MTH141 Lecture 20240905.md",
-    "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/Untitled 1.base",
