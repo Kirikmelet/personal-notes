@@ -57,9 +57,10 @@ Für den Spezialfall einer konstanten Winkelbeschleunigung ($\alpha = \text{kons
 
 $$
 \begin{align}
-\omega(t) &= \omega_0 + \alpha t \\
-\theta(t) &= \theta_0 + \omega_0 t + \frac{1}{2} \alpha t^2 \\
-\omega^2 &= \omega_0^2 + 2 \alpha (\theta - \theta_0)
+\omega_f &= \omega_i + \Delta t \\
+\omega_f^2 &= \omega_i^2 + 2 \Delta (\theta_f - \theta_i) \\
+\theta_f &= \theta_i + \omega_i \Delta t + \frac{1}{2} \Delta t^2 \\
+\theta_f &= \frac{1}{2}(\omega_i+\omega_f) \cdot \Delta t\\
 \end{align}
 $$
 

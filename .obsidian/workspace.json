@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -381,10 +381,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0c8d88558698fbd",
+  "active": "a6d85ef42d7c3787",
   "lastOpenFiles": [
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Die Angular Kinematik.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/ベクトルの方向.md",
     "zettelkasten/ベクトルとスカラー.md",
