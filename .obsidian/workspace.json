@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Die Angular Kinematik"
             }
+          },
+          {
+            "id": "91b951fca1803a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Parachute Lab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Parachute Lab"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -358,12 +382,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0c8d88558698fbd",
+  "active": "91b951fca1803a22",
   "lastOpenFiles": [
+    "zettelkasten/Die Angular Kinematik.md",
+    "zettelkasten/Parachute Lab.md",
     "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/ベクトルの方向.md",
-    "zettelkasten/Die Angular Kinematik.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/Noobic Marine Corps.md",
@@ -393,7 +418,6 @@
     "zettelkasten/因数分解.md",
     "zettelkasten/基底之対数変化為之導入.md",
     "zettelkasten/多項式の割り算.md",
-    "zettelkasten/MTH141 Lecture 20240829.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/Untitled 1.base",
