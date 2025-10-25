@@ -152,30 +152,6 @@
             }
           },
           {
-            "id": "b935138a0f32f07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/ベクトルの方向.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ベクトルの方向"
-            }
-          },
-          {
             "id": "d0c8d88558698fbd",
             "type": "leaf",
             "state": {
@@ -200,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -381,17 +358,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a6d85ef42d7c3787",
+  "active": "d0c8d88558698fbd",
   "lastOpenFiles": [
-    "zettelkasten/Die Angular Kinematik.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/ベクトルの方向.md",
+    "zettelkasten/Die Angular Kinematik.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/Noobic Marine Corps.md",
     "zettelkasten/Der Linear Impuls.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
-    "zettelkasten/Der Kraftstoß.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",

@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,073 TEGUSE  Kanaka Font,LXGW WenKai,Xiaolai SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular",
   "baseFontSize": 25,
-  "cssTheme": "Typomagical",
+  "cssTheme": "Primary",
   "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,073 TEGUSE  Kanaka Font",
   "enabledCssSnippets": [
     "i-ming-class"
