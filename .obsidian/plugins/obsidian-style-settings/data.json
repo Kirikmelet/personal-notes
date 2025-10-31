@@ -94,5 +94,6 @@
   "ITS@@justified": true,
   "ITS@@font": "'Klee One'",
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-default"
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "com-github-birneee-obsidian-adwaita@@adwaita-mod-scale": 1
 }

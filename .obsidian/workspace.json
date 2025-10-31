@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Der Linear Impuls.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,13 +56,61 @@
             }
           },
           {
-            "id": "0fc45fdaa732df77",
+            "id": "024fd371eab61852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Die Rotationsenergie.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Rotationsenergie"
+            }
+          },
+          {
+            "id": "b6592c8c86ebfa78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/derrenomo_constitution_yanwenyan.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "derrenomo_constitution_yanwenyan"
+            }
+          },
+          {
+            "id": "d0c8d88558698fbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Der Impulserhaltungssatz.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -78,129 +126,9 @@
               "icon": "lucide-file",
               "title": "Der Impulserhaltungssatz"
             }
-          },
-          {
-            "id": "e89ad60889736528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Der Kraftstoß.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der Kraftstoß"
-            }
-          },
-          {
-            "id": "a6d85ef42d7c3787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Grundlagen der Kinematik.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Grundlagen der Kinematik"
-            }
-          },
-          {
-            "id": "f197ee0b1861d0ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/NFSF Promotion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NFSF Promotion"
-            }
-          },
-          {
-            "id": "d0c8d88558698fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Die Angular Kinematik.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Die Angular Kinematik"
-            }
-          },
-          {
-            "id": "91b951fca1803a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Parachute Lab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Parachute Lab"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -382,18 +309,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "91b951fca1803a22",
+  "active": "b6592c8c86ebfa78",
   "lastOpenFiles": [
-    "zettelkasten/Die Angular Kinematik.md",
-    "zettelkasten/Parachute Lab.md",
+    "zettelkasten/Die Rotationsenergie.md",
+    "zettelkasten/Der Linear Impuls.md",
+    "essays/derrenomo_constitution_yanwenyan.md",
+    "essays/derrenomo_constitution.md",
+    "essays/derrenomo_perpres-1_1955-cn.md",
+    "zettelkasten/Daftar Partai Politik.md",
+    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
+    "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/NFSF Promotion.md",
-    "zettelkasten/ベクトルの方向.md",
+    "zettelkasten/Die Angular Kinematik.md",
     "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/NFSF Promotion.md",
+    "zettelkasten/Parachute Lab.md",
+    "zettelkasten/ベクトルの方向.md",
     "zettelkasten/ベクトルとスカラー.md",
     "zettelkasten/Noobic Marine Corps.md",
-    "zettelkasten/Der Linear Impuls.md",
-    "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
@@ -413,11 +346,6 @@
     "zettelkasten/関数図形の移動する-1.png",
     "zettelkasten/関数.md",
     "zettelkasten/複素数.md",
-    "zettelkasten/科学.md",
-    "zettelkasten/数学.md",
-    "zettelkasten/因数分解.md",
-    "zettelkasten/基底之対数変化為之導入.md",
-    "zettelkasten/多項式の割り算.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/Untitled 1.base",
@@ -429,7 +357,6 @@
     "study_guide/Parabolas Section10.4(2).docx",
     "study_guide/Ellipses Section10.4.docx",
     "study_guide/Hyperbolas Section10.4.docx",
-    "study_guide/Practice Final Exam.pdf",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
