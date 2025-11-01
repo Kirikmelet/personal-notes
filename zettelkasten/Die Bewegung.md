@@ -3,6 +3,7 @@ title: Die Bewegung
 tags:
   - physics
   - college
+  - science
 date: 2025-09-17
 ---
 

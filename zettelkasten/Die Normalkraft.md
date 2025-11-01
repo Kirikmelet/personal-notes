@@ -3,6 +3,7 @@ title: Die Normalkraft
 tags:
   - physics
   - science
+  - college
 date: 2025-08-27
 ---
 

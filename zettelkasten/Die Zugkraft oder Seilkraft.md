@@ -3,6 +3,7 @@ title: Die Zugkraft oder Seilkraft
 tags:
   - science
   - physics
+  - college
 date: 2025-08-27
 ---
 

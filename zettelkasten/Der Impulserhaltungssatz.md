@@ -3,6 +3,7 @@ title: Der Impulserhaltungssetz
 tags:
   - college
   - physics
+  - science
 date: 2025-10-15
 ---
 # Impulserhaltungssatz

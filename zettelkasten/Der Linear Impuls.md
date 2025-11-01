@@ -3,6 +3,7 @@ title: Linear Impuls
 tags:
   - college
   - physics
+  - science
 date: 2025-10-15
 ---
 # Linearer Impuls

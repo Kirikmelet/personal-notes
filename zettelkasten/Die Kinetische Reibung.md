@@ -3,6 +3,7 @@ title: Die Kinetische Reibung
 tags:
   - physics
   - science
+  - college
 date: 2025-08-27
 ---
 

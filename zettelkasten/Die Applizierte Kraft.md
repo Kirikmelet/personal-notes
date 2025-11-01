@@ -3,6 +3,7 @@ title: Die Applizierte Kraft
 tags:
   - science
   - physics
+  - college
 date: 2025-08-27
 ---
 

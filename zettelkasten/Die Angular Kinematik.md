@@ -3,6 +3,7 @@ title: Die Angular Kinematik
 tags:
   - college
   - physics
+  - science
 date: 2025-10-23
 ---
 

@@ -3,6 +3,7 @@ title: Die Gewichtskraft
 tags:
   - science
   - physics
+  - college
 date: 2025-08-27
 ---
 

@@ -4,6 +4,7 @@ tags:
   - physics
   - science
   - math
+  - college
 date: 2025-08-28
 ---
 

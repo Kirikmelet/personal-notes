@@ -3,6 +3,7 @@ title: Die Rotationsenergie
 tags:
   - college
   - physics
+  - science
 date: 2025-10-29
 ---
 
@@ -24,6 +25,13 @@ $$
 *   $\omega$: Winkelgeschwindigkeit der Rotation (Skalar, Einheit: $\text{rad/s}$)
 
 Das Trägheitsmoment $I$ beschreibt die Massenverteilung des Körpers relativ zur Drehachse und bestimmt, wie viel Energie für eine bestimmte Winkelgeschwindigkeit benötigt wird.
+
+> [!note]  Punktmasse Formel
+> Für eine Punktmasse $m$ im Abstand $r$ von der Drehachse: 
+> $$I=mr^2$$
+
+
+
 
 ## Zusammenhang mit translatorischer Energie
 

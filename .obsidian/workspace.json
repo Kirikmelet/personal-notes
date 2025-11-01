@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Der Linear Impuls.md",
+                "file": "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Linear Impuls"
+              "title": "Erweiterter Arbeit-Energie-Satz"
             }
           },
           {
             "id": "024fd371eab61852",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "study_guide/PHY121 Rot Inertia Density Tables Better.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PHY121 Rot Inertia Density Tables Better"
+            }
+          },
+          {
+            "id": "226f8e4a2a13ca84",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Die Rotationsenergie.md",
+                "file": "zettelkasten/Das Drehmoment (Torque).md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Rotationsenergie"
+              "title": "Das Drehmoment (Torque)"
             }
           },
           {
@@ -160,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:physics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,11 +193,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -309,43 +323,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b6592c8c86ebfa78",
+  "active": "226f8e4a2a13ca84",
   "lastOpenFiles": [
+    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
+    "zettelkasten/Das Drehmoment (Torque).md",
     "zettelkasten/Die Rotationsenergie.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
+    "zettelkasten/Physik von der Uni.base",
     "zettelkasten/Der Linear Impuls.md",
+    "zettelkasten/Die Bewegung.md",
+    "zettelkasten/Die Angular Kinematik.md",
+    "zettelkasten/Der Kraftstoß.md",
+    "zettelkasten/Der Impulserhaltungssatz.md",
+    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
+    "zettelkasten/Die Zugkraft oder Seilkraft.md",
+    "zettelkasten/Die Physikalische Arbeit.md",
+    "zettelkasten/Die Normalkraft.md",
+    "zettelkasten/Die Kinetische Reibung.md",
+    "zettelkasten/Die Haftreibung.md",
+    "zettelkasten/Die Gewichtskraft.md",
+    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
+    "zettelkasten/Die Applizierte Kraft.md",
+    "zettelkasten/Der Vektor.md",
     "essays/derrenomo_constitution_yanwenyan.md",
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_perpres-1_1955-cn.md",
     "zettelkasten/Daftar Partai Politik.md",
-    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
-    "zettelkasten/Der Impulserhaltungssatz.md",
-    "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/Die Angular Kinematik.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Parachute Lab.md",
-    "zettelkasten/ベクトルの方向.md",
-    "zettelkasten/ベクトルとスカラー.md",
-    "zettelkasten/Noobic Marine Corps.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
     "zettelkasten/Pasted image 20251020203648.png",
     "zettelkasten/Pasted image 20251020152049.png",
     "zettelkasten/Pasted image 20251020005421.png",
-    "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Pasted image 20251015234906.png",
-    "zettelkasten/関数の基本的移動.md",
-    "essays/derrenomo_perpres-1_1955-ja.md",
-    "zettelkasten/Die Haftreibung.md",
-    "zettelkasten/Daftar Kementerian Tata Negara.md",
-    "zettelkasten/多項式の標準形.md",
-    "zettelkasten/剰余定理.md",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/関数図形の移動する-1.png",
-    "zettelkasten/関数.md",
-    "zettelkasten/複素数.md",
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/Untitled 1.base",
@@ -356,7 +370,6 @@
     "syllabus/mth201.pdf",
     "study_guide/Parabolas Section10.4(2).docx",
     "study_guide/Ellipses Section10.4.docx",
-    "study_guide/Hyperbolas Section10.4.docx",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]

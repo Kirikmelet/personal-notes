@@ -3,6 +3,7 @@ title: Unterschied zwischen Kraft- und Geschwindigkeitsvektoren
 tags:
   - physics
   - science
+  - college
 date: 2025-08-28
 ---
 

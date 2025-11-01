@@ -3,6 +3,7 @@ title: Die Fundamentalen Kräfte in der Physik
 tags:
   - physics
   - science
+  - college
 date: 2025-08-27
 ---
 

@@ -3,6 +3,7 @@ title: Grundlagen der Kinematik
 tags:
   - physics
   - college
+  - science
 date: 2025-09-17
 ---
 
