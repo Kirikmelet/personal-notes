@@ -10,5 +10,6 @@
   ],
   "monospaceFontFamily": "LXGW WenKai Mono,JetBrains Mono",
   "showRibbon": true,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }
