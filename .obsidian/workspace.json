@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Das Drehmoment (Torque).md",
-                "mode": "preview",
+                "file": "zettelkasten/NFSF Promotion.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Das Drehmoment (Torque)"
+              "title": "NFSF Promotion"
             }
           },
           {
@@ -325,8 +325,10 @@
   },
   "active": "226f8e4a2a13ca84",
   "lastOpenFiles": [
-    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
+    "zettelkasten/Pasted image 20251012231514.png",
+    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Das Drehmoment (Torque).md",
+    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
     "zettelkasten/Die Rotationsenergie.md",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
@@ -350,7 +352,6 @@
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_perpres-1_1955-cn.md",
     "zettelkasten/Daftar Partai Politik.md",
-    "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Parachute Lab.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
@@ -360,7 +361,6 @@
     "zettelkasten/Pasted image 20251020005421.png",
     "zettelkasten/Pasted image 20251015234906.png",
     "zettelkasten/関数図形の移動する-1.png",
-    "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/多項式の終了動作-2.png",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
