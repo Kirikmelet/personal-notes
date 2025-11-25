@@ -205,13 +205,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -335,7 +333,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0c8d88558698fbd",
+  "active": "a62582b416bf3cd8",
   "lastOpenFiles": [
     "zettelkasten/Grundlagen der Kinematik.md",
     "ns_ribbons_202511213.png",
