@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Der Impulserhaltungssatz.md",
+                "file": "zettelkasten/共産主義.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Impulserhaltungssatz"
+              "title": "共産主義"
             }
           }
         ],
@@ -333,8 +333,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a62582b416bf3cd8",
+  "active": "d0c8d88558698fbd",
   "lastOpenFiles": [
+    "zettelkasten/偶関数と奇関数.md",
+    "zettelkasten/Der Impulserhaltungssatz.md",
+    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
     "zettelkasten/Grundlagen der Kinematik.md",
     "ns_ribbons_202511213.png",
     "ns_ribbons_202511213",
@@ -342,7 +345,6 @@
     "zettelkasten/Pasted image 20251012231514.png",
     "zettelkasten/NFSF Promotion.md",
     "zettelkasten/Das Drehmoment (Torque).md",
-    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
     "zettelkasten/Die Rotationsenergie.md",
     "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
     "zettelkasten/Physik von der Uni.base",
@@ -350,7 +352,6 @@
     "zettelkasten/Die Bewegung.md",
     "zettelkasten/Die Angular Kinematik.md",
     "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/Der Impulserhaltungssatz.md",
     "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Die Physikalische Arbeit.md",
