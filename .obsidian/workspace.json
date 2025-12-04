@@ -111,7 +111,7 @@
               "state": {
                 "file": "zettelkasten/Grundlagen der Kinematik.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -125,6 +125,30 @@
               },
               "icon": "lucide-file",
               "title": "Grundlagen der Kinematik"
+            }
+          },
+          {
+            "id": "3978f981b8454497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Grundlagen der Rotationskinematik.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grundlagen der Rotationskinematik"
             }
           },
           {
@@ -149,6 +173,18 @@
               },
               "icon": "lucide-file",
               "title": "共産主義"
+            }
+          },
+          {
+            "id": "720055cfa31e3deb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
@@ -209,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -333,12 +370,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d0c8d88558698fbd",
+  "active": "3978f981b8454497",
   "lastOpenFiles": [
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Grundlagen der Rotationskinematik.md",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
     "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "ns_ribbons_202511213.png",
     "ns_ribbons_202511213",
     "essays/derrenomo_constitution_yanwenyan.md",
@@ -365,7 +403,6 @@
     "essays/derrenomo_constitution.md",
     "essays/derrenomo_perpres-1_1955-cn.md",
     "zettelkasten/Daftar Partai Politik.md",
-    "zettelkasten/Parachute Lab.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
