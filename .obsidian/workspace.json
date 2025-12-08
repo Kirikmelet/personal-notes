@@ -11,24 +11,12 @@
             "id": "42e71284ede44e71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "zettelkasten/Grundlagen der Kinematik.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "study_guide/PHY121 Rot Inertia Density Tables Better.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Grundlagen der Kinematik"
+              "icon": "lucide-file-text",
+              "title": "PHY121 Rot Inertia Density Tables Better"
             }
           },
           {
@@ -187,8 +175,7 @@
               "title": "Release Notes 1.10.6"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -370,7 +356,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3978f981b8454497",
+  "active": "42e71284ede44e71",
   "lastOpenFiles": [
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Grundlagen der Rotationskinematik.md",
