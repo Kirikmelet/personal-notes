@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6edb59885f671a94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-18 22.53.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-18 22.53.08.excalidraw"
+            }
+          },
+          {
             "id": "1959497be7d4ac24",
             "type": "leaf",
             "state": {
@@ -175,7 +187,8 @@
               "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,16 +366,19 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42e71284ede44e71",
+  "active": "c1508a26d621bf38",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-18 22.53.08.excalidraw.md",
+    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
+    "Excalidraw",
     "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Grundlagen der Rotationskinematik.md",
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/Der Impulserhaltungssatz.md",
-    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
     "ns_ribbons_202511213.png",
     "ns_ribbons_202511213",
     "essays/derrenomo_constitution_yanwenyan.md",
@@ -387,8 +403,6 @@
     "zettelkasten/Die Applizierte Kraft.md",
     "zettelkasten/Der Vektor.md",
     "essays/derrenomo_constitution.md",
-    "essays/derrenomo_perpres-1_1955-cn.md",
-    "zettelkasten/Daftar Partai Politik.md",
     "zettelkasten/Pasted image 20251021010050.png",
     "zettelkasten/Pasted image 20251021004838.png",
     "zettelkasten/Pasted image 20251021004805.png",
@@ -403,7 +417,6 @@
     "syllabus/PHY121.pdf",
     "syllabus/PHY121",
     "syllabus/mth201.pdf",
-    "study_guide/Parabolas Section10.4(2).docx",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
