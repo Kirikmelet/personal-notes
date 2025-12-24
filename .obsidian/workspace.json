@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6edb59885f671a94",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-18 22.53.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-18 22.53.08.excalidraw"
-            }
-          },
-          {
             "id": "1959497be7d4ac24",
             "type": "leaf",
             "state": {
@@ -245,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -370,7 +359,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c1508a26d621bf38",
+  "active": "1959497be7d4ac24",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-12-18 22.53.08.excalidraw.md",
     "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
