@@ -95,45 +95,9 @@
             "id": "e26ad9fb3e21ff7c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "naramo/zetalyte.png"
-              },
-              "icon": "lucide-image",
-              "title": "zetalyte"
-            }
-          },
-          {
-            "id": "b7fbd33f5ca566d0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Annabelle Stevens.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Annabelle Stevens"
-            }
-          },
-          {
-            "id": "f16dbbbea24b1423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Frank Garland.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Frank Garland"
+              "title": "Annabelle Stevens"
             }
           }
         ],
@@ -336,24 +300,25 @@
   },
   "active": "e26ad9fb3e21ff7c",
   "lastOpenFiles": [
-    "zettelkasten/Cody Matthews.md",
-    "zettelkasten/Annabelle Stevens.md",
-    "zettelkasten/Pasted image 20260114192614.png",
-    "zettelkasten/Buford Smith.md",
-    "naramo/zetalyte.png",
-    "zettelkasten/指数式.md",
     "zettelkasten/Elizabeth Stevens.md",
+    "naramo/zetalyte.png",
+    "zettelkasten/Daniel Weisenberg.md",
+    "naramo/nmp_flag-shield.png",
+    "naramo/nmp_flag-square.svg",
+    "naramo/nmp_flag-shield.svg",
+    "naramo/Noobic_Stratocracy.webp",
+    "naramo/nmp_logo.png",
+    "zettelkasten/Annabelle Stevens.md",
+    "naramo/elizabeth_stevens_nfsf.png",
+    "naramo/Screenshot_20260115_011449-1.png",
+    "Screenshot_20260115_011449-1.png",
+    "zettelkasten/Frank Garland.md",
+    "naramo/deleetion.png",
+    "zettelkasten/Cody Matthews.md",
+    "zettelkasten/Buford Smith.md",
+    "zettelkasten/指数式.md",
     "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
     "zettelkasten/Grundlagen der Kinematik.md",
-    "zettelkasten/Frank Garland.md",
-    "naramo/foarfe.png",
-    "naramo/annabelle_stevens.png",
-    "naramo/Screenshot_20260114_110746-1.png",
-    "naramo/elizabeth_stevens.png",
-    "naramo/Screenshot_20260114_024717-1.png",
-    "naramo/present.gif",
-    "naramo/op_ct_3.png",
-    "naramo/op_ct_2.png",
     "naramo",
     "zettelkasten/共産主義.md",
     "zettelkasten/Grundlagen der Rotationskinematik.md",
@@ -375,7 +340,6 @@
     "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Die Physikalische Arbeit.md",
-    "zettelkasten/Die Normalkraft.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
