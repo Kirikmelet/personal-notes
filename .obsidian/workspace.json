@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -322,11 +322,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f16dbbbea24b1423",
+  "active": "70341a151f2b36b1",
   "lastOpenFiles": [
-    "zettelkasten/Elizabeth Stevens.md",
     "zettelkasten/Annabelle Stevens.md",
     "zettelkasten/Frank Garland.md",
+    "zettelkasten/Elizabeth Stevens.md",
     "naramo/foarfe.png",
     "naramo/annabelle_stevens.png",
     "naramo/Screenshot_20260114_110746-1.png",
