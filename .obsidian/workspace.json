@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Elizabeth Stevens.md",
-                "mode": "source",
+                "file": "zettelkasten/指数式.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Elizabeth Stevens"
+              "title": "指数式"
+            }
+          },
+          {
+            "id": "e26ad9fb3e21ff7c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "naramo/zetalyte.png"
+              },
+              "icon": "lucide-image",
+              "title": "zetalyte"
             }
           },
           {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,11 +334,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "70341a151f2b36b1",
+  "active": "e26ad9fb3e21ff7c",
   "lastOpenFiles": [
+    "zettelkasten/Cody Matthews.md",
     "zettelkasten/Annabelle Stevens.md",
-    "zettelkasten/Frank Garland.md",
+    "zettelkasten/Pasted image 20260114192614.png",
+    "zettelkasten/Buford Smith.md",
+    "naramo/zetalyte.png",
+    "zettelkasten/指数式.md",
     "zettelkasten/Elizabeth Stevens.md",
+    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Frank Garland.md",
     "naramo/foarfe.png",
     "naramo/annabelle_stevens.png",
     "naramo/Screenshot_20260114_110746-1.png",
@@ -335,11 +354,7 @@
     "naramo/present.gif",
     "naramo/op_ct_3.png",
     "naramo/op_ct_2.png",
-    "naramo/op_ct_1.png",
-    "naramo/nmp_professional.gif",
     "naramo",
-    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/共産主義.md",
     "zettelkasten/Grundlagen der Rotationskinematik.md",
     "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
@@ -361,10 +376,6 @@
     "zettelkasten/Die Zugkraft oder Seilkraft.md",
     "zettelkasten/Die Physikalische Arbeit.md",
     "zettelkasten/Die Normalkraft.md",
-    "zettelkasten/Die Kinetische Reibung.md",
-    "zettelkasten/Die Haftreibung.md",
-    "zettelkasten/Die Gewichtskraft.md",
-    "zettelkasten/Die Fundamentalen Kräfte in der Physik.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",
