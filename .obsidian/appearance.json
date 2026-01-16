@@ -6,7 +6,8 @@
   "cssTheme": "Primary",
   "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,073 TEGUSE  Kanaka Font",
   "enabledCssSnippets": [
-    "i-ming-class"
+    "i-ming-class",
+    "i-ming"
   ],
   "monospaceFontFamily": "LXGW WenKai Mono,JetBrains Mono",
   "showRibbon": true,
