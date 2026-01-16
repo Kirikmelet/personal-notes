@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Annabelle Stevens.md",
+                "file": "zettelkasten/Elizabeth Stevens.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +112,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Annabelle Stevens"
+              "title": "Elizabeth Stevens"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -298,9 +298,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e26ad9fb3e21ff7c",
+  "active": "70341a151f2b36b1",
   "lastOpenFiles": [
+    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Elizabeth Stevens.md",
+    "zettelkasten/Annabelle Stevens.md",
     "naramo/zetalyte.png",
     "zettelkasten/Daniel Weisenberg.md",
     "naramo/nmp_flag-shield.png",
@@ -308,7 +311,6 @@
     "naramo/nmp_flag-shield.svg",
     "naramo/Noobic_Stratocracy.webp",
     "naramo/nmp_logo.png",
-    "zettelkasten/Annabelle Stevens.md",
     "naramo/elizabeth_stevens_nfsf.png",
     "naramo/Screenshot_20260115_011449-1.png",
     "Screenshot_20260115_011449-1.png",
@@ -317,8 +319,6 @@
     "zettelkasten/Cody Matthews.md",
     "zettelkasten/Buford Smith.md",
     "zettelkasten/指数式.md",
-    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
     "naramo",
     "zettelkasten/共産主義.md",
     "zettelkasten/Grundlagen der Rotationskinematik.md",
