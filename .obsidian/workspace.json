@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -298,10 +298,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e26ad9fb3e21ff7c",
+  "active": "70341a151f2b36b1",
   "lastOpenFiles": [
-    "zettelkasten/Annabelle Stevens.md",
     "zettelkasten/Elizabeth Stevens.md",
+    "zettelkasten/Annabelle Stevens.md",
+    "naramo/ns_anime.png",
     "zettelkasten/指数式.md",
     "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
     "zettelkasten/Grundlagen der Kinematik.md",
@@ -316,7 +317,6 @@
     "naramo/Screenshot_20260115_011449-1.png",
     "Screenshot_20260115_011449-1.png",
     "zettelkasten/Frank Garland.md",
-    "naramo/deleetion.png",
     "zettelkasten/Cody Matthews.md",
     "zettelkasten/Buford Smith.md",
     "naramo",
