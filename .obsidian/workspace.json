@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
-                "mode": "source",
+                "file": "zettelkasten/Relativsätze.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Erweiterter Arbeit-Energie-Satz"
+              "title": "Relativsätze"
             }
           },
           {
@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "c13a9bd284cd1b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Calculus 2 Cheat Sheet.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Calculus 2 Cheat Sheet"
-            }
-          },
-          {
             "id": "70341a151f2b36b1",
             "type": "leaf",
             "state": {
@@ -101,18 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Annabelle Stevens"
-            }
-          },
-          {
-            "id": "26ae5737441871fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
             }
           },
           {
@@ -139,8 +103,7 @@
               "title": "Elizabeth Stevens"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -314,19 +278,44 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c13a9bd284cd1b7d",
+  "active": "1959497be7d4ac24",
   "lastOpenFiles": [
-    "zettelkasten/Grundlagen der Kinematik.md",
-    "zettelkasten/Calculus 2 Cheat Sheet.md",
+    "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Annabelle Stevens.md",
-    "adachi_shimamura-nmp_export.png",
+    "zettelkasten/Centralised supply chain planning at IKEA.md",
+    "zettelkasten/CHM 121 Lecture 20241120.md",
+    "zettelkasten/Braitenberg Vehicle.md",
+    "zettelkasten/Buford Smith.md",
+    "zettelkasten/Bendera Negara.md",
+    "zettelkasten/共産主義.md",
+    "zettelkasten/円.md",
+    "zettelkasten/偶関数と奇関数.md",
+    "zettelkasten/余弦定理.md",
+    "zettelkasten/関数を拡大縮小する.md",
+    "zettelkasten/線型不等式のグラフ.md",
+    "zettelkasten/絶対値に以てにグラフ化する.md",
+    "zettelkasten/指数的モデルの変化の解釈.md",
+    "zettelkasten/区間の表記.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
     "zettelkasten/Elizabeth Stevens.md",
+    "zettelkasten/Calculus 2 Cheat Sheet.md",
+    "zettelkasten/Frank Garland.md",
+    "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
+    "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
+    "zettelkasten/Illinois Bill of Rights.md",
+    "zettelkasten/CHM121 Lecture 20240904.md",
+    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
+    "adachi_shimamura-nmp_export.png",
     "naramo/ns_anime.png",
     "zettelkasten/指数式.md",
-    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
     "naramo/zetalyte.png",
     "zettelkasten/Daniel Weisenberg.md",
     "naramo/nmp_flag-shield.png",
@@ -334,32 +323,12 @@
     "naramo/nmp_flag-shield.svg",
     "naramo/Noobic_Stratocracy.webp",
     "naramo/nmp_logo.png",
-    "naramo/elizabeth_stevens_nfsf.png",
-    "naramo/Screenshot_20260115_011449-1.png",
-    "zettelkasten/Frank Garland.md",
     "zettelkasten/Cody Matthews.md",
-    "zettelkasten/Buford Smith.md",
     "naramo",
-    "zettelkasten/共産主義.md",
-    "zettelkasten/Grundlagen der Rotationskinematik.md",
     "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
-    "zettelkasten/NFSF Promotion.md",
-    "Excalidraw/Drawing 2025-12-18 22.53.08.excalidraw.md",
     "Excalidraw",
-    "zettelkasten/偶関数と奇関数.md",
-    "zettelkasten/Der Impulserhaltungssatz.md",
     "ns_ribbons_202511213",
-    "essays/derrenomo_constitution_yanwenyan.md",
-    "zettelkasten/Das Drehmoment (Torque).md",
-    "zettelkasten/Die Rotationsenergie.md",
     "zettelkasten/Physik von der Uni.base",
-    "zettelkasten/Der Linear Impuls.md",
-    "zettelkasten/Die Bewegung.md",
-    "zettelkasten/Die Angular Kinematik.md",
-    "zettelkasten/Der Kraftstoß.md",
-    "zettelkasten/Unterschied zwischen Kraft- und Geschwindigkeitsvektoren.md",
-    "zettelkasten/Die Zugkraft oder Seilkraft.md",
-    "zettelkasten/Die Physikalische Arbeit.md",
     "zettelkasten/Untitled 1.base",
     "zettelkasten/Untitled.base",
     "syllabus/phy121.docx",

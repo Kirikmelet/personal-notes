@@ -18,5 +18,6 @@
   "showLineNumber": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "zettelkasten",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "tabSize": 4
 }

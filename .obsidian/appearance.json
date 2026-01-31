@@ -2,12 +2,11 @@
   "accentColor": "#808ed0",
   "theme": "system",
   "textFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,073 TEGUSE  Kanaka Font,LXGW WenKai,Xiaolai SC,Noto Sans CJK JP,Noto Sans CJK SC,I.Ming Regular",
-  "baseFontSize": 25,
-  "cssTheme": "Primary",
+  "baseFontSize": 16,
+  "cssTheme": "Typomagical",
   "interfaceFontFamily": "Noto Serif CJK JP,Noto Serif CJK SC,Noto Sans CJK JP,Noto Sans CJK SC,073 TEGUSE  Kanaka Font",
   "enabledCssSnippets": [
-    "i-ming-class",
-    "i-ming"
+    "i-ming-class"
   ],
   "monospaceFontFamily": "LXGW WenKai Mono,JetBrains Mono",
   "showRibbon": true,
