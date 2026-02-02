@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Grundlagen der Kinematik.md",
+                "file": "zettelkasten/Annabelle Stevens.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,58 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grundlagen der Kinematik"
-            }
-          },
-          {
-            "id": "70341a151f2b36b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Annabelle Stevens.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
               "title": "Annabelle Stevens"
             }
-          },
-          {
-            "id": "e26ad9fb3e21ff7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Elizabeth Stevens.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Elizabeth Stevens"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,10 +239,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1959497be7d4ac24",
+  "active": "b6592c8c86ebfa78",
   "lastOpenFiles": [
-    "zettelkasten/ANRO Orientation Notes.md",
+    "zettelkasten/Relativsätze.md",
     "zettelkasten/Annabelle Stevens.md",
+    "zettelkasten/Grundlagen der Kinematik.md",
+    "zettelkasten/Elizabeth Stevens.md",
+    "zettelkasten/ANRO Orientation Notes.md",
     "zettelkasten/Centralised supply chain planning at IKEA.md",
     "zettelkasten/CHM 121 Lecture 20241120.md",
     "zettelkasten/Braitenberg Vehicle.md",
@@ -304,8 +260,6 @@
     "zettelkasten/絶対値に以てにグラフ化する.md",
     "zettelkasten/指数的モデルの変化の解釈.md",
     "zettelkasten/区間の表記.md",
-    "zettelkasten/Grundlagen der Kinematik.md",
-    "zettelkasten/Elizabeth Stevens.md",
     "zettelkasten/Calculus 2 Cheat Sheet.md",
     "zettelkasten/Frank Garland.md",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
@@ -323,7 +277,6 @@
     "naramo/nmp_flag-shield.svg",
     "naramo/Noobic_Stratocracy.webp",
     "naramo/nmp_logo.png",
-    "zettelkasten/Cody Matthews.md",
     "naramo",
     "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
     "Excalidraw",
