@@ -39,7 +39,7 @@
               "state": {
                 "file": "zettelkasten/Annabelle Stevens.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

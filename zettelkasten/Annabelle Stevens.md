@@ -19,6 +19,10 @@ Annabelle Stevens (1941-), also known as Anna, was a Squad Leader of the Commonw
 
 Despite her East Noobic ties and current the wave of pacifism in the Bloxian populace, Annabelle enlisted in the Emerald Eardfield in hopes of securing a stable future for her and her parents. 
 
+## Early Life
+
+Annabelle was born in the East Noobic city of Springfield, Springfield District at the General Military Hospital of the Springfield Garrison on 2nd Februrary, 1941.
+
  Furthermore, Annabelle saw deployment in the raid of the Naramo Nuclear Power Plant during the Noobic Reunification War (1962-1967) as part of an expeditionary unit of the 171st Infantry Regiment alongside the 21st Infantry Battalion of the West Noobic Federal Ground Defense Force against the local 1st Noobic Division garrison alongside the 14th Armored Cavalry Regiment and infantry elements of the 3rd Noobic Division and naval infantry of the 1st Noobic Fleet.
 
 ## Family
