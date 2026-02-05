@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Relativsätze.md",
+                "file": "zettelkasten/多項式の割り算.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Relativsätze"
+              "title": "多項式の割り算"
             }
           },
           {
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "5f7dc5947b3ecc41",
@@ -241,6 +240,20 @@
   },
   "active": "b6592c8c86ebfa78",
   "lastOpenFiles": [
+    "zettelkasten/Annabelle Stevens.mdrUlbPy.bck",
+    "zettelkasten/Annabelle Stevens.mduE9WVU.bck",
+    "zettelkasten/Annabelle Stevens.mdvJm4ih.bck",
+    "zettelkasten/Annabelle Stevens.mdvdddpr.bck",
+    "zettelkasten/Annabelle Stevens.mdGeSGlE.bck",
+    "zettelkasten/Annabelle Stevens.mdh9K3AW.bck",
+    "zettelkasten/Annabelle Stevens.md6Bj0ZM.bck",
+    "zettelkasten/Annabelle Stevens.mdkdWUtz.bck",
+    "zettelkasten/Annabelle Stevens.mdf8XQZY.bck",
+    "zettelkasten/Annabelle Stevens.mdnyhIik.bck",
+    "zettelkasten/Annabelle Stevens.md5IiF87.bck",
+    "zettelkasten/多項式の割り算.md",
+    "zettelkasten/ドキュメントオブジェクトモデル.md",
+    "zettelkasten/モル.md",
     "zettelkasten/Relativsätze.md",
     "zettelkasten/Annabelle Stevens.md",
     "zettelkasten/Grundlagen der Kinematik.md",
@@ -265,28 +278,14 @@
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "zettelkasten/Illinois Bill of Rights.md",
-    "zettelkasten/CHM121 Lecture 20240904.md",
-    "zettelkasten/Erweiterter Arbeit-Energie-Satz.md",
     "adachi_shimamura-nmp_export.png",
     "naramo/ns_anime.png",
-    "zettelkasten/指数式.md",
     "naramo/zetalyte.png",
-    "zettelkasten/Daniel Weisenberg.md",
     "naramo/nmp_flag-shield.png",
     "naramo/nmp_flag-square.svg",
     "naramo/nmp_flag-shield.svg",
     "naramo/Noobic_Stratocracy.webp",
     "naramo/nmp_logo.png",
-    "naramo",
-    "study_guide/PHY121 Rot Inertia Density Tables Better.pdf",
-    "Excalidraw",
-    "ns_ribbons_202511213",
-    "zettelkasten/Physik von der Uni.base",
-    "zettelkasten/Untitled 1.base",
-    "zettelkasten/Untitled.base",
-    "syllabus/phy121.docx",
-    "syllabus/PHY121.pdf",
-    "syllabus/PHY121",
     "zettelkasten/Struktur Negara.canvas",
     "zettelkasten/20230519C-Struktur Negara.canvas"
   ]
