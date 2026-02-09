@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/微分.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -57,6 +57,45 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f81b885ce972e46c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e4ec7a0e6c20ca",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "ja",
+                "language_to": "de",
+                "translation_service": "lingva_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lingva_translate",
+              "title": "Lingva Translate"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
