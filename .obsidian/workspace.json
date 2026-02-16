@@ -55,46 +55,6 @@
               "title": "微分"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f81b885ce972e46c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46e4ec7a0e6c20ca",
-            "type": "leaf",
-            "state": {
-              "type": "translator-view",
-              "state": {
-                "language_from": "ja",
-                "language_to": "de",
-                "translation_service": "lingva_translate",
-                "auto_translate": false,
-                "apply_glossary": false,
-                "view_mode": 0,
-                "filter_mode": 0,
-                "show_attribution": false,
-                "top_buttons": [
-                  "change-service",
-                  "automatic-translation",
-                  "change-layout",
-                  "apply-filter",
-                  "open-settings"
-                ],
-                "left_buttons": [
-                  "paste",
-                  "clear"
-                ],
-                "right_buttons": [
-                  "copy"
-                ]
-              },
-              "icon": "lingva_translate",
-              "title": "Lingva Translate"
-            }
-          }
         ]
       }
     ],
@@ -251,14 +211,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "4c030d603dca4fc1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,11 +247,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6592c8c86ebfa78",
+  "active": "1959497be7d4ac24",
   "lastOpenFiles": [
+    "zettelkasten/微分.md",
     "zettelkasten/Annabelle Stevens.md",
     "zettelkasten/多項式の割り算.md",
-    "zettelkasten/微分.md",
     "zettelkasten/Annabelle Stevens.mdrUlbPy.bck",
     "zettelkasten/Annabelle Stevens.mduE9WVU.bck",
     "zettelkasten/Annabelle Stevens.mdvJm4ih.bck",
