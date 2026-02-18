@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/微分.md",
-                "mode": "source",
+                "file": "zettelkasten/積分.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "微分"
+              "title": "積分"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essays/工會使我們強大 - 工会使我们强大.md",
+                "file": "zettelkasten/積分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 工會使我們強大 - 工会使我们强大"
+              "title": "Outline of 積分"
             }
           },
           {
@@ -223,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -247,9 +248,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1959497be7d4ac24",
+  "active": "b6592c8c86ebfa78",
   "lastOpenFiles": [
     "zettelkasten/微分.md",
+    "zettelkasten/積分.md",
+    "zettelkasten/積分定理目次.md",
+    "zettelkasten/Untitled 2.md",
     "zettelkasten/Annabelle Stevens.md",
     "zettelkasten/多項式の割り算.md",
     "zettelkasten/Annabelle Stevens.mdrUlbPy.bck",
@@ -282,11 +286,8 @@
     "zettelkasten/絶対値に以てにグラフ化する.md",
     "zettelkasten/指数的モデルの変化の解釈.md",
     "zettelkasten/区間の表記.md",
-    "zettelkasten/Calculus 2 Cheat Sheet.md",
-    "zettelkasten/Frank Garland.md",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
-    "zettelkasten/Illinois Bill of Rights.md",
     "adachi_shimamura-nmp_export.png",
     "naramo/ns_anime.png",
     "naramo/zetalyte.png",

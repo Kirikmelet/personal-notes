@@ -1,10 +1,3 @@
----
-title: 積分
-tags:
-  - math
-  - college
-date: 2025-04-26
----
 # 積分 「せきぶん」
 
 > [!note] 翻訳/Übersetzung/Translation
@@ -81,77 +74,6 @@ $$\int_{a}^{\infty} f(x) \, dx = \lim_{t \to \infty} \int_{a}^{t} f(x) \, dx$$
 $$\int_{a}^{b} f(x) \, dx = \lim_{t \to a^+} \int_{t}^{b} f(x) \, dx$$
 （$x = a$ で非有界の場合）
 
-## 三角関数の積分 (Integration by Trigonometrics)
-
-三角関数の積分は、三角恒等式を活用して被積分関数を積分可能な形に変形する技法です。
-
-### 基本となる三角関数の積分
-
-| 関数 | 積分結果 |
-|------|----------|
-| $\int \sin x \, dx$ | $-\cos x + C$ |
-| $\int \cos x \, dx$ | $\sin x + C$ |
-| $\int \tan x \, dx$ | $-\ln\|\cos x\| + C$ または $\ln\|\sec x\| + C$ |
-| $\int \cot x \, dx$ | $\ln\|\sin x\| + C$ または $-\ln\|\csc x\| + C$ |
-| $\int \sec x \, dx$ | $\ln\|\sec x + \tan x\| + C$ |
-| $\int \csc x \, dx$ | $-\ln\|\csc x + \cot x\| + C$ |
-| $\int \sec^2 x \, dx$ | $\tan x + C$ |
-| $\int \csc^2 x \, dx$ | $-\cot x + C$ |
-| $\int \sec x \tan x \, dx$ | $\sec x + C$ |
-| $\int \csc x \cot x \, dx$ | $-\csc x + C$ |
-
-### 幂乗積の積分
-
-#### 1. $\int \sin^m x \cos^n x \, dx$ 型
-
-**Case 1:** $m$ または $n$ が奇数の場合
-- 奇数幂の関数を1つ分離し、残りを $\sin^2 x + \cos^2 x = 1$ を用いて変換
-- 例：$\int \sin^3 x \cos^2 x \, dx = \int \sin x (1-\cos^2 x) \cos^2 x \, dx$、$u = \cos x$ と置換
-
-**Case 2:** $m$ と $n$ がともに偶数の場合
-- 半角公式を使用：
-  $$\sin^2 x = \frac{1-\cos 2x}{2}, \quad \cos^2 x = \frac{1+\cos 2x}{2}, \quad \sin x \cos x = \frac{\sin 2x}{2}$$
-
-#### 2. $\int \tan^m x \sec^n x \, dx$ 型
-
-**Case 1:** $n$ が偶数の場合（$\sec^2 x$ を分離）
-- $\sec^2 x$ を分離し、残りを $\tan^2 x = \sec^2 x - 1$ で変換
-- $u = \tan x$ と置換
-
-**Case 2:** $m$ が奇数の場合（$\sec x \tan x$ を分離）
-- $\sec x \tan x$ を分離し、残りを $\tan^2 x = \sec^2 x - 1$ で変換
-- $u = \sec x$ と置換
-
-### 積和・和積公式の応用
-
-#### 積和公式
-$$\begin{aligned}
-\sin A \cos B &= \frac{1}{2}[\sin(A+B) + \sin(A-B)] \\
-\cos A \sin B &= \frac{1}{2}[\sin(A+B) - \sin(A-B)] \\
-\cos A \cos B &= \frac{1}{2}[\cos(A+B) + \cos(A-B)] \\
-\sin A \sin B &= \frac{1}{2}[\cos(A-B) - \cos(A+B)]
-\end{aligned}$$
-
-**例：** $\int \sin 3x \cos 2x \, dx = \frac{1}{2} \int [\sin 5x + \sin x] \, dx = -\frac{1}{10}\cos 5x - \frac{1}{2}\cos x + C$
-
-### 三角置換 (Trigonometric Substitution)
-
-被積分関数に $\sqrt{a^2 - x^2}$、$\sqrt{a^2 + x^2}$、$\sqrt{x^2 - a^2}$ を含む場合に有効。
-
-| 形 | 置換 | 微分 | 恒等式 |
-|----|------|------|--------|
-| $\sqrt{a^2 - x^2}$ | $x = a\sin\theta$ | $dx = a\cos\theta \, d\theta$ | $1-\sin^2\theta = \cos^2\theta$ |
-| $\sqrt{a^2 + x^2}$ | $x = a\tan\theta$ | $dx = a\sec^2\theta \, d\theta$ | $1+\tan^2\theta = \sec^2\theta$ |
-| $\sqrt{x^2 - a^2}$ | $x = a\sec\theta$ | $dx = a\sec\theta\tan\theta \, d\theta$ | $\sec^2\theta-1 = \tan^2\theta$ |
-
-**例：** $\int \frac{dx}{\sqrt{a^2 - x^2}} = \arcsin\frac{x}{a} + C$
-
-### 三角関数の有理関数の積分（ワイエルシュトラス置換）
-
-$t = \tan\frac{x}{2}$ と置換すると、三角関数を有理関数に変換できる：
-$$\sin x = \frac{2t}{1+t^2}, \quad \cos x = \frac{1-t^2}{1+t^2}, \quad dx = \frac{2}{1+t^2} dt$$
-
-有理関数の積分に帰着できるため、$\int \frac{dx}{a\sin x + b\cos x + c}$ 型などに有効。
 ## 積分変換 (Integral Transforms - IBT)
 
 積分変換は、関数を別の関数に変換する積分を用いた操作です。微分方程式の解法や信号処理などで広く使用されます。
@@ -184,8 +106,3 @@ $$F(s) = \mathcal{M}\{f(x)\} = \int_{0}^{\infty} x^{s-1} f(x) \, dx$$
 
 2. **シンプソンの公式**
    $$\int_{a}^{b} f(x) \, dx \approx \frac{b-a}{6} \left( f(a) + 4f\left(\frac{a+b}{2}\right) + f(b) \right)$$
-   
-   
-## 又を見て
-
-- [微分](微分.md)
