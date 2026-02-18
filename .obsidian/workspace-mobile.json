@@ -166,19 +166,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "cd61bdbe73a73566",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +182,10 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "translate:Open translation view": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "82c27821183ed226",
