@@ -11,12 +11,24 @@
             "id": "776be7099b1372bb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "naramo/annabelle_stevens.png"
+                "file": "zettelkasten/積分.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "annabelle_stevens"
+              "icon": "lucide-file",
+              "title": "積分"
             }
           }
         ]
@@ -130,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "naramo/annabelle_stevens.png",
+            "file": "zettelkasten/積分.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "naramo/annabelle_stevens.png",
+            "file": "zettelkasten/積分.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -163,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "naramo/annabelle_stevens.png",
+            "file": "zettelkasten/積分.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -195,6 +207,11 @@
   },
   "active": "776be7099b1372bb",
   "lastOpenFiles": [
+    "zettelkasten/国民経済.md",
+    "zettelkasten/ベクトルの方向.md",
+    "zettelkasten/Monoatomic Anion Chart.md",
+    "zettelkasten/Daftar Kementerian Tata Negara.md",
+    "naramo/annabelle_stevens.png",
     "essays/工會使我們強大 - 工会使我们强大.md",
     "essays/derrenomo_constitution_yanwenyan.md"
   ]
