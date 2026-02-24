@@ -199,7 +199,6 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
       "obsidian-excalidraw-plugin:New drawing": false
@@ -207,6 +206,8 @@
   },
   "active": "776be7099b1372bb",
   "lastOpenFiles": [
+    "zettelkasten/Die Bewegung.md",
+    "zettelkasten/積分.md",
     "zettelkasten/国民経済.md",
     "zettelkasten/ベクトルの方向.md",
     "zettelkasten/Monoatomic Anion Chart.md",
