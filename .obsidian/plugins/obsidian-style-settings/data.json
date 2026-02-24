@@ -95,5 +95,9 @@
   "ITS@@font": "'Klee One'",
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
-  "com-github-birneee-obsidian-adwaita@@adwaita-mod-scale": 1
+  "com-github-birneee-obsidian-adwaita@@adwaita-mod-scale": 1,
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-purple-lt"
 }

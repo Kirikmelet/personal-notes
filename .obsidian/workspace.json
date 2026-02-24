@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1959497be7d4ac24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Annabelle Stevens.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Annabelle Stevens"
-            }
-          },
-          {
             "id": "b6592c8c86ebfa78",
             "type": "leaf",
             "state": {
@@ -54,9 +30,42 @@
               "icon": "lucide-file",
               "title": "積分"
             }
+          },
+          {
+            "id": "eab6ba3224df231b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/微分.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "微分"
+            }
+          },
+          {
+            "id": "e8d2f25e9824a047",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +252,6 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
       "obsidian-excalidraw-plugin:New drawing": false
@@ -250,8 +259,11 @@
   },
   "active": "b6592c8c86ebfa78",
   "lastOpenFiles": [
-    "zettelkasten/微分.md",
     "zettelkasten/積分.md",
+    "zettelkasten/微分.md",
+    "essays/derrenomo_constitution.md",
+    "Excalidraw/Drawing 2026-02-22 21.33.03.excalidraw.md",
+    "zettelkasten/Untitled Kanban.md",
     "zettelkasten/積分定理目次.md",
     "zettelkasten/Untitled 2.md",
     "zettelkasten/Annabelle Stevens.md",
@@ -283,9 +295,6 @@
     "zettelkasten/余弦定理.md",
     "zettelkasten/関数を拡大縮小する.md",
     "zettelkasten/線型不等式のグラフ.md",
-    "zettelkasten/絶対値に以てにグラフ化する.md",
-    "zettelkasten/指数的モデルの変化の解釈.md",
-    "zettelkasten/区間の表記.md",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "adachi_shimamura-nmp_export.png",
