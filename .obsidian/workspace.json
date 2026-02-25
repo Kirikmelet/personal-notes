@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6592c8c86ebfa78",
+            "id": "304f49812d03fdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/積分.md",
-                "mode": "preview",
+                "file": "zettelkasten/Improper Integrals.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "積分"
+              "title": "Improper Integrals"
             }
           },
           {
@@ -257,8 +257,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6592c8c86ebfa78",
+  "active": "304f49812d03fdca",
   "lastOpenFiles": [
+    "zettelkasten/Numerical Integration.md",
     "zettelkasten/積分.md",
     "zettelkasten/微分.md",
     "essays/derrenomo_constitution.md",
@@ -294,7 +295,6 @@
     "zettelkasten/偶関数と奇関数.md",
     "zettelkasten/余弦定理.md",
     "zettelkasten/関数を拡大縮小する.md",
-    "zettelkasten/線型不等式のグラフ.md",
     "zettelkasten/formasi+struktur+Lewis+oleh+urip-4283990852.png",
     "zettelkasten/hema-unit-of-circle-06-1-15992144711-3941518115.png",
     "adachi_shimamura-nmp_export.png",
