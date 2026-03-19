@@ -49,7 +49,7 @@ Whatever provides the least amount of error is the most accurate method for that
 > for [Midpoint Rule](#Midpoint%20Rule)
 > $$|E_M| \leq \frac{K(b-a)^3}{24n^2}$$
 > and for [Simpson's Rule](#Simpson's%20Rule)
-> $$|E_M| \leq \frac{K(b-a)^5}{180n^4}$$
+> $$|E_S| \leq \frac{K(b-a)^5}{180n^4}$$
 
 
 > [!note] 

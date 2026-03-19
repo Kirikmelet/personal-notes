@@ -12,7 +12,7 @@ In calculus 1, an integral is in the form of $\int^b_a f(x)dx$
 improper integrals fall withing 2 types
 
 1. $a$ and $b$ described a close interval $[a,b]$
-2. $f(x) was continuous on $[a,b]$
+2. $f(x)$ was continuous on $[a,b]$
 
 ## Type 1 Improper Integral
 
