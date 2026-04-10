@@ -5,14 +5,18 @@
 
 * Die Fundamentalen Kräfte in der Physik
 
-Die fünf diskutierten Kräfte – /[[Die%20Gewichtskraft.md][Die Gewichtskraft (\(F_g\))]], [[Die%20Normalkraft.md][Die Normalkraft (\(F_n\))]], [[Die%20Applizierte%20Kraft.md][Die Applizierte Kraft \(F_{app}\)]], [[Die%20Zugkraft%20oder%20Seilkraft.md][Die Zugkraft oder Seilkraft (\(T\))]] und [[Die%20Kinetische%20Reibung.md][Die Kinetische Reibung (\(F_{R,kin}\))]] und [[Die%20Haftreibung.md][Die Haftreibung (\(F_{R,stat}\))]]/ – treten in realen physikalischen Szenarien selten isoliert auf. Vielmehr wirken sie gemeinsam in einem System, wobei ihre Wechselwirkungen durch die /Newtonschen Gesetze/ geregelt werden. Ihr Zusammenspiel bestimmt den Bewegungszustand eines Körpers.
+Die fünf diskutierten Kräfte treten in realen physikalischen Szenarien selten isoliert auf. Vielmehr wirken sie gemeinsam in einem System, wobei ihre Wechselwirkungen durch die /Newtonschen Gesetze/ geregelt werden. Ihr Zusammenspiel bestimmt den Bewegungszustand eines Körpers.
+
+- [[denote:20250827T000002][Die Gewichtskraft]]
+- [[denote:20250827T000005][Die Normalkraft]]
+- [[denote:20250827T000000][Die Applizierte Kraft]]
+- [[denote:20250827T000006][Die Zugkraft Oder Seilkraft]]
+- [[denote:20250827T000004][Die Kinetische Reibung]]
 
 ** Das übergeordnete Prinzip: Newtons Zweites Gesetz
 
 Alle Kräfte werden unter dem Dach der fundamentalen Bewegungsgleichung vereint:  
-\[
-\sum \vec{F} = m \vec{a}
-\]
+\(\sum \vec{F} = m \vec{a}c\)
   
 Diese Vektorgleichung besagt, dass die /vektorielle Summe aller Kräfte/ (die /Nettokraft/), die auf einen Körper wirken, gleich dem Produkt aus seiner Masse \(m\) und seiner Beschleunigung \(\vec{a}\) ist.
 
@@ -81,3 +85,4 @@ Eine Person zieht einen Kasten an einem Seil über einen rauen Boden.
 - /\(T\):/ Ist die Kraft im Seil; in diesem Fall identisch mit \(F_{app}\).
     
 - /\(F_R\):/ Wirkt der Bewegungsrichtung entgegen. Ihr Betrag ist \(F_R = \mu_k \cdot F_N\).
+

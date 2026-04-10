@@ -1,6 +1,0 @@
-#+title: Mth141 Lecture 20240910
-#+date: [2024-09-10 Tue 00:00]
-#+filetags: :math:
-#+identifier: 20240910T000003
-
-* MTH Lecture 20240910

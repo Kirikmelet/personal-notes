@@ -5,18 +5,13 @@
 
 * Die Rotationsenergie
 
-#+begin_quote
-[!info]
-#+end_quote
-[[PHY121%20Rot%20Inertia%20Density%20Tables%20Better.pdf][Lies auch diese PDF-Datei]]
+Lies auch diese Datei]]
 
 Die /Rotationsenergie/ \(E_\text{rot}\) ist die kinetische Energie, die ein starrer Körper aufgrund seiner Drehbewegung um eine Achse besitzt. Sie ist das rotatorische Analogon zur translatorischen kinetischen Energie.
 
 ** Definition
 
-\[
-E_\text{rot} = \frac{1}{2} I \omega^2
-\]
+\(E_\text{rot} = \frac{1}{2} I \omega^2\)
 
 *   \(E_\text{rot}\): Rotationsenergie (Skalar, Einheit: \(\text{J}\) oder \(\text{N·m}\))
 *   \(I\): Trägheitsmoment des Körpers bezüglich der Rotationsachse (Skalar, Einheit: \(\text{kg·m}^2\))
@@ -24,13 +19,9 @@ E_\text{rot} = \frac{1}{2} I \omega^2
 
 Das Trägheitsmoment \(I\) beschreibt die Massenverteilung des Körpers relativ zur Drehachse und bestimmt, wie viel Energie für eine bestimmte Winkelgeschwindigkeit benötigt wird.
 
-#+begin_quote
-[!note]  Punktmasse Formel
+***  Punktmasse Formel
 Für eine Punktmasse \(m\) im Abstand \(r\) von der Drehachse: 
-\[
-I=mr^2
-\]
-#+end_quote
+\(I=mr^2\)
 
 
 
@@ -48,15 +39,11 @@ Für einen rollenden Körper ist die Gesamtenergie die Summe aus beiden Anteilen
 
 Das Trägheitsmoment für diskrete Massenpunkte berechnet sich durch:
 
-\[
-I = \sum_i m_i r_i^2
-\]
+\(I = \sum_i m_i r_i^2\)
 
 Für kontinuierliche Körper gilt:
 
-\[
-I = \int r^2  dm
-\]
+\(I = \int r^2  dm\)
 
 wobei \(r\) der Abstand des Massenelements \(dm\) von der Drehachse ist.
 

@@ -1,0 +1,14 @@
+#+title:      Local Linear Approximation
+#+date:       [2026-04-09 Thu 22:47]
+#+filetags:   :math:
+#+identifier: 20260409T224742
+
+* Local Linear Approximation
+
+** Formula
+
+\(y-f(a)=f’(a)(x-a)\)
+
+which is equal to:
+
+\(p(x)=f’(a)(x-a)+f(a)\)

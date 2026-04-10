@@ -1,5 +1,0 @@
-#+title: Fafsa Loan
-#+date: [2024-07-23 Tue 00:00]
-#+filetags: :college:
-#+identifier: 20240723T000000
-![[FAFSA%201.png][FAFSA 1]]

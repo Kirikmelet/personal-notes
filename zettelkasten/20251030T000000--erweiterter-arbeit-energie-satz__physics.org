@@ -29,7 +29,7 @@ W_f + W_a + W_t = \Delta K_t + \Delta K_r + \Delta U_g + \Delta U_e
 
 ** Mathematische Ausdrücke
 
-/*/ [[obsidian://open?vault=Notes&file=zettelkasten%2FDie%20Rotationsenergie][Kinetische Energien]]
+/*/ [[denote:20251029T000000][Die Rotationsenergie]]
 
 /Translatorisch:/
 \[

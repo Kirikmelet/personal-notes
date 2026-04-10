@@ -1,0 +1,14 @@
+#+title:      Local Quadratic Approximation
+#+date:       [2026-04-09 Thu 22:50]
+#+filetags:   :math:
+#+identifier: 20260409T225041
+
+* Local Quadratic Approximation
+
+** Formula
+
+\(p(x)=c_0+c_1x+c_2x^2\)
+
+which is expanded to:
+
+\(p(0)=f(0)+f’(0)x+\frac{f”(0)}{2}x^2\)

@@ -63,4 +63,4 @@ Vereinfacht: Kräfte sind der /Grund/, warum sich eine Geschwindigkeit /ändert/
 #+begin_quote
 [!info]
 #+end_quote
-	> Weitere Informationen finden Sie unter [[Unterschied%20zwischen%20Kraft-%20und%20Geschwindigkeitsvektoren.md]["Unterschied zwischen Kraft- und Geschwindigkeitsvektoren"]].
+	> Weitere Informationen finden Sie unter [[denote:20250828T000001][Unterschied Zwischen Kraft Und Geschwindigkeitsvektoren]].

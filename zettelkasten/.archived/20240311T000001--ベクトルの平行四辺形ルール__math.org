@@ -1,7 +1,0 @@
-#+title: ベクトルの平行四辺形ルール
-#+date: [2024-03-11 Mon 00:00]
-#+filetags: :math:
-#+identifier: 20240311T000001
-* ベクトルの平行四辺形ルール
-
-[[file:https://youtu.be/Mep0foZMOCg]]
