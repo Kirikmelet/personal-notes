@@ -1,6 +1,0 @@
-#+title:      Power Series
-#+date:       [2026-04-10 Fri 00:09]
-#+filetags:   :math:
-#+identifier: 20260410T000914
-
-* Power Series
