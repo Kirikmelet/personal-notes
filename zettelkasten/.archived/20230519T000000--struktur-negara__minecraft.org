@@ -1,0 +1,6 @@
+#+title: Struktur Negara
+#+date: [2023-05-19 Fri 00:00]
+#+filetags: :minecraft:
+#+identifier: 20230519T000000
+
+![[Struktur%20Negara.canvas][20230519C-Struktur Negara]]

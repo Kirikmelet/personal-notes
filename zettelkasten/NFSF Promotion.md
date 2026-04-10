@@ -1,6 +1,0 @@
-![](Pasted%20image%2020251012231514.png)
-![](Pasted%20image%2020251015234906.png)
-![](Pasted%20image%2020251020005421.png)
-![](Pasted%20image%2020251021004805.png)
-![](Pasted%20image%2020251021004838.png)
-![](Pasted%20image%2020251021010050.png)

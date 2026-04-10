@@ -1,0 +1,58 @@
+#+title: Ikatan Ionik
+#+date: [2024-09-10 Tue 00:00]
+#+filetags: :chemistry:
+#+identifier: 20240910T000000
+
+* Ikatan Ionik
+
+Ikatan Ionik adalah sesuatu [[Ikatan%20Kimia.md][Ikatan Kimia]], yang terjadi antara logam dan non-logam, melibatkan memindahan elektron dari atom logam ke atom non-logam.
+
+Atom logam akan menjadi kation, sedangkan atom non-logam menjadi anion.
+
+Ion bermuatan berlawanan ini saling tarik menarik dan membentuk ikatan ionik.
+
+Ikatan ionik dapat dikatagorisasikan menjadi dua tipe, yaitu:
+
+- [[#Tipe%20Satu][Tipe Satu]]: Logam membentuk hanya satu jenis ion.
+- [[#Tipe%20Dua][Tipe Dua]]: Logam membentuk lebih dari satu jenis ion.
+
+** Tipe Satu
+
+Tipe satu ikatan ionik mengandung logam yang muatannya tidak bervariasi dari satu ikatan ke ikatan lain jika diikat dengan anion nonlogam.
+
+Ion logam selalu memiliki muatan yang sama.
+
+/*/ Cara Menamakan
+
+![[Monoatomic%20Anion%20Chart.md][Monoatomic Anion Chart]]
+
+
+Ikatan biner hanya mengandung dua elemen yang berbeda. Nama-nama ikatan ionik biner ini ambil bentuk berikut:
+
+#+begin_quote
+Nama Kation (logam) + Nama dasar anion (nonlogam)+ide
+#+end_quote
+
+#+begin_quote
+[!info] Misalnya:
+KCl: Kalium Klorida (Potassium Chloride)
+
+CaO: Kalsium Oksida (Calcium Oxide)
+#+end_quote
+
+** Tipe Dua
+
+Tipe dua ikatan ionik mengandung sesuatu logam yang bisa membentukan lebih dari satu jenis kation, tergantung dengan ikatannya, diikat ke anion nonlogam.
+
+Muatan logam harus tertentu untuk senyawa yang diberikan.
+
+Proporsi kation logam ke anion nonlogam membantu untuk menentukan muatan ion logam.
+
+Besi, semisalnya, membentuk kation bermuatan \(\ce{Fe^{2+}}\) dengan seberapa ikatan, atau bermuatan \(\ce{Fe^{3+}}\) dengan ikatan lain.
+
+Besi yang bertipe ini biasanya disebutkan /logam transisi/.
+
+- \(\ce{FeS}\): Disini, besi ini kation 2+, (\(\ce{Fe^{2+}}\))
+- \(\ce{Fe_2S_2}\): Disini, besi ini kation 2+, (\(\ce{Fe^{3+}}\))
+
+![[Polyatomic%20Ion%20Chart.md][Polyatomic Ion Chart]]

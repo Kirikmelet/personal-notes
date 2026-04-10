@@ -1,0 +1,4 @@
+#+title: 積分定理目次
+#+date: [2026-04-08 Wed 22:24]
+#+filetags: :math:
+#+identifier: 20260408T222403

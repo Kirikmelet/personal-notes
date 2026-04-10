@@ -1,0 +1,13 @@
+#+title: Protokollierung
+#+date: [2023-05-15 Mon 00:00]
+#+filetags: :programming:
+#+identifier: 20230515T000010
+
+* Protokollierung
+
+Protokollierung ist die Tat im Programmierung, ein Protokoll zu erstellen.
+Wir nutzen Protokollen zu eine Informationen sammeln, oder Fehlersuche Bericht machen.
+
+** Mehr Informationen
+
+- [(Englisch)\[Rust\]Protokollierung mit Tracing](Logging%20with%20Tracing.md)

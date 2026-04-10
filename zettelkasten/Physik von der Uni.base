@@ -1,9 +1,0 @@
-views:
-  - type: table
-    name: PHY121
-    filters:
-      and:
-        - file.hasTag("physics")
-        - file.hasTag("college")
-    order:
-      - file.name

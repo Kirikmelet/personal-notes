@@ -1,0 +1,68 @@
+#+title: 正弦波
+#+date: [2023-07-13 Thu 00:00]
+#+filetags: :math:
+#+identifier: 20230713T000000
+
+* 正弦波　「せいげんは 」
+#+begin_quote
+[!info] 英語
+Sine Wave, Sinusoidal Wave
+#+end_quote
+
+#+begin_quote
+[!info] 翻訳インフォメーション
+[[https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:trig/x2ec2f6f830c9fb89:period/e/find-amplitude-of-a-sinusoid-from-formula][KhanAcademy.org]]から読んで翻訳した。
+#+end_quote
+
+** 正弦波の特徴
+
+正弦波曲線は３つ特徴がある。これらは：
+
+- [[#正中線][正中線]] 「セイチュウセン」
+- [[#振幅][振幅]]　「シンプク」
+- [[#期間][期間]]　「キカン」
+- [[#垂直シフト][垂直シフト]]　「スイチョシフト」
+- [[#水平シフト][水平シフト]]　「スイヘイシフト」
+
+正弦波の頂点式：
+\[
+y=A\sin(Bx+C)+D
+\]
+
+/*/ 正中線
+
+正中線とはグラフの最大点と最低点の丁度な中にある水平線です。
+
+/*/ 振幅
+
+振幅とはグラフの正中線と一つの最極端点の垂直線です。
+
+#+begin_quote
+[!info] 公式：
+\(|a|\)
+#+end_quote
+
+/*/ 期間
+
+期間とは２つの連続的な最大点又は２つの連続的な最小点の間の距離です。
+グラフ的には正弦関数の期間とは、グラフの最大端の間の水平線。
+
+#+begin_quote
+[!info] 公式：
+\(\frac{2\pi}{|B|}\)
+#+end_quote
+
+/*/ 垂直シフト
+
+#+begin_quote
+[!info] 公式：
+\(C\)
+#+end_quote
+
+
+/*/ 水平シフト
+
+#+begin_quote
+[!info] 公式：
+\(D\)
+#+end_quote
