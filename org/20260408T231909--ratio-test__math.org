@@ -1,0 +1,14 @@
+#+title:      Ratio Test
+#+date:       [2026-04-08 Wed 23:19]
+#+filetags:   :math:
+#+identifier: 20260408T231909
+
+* Ratio Test
+
+** Theorem
+
+Let \(\sum^\infty_{k=1}a_k\) be a series with non-zero terms and \(\rho=\lim_{k\rightarrow\infty}\frac{a_{k+1}}{a_k}\).
+
+1. If \(\rho < 1\), the series \(\sum^\infty_{k=1}a_k\) converges absolutely and therefore converges.
+2. If \(\rho>1\) or \(\rho=+\infty\), the series \(\sum^\infty_{k=1}a_k\) diverges.
+3. If \(\rho=1\), the test is inconclusive and no conclusion can be drawn.

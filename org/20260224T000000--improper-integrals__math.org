@@ -1,0 +1,49 @@
+#+title: Improper Integrals
+#+date: [2026-02-24 Tue 00:00]
+#+filetags: :math:
+#+identifier: 20260224T000000
+* Improper Integrals
+
+In calculus 1, an integral is in the form of \(\int^b_a f(x)dx\)
+
+improper integrals fall withing 2 types
+
+1. \(a\) and \(b\) described a close interval \([a,b]\)
+2. \(f(x)\) was continuous on \([a,b]\)
+
+** Type 1 Improper Integral
+
+1. if \(\int^t_a f(x)dx\) exists for every number \(t \ge a\), 
+   then \(\int^\infty_a f(x)dx = \lim_{t \rightarrow \infty}[\int^t_a f(x)dx]\)
+2. if \(\int^b_t f(x)dx\) exists for every number \(t \le b\), 
+   then \(\int^b_{-\infty} f(x)dx = \lim_{t \rightarrow -\infty}[\int^b_t f(x)dx]\)
+
+The improper integrals \(\int^\infty_a f(x)dx\) and \(\int^b_{-\infty} f(x)dx\)  are called
+/congruent/ if their corresponding limits exist. If this limit
+does not exist (includes \(\infty\)) then these integrals are called
+divergent.
+
+If both \(\int^\infty_a f(x)dx\) and \(\int^b_{-\infty} f(x)dx\) are convergent, then we define
+\[
+\int^\infty_{-\infty} F(x)dx = \int^a_{-\infty}f(x)dx + \int^\infty_a f(x)dx
+\]
+
+
+** Type 2 Improper integrals
+
+If \(f\) is continuous on \([a,b)\) and discontinuous at \(b\), then:
+\[
+\int^b_a f(x)dx = \lim_{t \rightarrow b^-}[\int^t_a f(x)dx]
+\]
+
+If \(f\) is continuous on \((a,b]\) and discontinuous at \(a\), then:
+\[
+\int^b_a f(x)dx = \lim_{t \rightarrow a^+}[\int^b_t f(x)dx]
+\]
+
+If \(f\) has a discontinuity at \(c\), where \(a \lt c \lt b\) (and \(f\) is continuous on \([a,c)\) and \((c,b]\)) and both \(\int^c_a f(x)dx\) and \(\int^b_c f(x)dx\) are convergent,
+then: \[
+\int^b_a f(x)dx = \int^c_a f(x)dx + \int^b_c f(x)dx
+\]
+
+*Note*: that if it ends up actually /divergent/, you /will/ get the wrong answer.
