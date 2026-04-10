@@ -1,0 +1,7 @@
+#+title: 冪数関数の図形
+#+date: [2023-06-29 Thu 00:00]
+#+filetags: :math:
+#+identifier: 20230629T000000
+
+* 冪数関数の図形
+

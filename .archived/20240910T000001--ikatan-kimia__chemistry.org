@@ -1,0 +1,15 @@
+#+title: Ikatan Kimia
+#+date: [2024-09-10 Tue 00:00]
+#+filetags: :chemistry:
+#+identifier: 20240910T000001
+
+* Ikatan Kimia
+
+Senyawa terbentuk oleh atom-atom yang menahan dengan ikatan kimia.
+
+Ikatan kimia terjadi dari gaya tarik antara partikel bermuatan yang membentuk atom
+
+Ikatan kimia dapat diklasifikasikan menjadi dua jenis, yaitu:
+
+- [[Ikatan%20Ionik.md][Ionik]]
+- [[Ikatan%20Kovalen.md][Ikatan Kovalen]]

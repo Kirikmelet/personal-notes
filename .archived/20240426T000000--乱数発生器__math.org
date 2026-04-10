@@ -1,0 +1,11 @@
+#+title: 乱数発生器
+#+date: [2024-04-26 Fri 00:00]
+#+filetags: :math:
+#+identifier: 20240426T000000
+* 乱数発生器 「ランスウハッセイキ」
+
+** 値域と乱数生成する。
+
+\[
+x = (\frac{\text{random generator}}{\text{max random number}} * (\text{max} - \text{min})) + \text{min}
+\]

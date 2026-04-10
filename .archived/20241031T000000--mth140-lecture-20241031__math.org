@@ -1,0 +1,39 @@
+#+title: Mth140 Lecture 20241031
+#+date: [2024-10-31 Thu 00:00]
+#+filetags: :math:
+#+identifier: 20241031T000000
+
+* MTH140 Lecture 20241031
+
+** 実例：
+- \(y=2\csc(2x+\frac{\pi}{4})-1\)
+- \(y=2\sin(2x+\frac{\pi}{4})-1\)
+- \(y=a\csc(bx-c)-d\)
+
+=`=desmos-graph
+y=\tan(x)
+#+begin_src 
+
+## Cotangent Function
+
+It is the function $f(x)=\cot(x)$ where $x$ is the real-valued independent variable
+
+- Domain: $\{x|x\neq n\pi\}$
+- Range: $(-\infty,\infty)$
+- X-intercept: $(\frac{(2n+i)\pi}{2}, 2)$
+- Y-intercept: N/A
+- V.A: $x=n\pi$
+- E.B: $x \rightarrow \infty, f(x)\rightarrow \text{oscillates}$,
+  $x \rightarrow -\infty, f(x)\rightarrow \text{oscillates}$
+- Periodic: $f(x)=f(x+p)=cot(x)=cot(x+\pi)$, so $\pi$ is the period.
+- Odd: $f(-x)=-f(x)\rightarrow\cot(-x)=-\cot(x)$
+
+#+end_srcdesmos-graph
+left=-2pi; right=2pi
+-----
+y=\cot(x)
+#+begin_src 
+
+#+end_srcdesmos-graph
+y=-2\tan(x-\frac{\pi}{1})
+=`=

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-04-09 Thu 23:10 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>die fundamentalen kräfte in der physik</title>
+<meta name="author" content="Troy Judho Dwijanto" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-c:before { content: 'C'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'JavaScript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">die fundamentalen kräfte in der physik</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org0496a6c">1. Die Fundamentalen Kräfte in der Physik</a>
+<ul>
+<li><a href="#orgab21463">1.1. Das übergeordnete Prinzip: Newtons Zweites Gesetz</a></li>
+<li><a href="#orgf92831b">1.2. Typisches Vorgehen zur Analyse eines Kräftesystems</a></li>
+<li><a href="#orga51ef98">1.3. Beispielhafte Verknüpfung: Ein gezogener Kasten</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0496a6c" class="outline-2">
+<h2 id="org0496a6c"><span class="section-number-2">1.</span> Die Fundamentalen Kräfte in der Physik</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Die fünf diskutierten Kräfte treten in realen physikalischen Szenarien selten isoliert auf. Vielmehr wirken sie gemeinsam in einem System, wobei ihre Wechselwirkungen durch die <i>Newtonschen Gesetze</i> geregelt werden. Ihr Zusammenspiel bestimmt den Bewegungszustand eines Körpers.
+</p>
+
+<ul class="org-ul">
+<li><a href="20250827T000002--die-gewichtskraft__physics.html">Die Gewichtskraft</a></li>
+<li><a href="20250827T000005--die-normalkraft__physics.html">Die Normalkraft</a></li>
+<li><a href="20250827T000000--die-applizierte-kraft__physics.html">Die Applizierte Kraft</a></li>
+<li><a href="20250827T000006--die-zugkraft-oder-seilkraft__physics.html">Die Zugkraft Oder Seilkraft</a></li>
+<li><a href="20250827T000004--die-kinetische-reibung__physics.html">Die Kinetische Reibung</a></li>
+</ul>
+</div>
+<div id="outline-container-orgab21463" class="outline-3">
+<h3 id="orgab21463"><span class="section-number-3">1.1.</span> Das übergeordnete Prinzip: Newtons Zweites Gesetz</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Alle Kräfte werden unter dem Dach der fundamentalen Bewegungsgleichung vereint:  
+\(\sum \vec{F} = m \vec{a}c\)
+</p>
+
+<p>
+Diese Vektorgleichung besagt, dass die <i>vektorielle Summe aller Kräfte</i> (die <i>Nettokraft</i>), die auf einen Körper wirken, gleich dem Produkt aus seiner Masse \(m\) und seiner Beschleunigung \(\vec{a}\) ist.
+</p>
+
+<p>
+/ Die Rolle der einzelnen Kräfte im Kräftesystem/
+</p>
+
+<ul class="org-ul">
+<li><i>Die Applizierte Kraft (\(F_{app}\))</i> ist oft der <i>Primärtreiber</i> oder die <i>Störgröße</i> im System. Sie ist die aktive Kraft, die eine Bewegung auslösen oder ändern soll.</li>
+
+<li><i>Die Gewichtskraft (\(F_g\))</i> wirkt <i>immer</i> und liefert in erdnahen Szenarien eine konstante, nach unten gerichtete Kraftkomponente. Sie ist die häufigste Ursache für&hellip;
+
+<ul class="org-ul">
+<li>&hellip;/Die Normalkraft (\(F_N\)):/ \(F_g\) verursacht, dass ein Körper auf eine Unterlage drückt. Die Unterlage reagiert darauf mit \(F_N\), die senkrecht zur Oberfläche wirkt. \(F_N\) ist selten einfach \(F_g\), sondern wird durch andere Kräfte (wie \(F_{app}\) auf einer schiefen Ebene) beeinflusst.</li>
+</ul></li>
+
+<li><i>Die Normalkraft (\(F_N\))</i> ist wiederum der <i>Schlüsselparameter für die Reibung</i>. Ihr Betrag bestimmt direkt die maximale Haftreibung (\(F_{S}^{max} = \mu_s F_N\)) und die kinetische Reibung (\(F_{K} = \mu_k F_N\)).</li>
+
+<li><i>Die Reibungskraft (\(F_R\))</i> wirkt der beabsichtigten Bewegung <i>entgegen</i>. Sie ist der passive Widerstand, der von der Applizierten Kraft überwunden werden muss. Ob sie als Haft- oder Gleitreibung wirkt, hängt davon ab, ob \(F_{app}\) kleiner oder größer als \(F_{S}^{max}\) ist.</li>
+
+<li><i>Die Zugkraft (\(T\))</i> dient als <i>Kraftüberträger</i>. Sie verbindet oft verschiedene Körper in einem System (z.B. an Seilen oder Schnüren). Die Zugkraft in einem verbindenden Seil ist für beide Körper die gleiche Größe (bei masselosen Seilen), was die Gleichungen koppelt.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf92831b" class="outline-3">
+<h3 id="orgf92831b"><span class="section-number-3">1.2.</span> Typisches Vorgehen zur Analyse eines Kräftesystems</h3>
+<div class="outline-text-3" id="text-1-2">
+<ol class="org-ol">
+<li><i>Isolieren</i> des betrachteten Körpers (Freikörperbild).</li>
+
+<li><i>Identifizieren und Einzeichnen</i> aller fünf Kräfte, die auf ihn wirken könnten:
+
+<ul class="org-ul">
+<li>\(F_g\) immer nach unten.</li>
+
+<li>\(F_N\) immer senkrecht von der Oberfläche weg.</li>
+
+<li>\(F_{app}\) in Richtung des "Schubs" oder "Zugs".</li>
+
+<li>\(F_R\) entgegen der (beabsichtigten) Bewegungsrichtung.</li>
+
+<li>\(T\) entlang eines Seils, vom Körper weg.</li>
+</ul></li>
+
+<li><i>Koordinatensystem festlegen</i> (oft eine Achse parallel zur Bewegung/Beschleunigung).</li>
+
+<li><i>Kräfte in Komponenten zerlegen</i> (besonders wichtig bei schiefen Ebenen).</li>
+
+<li><i>Newtons 2. Gesetz für jede Achse aufstellen</i>:
+
+<ul class="org-ul">
+<li>\(\sum F_x = m a_x\)</li>
+
+<li>\(\sum F_y = m a_y\)</li>
+</ul></li>
+
+<li><i>Gleichungen lösen</i>. Dies beantwortet Fragen nach:
+
+<ul class="org-ul">
+<li>der <i>Beschleunigung</i> (\(a\)),</li>
+
+<li>der <i>Zugkraft</i> (\(T\)) im Seil,</li>
+
+<li>der <i>notwendigen antreibenden Kraft</i> (\(F_{app}\)),</li>
+
+<li>oder ob der Körper <i>haftet</i> (\(a=0\), \(F_S \leq \mu_s F_N\)) oder <i>gleitet</i> (\(a \neq 0\), \(F_R = \mu_k F_N\)).</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orga51ef98" class="outline-3">
+<h3 id="orga51ef98"><span class="section-number-3">1.3.</span> Beispielhafte Verknüpfung: Ein gezogener Kasten</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Eine Person zieht einen Kasten an einem Seil über einen rauen Boden.
+</p>
+
+<ul class="org-ul">
+<li><i>\(F_g\):</i> Wirkt nach unten.</li>
+
+<li><i>\(F_N\):</i> Wirkt nach oben. Da \(F_{app}\) eine vertikale Komponente haben kann, ist \(F_N \neq F_g\).</li>
+
+<li><i>\(F_{app}\):</i> Wird von der Person ausgeübt und hat eine Richtung.</li>
+
+<li><i>\(T\):</i> Ist die Kraft im Seil; in diesem Fall identisch mit \(F_{app}\).</li>
+
+<li><i>\(F_R\):</i> Wirkt der Bewegungsrichtung entgegen. Ihr Betrag ist \(F_R = \mu_k \cdot F_N\).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2025-08-27 Wed 00:00</p>
+<p class="author">Author: Troy Judho Dwijanto</p>
+<p class="date">Created: 2026-04-09 Thu 23:10</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

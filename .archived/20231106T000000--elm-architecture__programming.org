@@ -1,0 +1,64 @@
+#+title: Elm Architecture
+#+date: [2023-11-06 Mon 00:00]
+#+filetags: :programming:
+#+identifier: 20231106T000000
+* ELM Architecture
+
+#+begin_quote
+[!info] Note
+This note was written from [[https://guide.elm-lang.org/architecture/][guide.elm-lang.org]]. See link for further and more in-depth details.
+#+end_quote
+
+The ELM architecture has 3 main points.
+
+1. View
+2. Update
+3. Model
+
+** Model
+
+The model of your UI includes things like state, data, etc.
+
+Example
+
+#+begin_src rust
+struct App {
+	state: u8,
+	counter: i32,
+	...
+}
+
+#+end_src
+
+** Update
+
+The update of your UI is usually a function that is called to modify the state of your UI. 
+This is done by passing messages (See the similar [[Actor%20Model.md][Actor Model]]) to and from your UI component.
+
+
+#+begin_src rust
+fn update(model: &mut Model, msg: u8) {
+	match msg {
+		0 => {
+			model.set_state(ModelState::Pong)
+		}
+		1 => {
+			model.set_state(ModelState::Ping)
+		}
+		_ => {}
+	}
+}
+#+end_src
+
+** View
+
+The view of your UI is usually a function that displays the UI component.
+You should keep this function immutable as it should /only/ display the UI and nothing else!
+
+#+begin_src rust
+fn view(model: &Model, frame: &mut Frame) {
+	let block = Block::default();
+	let paragraph = Paragraph::new("Hello World!").block(block);
+	frame.render_widget(paragraph, frame.size());
+}
+#+end_src

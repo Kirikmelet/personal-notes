@@ -1,0 +1,11 @@
+#+title: Vulkan And Sdl
+#+date: [2025-01-15 Wed 00:00]
+#+filetags: :programming:
+#+identifier: 20250115T000000
+
+* Vulkan and SDL
+
+VulkanとSDLに
+
+#+begin_src cpp
+#+end_src

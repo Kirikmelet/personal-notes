@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-04-09 Thu 23:10 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Die Gewichtskraft</title>
+<meta name="author" content="Troy Judho Dwijanto" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-c:before { content: 'C'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'JavaScript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Die Gewichtskraft</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org6985d5f">1. Die Gewichtskraft (\(F_g\))</a>
+<ul>
+<li><a href="#org667d972">1.1. Newtonsches Gravitationsgesetz</a></li>
+<li><a href="#orge3c6604">1.2. Gewichtskraft / Gravitationskraft nahe der Erdoberfläche</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6985d5f" class="outline-2">
+<h2 id="org6985d5f"><span class="section-number-2">1.</span> Die Gewichtskraft (\(F_g\))</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Der Begriff Gravitation bezeichnet die fundamentale Wechselwirkung der Physik, die auf einer Anziehung zwischen Massen beruht. Sie ist die schwächste der vier Grundkräfte, wirkt aber über unbegrenzte Distanzen und ist für die großräumigen Strukturen im Universum – die Bewegung von Planeten, Monden, Sternen und Galaxien – verantwortlich.
+</p>
+
+<p>
+Das maßgebliche <i>theoretische Fundament</i> in der klassischen Physik ist das <i>newtonsche Gravitationsgesetz</i> (siehe vorherige Ausführungen). Es beschreibt die Kraft \(F_g\) quantitativ als proportional zum Produkt der Massen und umgekehrt proportional zum Quadrat ihres Abstands.
+</p>
+
+<p>
+In der modernen Physik wird die Gravitation durch die <i>allgemeine Relativitätstheorie (ART)</i> Albert Einsteins beschrieben. Hier wird Gravitation nicht als Kraft im newtonschen Sinne verstanden, sondern als eine <i>Krümmung der Raumzeit</i>, die durch Masse und Energie verursacht wird. Die Bewegung von Körpern unter dem Einfluss der Gravitation folgt in dieser Krümmung dann entlang von Geodäten, den kürzesten bzw. natürlichsten Bahnen.
+</p>
+</div>
+<div id="outline-container-org667d972" class="outline-3">
+<h3 id="org667d972"><span class="section-number-3">1.1.</span> Newtonsches Gravitationsgesetz</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+\(F_g = G \frac{m_1 m_2}{r^2}\)
+</p>
+
+<p>
+<i>*</i> Dabei ist
+</p>
+
+<ul class="org-ul">
+<li>\(F_g\): Die Gravitationskraft zwischen den beiden Massen (in Newton, N)</li>
+
+<li>\(G\): Die Gravitationskonstante (\(G \approx 6.674 \times 10^{-11} \frac{\text{N·m}^2}{\text{kg}^2}\))</li>
+
+<li>\(m_1\), \(m_2\): Die Massen der beiden wechselwirkenden Körper (in Kilogramm, kg)</li>
+
+<li>\(r\): Der Abstand zwischen den Massenschwerpunkten der beiden Körper (in Metern, m)</li>
+</ul>
+
+
+<p>
+<i>*</i> Anwendung und Interpretation
+</p>
+
+<p>
+Das Gesetz besagt, dass die Gravitationskraft \(F_g\) zwischen zwei Punktmassen proportional zum Produkt ihrer Massen und umgekehrt proportional zum Quadrat ihres Abstandes \(r\) ist.
+</p>
+
+<ol class="org-ol">
+<li><i>Vektorcharakter der Kraft:</i> Es handelt sich um eine anziehende Kraft, die entlang der Verbindungslinie der beiden Massenschwerpunkte wirkt. Für eine vollständige vektorielle Beschreibung lautet das Gesetz:  
+\(\vec{F}/{12} = - G \frac{m_1 m_2}{r^2} \hat{r}/{12}\)  
+Hierbei ist \(\vec{F}/{12}\) die Kraft, die Masse 1 auf Masse 2 ausübt, und \(\hat{r}/{12}\) ist der Einheitsvektor von Masse 1 zu Masse 2. Das negative Vorzeichen sichert, dass die Kraft anziehend ist.</li>
+
+<li><i>Gültigkeitsbereich:</i> Das newtonsche Gravitationsgesetz ist
+
+<ul class="org-ul">
+<li>ein klassisches Gesetz und versagt in extrem starken Gravitationsfeldern (wo die allgemeine Relativitätstheorie anzuwenden ist).</li>
+
+<li>gültig für Punktmassen. Für ausgedehnte Körper mit sphärisch symmetrischer Massenverteilung gilt das Gesetz weiterhin, wobei \(r\) der Abstand zwischen den Mittelpunkten der Kugeln ist.</li>
+
+<li>zur Berechnung der Gravitationskraft zwischen makroskopischen Objekten (Planeten, Sterne, etc.) konzipiert. Im quantenmechanischen Bereich ist seine Beschreibung nicht anwendbar.</li>
+</ul></li>
+
+<li><i>Superpositionsprinzip:</i> Die Gesamtkraft auf eine Masse \(m\), die von mehreren anderen Massen \(m_i\) angezogen wird, ist die vektorielle Summe der einzelnen Kräfte:  
+\(\vec{F}_{ges} = \sum_i - G \frac{m m_i}{r_i^2} \hat{r}_i\)</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge3c6604" class="outline-3">
+<h3 id="orge3c6604"><span class="section-number-3">1.2.</span> Gewichtskraft / Gravitationskraft nahe der Erdoberfläche</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Die von Ihnen angegebene Formel ist korrekt und stellt einen Spezialfall des newtonschen Gravitationsgesetzes dar.
+</p>
+
+<p>
+\(F_g = m \cdot g\)
+</p>
+
+<p>
+<i>*</i> Dabei ist
+</p>
+
+<ul class="org-ul">
+<li>\(F_g\): Die Gewichtskraft des Körpers (in Newton, N)</li>
+
+<li>\(m\): Die Masse des Körpers (in Kilogramm, kg)</li>
+
+<li>\(g\): Die Gravitationsfeldstärke (in Newton pro Kilogramm, N/kg) oder, äquivalent, die Fallbeschleunigung (in Meter pro Sekunde zum Quadrat, m/s²) an einem bestimmten Ort.</li>
+</ul>
+
+
+<p>
+<i>*</i> Herleitung aus dem newtonschen Gravitationsgesetz
+</p>
+
+<p>
+Die allgemeine Gravitationskraft auf einen Körper der Masse \(m\) an der Erdoberfläche ist gegeben durch:  
+\(F_g = G \frac{m \cdot M_\oplus}{R_\oplus^2}\)  
+wobei \(M_\oplus\) die Masse der Erde und \(R_\oplus\) ihr Radius ist. Da die Terme \(G\), \(M_\oplus\) und \(R_\oplus\) für einen bestimmten Ort konstant sind, fasst man sie zur <i>örtlichen Fallbeschleunigung</i> \(g\) zusammen:  
+\(g = G \frac{M_\oplus}{R_\oplus^2}\)  
+Somit ergibt sich die vereinfachte Formel: \(F_g = m \cdot g\).
+</p>
+
+<p>
+<i>*</i> Wichtige Konzepte und Nuancen
+</p>
+
+<ol class="org-ol">
+<li><i>Unterschied zwischen Masse und Gewicht:</i> Dies ist ein zentraler Punkt.
+
+<ul class="org-ul">
+<li><i>Masse (\(m\)):</i> Eine intrinsische Eigenschaft eines Körpers, die seinen Widerstand gegen Beschleunigung (Trägheit) quantifiziert. Sie ist unabhängig vom Ort eine Konstante (Einheit: kg).</li>
+
+<li><i>Gewicht (\(F_g\)):</i> Eine Kraft. Sie ist die Wirkung der Gravitation auf eine Masse. Das Gewicht ist ortsabhängig (Einheit: N).  
+Die Formel \(F_g = m \cdot g\) verknüpft diese beiden Konzepte.</li>
+</ul></li>
+
+<li><i>Ortsabhängigkeit von \(g\):</i> Der Wert \(g\) ist nicht überall auf der Erde exakt gleich.
+
+<ul class="org-ul">
+<li><i>Abplattung der Erde:</i> Da die Erde keine perfekte Kugel, sondern ein abgeplattetes Sphäroid ist, ist der Abstand zum Erdmittelpunkt am Äquator größer als an den Polen. Folglich ist \(g\) an den Polen (\(\approx\) 9.83 m/s²) größer als am Äquator (\(\approx\) 9.78 m/s²).</li>
+
+<li><i>Zentrifugalbeschleunigung:</i> Die Rotation der Erde bewirkt eine maximale Zentrifugalbeschleunigung am Äquator, die der Gravitationsbeschleunigung entgegenwirkt und \(g\) effektiv verringert.</li>
+
+<li><i>Geologische Strukturen:</i> Lokale Dichteunterschiede in der Erdkruste (z.B. Gebirge, Lagerstätten) können \(g\) geringfügig variieren.  
+Der Standardwert für Berechnungen ist oft \(g = 9.81 \frac{\text{m}}{\text{s}^2}\).</li>
+</ul></li>
+
+<li><i>Anwendungsbereich:</i> Die Formel \(F_g = m \cdot g\) ist eine exzellente Näherung für alle Objekte nahe der Erdoberfläche. Für Anwendungen, die extreme Höhen (z.B. Satellitenbahnen) oder andere Himmelskörper betreffen, muss jedoch stets auf das allgemeine newtonsche Gravitationsgesetz \(F_g = G \frac{m_1 m_2}{r^2}\) zurückgegriffen werden.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2025-08-27 Wed 00:00</p>
+<p class="author">Author: Troy Judho Dwijanto</p>
+<p class="date">Created: 2026-04-09 Thu 23:10</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
