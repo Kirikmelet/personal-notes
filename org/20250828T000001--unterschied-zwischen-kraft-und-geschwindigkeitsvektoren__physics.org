@@ -38,13 +38,13 @@ Die entscheidende Verbindung zwischen beiden Vektoren wird durch das zweite Newt
 - Eine Kraft in einer /beliebigen anderen Richtung/ ändert sowohl Betrag als auch Richtung der Geschwindigkeit.
 ** Direkter Vergleich: Eine Gegenüberstellung
 
-| Aspekt                     | Kraftvektor (\(\vec{F}\))                                     | Geschwindigkeitsvektor (\(\vec{v}\))                                    |
-| -------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- |
-| /Physikalische Rolle/    | /Ursache/ für eine Zustandsänderung                       | /Beschreibung/ des aktuellen Zustands                               |
-| /SI-Einheit/             | Newton (N) = kg·m/s²                                        | Meter pro Sekunde (m/s)                                               |
-| /Erfahrbar/              | Man /spürt/ Kräfte (Beschleunigung, Druck)                | Man /spürt/ konstante Geschwindigkeit /nicht/ (im Referenzsystem) |
-| /Abhängigkeit/           | Kann /unabhängig/ von \(\vec{v}\) wirken (z.B. Gravitation) | /Resultiert/ aus der integralen Wirkung von Kräften über die Zeit   |
-| /Bei \(\sum \vec{F} = 0\)/ | Keine Nettokraft                                            | \(\vec{v}\) bleibt /konstant/ (1. Newtonsches Gesetz)                 |
+| Aspekt                   | Kraftvektor (\(\vec{F}\))                                 | Geschwindigkeitsvektor (\(\vec{v}\))                            |
+|--------------------------+-----------------------------------------------------------+-----------------------------------------------------------------|
+| Physikalische Rolle      | Ursache für eine Zustandsänderung                         | Beschreibung des aktuellen Zustands                             |
+| SI-Einheit               | Newton (N) = kg·m/s²                                      | Meter pro Sekunde (m/s)                                         |
+| Erfahrbar                | Man spürt Kräfte (Beschleunigung, Druck)                  | Man spürt konstante Geschwindigkeit nicht (im Referenzsystem)   |
+| Abhängigkeit             | Kann unabhängig von \(\vec{v}\) wirken (z.B. Gravitation) | Resultiert aus der integralen Wirkung von Kräften über die Zeit |
+| Bei \(\sum \vec{F} = 0\) | Keine Nettokraft                                          | \(\vec{v}\) bleibt konstant (1. Newtonsches Gesetz)             |
 
 ** Wichtige Konsequenz: Richtung von Kraft und Bewegung
 

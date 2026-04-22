@@ -4,3 +4,69 @@
 #+identifier: 20260410T000914
 
 * Power Series
+
+
+** Definition (centered at \(x\))
+
+A power series is a series of the form:
+
+\[
+\sum^\infty_{n=0}c_nx^n=c_0+c_1x+c_2x^2+...
+\]
+
+\(x\) is a variable and \(c_n\) are constants.
+
+** Definition (centered at \(x_0\))
+
+A series of the form \(\sum^\infty_{n=0}c_n(x-x_0)^n\) is called
+a power seres at \(x_0\).
+
+\[
+\sum^\infty_{n=0}c_n(x-x_0)^n=c_0+c_1(x-x_0)+c_2(x-x_0)^2+...
+\]
+
+** Theorem
+
+For a given power series \(\sum^\infty_{n=0}c_n(x-x_0)^n\) there are only three
+possibilities:
+
+1. The series converge only when \(x=x_0\).
+2. The series converge for all values of \(x\).
+3. The series converges for \(|x-x_0|<R\) where \(R>0\)
+   and diverges everywhere else.
+
+** Definition (Interval of Convergence of Power Series)
+
+The Interval of Convergence (IOC) of a power series is the
+interval that consists of all \(x\)-values for which the series converges.
+
+** Definition (Radius of Convergence of Power Series)
+
+The number \(R\) in case 3 alone is called the Radius of Convergence (ROC)
+of the power series.
+
+- In case 1 we say \(R=0\)
+- In case 2 we say \(R=\infty\)
+
+** Theorem (Addition and Subtraction of Power Series
+
+Suppose that the power series \[\sum^\infty_{n=0}c_n(x-x_0)^n\]
+and \[\sum^\infty_{n=0}d_n(x-x_0)^n\] converge to the functions \(f\)
+and \(g\), respectively on a common interval \(I\) (centered at \(x_0\)).
+Then the power series \[\sum^\infty_{n=0}(c_n+d_n)(x-x_0)^n\]
+converge to the function \(f+g\) on \(I\).
+
+*** Theorem
+
+If the power series \(\sum^\infty_{n=0}c_n(x-x_0)^n\) has the radius of
+convergence \(R>0\), then the function \(f\) defined by:
+\[f(x)=\sum^\infty_{n=0}c_n(x-x_0)^n\] is differentiable on the interval
+\[(x_0-R,x_0+R)\] and
+
+1. \[f’(x)=c_1+2c_2(x-x_0)+3c_3(x-x_0)^2+...=\sum^\infty_{n=1}n \cdot c_n(x-x_0)^{n-1}\]
+2. \[
+   \int f(x)dx=C+c_0(x-x_0)+\frac{c_1}{2}(x-x_0)^2-\frac{c_3}{3}(x-x_0)^3+ ... = C + \sum^\infty_{n=0}\frac{c_n(x-x_0)^{n+1}}{n+1}
+   \]
+
+The radii of convergence of the power series in (1) and (2) are both \(R\)!
+

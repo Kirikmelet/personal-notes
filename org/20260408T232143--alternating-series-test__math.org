@@ -9,7 +9,8 @@
 ** Theorem (Alternating Series Test)
 
 If the alternating series
-\(\sum_{n=1}^{\infty} (-1)^{n-1} a_n\) (where \(a_n > 0\)) satisfies the
+\[\sum_{n=1}^{\infty} (-1)^{n-1} a_n\]
+(where \(a_n > 0\)) satisfies the
 following 2 conditions:
  
 1. \(a_{n+1} \leq a_n\) for all \(n\).
@@ -20,11 +21,13 @@ following 2 conditions:
  
 ** Theorem (Error)
 
-If \(\sum_{n=1}^{\infty} (-1)^{n-1} a_n = S\) and
+If \[\sum_{n=1}^{\infty} (-1)^{n-1} a_n = S\] and
 \(a_{n+1} \leq a_n\) for all \(n\) and \(\lim_{n \to \infty} a_n = 0\), then
 \(|S - S_n| \leq a_{n+1}\).
  
-/Definition/ A series \(\sum a_n\) is called absolutely convergent if
+** Definition
+
+A series \(\sum a_n\) is called absolutely convergent if
 the series \(\sum |a_n|\) is convergent.
  
 A series \(\sum a_n\) is called absolutely divergent if the series

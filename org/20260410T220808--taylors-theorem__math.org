@@ -1,0 +1,15 @@
+#+title:      Taylor's Theorem
+#+date:       [2026-04-10 Fri 22:08]
+#+filetags:   :math:
+#+identifier: 20260410T220808
+
+* Taylor’s Theorem
+
+Suppose f(x) is differentiable \(n+1\) times out of \(x_0\).
+If \[|f^{(n+1)}(x)|\leq M\] on an interval containing \(x_0\),
+say \(a \leq x_0 \leq b\), then the remainder \(R_n(x)\) satisfies the following
+inequality:
+\[|R_N(x)| \leq \frac{M}{(n+1)!}|x-x_0|^{n+1}\]
+for all \(x\)-values  in \([a,b]\).
+
+Note that \(M\) is the maximum on the interval.

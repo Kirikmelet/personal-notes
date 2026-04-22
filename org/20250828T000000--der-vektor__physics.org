@@ -20,7 +20,7 @@ Ein Vektor ist eine mathematische Größe, die durch /Betrag (Magnitude)/ und /R
 ** Der Betrag eines Vektors
 
 Der Betrag (oder die Länge) eines Vektors \(\vec{A}\) ist ein Skalar und wird als \(|\vec{A}|\) oder einfach \(A\) geschrieben. Im 2D-Raum wird er mit dem Satz des Pythagoras berechnet:  
-\(|\vec{A}| = \sqrt{A_x^2 + A_y^2}\)
+\[|\vec{A}| = \sqrt{A_x^2 + A_y^2}\]
 
 ** Wichtige Rechenoperationen
 
@@ -60,7 +60,4 @@ Der fundamentale Unterschied liegt in ihrer kausalen Rolle in der Bewegung:
 
 Vereinfacht: Kräfte sind der /Grund/, warum sich eine Geschwindigkeit /ändert/; die Geschwindigkeit selbst ist die /Beschreibung/ dieser Bewegung. Eine Kraft ist nicht nötig, um eine Geschwindigkeit aufrechtzuerhalten (siehe Trägheitsgesetz), sondern nur, um sie zu verändern. 
 
-#+begin_quote
-[!info]
-#+end_quote
-	> Weitere Informationen finden Sie unter [[denote:20250828T000001][Unterschied Zwischen Kraft Und Geschwindigkeitsvektoren]].
+Weitere Informationen finden Sie unter [[denote:20250828T000001][Unterschied Zwischen Kraft Und Geschwindigkeitsvektoren]].

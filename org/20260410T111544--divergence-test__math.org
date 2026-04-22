@@ -1,0 +1,28 @@
+#+title:      Divergence Test
+#+date:       [2026-04-10 Fri 11:15]
+#+filetags:   :math:
+#+identifier: 20260410T111544
+
+* Divergence Test
+
+** Theorem
+
+If the series \(\sum^\infty_{n=1}a_n\) is convergent, then \(\lim_{n\rightarrow\infty}a_n=0\).
+
+** Corollary (Test for Divergence)
+
+If \(\lim_{n\rightarrow\infty}a_n\) does not exist of if \(\lim_{n\rightarrow\infty}a_n \neq 0\),
+then the series \(\sum^\infty_{n=1}a_n\) is divergent.
+
+** Theorem
+
+If \(\sum^\infty_{n=1}a_n\) and \(\sum^\infty_{n=1}b_n\) are convergent series, then so are \(\sum^\infty_{n=1}ca_n\)
+(where \(c\) is a constant),
+
+\(\sum^\infty_{n=1}(a_n+b_n)\), and \(\sum^\infty_{n=1}(a_n-b_n)\), and
+
+- 
+
+\(\sum^\infty_{n=1}(a_n \pm b_n)=\sum^\infty_{n=1}a_n \pm \sum^\infty_{n=1}b_n\)
+- \(\sum^\infty_{n=1}ca_n=c\sum^\infty_{n=1}a_n\)
+

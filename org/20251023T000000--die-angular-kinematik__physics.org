@@ -42,11 +42,11 @@ Ihre Einheit ist \(\text{rad/s}^2\). Eine positive Winkelbeschleunigung bedeutet
 
 Es besteht eine tiefgreifende formale Analogie zwischen geradliniger und Drehbewegung:
 
-| Translation (Geradlinig) | Rotation (Kreisförmig) |
-| :--- | :--- |
-| Ortskoordinate \(x\) | Drehwinkel \(\theta\) |
+| Translation (Geradlinig)              | Rotation (Kreisförmig)                                |
+|---------------------------------------+-------------------------------------------------------|
+| Ortskoordinate \(x\)                  | Drehwinkel \(\theta\)                                 |
 | Geschwindigkeit \(v = \frac{dx}{dt}\) | Winkelgeschwindigkeit \(\omega = \frac{d\theta}{dt}\) |
-| Beschleunigung \(a = \frac{dv}{dt}\) | Winkelbeschleunigung \(\alpha = \frac{d\omega}{dt}\) |
+| Beschleunigung \(a = \frac{dv}{dt}\)  | Winkelbeschleunigung \(\alpha = \frac{d\omega}{dt}\)  |
 
 ** Kinematische Gleichungen für konstante Winkelbeschleunigung
 

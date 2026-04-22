@@ -16,18 +16,24 @@ Für den wichtigen Spezialfall einer /konstanten Beschleunigung/ (\(\vec{a} = \t
 
 Für eine eindimensionale Bewegung entlang der x-Achse mit konstanter Beschleunigung \(a_x\) gelten:
 
-1.  Geschwindigkeit-Zeit-Gesetz: \[
+1.  Geschwindigkeit-Zeit-Gesetz:
+
+\[
 v_{x}(t) = v_{0x} + a_x \cdot \Delta t
 \]
-2.  Ort-Zeit-Gesetz: \[
+2.  Ort-Zeit-Gesetz:
+\[
 x(t) = x_0 + v_{0x} \cdot t + \frac{1}{2} a_x \cdot \Delta t^2
 \]
-3.  Geschwindigkeit-Ort-Gesetz (auch "zeitunabhängige Gleichung"): \[
+3.  Geschwindigkeit-Ort-Gesetz (auch "zeitunabhängige Gleichung"):
+\[
 v_{x}^2(t) = v_{0x}^2 + 2 a_x \cdot \Delta x
 \]
-4. Verschiebungs-Gesetz: \[
+4. Verschiebungs-Gesetz:
+\[
 \Delta x = \frac{1}{2} \cdot (v_0+v_x(t)) \cdot \Delta t
-\] \[
+\]
+\[
 \Delta x = V_0\Delta t + \frac{1}{2}a\Delta t^2
 \]
 
